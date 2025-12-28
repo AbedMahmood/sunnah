@@ -1,0 +1,876 @@
+{
+  "1146": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1146\nIn-book reference  : Book 12, Hadith 1\nEnglish translation  : Vol. 1, Book 7, Hadith 1146",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَلِيُّ بْنُ زَيْدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1147": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1147\nIn-book reference  : Book 12, Hadith 2\nEnglish translation  : Vol. 1, Book 7, Hadith 1147",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا بُنْدَارٌ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ، حَدَّثَنَا مَالِكٌ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ مُوسَى الأَنْصَارِيُّ، قَالَ حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا بُنْدَارٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ مُوسَى الأَنْصَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا مَعْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 12,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1152": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1152\nIn-book reference  : Book 12, Hadith 7\nEnglish translation  : Vol. 1, Book 7, Hadith 1152",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1153": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1153\nIn-book reference  : Book 12, Hadith 8\nEnglish translation  : Vol. 1, Book 7, Hadith 1153",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ حَجَّاجِ بْنِ حَجَّاجٍ الأَسْلَمِيِّ، عَنْ أَبِيهِ، أَنَّهُ سَأَلَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ مَا يُذْهِبُ عَنِّي مَذَمَّةَ الرَّضَاعِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حَجَّاجِ بْنِ حَجَّاجٍ الأَسْلَمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّهُ سَأَلَ النَّبِيَّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ مَا يُذْهِبُ عَنِّي مَذَمَّةَ الرَّضَاعِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1157": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1157\nIn-book reference  : Book 12, Hadith 12\nEnglish translation  : Vol. 1, Book 7, Hadith 1157",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1158": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1158\nIn-book reference  : Book 12, Hadith 13\nEnglish translation  : Vol. 1, Book 7, Hadith 1158",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا هِشَامُ بْنُ أَبِي عَبْدِ اللَّهِ، وَهُوَ الدَّسْتَوَائِيُّ عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى امْرَأَةً فَدَخَلَ عَلَى زَيْنَبَ فَقَضَى حَاجَتَهُ وَخَرَجَ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "الدَّسْتَوَائِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى امْرَأَةً فَدَخَلَ عَلَى",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1159": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1159\nIn-book reference  : Book 12, Hadith 14\nEnglish translation  : Vol. 1, Book 7, Hadith 1159",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، أَخْبَرَنَا مُحَمَّدُ بْنُ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1160": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1160\nIn-book reference  : Book 12, Hadith 15\nEnglish translation  : Vol. 1, Book 7, Hadith 1160",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا مُلاَزِمُ بْنُ عَمْرٍو، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بَدْرٍ، عَنْ قَيْسِ بْنِ طَلْقٍ، عَنْ أَبِيهِ، طَلْقِ بْنِ عَلِيٍّ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُلاَزِمُ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بَدْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَيْسِ بْنِ طَلْقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَلِيٍّ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1161": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1161\nIn-book reference  : Book 12, Hadith 16\nEnglish translation  : Vol. 1, Book 7, Hadith 1161",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى الْكُوفِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ أَبِي نَصْرٍ، عَنْ مُسَاوِرٍ الْحِمْيَرِيِّ، عَنْ أُمِّهِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى الْكُوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ أَبِي نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُسَاوِرٍ الْحِمْيَرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُمِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1162": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1162\nIn-book reference  : Book 12, Hadith 17\nEnglish translation  : Vol. 1, Book 7, Hadith 1162",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْعَلاَءِ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1164": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1164\nIn-book reference  : Book 12, Hadith 19\nEnglish translation  : Vol. 1, Book 7, Hadith 1164",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، وَهَنَّادٌ، قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ عِيسَى بْنِ حِطَّانَ، عَنْ مُسْلِمِ بْنِ سَلاَّمٍ، عَنْ عَلِيِّ بْنِ طَلْقٍ، قَالَ أَتَى أَعْرَابِيٌّ النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ الرَّجُلُ مِنَّا يَكُونُ فِي الْفَلاَةِ فَتَكُونُ مِنْهُ الرُّوَيْحَةُ وَيَكُونُ فِي الْمَاءِ قِلَّةٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَاصِمٍ الأَحْوَلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِيسَى بْنِ حِطَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُسْلِمِ بْنِ سَلاَّمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ طَلْقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَتَى أَعْرَابِيٌّ النَّبِيَّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ الرَّجُلُ مِنَّا يَكُونُ فِي الْفَلاَةِ فَتَكُونُ مِنْهُ الرُّوَيْحَةُ وَي",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1165": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1165\nIn-book reference  : Book 12, Hadith 20\nEnglish translation  : Vol. 1, Book 7, Hadith 1165",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنِ الضَّحَّاكِ بْنِ عُثْمَانَ، عَنْ مَخْرَمَةَ بْنِ سُلَيْمَانَ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنِ الضَّحَّاكِ بْنِ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَخْرَمَةَ بْنِ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1166": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1166\nIn-book reference  : Book 12, Hadith 21\nEnglish translation  : Vol. 1, Book 7, Hadith 1166",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، وَغَيْرُ، وَاحِدٍ، قَالُوا حَدَّثَنَا وَكِيعٌ، عَنْ عَبْدِ الْمَلِكِ بْنِ مُسْلِمٍ، وَهُوَ ابْنُ سَلاَّمٍ عَنْ أَبِيهِ، عَنْ عَلِيٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سَلاَّمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1167": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1167\nIn-book reference  : Book 12, Hadith 22\nEnglish translation  : Vol. 1, Book 7, Hadith 1167",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنْ مُوسَى بْنِ عُبَيْدَةَ، عَنْ أَيُّوبَ بْنِ خَالِدٍ، عَنْ مَيْمُونَةَ بِنْتِ سَعْدٍ، وَكَانَتْ، خَادِمًا لِلنَّبِيِّ صلى الله عليه وسلم قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عِيسَى بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُوسَى بْنِ عُبَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ بْنِ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَيْمُونَةَ بِنْتِ سَعْدٍ، وَكَانَتْ، خَادِمًا لِلنَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1168": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1168\nIn-book reference  : Book 12, Hadith 23\nEnglish translation  : Vol. 1, Book 7, Hadith 1168",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا سُفْيَانُ بْنُ حَبِيبٍ، عَنِ الْحَجَّاجِ الصَّوَّافِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ حَبِيبٍ، عَنِ الْحَجَّاجِ الصَّوَّافِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1170": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1170\nIn-book reference  : Book 12, Hadith 25\nEnglish translation  : Vol. 1, Book 7, Hadith 1170",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، حَدَّثَنَا بِشْرُ بْنُ عُمَرَ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1173": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1173\nIn-book reference  : Book 12, Hadith 28\nEnglish translation  : Vol. 1, Book 7, Hadith 1173",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ مُوَرِّقٍ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَمْرُو بْنُ عَاصِمٍ، حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مُوَرِّقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1174": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Suckling",
+    "book_num": "12",
+    "reference": "Reference  : Jami` at-Tirmidhi 1174\nIn-book reference  : Book 12, Hadith 29\nEnglish translation  : Vol. 1, Book 7, Hadith 1174",
+    "url": "https://sunnah.com/tirmidhi/12",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَرَفَةَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ بَحِيرِ بْنِ سَعْدٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ كَثِيرِ بْنِ مُرَّةَ الْحَضْرَمِيِّ، عَنْ مُعَاذِ بْنِ جَبَلٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَرَفَةَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ بَحِيرِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ خَالِدِ بْنِ مَعْدَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ كَثِيرِ بْنِ مُرَّةَ الْحَضْرَمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُعَاذِ بْنِ جَبَلٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

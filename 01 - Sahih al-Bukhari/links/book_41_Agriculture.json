@@ -1,0 +1,564 @@
+{
+  "2320": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2320\nIn-book reference  : Book 41, Hadith 1\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 513\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، ح وَحَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2321": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2321\nIn-book reference  : Book 41, Hadith 2\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 514\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَالِمٍ الْحِمْصِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ زِيَادٍ الأَلْهَانِيُّ، عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ،، قَالَ ـ وَرَأَى سِكَّةً وَشَيْئًا مِنْ آلَةِ الْحَرْثِ، فَقَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَالِمٍ الْحِمْصِيُّ، حَدَّثَ",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ،،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ ـ وَرَأَى سِكَّةً وَشَيْئًا مِنْ آلَةِ الْحَرْثِ، فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2323": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2323\nIn-book reference  : Book 41, Hadith 4\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 516\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ يَزِيدَ بْنِ خُصَيْفَةَ، أَنَّ السَّائِبَ بْنَ يَزِيدَ، حَدَّثَهُ أَنَّهُ، سَمِعَ سُفْيَانَ بْنَ أَبِي زُهَيْرٍ ـ رَجُلاً مِنْ أَزْدِ شَنُوءَةَ ـ وَكَانَ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ خُصَيْفَةَ، أَنَّ السَّائِبَ بْنَ يَزِيدَ، حَدَّثَهُ أَنَّهُ، سَمِعَ سُفْيَانَ بْن",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2324": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2324\nIn-book reference  : Book 41, Hadith 5\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 517\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ سَعْدٍ، سَمِعْتُ أَبَا سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا غُنْدَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعْدٍ، سَمِعْتُ أَبَا سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2325": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2325\nIn-book reference  : Book 41, Hadith 6\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 518\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا الْحَكَمُ بْنُ نَافِعٍ، أَخْبَرَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَتِ الأَنْصَارُ لِلنَّبِيِّ صلى الله عليه وسلم اقْسِمْ بَيْنَنَا وَبَيْنَ إِخْوَانِنَا النَّخِيلَ. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَكَمُ بْنُ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتِ الأَنْصَارُ لِلنَّبِيِّ صلى الله عليه وسلم اقْسِمْ بَيْنَنَا وَبَيْنَ إِخْوَانِنَا النَّخِيل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2330": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2330\nIn-book reference  : Book 41, Hadith 11\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 523\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ عَمْرٌو قُلْتُ لِطَاوُسٍ لَوْ تَرَكْتَ الْمُخَابَرَةَ فَإِنَّهُمْ يَزْعُمُونَ أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْهُ. قَالَ أَىْ عَمْرُو، إِنِّي أُعْطِيهِمْ وَأُغْنِيهِمْ، وَإِنَّ أَعْلَمَهُمْ أَخْبَرَنِي ـ يَعْنِي ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم لَمْ يَنْهَ عَنْهُ، وَلَكِنْ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "نَهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْهُ.",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَنْهَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "وَلَكِنْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2333": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2333\nIn-book reference  : Book 41, Hadith 14\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 526\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا أَبُو ضَمْرَةَ، حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو ضَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2335": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2335\nIn-book reference  : Book 41, Hadith 16\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 528\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله عنها ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2337": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2337\nIn-book reference  : Book 41, Hadith 18\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 530\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا شُعَيْبُ بْنُ إِسْحَاقَ، عَنِ الأَوْزَاعِيِّ، قَالَ حَدَّثَنِي يَحْيَى، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنْ عُمَرَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبُ بْنُ إِسْحَاقَ، عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُمَرَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2338": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2338\nIn-book reference  : Book 41, Hadith 19\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 531\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ الْمِقْدَامِ، حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ، حَدَّثَنَا مُوسَى، أَخْبَرَنَا نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم. وَقَالَ عَبْدُ الرَّزَّاقِ أَخْبَرَنَا ابْنُ جُرَيْجٍ قَالَ حَدَّثَنِي مُوسَى بْنُ عُقْبَةَ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ أَنَّ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنهما ـ أَجْلَى الْيَهُودَ وَالنَّصَارَى مِنْ أَرْضِ الْحِجَازِ، وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لَمَّا ظَهَرَ عَلَى خَيْبَرَ أَرَادَ إِخْرَاجَ الْيَهُودِ مِنْهَا، وَكَانَتِ الأَرْضُ حِينَ ظَهَرَ عَلَيْهَا لِلَّهِ وَلِرَسُولِهِ صلى الله عليه وسلم وَلِلْمُسْلِمِينَ، وَأَرَادَ إِخْرَاجَ الْيَهُودِ، مِنْهَا فَسَأَلَتِ الْيَهُودُ رَسُولَ اللَّهِ صلى الله عليه وسلم لِيُقِرَّهُمْ بِهَا أَنْ يَكْفُوا عَمَلَهَا وَلَهُمْ نِصْفُ الثَّمَرِ، فَقَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ الْمِقْدَامِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم. وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الرَّزَّاقِ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "جُرَيْجٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عُقْبَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ أَنَّ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنهما ـ أَجْلَى الْيَهُودَ و",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2342": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2342\nIn-book reference  : Book 41, Hadith 22\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 534\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، قَالَ ذَكَرْتُهُ لِطَاوُسٍ فَقَالَ يُزْرِعُ، قَالَ ابْنُ عَبَّاسٍ ـ رضى الله عنهما ـ إِنَّ النَّبِيَّ صلى الله عليه وسلم لَمْ يَنْهَ عَنْهُ وَلَكِنْ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قَبِيصَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ ذَكَرْتُهُ لِطَاوُسٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ يُزْرِعُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَنْهَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "وَلَكِنْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2348": {
+    "collection": "Sahih Bukhari",
+    "book": "Agriculture",
+    "book_num": "41",
+    "reference": "Reference  : Sahih al-Bukhari 2348\nIn-book reference  : Book 41, Hadith 26\nUSC-MSA web (English) reference  : Vol. 3, Book 39, Hadith 538\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ سِنَانٍ، حَدَّثَنَا فُلَيْحٌ، حَدَّثَنَا هِلاَلٌ، وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو عَامِرٍ، حَدَّثَنَا فُلَيْحٌ، عَنْ هِلاَلِ بْنِ عَلِيٍّ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَوْمًا يُحَدِّثُ وَعِنْدَهُ رَجُلٌ مِنْ أَهْلِ الْبَادِيَةِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سِنَانٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا فُلَيْحٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِلاَلٌ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبُو عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا فُلَيْحٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ هِلاَلِ بْنِ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "الْبَادِيَةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  }
+}

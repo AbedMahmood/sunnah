@@ -1,0 +1,1034 @@
+{
+  "5478": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5478\nIn-book reference  : Book 72, Hadith 4\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 387\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا حَيْوَةُ، قَالَ أَخْبَرَنِي رَبِيعَةُ بْنُ يَزِيدَ الدِّمَشْقِيُّ، عَنْ أَبِي إِدْرِيسَ، عَنْ أَبِي ثَعْلَبَةَ الْخُشَنِيِّ، قَالَ قُلْتُ يَا نَبِيَّ اللَّهِ إِنَّا بِأَرْضِ قَوْمٍ أَهْلِ الْكِتَابِ، أَفَنَأْكُلُ فِي آنِيَتِهِمْ وَبِأَرْضِ صَيْدٍ، أَصِيدُ بِقَوْسِي وَبِكَلْبِي الَّذِي لَيْسَ بِمُعَلَّمٍ، وَبِكَلْبِي الْمُعَلَّمِ، فَمَا يَصْلُحُ لِي قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَيْوَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي رَبِيعَةُ بْنُ يَزِيدَ الدِّمَشْقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِدْرِيسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي ثَعْلَبَةَ الْخُشَنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قُلْتُ يَا نَبِيَّ اللَّهِ إِنَّا بِأَرْضِ قَوْمٍ أَهْلِ الْكِتَابِ، أَفَنَأْكُلُ فِي آنِيَتِه",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5479": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5479\nIn-book reference  : Book 72, Hadith 5\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 388\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا يُوسُفُ بْنُ رَاشِدٍ، حَدَّثَنَا وَكِيعٌ، وَيَزِيدُ بْنُ هَارُونَ ـ وَاللَّفْظُ لِيَزِيدَ ـ عَنْ كَهْمَسِ بْنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، أَنَّهُ رَأَى رَجُلاً يَخْذِفُ فَقَالَ لَهُ لاَ تَخْذِفْ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْخَذْفِ ـ أَوْ كَانَ يَكْرَهُ الْخَذْفَ ـ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يُوسُفُ بْنُ رَاشِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ، وَيَزِيدُ بْنُ هَارُونَ ـ وَاللَّفْظُ لِيَزِيدَ ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ كَهْمَسِ بْنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، أَنَّهُ رَأَى رَجُلاً يَخْذِفُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لَهُ لاَ تَخْذِفْ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الْخَذْفِ ـ أَوْ كَانَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5480": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5480\nIn-book reference  : Book 72, Hadith 6\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 389\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، قَالَ سَمِعْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "5481": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5481\nIn-book reference  : Book 72, Hadith 7\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 390\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ، قَالَ سَمِعْتُ سَالِمًا، يَقُولُ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ، يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "5482": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5482\nIn-book reference  : Book 72, Hadith 8\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 391\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5483": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5483\nIn-book reference  : Book 72, Hadith 9\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 392\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ بَيَانٍ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قُلْتُ إِنَّا قَوْمٌ نَصِيدُ بِهَذِهِ الْكِلاَبِ. فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بَيَانٍ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قُلْتُ إِنَّا قَوْمٌ نَصِيدُ بِهَذِهِ الْكِلاَبِ. ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5484": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5484\nIn-book reference  : Book 72, Hadith 10\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 393\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا ثَابِتُ بْنُ يَزِيدَ، حَدَّثَنَا عَاصِمٌ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ثَابِتُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَاصِمٌ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5485": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5485\nIn-book reference  : Book 72, Hadith 11\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 393\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "وَقَالَ عَبْدُ الأَعْلَى عَنْ دَاوُدَ، عَنْ عَامِرٍ، عَنْ عَدِيٍّ، أَنَّهُ قَالَ لِلنَّبِيِّ صلى الله عليه وسلم، يَرْمِي الصَّيْدَ فَيَقْتَفِرُ أَثَرَهُ الْيَوْمَيْنِ وَالثَّلاَثَةَ، ثُمَّ يَجِدُهُ مَيِّتًا وَفِيهِ سَهْمُهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الأَعْلَى",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "سَهْمُهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5487": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5487\nIn-book reference  : Book 72, Hadith 13\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 395\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنِي ابْنُ فُضَيْلٍ، عَنْ بَيَانٍ، عَنْ عَامِرٍ، عَنْ عَدِيِّ بْنِ حَاتِمٍ ـ رضى الله عنه ـ قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ إِنَّا قَوْمٌ نَتَصَيَّدُ بِهَذِهِ الْكِلاَبِ. فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدٌ، أَخْبَرَنِي ابْنُ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ بَيَانٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ إِنَّا قَوْمٌ نَتَصَيَّدُ بِهَذِهِ الْكِل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5488": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5488\nIn-book reference  : Book 72, Hadith 14\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 396\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ حَيْوَةَ،. وَحَدَّثَنِي أَحْمَدُ بْنُ أَبِي رَجَاءٍ، حَدَّثَنَا سَلَمَةُ بْنُ سُلَيْمَانَ، عَنِ ابْنِ الْمُبَارَكِ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، قَالَ سَمِعْتُ رَبِيعَةَ بْنَ يَزِيدَ الدِّمَشْقِيَّ، قَالَ أَخْبَرَنِي أَبُو إِدْرِيسَ، عَائِذُ اللَّهِ قَالَ سَمِعْتُ أَبَا ثَعْلَبَةَ الْخُشَنِيَّ ـ رضى الله عنه ـ يَقُولُ أَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّا بِأَرْضِ قَوْمٍ أَهْلِ الْكِتَابِ، نَأْكُلُ فِي آنِيَتِهِمْ، وَأَرْضِ صَيْدٍ أَصِيدُ بِقَوْسِي، وَأَصِيدُ بِكَلْبِي الْمُعَلَّمِ، وَالَّذِي لَيْسَ مُعَلَّمًا، فَأَخْبِرْنِي مَا الَّذِي يَحِلُّ لَنَا مِنْ ذَلِكَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ حَيْوَةَ،. وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي أَحْمَدُ بْنُ أَبِي رَجَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا سَلَمَةُ بْنُ سُلَيْمَانَ، عَنِ ابْنِ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حَيْوَةَ بْنِ شُرَيْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ رَبِيعَةَ بْنَ يَزِيدَ الدِّمَشْقِيَّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ سَمِعْتُ أَبَا ثَعْلَبَةَ الْخُشَنِيَّ ـ رضى الله عنه ـ يَقُولُ أَتَيْتُ رَسُولَ اللَّهِ صلى ا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5490": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5490\nIn-book reference  : Book 72, Hadith 16\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 398\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ عَنْ نَافِعٍ، مَوْلَى أَبِي قَتَادَةَ عَنْ أَبِي قَتَادَةَ، أَنَّهُ كَانَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم حَتَّى إِذَا كَانَ بِبَعْضِ طَرِيقِ مَكَّةَ تَخَلَّفَ مَعَ أَصْحَابٍ لَهُ مُحْرِمِينَ، وَهْوَ غَيْرُ مُحْرِمٍ، فَرَأَى حِمَارًا وَحْشِيًّا، فَاسْتَوَى عَلَى فَرَسِهِ، ثُمَّ سَأَلَ أَصْحَابَهُ أَنْ يُنَاوِلُوهُ سَوْطًا، فَأَبَوْا فَسَأَلَهُمْ رُمْحَهُ فَأَبَوْا فَأَخَذَهُ ثُمَّ شَدَّ عَلَى الْحِمَارِ، فَقَتَلَهُ فَأَكَلَ مِنْهُ بَعْضُ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَبَى بَعْضُهُمْ، فَلَمَّا أَدْرَكُوا رَسُولَ اللَّهِ صلى الله عليه وسلم سَأَلُوهُ عَنْ ذَلِكَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَتَادَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "سَأَلُوهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ ذَلِكَ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5491": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5491\nIn-book reference  : Book 72, Hadith 17\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 399\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي قَتَادَةَ، مِثْلَهُ إِلاَّ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زَيْدِ بْنِ أَسْلَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5496": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5496\nIn-book reference  : Book 72, Hadith 22\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 404\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، قَالَ حَدَّثَنِي رَبِيعَةُ بْنُ يَزِيدَ الدِّمَشْقِيُّ، قَالَ حَدَّثَنِي أَبُو إِدْرِيسَ الْخَوْلاَنِيُّ، قَالَ حَدَّثَنِي أَبُو ثَعْلَبَةَ الْخُشَنِيُّ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّا بِأَرْضِ أَهْلِ الْكِتَابِ، فَنَأْكُلُ فِي آنِيَتِهِمْ، وَبِأَرْضِ صَيْدٍ، أَصِيدُ بِقَوْسِي، وَأَصِيدُ بِكَلْبِي الْمُعَلَّمِ، وَبِكَلْبِي الَّذِي لَيْسَ بِمُعَلَّمٍ. فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ حَيْوَةَ بْنِ شُرَيْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي رَبِيعَةُ بْنُ يَزِيدَ الدِّمَشْقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي أَبُو إِدْرِيسَ الْخَوْلاَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنِي أَبُو ثَعْلَبَةَ الْخُشَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّا بِأَرْضِ أَهْلِ الْ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5500": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5500\nIn-book reference  : Book 72, Hadith 26\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 408\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ جُنْدَبِ بْنِ سُفْيَانَ الْبَجَلِيِّ، قَالَ ضَحَّيْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم أُضْحِيَّةً ذَاتَ يَوْمٍ فَإِذَا أُنَاسٌ قَدْ ذَبَحُوا ضَحَايَاهُمْ قَبْلَ الصَّلاَةِ فَلَمَّا انْصَرَفَ رَآهُمُ النَّبِيُّ صلى الله عليه وسلم أَنَّهُمْ قَدْ ذَبَحُوا قَبْلَ الصَّلاَةِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جُنْدَبِ بْنِ سُفْيَانَ الْبَجَلِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ ضَحَّيْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم أُضْحِيَّةً ذَاتَ يَوْمٍ فَإِذَا أُنَاسٌ قَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5505": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5505\nIn-book reference  : Book 72, Hadith 31\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 413\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنْ رَجُلٍ، مِنَ الأَنْصَارِ عَنْ مُعَاذِ بْنِ سَعْدٍ ـ أَوْ سَعْدِ بْنِ مُعَاذٍ ـ أَخْبَرَهُ أَنَّ جَارِيَةً لِكَعْبِ بْنِ مَالِكٍ كَانَتْ تَرْعَى غَنَمًا بِسَلْعٍ، فَأُصِيبَتْ شَاةٌ مِنْهَا، فَأَدْرَكَتْهَا فَذَبَحَتْهَا بِحَجَرٍ، فَسُئِلَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الأَنْصَارِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُعَاذِ بْنِ سَعْدٍ ـ أَوْ سَعْدِ بْنِ مُعَاذٍ ـ أَخْبَرَهُ أَنَّ جَارِيَةً لِكَعْبِ بْنِ مَالِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5506": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5506\nIn-book reference  : Book 72, Hadith 32\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 414\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِيهِ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قَبِيصَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبَايَةَ بْنِ رِفَاعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5507": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5507\nIn-book reference  : Book 72, Hadith 33\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 415\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدِ اللَّهِ، حَدَّثَنَا أُسَامَةُ بْنُ حَفْصٍ الْمَدَنِيُّ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ قَوْمًا، قَالُوا لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ قَوْمًا يَأْتُونَا بِاللَّحْمِ لاَ نَدْرِي أَذُكِرَ اسْمُ اللَّهِ عَلَيْهِ أَمْ لاَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أُسَامَةُ بْنُ حَفْصٍ الْمَدَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ قَوْمًا، قَالُوا لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ قَوْمًا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5532": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5532\nIn-book reference  : Book 72, Hadith 57\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 440\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا خَطَّابُ بْنُ عُثْمَانَ، حَدَّثَنَا مُحَمَّدُ بْنُ حِمْيَرَ، عَنْ ثَابِتِ بْنِ عَجْلاَنَ، قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ يَقُولُ مَرَّ النَّبِيُّ صلى الله عليه وسلم بِعَنْزٍ مَيْتَةٍ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا خَطَّابُ بْنُ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حِمْيَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ ثَابِتِ بْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ يَقُولُ مَرَّ النَّبِيُّ صلى الله عليه وسلم بِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْزٍ مَيْتَةٍ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5533": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5533\nIn-book reference  : Book 72, Hadith 58\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 441\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، عَنْ عَبْدِ الْوَاحِدِ، حَدَّثَنَا عُمَارَةُ بْنُ الْقَعْقَاعِ، عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَبْدِ الْوَاحِدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُمَارَةُ بْنُ الْقَعْقَاعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5534": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5534\nIn-book reference  : Book 72, Hadith 59\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 442\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُرَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5536": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5536\nIn-book reference  : Book 72, Hadith 61\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 444\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، قَالَ سَمِعْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "5537": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5537\nIn-book reference  : Book 72, Hadith 62\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 445\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ـ رضى الله عنهما ـ عَنْ خَالِدِ بْنِ الْوَلِيدِ، أَنَّهُ دَخَلَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بَيْتَ مَيْمُونَةَ فَأُتِيَ بِضَبٍّ مَحْنُوذٍ، فَأَهْوَى إِلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدِهِ فَقَالَ بَعْضُ النِّسْوَةِ أَخْبِرُوا رَسُولَ اللَّهِ صلى الله عليه وسلم بِمَا يُرِيدُ أَنْ يَأْكُلَ. فَقَالُوا هُوَ ضَبٌّ يَا رَسُولَ اللَّهِ. فَرَفَعَ يَدَهُ، فَقُلْتُ أَحَرَامٌ هُوَ يَا رَسُولَ اللَّهِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خَالِدِ بْنِ الْوَلِيدِ، أَنَّهُ دَخَلَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بَيْتَ مَيْمُون",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ بَعْضُ النِّسْوَةِ أَخْبِرُوا رَسُولَ اللَّهِ صلى الله عليه وسلم بِمَا يُرِيدُ أَنْ يَأْكُلَ. ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5538": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5538\nIn-book reference  : Book 72, Hadith 63\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 446\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ، يُحَدِّثُهُ عَنْ مَيْمُونَةَ، أَنَّ فَأْرَةً، وَقَعَتْ، فِي سَمْنٍ فَمَاتَتْ، فَسُئِلَ النَّبِيُّ صلى الله عليه وسلم عَنْهَا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحُمَيْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَيْمُونَةَ، أَنَّ فَأْرَةً، وَقَعَتْ، فِي سَمْنٍ فَمَاتَتْ، فَسُئِلَ النَّبِيُّ صلى الله عليه ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْهَا فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5540": {
+    "collection": "Sahih Bukhari",
+    "book": "Hunting, Slaughtering",
+    "book_num": "72",
+    "reference": "Reference  : Sahih al-Bukhari 5540\nIn-book reference  : Book 72, Hadith 65\nUSC-MSA web (English) reference  : Vol. 7, Book 67, Hadith 448\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/72",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ مَيْمُونَةَ ـ رضى الله عنهم ـ قَالَتْ سُئِلَ النَّبِيُّ صلى الله عليه وسلم عَنْ فَأْرَةٍ سَقَطَتْ فِي سَمْنٍ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَيْمُونَةَ ـ رضى الله عنهم ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ سُئِلَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ فَأْرَةٍ سَقَطَتْ فِي سَمْنٍ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

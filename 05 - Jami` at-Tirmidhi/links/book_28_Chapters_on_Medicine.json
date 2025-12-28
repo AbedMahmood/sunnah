@@ -1,0 +1,1293 @@
+{
+  "2036": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2036\nIn-book reference  : Book 28, Hadith 1\nEnglish translation  : Vol. 4, Book 2, Hadith 2036",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، قال حَدَّثَنَا إِسْحَاقُ بْنُ مُحَمَّدٍ الْفَرْوِيُّ، قال حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنْ عُمَارَةَ بْنِ غَزِيَّةَ، عَنْ عَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ، عَنْ مَحْمُودِ بْنِ لَبِيدٍ، عَنْ قَتَادَةَ بْنِ النُّعْمَانِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ مُحَمَّدٍ الْفَرْوِيُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُمَارَةَ بْنِ غَزِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَحْمُودِ بْنِ لَبِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ قَتَادَةَ بْنِ النُّعْمَانِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2039": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2039\nIn-book reference  : Book 28, Hadith 4\nEnglish translation  : Vol. 4, Book 2, Hadith 2039",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قال أَخْبَرَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ،قال حَدَّثَنَا مُحَمَّدُ بْنُ السَّائِبِ بْنِ بَرَكَةَ، عَنْ أُمِّهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَخَذَ أَهْلَهُ الْوَعْكُ أَمَرَ بِالْحَسَاءِ فَصُنِعَ ثُمَّ أَمَرَهُمْ فَحَسَوْا مِنْهُ وَكَانَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ،قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ السَّائِبِ بْنِ بَرَكَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أُمِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2040": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2040\nIn-book reference  : Book 28, Hadith 5\nEnglish translation  : Vol. 4, Book 2, Hadith 2040",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، قَالَ حَدَّثَنَا بَكْرُ بْنُ يُونُسَ بْنِ بُكَيْرٍ، عَنْ مُوسَى بْنِ عَلِيٍّ، عَنْ أَبِيهِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَكْرُ بْنُ يُونُسَ بْنِ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُوسَى بْنِ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2041": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2041\nIn-book reference  : Book 28, Hadith 6\nEnglish translation  : Vol. 4, Book 2, Hadith 2041",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، وَسَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، وَسَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2042": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2042\nIn-book reference  : Book 28, Hadith 7\nEnglish translation  : Vol. 4, Book 2, Hadith 2042",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ مُحَمَّدٍ الزَّعْفَرَانِيُّ، قَالَ حَدَّثَنَا عَفَّانُ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، قَالَ أَخْبَرَنَا حُمَيْدٌ، وَثَابِتٌ، وَقَتَادَةُ، عَنْ أَنَسٍ، أَنَّ نَاسًا، مِنْ عُرَيْنَةَ قَدِمُوا الْمَدِينَةَ فَاجْتَوَوْهَا فَبَعَثَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي إِبِلِ الصَّدَقَةِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ مُحَمَّدٍ الزَّعْفَرَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَفَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَخْبَرَنَا حُمَيْدٌ، وَثَابِتٌ، وَقَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ نَاسًا، مِنْ عُرَيْنَةَ قَدِمُوا الْمَدِينَةَ فَاجْتَوَوْهَا فَبَعَثَهُمْ رَسُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2043": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2043\nIn-book reference  : Book 28, Hadith 8\nEnglish translation  : Vol. 4, Book 2, Hadith 2043",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قال حَدَّثَنَا عَبِيدَةُ بْنُ حُمَيْدٍ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، أُرَاهُ رَفَعَهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبِيدَةُ بْنُ حُمَيْدٍ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "رَفَعَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2046": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2046\nIn-book reference  : Book 28, Hadith 11\nEnglish translation  : Vol. 4, Book 2, Hadith 2046",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قال حَدَّثَنَا أَبُو دَاوُدَ، عَنْ شُعْبَةَ، عَنْ سِمَاكٍ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَائِلٍ، عَنْ أَبِيهِ، أَنَّهُ شَهِدَ النَّبِيَّ صلى الله عليه وسلم وَسَأَلَهُ سُوَيْدُ بْنُ طَارِقٍ أَوْ طَارِقُ بْنُ سُوَيْدٍ عَنِ الْخَمْرِ فَنَهَاهُ عَنْهُ فَقَالَ إِنَّنَا نَتَدَاوَى بِهَا . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سِمَاكٍ، أَنَّهُ سَمِعَ عَلْقَمَةَ بْنَ وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فَنَهَاهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ إِنَّنَا نَتَدَاوَى بِهَا . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2048": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2048\nIn-book reference  : Book 28, Hadith 13\nEnglish translation  : Vol. 4, Book 2, Hadith 2048",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، قال حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قال حَدَّثَنَا عَبَّادُ بْنُ مَنْصُورٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبَّادُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2055": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2055\nIn-book reference  : Book 28, Hadith 20\nEnglish translation  : Vol. 4, Book 2, Hadith 2055",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، عَنْ عَقَّارِ بْنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَقَّارِ بْنِ الْمُغِيرَةِ بْنِ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2057": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2057\nIn-book reference  : Book 28, Hadith 22\nEnglish translation  : Vol. 4, Book 2, Hadith 2057",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ حُصَيْنٍ، عَنِ الشَّعْبِيِّ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُصَيْنٍ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2059": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2059\nIn-book reference  : Book 28, Hadith 24\nEnglish translation  : Vol. 4, Book 2, Hadith 2059",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ عُرْوَةَ، وَهُوَ أَبُو حَاتِمِ بْنُ عَامِرٍ عَنْ عُبَيْدِ بْنِ رِفَاعَةَ الزُّرَقِيِّ، أَنَّ أَسْمَاءَ بِنْتَ عُمَيْسٍ، قَالَتْ يَا رَسُولَ اللَّهِ إِنَّ وَلَدَ جَعْفَرٍ تُسْرِعُ إِلَيْهِمُ الْعَيْنُ أَفَأَسْتَرْقِي لَهُمْ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَامِرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ رِفَاعَةَ الزُّرَقِيِّ، أَنَّ أَسْمَاءَ بِنْتَ عُمَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ يَا رَسُولَ اللَّهِ إِنَّ وَلَدَ جَعْفَرٍ تُسْرِعُ إِلَيْهِمُ الْعَيْنُ أَفَأَسْتَرْقِي لَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2061": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2061\nIn-book reference  : Book 28, Hadith 26\nEnglish translation  : Vol. 4, Book 2, Hadith 2061",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا أَبُو حَفْصٍ، عَمْرُو بْنُ عَلِيٍّ, قال حَدَّثَنَا يَحْيَى بْنُ كَثِيرٍ أَبُو غَسَّانَ الْعَنْبَرِيُّ، قال حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، حَدَّثَنِي حَيَّةُ بْنُ حَابِسٍ التَّمِيمِيُّ، حَدَّثَنِي أَبِي أَنَّهُ، سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو حَفْصٍ، عَمْرُو بْنُ عَلِيٍّ, قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ كَثِيرٍ أَبُو غَسَّانَ الْ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْبَرِيُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي حَيَّةُ بْنُ حَابِسٍ التَّمِيمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2062": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2062\nIn-book reference  : Book 28, Hadith 27\nEnglish translation  : Vol. 4, Book 2, Hadith 2062",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ الْحَسَنِ بْنِ خِرَاشٍ الْبَغْدَادِيُّ، قال حَدَّثَنَا أَحْمَدُ بْنُ إِسْحَاقَ الْحَضْرَمِيُّ، قال حَدَّثَنَا وُهَيْبٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ الْحَسَنِ بْنِ خِرَاشٍ الْبَغْدَادِيُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ إِسْحَاقَ الْحَضْرَمِيُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ، عَنِ ابْنِ طَاوُسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2065": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2065\nIn-book reference  : Book 28, Hadith 30\nEnglish translation  : Vol. 4, Book 2, Hadith 2065",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي خُزَامَةَ، عَنْ أَبِيهِ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ أَرَأَيْتَ رُقًى نَسْتَرْقِيهَا وَدَوَاءً نَتَدَاوَى بِهِ وَتُقَاةً نَتَّقِيهَا هَلْ تَرُدُّ مِنْ قَدَرِ اللَّهِ شَيْئًا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي خُزَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "شَيْئًا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2066": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2066\nIn-book reference  : Book 28, Hadith 31\nEnglish translation  : Vol. 4, Book 2, Hadith 2066",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا أَبُو عُبَيْدَةَ، أَحْمَدُ بْنُ عَبْدِ اللَّهِ الْهَمْدَانِيُّ وَهُوَ ابْنُ أَبِي السَّفَرِ وَمَحْمُودُ بْنُ غَيْلاَنَ قَالاَ حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2067": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2067\nIn-book reference  : Book 28, Hadith 32\nEnglish translation  : Vol. 4, Book 2, Hadith 2067",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، قال حَدَّثَنَا عُمَرُ بْنُ عُبَيْدٍ الطَّنَافِسِيُّ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قال حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قال حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ عَمْرِو بْنِ حُرَيْثٍ، عَنْ سَعِيدِ بْنِ زَيْدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ عُبَيْدٍ الطَّنَافِسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَمْرِو بْنِ حُرَيْثٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ زَيْدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2068": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2068\nIn-book reference  : Book 28, Hadith 33\nEnglish translation  : Vol. 4, Book 2, Hadith 2068",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قال حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قال حَدَّثَنَا أَبِي، عَنْ قَتَادَةَ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ نَاسًا، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالُوا الْكَمْأَةُ جُدَرِيُّ الأَرْضِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ شَهْرِ بْنِ حَوْشَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ نَاسًا، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالُوا الْكَمْأَة",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2072": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2072\nIn-book reference  : Book 28, Hadith 37\nEnglish translation  : Vol. 4, Book 2, Hadith 2072",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ مَدُّويَهْ، قال حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عِيسَى، أَخِيهِ قَالَ دَخَلْتُ عَلَى عَبْدِ اللَّهِ بْنِ عُكَيْمٍ أَبِي مَعْبَدٍ الْجُهَنِيِّ أَعُودُهُ وَبِهِ حُمْرَةٌ فَقُلْنَا أَلاَ تُعَلِّقُ شَيْئًا قَالَ الْمَوْتُ أَقْرَبُ مِنْ ذَلِكَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مَدُّويَهْ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخِيهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "شَيْئًا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "ذَلِكَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2073": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2073\nIn-book reference  : Book 28, Hadith 38\nEnglish translation  : Vol. 4, Book 2, Hadith 2072",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، قال حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ، عَنْ جَدِّهِ، رَافِعِ بْنِ خَدِيجٍ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبَايَةَ بْنِ رِفَاعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَدِّهِ، رَافِعِ بْنِ خَدِيجٍ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2074": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2074\nIn-book reference  : Book 28, Hadith 39\nEnglish translation  : Vol. 4, Book 2, Hadith 2074",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ، قال حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2076": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2076\nIn-book reference  : Book 28, Hadith 41\nEnglish translation  : Vol. 4, Book 2, Hadith 2076",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قال حَدَّثَنَا يَحْيَى بْنُ إِسْحَاقَ، قال حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، عَنِ ابْنَةِ وَهْبٍ، وَهِيَ جُدَامَةُ - قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ إِسْحَاقَ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ، عَنِ ابْنَةِ وَهْبٍ، وَهِيَ جُدَامَةُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2077": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2077\nIn-book reference  : Book 28, Hadith 42\nEnglish translation  : Vol. 4, Book 2, Hadith 2077",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا عِيسَى بْنُ أَحْمَدَ، قال حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الأَسْوَدِ، مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، عَنْ جُدَامَةَ بِنْتِ وَهْبٍ الأَسَدِيَّةِ، أَنَّهَا سَمِعَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عِيسَى بْنُ أَحْمَدَ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "نَوْفَلٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2080": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2080\nIn-book reference  : Book 28, Hadith 45\nEnglish translation  : Vol. 4, Book 2, Hadith 2080",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ مُوسَى الأَنْصَارِيُّ، قال حَدَّثَنَا مَعْنٌ، قال حَدَّثَنَا مَالِكٌ، عَنْ يَزِيدَ بْنِ خُصَيْفَةَ، عَنْ عَمْرِو بْنِ عَبْدِ اللَّهِ بْنِ كَعْبٍ السُّلَمِيِّ، أَنَّ نَافِعَ بْنَ جُبَيْرِ بْنِ مُطْعِمٍ، أَخْبَرَهُ عَنْ عُثْمَانَ بْنِ أَبِي الْعَاصِي، أَنَّهُ قَالَ أَتَانِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَبِي وَجَعٌ قَدْ كَانَ يُهْلِكُنِي فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ مُوسَى الأَنْصَارِيُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَعْنٌ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ خُصَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَتَانِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَبِي وَجَعٌ قَدْ كَانَ يُهْلِكُنِي فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2083": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2083\nIn-book reference  : Book 28, Hadith 48\nEnglish translation  : Vol. 4, Book 2, Hadith 2083",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قال حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قال حَدَّثَنَا شُعْبَةُ، عَنْ يَزِيدَ أَبِي خَالِدٍ، قَالَ سَمِعْتُ الْمِنْهَالَ بْنَ عَمْرٍو، يُحَدِّثُ عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ أَبِي خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2084": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2084\nIn-book reference  : Book 28, Hadith 49\nEnglish translation  : Vol. 4, Book 2, Hadith 2084",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الأَشْقَرُ الرِّبَاطِيُّ، قال حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، قال حَدَّثَنَا مَرْزُوقٌ أَبُو عَبْدِ اللَّهِ الشَّامِيُّ، قال حَدَّثَنَا سَعِيدٌ، رَجُلٌ مِنْ أَهْلِ الشَّامِ أَخْبَرَنَا ثَوْبَانُ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الأَشْقَرُ الرِّبَاطِيُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَرْزُوقٌ أَبُو عَبْدِ اللَّهِ الشَّامِيُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الشَّامِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَنَا ثَوْبَانُ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "2086": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2086\nIn-book reference  : Book 28, Hadith 51\nEnglish translation  : Vol. 4, Book 2, Hadith 2086",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَخْبَرَنَا الْوَلِيدُ بْنُ مُحَمَّدٍ الْمُوَقَّرِيُّ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا الْوَلِيدُ بْنُ مُحَمَّدٍ الْمُوَقَّرِيُّ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2087": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2087\nIn-book reference  : Book 28, Hadith 52\nEnglish translation  : Vol. 4, Book 2, Hadith 2087",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ الأَشَجُّ، قال حَدَّثَنَا عُقْبَةُ بْنُ خَالِدٍ السَّكُونِيُّ، عَنْ مُوسَى بْنِ مُحَمَّدِ بْنِ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ الأَشَجُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُقْبَةُ بْنُ خَالِدٍ السَّكُونِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُوسَى بْنِ مُحَمَّدِ بْنِ إِبْرَاهِيمَ التَّيْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2088": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Medicine",
+    "book_num": "28",
+    "reference": "Reference  : Jami` at-Tirmidhi 2088\nIn-book reference  : Book 28, Hadith 53\nEnglish translation  : Vol. 4, Book 2, Hadith 2088",
+    "url": "https://sunnah.com/tirmidhi/28",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، وَمَحْمُودُ بْنُ غَيْلاَنَ، قَالاَ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ، عَنْ إِسْمَاعِيلَ بْنِ عُبَيْدِ اللَّهِ، عَنْ أَبِي صَالِحٍ الأَشْعَرِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم عَادَ رَجُلاً مِنْ وَعَكٍ كَانَ بِهِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ الأَشْعَرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم عَادَ رَجُلاً مِنْ وَعَكٍ كَانَ بِهِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

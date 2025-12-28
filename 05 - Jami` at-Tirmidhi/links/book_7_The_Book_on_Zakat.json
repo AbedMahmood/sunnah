@@ -1,0 +1,1516 @@
+{
+  "620": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 620\nIn-book reference  : Book 7, Hadith 4\nEnglish translation  : Vol. 2, Book 2, Hadith 620",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ ضَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "621": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 621\nIn-book reference  : Book 7, Hadith 5\nEnglish translation  : Vol. 2, Book 2, Hadith 621",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا زِيَادُ بْنُ أَيُّوبَ الْبَغْدَادِيُّ، وَإِبْرَاهِيمُ بْنُ عَبْدِ اللَّهِ الْهَرَوِيُّ، وَمُحَمَّدُ بْنُ كَامِلٍ الْمَرْوَزِيُّ الْمَعْنَى، وَاحِدٌ، قَالُوا حَدَّثَنَا عَبَّادُ بْنُ الْعَوَّامِ، عَنْ سُفْيَانَ بْنِ حُسَيْنٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَتَبَ كِتَابَ الصَّدَقَةِ فَلَمْ يُخْرِجْهُ إِلَى عُمَّالِهِ حَتَّى قُبِضَ فَقَرَنَهُ بِسَيْفِهِ فَلَمَّا قُبِضَ عَمِلَ بِهِ أَبُو بَكْرٍ حَتَّى قُبِضَ وَعُمَرُ حَتَّى قُبِضَ وَكَانَ فِيهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبَّادُ بْنُ الْعَوَّامِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ بْنِ حُسَيْنٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "622": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 622\nIn-book reference  : Book 7, Hadith 6\nEnglish translation  : Vol. 2, Book 2, Hadith 622",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْمُحَارِبِيُّ، وَأَبُو سَعِيدٍ الأَشَجُّ قَالاَ حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ حَرْبٍ، عَنْ خُصَيْفٍ، عَنْ أَبِي عُبَيْدَةَ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ خُصَيْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي عُبَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "625": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 625\nIn-book reference  : Book 7, Hadith 9\nEnglish translation  : Vol. 2, Book 2, Hadith 625",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا زَكَرِيَّا بْنُ إِسْحَاقَ الْمَكِّيُّ، حَدَّثَنَا يَحْيَى بْنُ عَبْدِ اللَّهِ بْنِ صَيْفِيٍّ، عَنْ أَبِي مَعْبَدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ مُعَاذًا إِلَى الْيَمَنِ فَقَالَ لَهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَكَرِيَّا بْنُ إِسْحَاقَ الْمَكِّيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ عَبْدِ اللَّهِ بْنِ صَيْفِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مَعْبَدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ مُعَاذًا إ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "626": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 626\nIn-book reference  : Book 7, Hadith 10\nEnglish translation  : Vol. 2, Book 2, Hadith 626",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ عَمْرِو بْنِ يَحْيَى الْمَازِنِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ يَحْيَى الْمَازِنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "628": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 628\nIn-book reference  : Book 7, Hadith 12\nEnglish translation  : Vol. 2, Book 2, Hadith 628",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ وَمَحْمُودُ بْنُ غَيْلاَنَ قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، وَشُعْبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عِرَاكِ بْنِ مَالِكٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ، وَشُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِرَاكِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "629": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 629\nIn-book reference  : Book 7, Hadith 13\nEnglish translation  : Vol. 2, Book 2, Hadith 629",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا عَمْرُو بْنُ أَبِي سَلَمَةَ التِّنِّيسِيُّ، عَنْ صَدَقَةَ بْنِ عَبْدِ اللَّهِ، عَنْ مُوسَى بْنِ يَسَارٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ أَبِي سَلَمَةَ التِّنِّيسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ صَدَقَةَ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مُوسَى بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "631": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 631\nIn-book reference  : Book 7, Hadith 15\nEnglish translation  : Vol. 2, Book 2, Hadith 631",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى، حَدَّثَنَا هَارُونُ بْنُ صَالِحٍ الطَّلْحِيُّ الْمَدَنِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ صَالِحٍ الطَّلْحِيُّ الْمَدَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ زَيْدِ بْنِ أَسْلَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "633": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 633\nIn-book reference  : Book 7, Hadith 17\nEnglish translation  : Vol. 2, Book 2, Hadith 633",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ أَكْثَمَ، حَدَّثَنَا جَرِيرٌ، عَنْ قَابُوسِ بْنِ أَبِي ظَبْيَانَ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ أَكْثَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ قَابُوسِ بْنِ أَبِي ظَبْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "635": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 635\nIn-book reference  : Book 7, Hadith 19\nEnglish translation  : Vol. 2, Book 2, Hadith 635",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ بْنِ الْمُصْطَلِقِ، عَنِ ابْنِ أَخِي، زَيْنَبَ امْرَأَةِ عَبْدِ اللَّهِ عَنْ زَيْنَبَ، امْرَأَةِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ قَالَتْ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "مَسْعُودٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "638": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 638\nIn-book reference  : Book 7, Hadith 22\nEnglish translation  : Vol. 2, Book 2, Hadith 638",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنِ الْحَسَنِ بْنِ عُمَارَةَ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عُبَيْدٍ، عَنْ عِيسَى بْنِ طَلْحَةَ، عَنْ مُعَاذٍ، أَنَّهُ كَتَبَ إِلَى النَّبِيِّ صلى الله عليه وسلم يَسْأَلُهُ عَنِ الْخُضْرَوَاتِ وَهِيَ الْبُقُولُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ خَشْرَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنِ الْحَسَنِ بْنِ عُمَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِيسَى بْنِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُعَاذٍ، أَنَّهُ كَتَبَ إِلَى النَّبِيِّ صلى الله عليه وسلم يَسْأَلُهُ عَنِ الْخُضْرَوَاتِ وَهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "639": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 639\nIn-book reference  : Book 7, Hadith 23\nEnglish translation  : Vol. 2, Book 2, Hadith 639",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا أَبُو مُوسَى الأَنْصَارِيُّ، حَدَّثَنَا عَاصِمُ بْنُ عَبْدِ الْعَزِيزِ الْمَدَنِيُّ، حَدَّثَنَا الْحَارِثُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَبِي ذُبَابٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، وَبُسْرِ بْنِ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مُوسَى الأَنْصَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَاصِمُ بْنُ عَبْدِ الْعَزِيزِ الْمَدَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْحَارِثُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَبِي ذُبَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، وَبُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "641": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 641\nIn-book reference  : Book 7, Hadith 25\nEnglish translation  : Vol. 2, Book 2, Hadith 641",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الْمُثَنَّى بْنِ الصَّبَّاحِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَ النَّاسَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الْمُثَنَّى بْنِ الصَّبَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَ النَّاسَ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "642": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 642\nIn-book reference  : Book 7, Hadith 26\nEnglish translation  : Vol. 2, Book 2, Hadith 642",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَأَبِي، سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سَلَمَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "643": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 643\nIn-book reference  : Book 7, Hadith 27\nEnglish translation  : Vol. 2, Book 2, Hadith 643",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ الطَّيَالِسِيُّ، أَخْبَرَنَا شُعْبَةُ، أَخْبَرَنِي خُبَيْبُ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ مَسْعُودِ بْنِ نِيَارٍ، يَقُولُ جَاءَ سَهْلُ بْنُ أَبِي حَثْمَةَ إِلَى مَجْلِسِنَا فَحَدَّثَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ الطَّيَالِسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا شُعْبَةُ، أَخْبَرَنِي خُبَيْبُ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "644": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 644\nIn-book reference  : Book 7, Hadith 28\nEnglish translation  : Vol. 2, Book 2, Hadith 644",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا أَبُو عَمْرٍو، مُسْلِمُ بْنُ عَمْرٍو الْحَذَّاءُ الْمَدَنِيُّ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نَافِعٍ الصَّائِغُ، عَنْ مُحَمَّدِ بْنِ صَالِحٍ التَّمَّارِ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ عَتَّابِ بْنِ أَسِيدٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَبْعَثُ عَلَى النَّاسِ مَنْ يَخْرُصُ عَلَيْهِمْ كُرُومَهُمْ وَثِمَارَهُمْ . وَبِهَذَا الإِسْنَادِ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ فِي زَكَاةِ الْكُرُومِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْمَدَنِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نَافِعٍ الصَّائِغُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ صَالِحٍ التَّمَّارِ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَتَّابِ بْنِ أَسِيدٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَبْعَثُ عَلَى النَّاسِ مَنْ ي",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الْكُرُومِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "645": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 645\nIn-book reference  : Book 7, Hadith 29\nEnglish translation  : Vol. 2, Book 2, Hadith 645",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا يَزِيدُ بْنُ عِيَاضٍ، عَنْ عَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ خَالِدٍ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ، عَنْ مَحْمُودِ بْنِ لَبِيدٍ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا يَزِيدُ بْنُ عِيَاضٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ مَحْمُودِ بْنِ لَبِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "647": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 647\nIn-book reference  : Book 7, Hadith 31\nEnglish translation  : Vol. 2, Book 2, Hadith 647",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا مُحَمَّدُ بْنُ يَزِيدَ، عَنْ مُجَالِدٍ، عَنِ الشَّعْبِيِّ، عَنْ جَرِيرٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُجَالِدٍ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَرِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "653": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 653\nIn-book reference  : Book 7, Hadith 37\nEnglish translation  : Vol. 2, Book 2, Hadith 653",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ سَعِيدٍ الْكِنْدِيُّ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ، عَنْ مُجَالِدٍ، عَنْ عَامِرٍ الشَّعْبِيِّ، عَنْ حُبْشِيِّ بْنِ جُنَادَةَ السَّلُولِيِّ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي حَجَّةِ الْوَدَاعِ وَهُوَ وَاقِفٌ بِعَرَفَةَ أَتَاهُ أَعْرَابِيٌّ فَأَخَذَ بِطَرَفِ رِدَائِهِ فَسَأَلَهُ إِيَّاهُ فَأَعْطَاهُ وَذَهَبَ فَعِنْدَ ذَلِكَ حَرُمَتِ الْمَسْأَلَةُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ سَعِيدٍ الْكِنْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُجَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرٍ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حُبْشِيِّ بْنِ جُنَادَةَ السَّلُولِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي حَجَّةِ الْوَدَاعِ وَهُوَ وَاقِفٌ بِعَرَفَةَ أ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "656": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 656\nIn-book reference  : Book 7, Hadith 40\nEnglish translation  : Vol. 2, Book 2, Hadith 656",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مَكِّيُّ بْنُ إِبْرَاهِيمَ، وَيُوسُفُ بْنُ يَعْقُوبَ الضُّبَعِيُّ السَّدُوسِيُّ، قَالاَ حَدَّثَنَا بَهْزُ بْنُ حَكِيمٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أُتِيَ بِشَيْءٍ سَأَلَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَهْزُ بْنُ حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "سَأَلَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "657": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 657\nIn-book reference  : Book 7, Hadith 41\nEnglish translation  : Vol. 2, Book 2, Hadith 657",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنِ ابْنِ أَبِي رَافِعٍ، عَنْ أَبِي رَافِعٍ، رضى الله عنه أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ رَجُلاً مِنْ بَنِي مَخْزُومٍ عَلَى الصَّدَقَةِ فَقَالَ لأَبِي رَافِعٍ اصْحَبْنِي كَيْمَا تُصِيبَ مِنْهَا . فَقَالَ لاَ . حَتَّى آتِيَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَسْأَلَهُ . فَانْطَلَقَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَسَأَلَهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنِ ابْنِ أَبِي رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي رَافِعٍ، رضى الله عنه أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ رَجُلاً مِنْ بَنِي مَخْز",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لأَبِي رَافِعٍ اصْحَبْنِي كَيْمَا تُصِيبَ مِنْهَا . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لاَ . حَتَّى آتِيَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَسْأَلَهُ . فَانْطَلَقَ إِلَى النَّبِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "660": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 660\nIn-book reference  : Book 7, Hadith 44\nEnglish translation  : Vol. 2, Book 2, Hadith 660",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ، أَخْبَرَنَا مُحَمَّدُ بْنُ الطُّفَيْلِ، عَنْ شَرِيكٍ، عَنْ أَبِي حَمْزَةَ، عَنْ عَامِرٍ الشَّعْبِيِّ، عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الطُّفَيْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شَرِيكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي حَمْزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَامِرٍ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "661": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 661\nIn-book reference  : Book 7, Hadith 45\nEnglish translation  : Vol. 2, Book 2, Hadith 661",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ، عَنْ سَعِيدِ بْنِ يَسَارٍ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "664": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 664\nIn-book reference  : Book 7, Hadith 48\nEnglish translation  : Vol. 2, Book 2, Hadith 664",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ الْعَمِّيُّ الْبَصْرِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عِيسَى الْخَزَّازُ الْبَصْرِيُّ، عَنْ يُونُسَ بْنِ عُبَيْدٍ، عَنِ الْحَسَنِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ الْعَمِّيُّ الْبَصْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عِيسَى الْخَزَّازُ الْبَصْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يُونُسَ بْنِ عُبَيْدٍ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "665": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 665\nIn-book reference  : Book 7, Hadith 49\nEnglish translation  : Vol. 2, Book 2, Hadith 665",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ بُجَيْدٍ، عَنْ جَدَّتِهِ أُمِّ بُجَيْدٍ، - وَكَانَتْ مِمَّنْ بَايَعَ رَسُولَ اللَّهِ صلى الله عليه وسلم - أَنَّهَا قَالَتْ يَا رَسُولَ اللَّهِ إِنَّ الْمِسْكِينَ لَيَقُومُ عَلَى بَابِي فَمَا أَجِدُ لَهُ شَيْئًا أُعْطِيهِ إِيَّاهُ . فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ بُجَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ يَا رَسُولَ اللَّهِ إِنَّ الْمِسْكِينَ لَيَقُومُ عَلَى بَابِي فَمَا أَجِدُ لَهُ شَيْئًا أُعْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "668": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 668\nIn-book reference  : Book 7, Hadith 52\nEnglish translation  : Vol. 2, Book 2, Hadith 668",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، أَنَّهُ حَمَلَ عَلَى فَرَسٍ فِي سَبِيلِ اللَّهِ ثُمَّ رَآهَا تُبَاعُ فَأَرَادَ أَنْ يَشْتَرِيَهَا فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُمَرَ، أَنَّهُ حَمَلَ عَلَى فَرَسٍ فِي سَبِيلِ اللَّهِ ثُمَّ رَآهَا تُبَاعُ فَأَرَادَ أَنْ يَش",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "669": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 669\nIn-book reference  : Book 7, Hadith 53\nEnglish translation  : Vol. 2, Book 2, Hadith 669",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا زَكَرِيَّا بْنُ إِسْحَاقَ، حَدَّثَنِي عَمْرُو بْنُ دِينَارٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ إِنَّ أُمِّي تُوُفِّيَتْ أَفَيَنْفَعُهَا إِنْ تَصَدَّقْتُ عَنْهَا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَكَرِيَّا بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عَمْرُو بْنُ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "تَصَدَّقْتُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "671": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 671\nIn-book reference  : Book 7, Hadith 55\nEnglish translation  : Vol. 2, Book 2, Hadith 671",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، قَالَ سَمِعْتُ أَبَا وَائِلٍ، يُحَدِّثُ عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ مُرَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "672": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 672\nIn-book reference  : Book 7, Hadith 56\nEnglish translation  : Vol. 2, Book 2, Hadith 672",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا الْمُؤَمَّلُ، عَنْ سُفْيَانَ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْمُؤَمَّلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "674": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 674\nIn-book reference  : Book 7, Hadith 58\nEnglish translation  : Vol. 2, Book 2, Hadith 674",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ الْبَصْرِيُّ، حَدَّثَنَا سَالِمُ بْنُ نُوحٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ مُنَادِيًا فِي فِجَاجِ مَكَّةَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ الْبَصْرِيُّ، حَدَّثَنَا سَالِمُ بْنُ نُوحٍ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "مَكَّةَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "عَنْ"
+    ]
+  },
+  "679": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 679\nIn-book reference  : Book 7, Hadith 63\nEnglish translation  : Vol. 2, Book 2, Hadith 679",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا الْقَاسِمُ بْنُ دِينَارٍ الْكُوفِيُّ، حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، عَنْ إِسْرَائِيلَ، عَنِ الْحَجَّاجِ بْنِ دِينَارٍ، عَنِ الْحَكَمِ بْنِ جَحْلٍ، عَنْ حُجْرٍ الْعَدَوِيِّ، عَنْ عَلِيٍّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لِعُمَرَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَاسِمُ بْنُ دِينَارٍ الْكُوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْرَائِيلَ، عَنِ الْحَجَّاجِ بْنِ دِينَارٍ، عَنِ الْحَكَمِ بْنِ جَحْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُجْرٍ الْعَدَوِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلِيٍّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "لِعُمَرَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "680": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 680\nIn-book reference  : Book 7, Hadith 64\nEnglish translation  : Vol. 2, Book 2, Hadith 680",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ بَيَانِ بْنِ بِشْرٍ، عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بَيَانِ بْنِ بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "681": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Zakat",
+    "book_num": "7",
+    "reference": "Reference  : Jami` at-Tirmidhi 681\nIn-book reference  : Book 7, Hadith 65\nEnglish translation  : Vol. 2, Book 2, Hadith 681",
+    "url": "https://sunnah.com/tirmidhi/7",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا وَكِيِعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ زَيْدِ بْنِ عُقْبَةَ، عَنْ سَمُرَةَ بْنِ جُنْدَبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيِعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زَيْدِ بْنِ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَمُرَةَ بْنِ جُنْدَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

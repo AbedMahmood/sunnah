@@ -1,0 +1,40 @@
+{
+  "1901120": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Helmet Of Rasoolullah",
+    "book_num": "15",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901120\nIn-book reference  : Book 15, Hadith 001\nEnglish translation  : Vol. 1, Book 15, Hadith 001",
+    "url": "https://sunnah.com/shamail/15",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "1901130": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Helmet Of Rasoolullah",
+    "book_num": "15",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901130\nIn-book reference  : Book 15, Hadith 002\nEnglish translation  : Vol. 1, Book 15, Hadith 002",
+    "url": "https://sunnah.com/shamail/15",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  }
+}

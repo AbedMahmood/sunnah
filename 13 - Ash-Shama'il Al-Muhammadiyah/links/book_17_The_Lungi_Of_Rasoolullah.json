@@ -1,0 +1,78 @@
+{
+  "1901190": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Lungi Of Rasoolullah",
+    "book_num": "17",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901190\nIn-book reference  : Book 17, Hadith 001\nEnglish translation  : Vol. 1, Book 17, Hadith 001",
+    "url": "https://sunnah.com/shamail/17",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "1901200": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Lungi Of Rasoolullah",
+    "book_num": "17",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901200\nIn-book reference  : Book 17, Hadith 002\nEnglish translation  : Vol. 1, Book 17, Hadith 002",
+    "url": "https://sunnah.com/shamail/17",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "1901210": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Lungi Of Rasoolullah",
+    "book_num": "17",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901210\nIn-book reference  : Book 17, Hadith 003\nEnglish translation  : Vol. 1, Book 17, Hadith 003",
+    "url": "https://sunnah.com/shamail/17",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "1901220": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Lungi Of Rasoolullah",
+    "book_num": "17",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901220\nIn-book reference  : Book 17, Hadith 004\nEnglish translation  : Vol. 1, Book 17, Hadith 004",
+    "url": "https://sunnah.com/shamail/17",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  }
+}

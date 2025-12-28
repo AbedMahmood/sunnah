@@ -1,0 +1,2203 @@
+{
+  "4263": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4263\nIn-book reference  : Book 42, Hadith 1\nEnglish translation  : Vol. 5, Book 42, Hadith 4268",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا الإِمَامُ أَبُو عَبْدِ الرَّحْمَنِ النَّسَائِيُّ، بِمِصْرَ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنْ سُوَيْدِ بْنِ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ عَاصِمٍ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، أَنَّهُ سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّيْدِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الإِمَامُ أَبُو عَبْدِ الرَّحْمَنِ النَّسَائِيُّ، بِمِصْرَ قِرَاءَةً عَلَيْهِ وَأَنَا أَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُوَيْدِ بْنِ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَاصِمٍ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ، أَنَّهُ سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّيْدِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4266": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4266\nIn-book reference  : Book 42, Hadith 4\nEnglish translation  : Vol. 5, Book 42, Hadith 4271",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنِي مُحَمَّدُ بْنُ عُبَيْدِ بْنِ مُحَمَّدٍ الْكُوفِيُّ الْمُحَارِبِيُّ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، قَالَ سَمِعْتُ رَبِيعَةَ بْنَ يَزِيدَ، يَقُولُ أَنْبَأَنَا أَبُو إِدْرِيسَ، عَائِذُ اللَّهِ قَالَ سَمِعْتُ أَبَا ثَعْلَبَةَ الْخُشَنِيَّ، يَقُولُ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّا بِأَرْضِ صَيْدٍ أَصِيدُ بِقَوْسِي وَأَصِيدُ بِكَلْبِي الْمُعَلَّمِ وَبِكَلْبِي الَّذِي لَيْسَ بِمُعَلَّمٍ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي مُحَمَّدُ بْنُ عُبَيْدِ بْنِ مُحَمَّدٍ الْكُوفِيُّ الْمُحَارِبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَيْوَةَ بْنِ شُرَيْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ أَبَا ثَعْلَبَةَ الْخُشَنِيَّ، يَقُولُ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّا بِأَرْضِ صَي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4268": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4268\nIn-book reference  : Book 42, Hadith 6\nEnglish translation  : Vol. 5, Book 42, Hadith 4273",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنِي عَمْرُو بْنُ يَحْيَى بْنِ الْحَارِثِ، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ، قَالَ حَدَّثَنَا مُوسَى بْنُ أَعْيَنَ، عَنْ مَعْمَرٍ، عَنْ عَاصِمِ بْنِ سُلَيْمَانَ، عَنْ عَامِرٍ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، أَنَّهُ سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّيْدِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي عَمْرُو بْنُ يَحْيَى بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ أَعْيَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَامِرٍ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ، أَنَّهُ سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّيْدِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4269": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4269\nIn-book reference  : Book 42, Hadith 7\nEnglish translation  : Vol. 5, Book 42, Hadith 4274",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا زَكَرِيَّا، - وَهُوَ ابْنُ أَبِي زَائِدَةَ - قَالَ حَدَّثَنَا عَامِرٌ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْكَلْبِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا زَكَرِيَّا، - وَهُوَ ابْنُ أَبِي زَائِدَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا عَامِرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْكَلْبِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4270": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4270\nIn-book reference  : Book 42, Hadith 8\nEnglish translation  : Vol. 5, Book 42, Hadith 4275",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ الْحَكَمِ، قَالَ حَدَّثَنَا مُحَمَّدٌ، - وَهُوَ ابْنُ جَعْفَرٍ - قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، قَالَ حَدَّثَنَا الشَّعْبِيُّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، - وَكَانَ لَنَا جَارًا وَدَخِيلاً وَرَبِيطًا بِالنَّهْرَيْنِ - أَنَّهُ سَأَلَ النَّبِيَّ صلى الله عليه وسلم قَالَ أُرْسِلُ كَلْبِي فَأَجِدُ مَعَ كَلْبِي كَلْبًا قَدْ أَخَذَ لاَ أَدْرِي أَيَّهُمَا أَخَذَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ، - وَهُوَ ابْنُ جَعْفَرٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا الشَّعْبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ، - وَكَانَ لَنَا جَارًا وَدَخِيلاً وَرَبِيطًا بِالنَّهْرَيْنِ - أَنَّهُ سَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "أَخَذَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4272": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4272\nIn-book reference  : Book 42, Hadith 10\nEnglish translation  : Vol. 5, Book 42, Hadith 4277",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا سُلَيْمَانُ بْنُ عُبَيْدِ اللَّهِ بْنِ عَمْرٍو الْغَيْلاَنِيُّ الْبَصْرِيُّ، قَالَ حَدَّثَنَا بَهْزٌ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي السَّفَرِ، عَنْ عَامِرٍ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قُلْتُ أُرْسِلُ كَلْبِي . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُلَيْمَانُ بْنُ عُبَيْدِ اللَّهِ بْنِ عَمْرٍو الْغَيْلاَنِيُّ الْبَصْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَهْزٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي السَّفَرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَامِرٍ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قُلْتُ أُرْسِلُ كَلْبِي .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4273": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4273\nIn-book reference  : Book 42, Hadith 11\nEnglish translation  : Vol. 5, Book 42, Hadith 4278",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، عَنْ شُعْبَةَ، عَنِ ابْنِ أَبِي السَّفَرِ، عَنِ الشَّعْبِيِّ، وَعَنِ الْحَكَمِ، عَنِ الشَّعْبِيِّ، وَعَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قُلْتُ أُرْسِلُ كَلْبِي فَأَجِدُ مَعَ كَلْبِي كَلْبًا آخَرَ لاَ أَدْرِي أَيَّهُمَا أَخَذَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ، عَنِ ابْنِ أَبِي السَّفَرِ، عَنِ الشَّعْبِيِّ، وَعَنِ الْحَكَمِ، عَنِ الشَّعْبِيِّ، و",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَخَذَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4275": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4275\nIn-book reference  : Book 42, Hadith 13\nEnglish translation  : Vol. 5, Book 42, Hadith 4280",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ يَحْيَى بْنِ الْحَارِثِ، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ، قَالَ حَدَّثَنَا مُوسَى بْنُ أَعْيَنَ، عَنْ مَعْمَرٍ، عَنْ عَاصِمِ بْنِ سُلَيْمَانَ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ الطَّائِيِّ، أَنَّهُ سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّيْدِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ يَحْيَى بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ أَعْيَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ سُلَيْمَانَ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الصَّيْدِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4280": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4280\nIn-book reference  : Book 42, Hadith 18\nEnglish translation  : Vol. 5, Book 42, Hadith 4285",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا يُونُسُ، عَنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يُونُسُ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4281": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4281\nIn-book reference  : Book 42, Hadith 19\nEnglish translation  : Vol. 5, Book 42, Hadith 4286",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدٌ، وَيَحْيَى بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ عَلِيِّ بْنِ مُدْرِكٍ، عَنْ أَبِي زُرْعَةَ، عَنْ عَبْدِ اللَّهِ بْنِ نُجَىٍّ، عَنْ أَبِيهِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ مُدْرِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي زُرْعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ نُجَىٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4282": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4282\nIn-book reference  : Book 42, Hadith 20\nEnglish translation  : Vol. 5, Book 42, Hadith 4287",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، عَنْ سُفْيَانَ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أَبِي طَلْحَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ، وَإِسْحَاقُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُفْيَانَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4284": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4284\nIn-book reference  : Book 42, Hadith 22\nEnglish translation  : Vol. 5, Book 42, Hadith 4289",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرِ بْنِ سُوَيْدٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، - وَهُوَ ابْنُ الْمُبَارَكِ - عَنْ حَنْظَلَةَ، قَالَ سَمِعْتُ سَالِمًا، يُحَدِّثُ عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرِ بْنِ سُوَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، - وَهُوَ ابْنُ الْمُبَارَكِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَنْظَلَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ سَالِمًا، يُحَدِّثُ عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4285": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4285\nIn-book reference  : Book 42, Hadith 23\nEnglish translation  : Vol. 5, Book 42, Hadith 4290",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرِ بْنِ إِيَاسِ بْنِ مُقَاتِلِ بْنِ مُشَمْرِجِ بْنِ خَالِدٍ السَّعْدِيُّ، عَنْ إِسْمَاعِيلَ، - وَهُوَ ابْنُ جَعْفَرٍ - عَنْ يَزِيدَ، - وَهُوَ ابْنُ خُصَيْفَةَ - قَالَ أَخْبَرَنِي السَّائِبُ بْنُ يَزِيدَ، أَنَّهُ وَفَدَ عَلَيْهِمْ سُفْيَانُ بْنُ أَبِي زُهَيْرٍ الشَّنَائِيُّ وَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرِ بْنِ إِيَاسِ بْنِ مُقَاتِلِ بْنِ مُشَمْرِجِ بْنِ خَالِدٍ السَّعْدِيّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ، - وَهُوَ ابْنُ جَعْفَرٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ، - وَهُوَ ابْنُ خُصَيْفَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي السَّائِبُ بْنُ يَزِيدَ، أَنَّهُ وَفَدَ عَلَيْهِمْ سُفْيَانُ بْنُ أَبِي زُهَيْرٍ ا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4286": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4286\nIn-book reference  : Book 42, Hadith 24\nEnglish translation  : Vol. 5, Book 42, Hadith 4291",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ سَمِعَهُ يَقُولُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ سَمِعَهُ يَقُولُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4287": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4287\nIn-book reference  : Book 42, Hadith 25\nEnglish translation  : Vol. 5, Book 42, Hadith 4292",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الْجَبَّارِ بْنُ الْعَلاَءِ، عَنْ سُفْيَانَ، قَالَ حَدَّثَنَا الزُّهْرِيُّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الْجَبَّارِ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4288": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4288\nIn-book reference  : Book 42, Hadith 26\nEnglish translation  : Vol. 5, Book 42, Hadith 4293",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى، وَابْنُ أَبِي عَدِيٍّ، وَمُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ عَوْفٍ، عَنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، وَابْنُ أَبِي عَدِيٍّ، وَمُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَوْفٍ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4289": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4289\nIn-book reference  : Book 42, Hadith 27\nEnglish translation  : Vol. 5, Book 42, Hadith 4294",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4290": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4290\nIn-book reference  : Book 42, Hadith 28\nEnglish translation  : Vol. 5, Book 42, Hadith 4295",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، قَالَ أَنْبَأَنَا ابْنُ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي يُونُسُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4293": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4293\nIn-book reference  : Book 42, Hadith 31\nEnglish translation  : Vol. 5, Book 42, Hadith 4298",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَنْبَأَنَا مَعْرُوفُ بْنُ سُوَيْدٍ الْجُذَامِيُّ، أَنَّ عُلَىَّ بْنَ رَبَاحٍ اللَّخْمِيَّ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "4294": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4294\nIn-book reference  : Book 42, Hadith 32\nEnglish translation  : Vol. 5, Book 42, Hadith 4299",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا شُعَيْبُ بْنُ يُوسُفَ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ يُوسُفَ، عَنِ السَّائِبِ بْنِ يَزِيدَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يُوسُفَ، عَنِ السَّائِبِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4297": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4297\nIn-book reference  : Book 42, Hadith 35\nEnglish translation  : Vol. 5, Book 42, Hadith 4302",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ بْنِ رَافِعٍ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ بَيْنَمَا نَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي ذِي الْحُلَيْفَةِ مِنْ تِهَامَةَ فَأَصَابُوا إِبِلاً وَغَنَمًا وَرَسُولُ اللَّهِ صلى الله عليه وسلم فِي أُخْرَيَاتِ الْقَوْمِ فَعَجَّلَ أَوَّلُهُمْ فَذَبَحُوا وَنَصَبُوا الْقُدُورَ فَدُفِعَ إِلَيْهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَمَرَ بِالْقُدُورِ فَأُكْفِئَتْ ثُمَّ قَسَّمَ بَيْنَهُمْ فَعَدَلَ عَشْرًا مِنَ الشَّاءِ بِبَعِيرٍ فَبَيْنَمَا هُمْ كَذَلِكَ إِذْ نَدَّ بَعِيرٌ وَلَيْسَ فِي الْقَوْمِ إِلاَّ خَيْلٌ يَسِيرَةٌ فَطَلَبُوهُ فَأَعْيَاهُمْ فَرَمَاهُ رَجُلٌ بِسَهْمٍ فَحَبَسَهُ اللَّهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبَايَةَ بْنِ رِفَاعَةَ بْنِ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ بَيْنَمَا نَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي ذِي الْحُلَيْفَةِ مِنْ تِهَامَةَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4298": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4298\nIn-book reference  : Book 42, Hadith 36\nEnglish translation  : Vol. 5, Book 42, Hadith 4303",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ مَنِيعٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، قَالَ أَخْبَرَنِي عَاصِمٌ الأَحْوَلُ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّيْدِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَاصِمٌ الأَحْوَلُ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّيْدِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4300": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4300\nIn-book reference  : Book 42, Hadith 38\nEnglish translation  : Vol. 5, Book 42, Hadith 4305",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا زِيَادُ بْنُ أَيُّوبَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَنْبَأَنَا أَبُو بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّا أَهْلُ الصَّيْدِ وَإِنَّ أَحَدَنَا يَرْمِي الصَّيْدَ فَيَغِيبُ عَنْهُ اللَّيْلَةَ وَاللَّيْلَتَيْنِ فَيَبْتَغِي الأَثَرَ فَيَجِدُهُ مَيِّتًا وَسَهْمُهُ فِيهِ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا زِيَادُ بْنُ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا أَبُو بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "فَيَغِيبُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْهُ اللَّيْلَةَ وَاللَّيْلَتَيْنِ فَيَبْتَغِي الأَثَرَ فَيَجِدُهُ مَيِّتًا وَسَهْمُهُ فِيهِ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4301": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4301\nIn-book reference  : Book 42, Hadith 39\nEnglish translation  : Vol. 5, Book 42, Hadith 4306",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، وَإِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالاَ حَدَّثَنَا خَالِدٌ، عَنْ شُعْبَةَ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4302": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4302\nIn-book reference  : Book 42, Hadith 40\nEnglish translation  : Vol. 5, Book 42, Hadith 4307",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الْمَلِكِ بْنِ مَيْسَرَةَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَرْمِي الصَّيْدَ فَأَطْلُبُ أَثَرَهُ بَعْدَ لَيْلَةٍ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَرْمِي الصَّيْدَ فَأَطْلُبُ أَثَرَهُ بَعْدَ لَيْلَةٍ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4304": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4304\nIn-book reference  : Book 42, Hadith 42\nEnglish translation  : Vol. 5, Book 42, Hadith 4309",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ شُعْبَةَ، عَنْ سِمَاكٍ، قَالَ سَمِعْتُ مُرِّيَّ بْنَ قَطَرِيٍّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أُرْسِلُ كَلْبِي فَيَأْخُذُ الصَّيْدَ وَلاَ أَجِدُ مَا أُذَكِّيهِ بِهِ فَأُذَكِّيهِ بِالْمَرْوَةِ وَالْعَصَا . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سِمَاكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ مُرِّيَّ بْنَ قَطَرِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أُرْسِلُ كَلْبِي فَيَأْخُذُ الصَّيْدَ وَلاَ أَجِدُ مَا أُذَكِّيهِ ب",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4306": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4306\nIn-book reference  : Book 42, Hadith 44\nEnglish translation  : Vol. 5, Book 42, Hadith 4311",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي السَّفَرِ، عَنِ الشَّعْبِيِّ، قَالَ سَمِعْتُ عَدِيَّ بْنَ حَاتِمٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْمِعْرَاضِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي السَّفَرِ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ سَمِعْتُ عَدِيَّ بْنَ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْمِعْرَاضِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "4307": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4307\nIn-book reference  : Book 42, Hadith 45\nEnglish translation  : Vol. 5, Book 42, Hadith 4312",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا الْحُسَيْنُ بْنُ مُحَمَّدٍ الذَّارِعُ، قَالَ حَدَّثَنَا أَبُو مِحْصَنٍ، قَالَ حَدَّثَنَا حُصَيْنٌ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَيْدِ الْمِعْرَاضِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحُسَيْنُ بْنُ مُحَمَّدٍ الذَّارِعُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مِحْصَنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حُصَيْنٌ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ صَيْدِ الْمِعْرَاضِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4308": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4308\nIn-book reference  : Book 42, Hadith 46\nEnglish translation  : Vol. 5, Book 42, Hadith 4313",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا عِيسَى بْنُ يُونُسَ، وَغَيْرُهُ، عَنْ زَكَرِيَّا، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَيْدِ الْمِعْرَاضِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عِيسَى بْنُ يُونُسَ، وَغَيْرُهُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زَكَرِيَّا، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَيْدِ الْمِعْرَاضِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4309": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4309\nIn-book reference  : Book 42, Hadith 47\nEnglish translation  : Vol. 5, Book 42, Hadith 4314",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ أَبِي مُوسَى، ح وَأَنْبَأَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي مُوسَى، عَنْ وَهْبِ بْنِ مُنَبِّهٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي مُوسَى، ح وَأَنْبَأَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ وَهْبِ بْنِ مُنَبِّهٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4314": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4314\nIn-book reference  : Book 42, Hadith 52\nEnglish translation  : Vol. 5, Book 42, Hadith 4319",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُوَ عَلَى الْمِنْبَرِ سُئِلَ عَنِ الضَّبِّ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُو",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4315": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4315\nIn-book reference  : Book 42, Hadith 53\nEnglish translation  : Vol. 5, Book 42, Hadith 4320",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، وَعَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ مَا تَرَى فِي الضَّبِّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، وَعَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الضَّبِّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4316": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4316\nIn-book reference  : Book 42, Hadith 54\nEnglish translation  : Vol. 5, Book 42, Hadith 4321",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا كَثِيرُ بْنُ عُبَيْدٍ، عَنْ مُحَمَّدِ بْنِ حَرْبٍ، عَنِ الزُّبَيْدِيِّ، قَالَ أَخْبَرَنِي الزُّهْرِيُّ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، عَنْ خَالِدِ بْنِ الْوَلِيدِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُتِيَ بِضَبٍّ مَشْوِيٍّ فَقُرِّبَ إِلَيْهِ فَأَهْوَى إِلَيْهِ بِيَدِهِ لِيَأْكُلَ مِنْهُ قَالَ لَهُ مَنْ حَضَرَ يَا رَسُولَ اللَّهِ إِنَّهُ لَحْمُ ضَبٍّ . فَرَفَعَ يَدَهُ عَنْهُ فَقَالَ لَهُ خَالِدُ بْنُ الْوَلِيدِ يَا رَسُولَ اللَّهِ أَحَرَامٌ الضَّبُّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا كَثِيرُ بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ حَرْبٍ، عَنِ الزُّبَيْدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "مِنْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَدَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "الضَّبُّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4317": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4317\nIn-book reference  : Book 42, Hadith 55\nEnglish translation  : Vol. 5, Book 42, Hadith 4322",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ أَخْبَرَهُ أَنَّ خَالِدَ بْنَ الْوَلِيدِ أَخْبَرَهُ أَنَّهُ، دَخَلَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى مَيْمُونَةَ بِنْتِ الْحَارِثِ - وَهِيَ خَالَتُهُ - فَقُدِّمَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم لَحْمُ ضَبٍّ - وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لاَ يَأْكُلُ شَيْئًا حَتَّى يَعْلَمَ مَا هُوَ - فَقَالَ بَعْضُ النِّسْوَةِ أَلاَ تُخْبِرْنَ رَسُولَ اللَّهِ صلى الله عليه وسلم مَا يَأْكُلُ فَأَخْبَرَتْهُ أَنَّهُ لَحْمُ ضَبٍّ فَتَرَكَهُ قَالَ خَالِدٌ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَحَرَامٌ هُوَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ أَخْبَرَهُ أَنَّ خَالِدَ بْنَ الْوَلِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "فَتَرَكَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ خَالِدٌ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَحَرَامٌ هُوَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4320": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4320\nIn-book reference  : Book 42, Hadith 58\nEnglish translation  : Vol. 5, Book 42, Hadith 4325",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا سُلَيْمَانُ بْنُ مَنْصُورٍ الْبَلْخِيُّ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، سَلاَّمُ بْنُ سُلَيْمٍ عَنْ حُصَيْنٍ، عَنْ زَيْدِ بْنِ وَهْبٍ، عَنْ ثَابِتِ بْنِ يَزِيدَ الأَنْصَارِيِّ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ فَنَزَلْنَا مَنْزِلاً فَأَصَابَ النَّاسُ ضِبَابًا فَأَخَذْتُ ضَبًّا فَشَوَيْتُهُ ثُمَّ أَتَيْتُ بِهِ النَّبِيَّ صلى الله عليه وسلم فَأَخَذَ عُودًا يَعُدُّ بِهِ أَصَابِعَهُ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُلَيْمَانُ بْنُ مَنْصُورٍ الْبَلْخِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سُلَيْمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُصَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زَيْدِ بْنِ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ ثَابِتِ بْنِ يَزِيدَ الأَنْصَارِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4321": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4321\nIn-book reference  : Book 42, Hadith 59\nEnglish translation  : Vol. 5, Book 42, Hadith 4326",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ، قَالَ حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنِي عَدِيُّ بْنُ ثَابِتٍ، قَالَ سَمِعْتُ زَيْدَ بْنَ وَهْبٍ، يُحَدِّثُ عَنْ ثَابِتِ بْنِ وَدِيعَةَ، قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بِضَبٍّ فَجَعَلَ يَنْظُرُ إِلَيْهِ وَيُقَلِّبُهُ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي عَدِيُّ بْنُ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ ثَابِتِ بْنِ وَدِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بِضَبٍّ فَجَعَلَ يَنْظُرُ إِلَيْهِ وَيُق",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4322": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4322\nIn-book reference  : Book 42, Hadith 60\nEnglish translation  : Vol. 5, Book 42, Hadith 4327",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ زَيْدِ بْنِ وَهْبٍ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، عَنْ ثَابِتِ بْنِ وَدِيعَةَ، أَنَّ رَجُلاً، أَتَى النَّبِيَّ صلى الله عليه وسلم بِضَبٍّ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ زَيْدِ بْنِ وَهْبٍ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ ثَابِتِ بْنِ وَدِيعَةَ، أَنَّ رَجُلاً، أَتَى النَّبِيَّ صلى الله عليه وسلم بِضَبٍّ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4324": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4324\nIn-book reference  : Book 42, Hadith 62\nEnglish translation  : Vol. 5, Book 42, Hadith 4329",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي حَكِيمٍ، عَنْ عَبِيدَةَ بْنِ سُفْيَانَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ أَبِي حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبِيدَةَ بْنِ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4326": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4326\nIn-book reference  : Book 42, Hadith 64\nEnglish translation  : Vol. 5, Book 42, Hadith 4331",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، قَالَ حَدَّثَنَا بَقِيَّةُ، عَنْ بَحِيرٍ، عَنْ خَالِدٍ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ أَبِي ثَعْلَبَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَقِيَّةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بَحِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جُبَيْرِ بْنِ نُفَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي ثَعْلَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4331": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4331\nIn-book reference  : Book 42, Hadith 69\nEnglish translation  : Vol. 5, Book 42, Hadith 4336",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا بَقِيَّةُ بْنُ الْوَلِيدِ، قَالَ حَدَّثَنِي ثَوْرُ بْنُ يَزِيدَ، عَنْ صَالِحِ بْنِ يَحْيَى بْنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ خَالِدِ بْنِ الْوَلِيدِ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَقِيَّةُ بْنُ الْوَلِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي ثَوْرُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَالِحِ بْنِ يَحْيَى بْنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4340": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4340\nIn-book reference  : Book 42, Hadith 78\nEnglish translation  : Vol. 5, Book 42, Hadith 4345",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، قَالَ صَبَّحَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَيْبَرَ فَخَرَجُوا إِلَيْنَا وَمَعَهُمُ الْمَسَاحِي فَلَمَّا رَأَوْنَا قَالُوا مُحَمَّدٌ وَالْخَمِيسُ . وَرَجَعُوا إِلَى الْحِصْنِ يَسْعَوْنَ فَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَيْهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4341": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4341\nIn-book reference  : Book 42, Hadith 79\nEnglish translation  : Vol. 5, Book 42, Hadith 4346",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، أَنْبَأَنَا بَقِيَّةُ، عَنْ بَحِيرٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ أَبِي ثَعْلَبَةَ الْخُشَنِيِّ، أَنَّهُ حَدَّثَهُمْ أَنَّهُمْ، غَزَوْا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلَى خَيْبَرَ وَالنَّاسُ جِيَاعٌ فَوَجَدُوا فِيهَا حُمُرًا مِنْ حُمُرِ الإِنْسِ فَذَبَحَ النَّاسُ مِنْهَا فَحُدِّثَ بِذَلِكَ النَّبِيُّ صلى الله عليه وسلم فَأَمَرَ عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ فَأَذَّنَ فِي النَّاسِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، أَنْبَأَنَا بَقِيَّةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ بَحِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ خَالِدِ بْنِ مَعْدَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جُبَيْرِ بْنِ نُفَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "النَّاسِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "عَنْ"
+    ]
+  },
+  "4344": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4344\nIn-book reference  : Book 42, Hadith 82\nEnglish translation  : Vol. 5, Book 42, Hadith 4349",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا بَكْرٌ، - هُوَ ابْنُ مُضَرَ - عَنِ ابْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عِيسَى بْنِ طَلْحَةَ، عَنْ عُمَيْرِ بْنِ سَلَمَةَ الضَّمْرِيِّ، قَالَ بَيْنَا نَحْنُ نَسِيرُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِبَعْضِ أَثَايَا الرَّوْحَاءِ وَهُمْ حُرُمٌ إِذَا حِمَارُ وَحْشٍ مَعْقُورٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَكْرٌ، - هُوَ ابْنُ مُضَرَ - عَنِ ابْنِ الْهَادِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِيسَى بْنِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُمَيْرِ بْنِ سَلَمَةَ الضَّمْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ بَيْنَا نَحْنُ نَسِيرُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِبَعْضِ أَثَايَا الرَّوْحَاءِ ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4350": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4350\nIn-book reference  : Book 42, Hadith 88\nEnglish translation  : Vol. 5, Book 42, Hadith 4355",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ سَعِيدِ بْنِ سَلَمَةَ، عَنِ الْمُغِيرَةِ بْنِ أَبِي بُرْدَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي مَاءِ الْبَحْرِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ سُلَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ سَلَمَةَ، عَنِ الْمُغِيرَةِ بْنِ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الْبَحْرِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4352": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4352\nIn-book reference  : Book 42, Hadith 90\nEnglish translation  : Vol. 5, Book 42, Hadith 4357",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، عَنْ سُفْيَانَ، عَنْ عَمْرٍو، قَالَ سَمِعْتُ جَابِرًا، يَقُولُ بَعَثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم ثَلاَثَمِائَةِ رَاكِبٍ أَمِيرُنَا أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ نَرْصُدُ عِيرَ قُرَيْشٍ فَأَقَمْنَا بِالسَّاحِلِ فَأَصَابَنَا جُوعٌ شَدِيدٌ حَتَّى أَكَلْنَا الْخَبَطَ - قَالَ - فَأَلْقَى الْبَحْرُ دَابَّةً يُقَالُ لَهَا الْعَنْبَرُ فَأَكَلْنَا مِنْهُ نِصْفَ شَهْرٍ وَادَّهَنَّا مِنْ وَدَكِهِ فَثَابَتْ أَجْسَامُنَا وَأَخَذَ أَبُو عُبَيْدَةَ ضِلَعًا مِنْ أَضْلاَعِهِ فَنَظَرَ إِلَى أَطْوَلِ جَمَلٍ وَأَطْوَلِ رَجُلٍ فِي الْجَيْشِ فَمَرَّ تَحْتَهُ ثُمَّ جَاعُوا فَنَحَرَ رَجُلٌ ثَلاَثَ جَزَائِرَ ثُمَّ جَاعُوا فَنَحَرَ رَجُلٌ ثَلاَثَ جَزَائِرَ ثُمَّ جَاعُوا فَنَحَرَ رَجُلٌ ثَلاَثَ جَزَائِرَ ثُمَّ نَهَاهُ أَبُو عُبَيْدَةَ . قَالَ سُفْيَانُ قَالَ أَبُو الزُّبَيْرِ عَنْ جَابِرٍ فَسَأَلْنَا النَّبِيَّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ جَابِرًا، يَقُولُ بَعَثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم ثَلاَثَمِائَةِ رَاكِبٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ - فَأَلْقَى الْبَحْرُ دَابَّةً يُقَالُ لَهَا الْ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْبَرُ فَأَكَلْنَا مِنْهُ نِصْفَ شَهْرٍ وَادَّهَنَّا مِنْ وَدَكِهِ فَثَابَتْ أَجْسَامُنَا وَأَخَذَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "سُفْيَانُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الزُّبَيْرِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ جَابِرٍ فَسَأَلْنَا النَّبِيَّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4353": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4353\nIn-book reference  : Book 42, Hadith 91\nEnglish translation  : Vol. 5, Book 42, Hadith 4358",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا زِيَادُ بْنُ أَيُّوبَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ بَعَثَنَا النَّبِيُّ صلى الله عليه وسلم مَعَ أَبِي عُبَيْدَةَ فِي سَرِيَّةٍ فَنَفِدَ زَادُنَا فَمَرَرْنَا بِحُوتٍ قَدْ قَذَفَ بِهِ الْبَحْرُ فَأَرَدْنَا أَنْ نَأْكُلَ مِنْهُ فَنَهَانَا أَبُو عُبَيْدَةَ ثُمَّ قَالَ نَحْنُ رُسُلُ رَسُولِ اللَّهِ صلى الله عليه وسلم وَفِي سَبِيلِ اللَّهِ كُلُوا . فَأَكَلْنَا مِنْهُ أَيَّامًا فَلَمَّا قَدِمْنَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَخْبَرْنَاهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا زِيَادُ بْنُ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبُو الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ نَحْنُ رُسُلُ رَسُولِ اللَّهِ صلى الله عليه وسلم وَفِي سَبِيلِ اللَّهِ كُلُوا . فَأَكَلْنَا مِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4358": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Hunting and Slaughtering",
+    "book_num": "42",
+    "reference": "Reference  : Sunan an-Nasa'i 4358\nIn-book reference  : Book 42, Hadith 96\nEnglish translation  : Vol. 5, Book 42, Hadith 4363",
+    "url": "https://sunnah.com/nasai/42",
+    "sanad_full": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدٍ، وَأَبِي، سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "سَلَمَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

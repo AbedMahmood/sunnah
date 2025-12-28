@@ -1,0 +1,211 @@
+{
+  "6714": {
+    "collection": "Sahih Bukhari",
+    "book": "Expiation for Unfulfilled Oaths",
+    "book_num": "84",
+    "reference": "Reference  : Sahih al-Bukhari 6714\nIn-book reference  : Book 84, Hadith 7\nUSC-MSA web (English) reference  : Vol. 8, Book 79, Hadith 705\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/84",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6715": {
+    "collection": "Sahih Bukhari",
+    "book": "Expiation for Unfulfilled Oaths",
+    "book_num": "84",
+    "reference": "Reference  : Sahih al-Bukhari 6715\nIn-book reference  : Book 84, Hadith 8\nUSC-MSA web (English) reference  : Vol. 8, Book 79, Hadith 706\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/84",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، حَدَّثَنَا دَاوُدُ بْنُ رُشَيْدٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنْ أَبِي غَسَّانَ، مُحَمَّدِ بْنِ مُطَرِّفٍ عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، عَنْ سَعِيدٍ ابْنِ مَرْجَانَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ بْنُ رُشَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "مُطَرِّفٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زَيْدِ بْنِ أَسْلَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ حُسَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَعِيدٍ ابْنِ مَرْجَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6716": {
+    "collection": "Sahih Bukhari",
+    "book": "Expiation for Unfulfilled Oaths",
+    "book_num": "84",
+    "reference": "Reference  : Sahih al-Bukhari 6716\nIn-book reference  : Book 84, Hadith 9\nUSC-MSA web (English) reference  : Vol. 8, Book 79, Hadith 707\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/84",
+    "sanad_full": "حَدَّثَنَا أَبُو النُّعْمَانِ، أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَمْرٍو، عَنْ جَابِرٍ، أَنَّ رَجُلاً، مِنَ الأَنْصَارِ دَبَّرَ مَمْلُوكًا لَهُ، وَلَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُ فَبَلَغَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو النُّعْمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرٍ، أَنَّ رَجُلاً، مِنَ الأَنْصَارِ دَبَّرَ مَمْلُوكًا لَهُ، وَلَمْ يَكُنْ لَهُ مَالٌ غَيْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6717": {
+    "collection": "Sahih Bukhari",
+    "book": "Expiation for Unfulfilled Oaths",
+    "book_num": "84",
+    "reference": "Reference  : Sahih al-Bukhari 6717\nIn-book reference  : Book 84, Hadith 10\nUSC-MSA web (English) reference  : Vol. 8, Book 79, Hadith 708\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/84",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، أَنَّهَا أَرَادَتْ أَنْ تَشْتَرِيَ، بَرِيرَةَ فَاشْتَرَطُوا عَلَيْهَا الْوَلاَءَ، فَذَكَرَتْ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّهَا أَرَادَتْ أَنْ تَشْتَرِيَ، بَرِيرَةَ فَاشْتَرَطُوا عَلَيْهَا الْوَلاَءَ، فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6722": {
+    "collection": "Sahih Bukhari",
+    "book": "Expiation for Unfulfilled Oaths",
+    "book_num": "84",
+    "reference": "Reference  : Sahih al-Bukhari 6722\nIn-book reference  : Book 84, Hadith 15\nUSC-MSA web (English) reference  : Vol. 8, Book 79, Hadith 715\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/84",
+    "sanad_full": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ بْنِ فَارِسٍ، أَخْبَرَنَا ابْنُ عَوْنٍ، عَنِ الْحَسَنِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ سَمُرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ بْنِ فَارِسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا ابْنُ عَوْنٍ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ سَمُرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

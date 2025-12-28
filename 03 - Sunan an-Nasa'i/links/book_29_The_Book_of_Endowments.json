@@ -1,0 +1,340 @@
+{
+  "3597": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Endowments",
+    "book_num": "29",
+    "reference": "Reference  : Sunan an-Nasa'i 3597\nIn-book reference  : Book 29, Hadith 4\nEnglish translation  : Vol. 4, Book 29, Hadith 3627",
+    "url": "https://sunnah.com/nasai/29",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا أَبُو دَاوُدَ الْحَفَرِيُّ، عُمَرُ بْنُ سَعْدٍ عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنِ ابْنِ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، قَالَ أَصَبْتُ أَرْضًا مِنْ أَرْضِ خَيْبَرَ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ أَصَبْتُ أَرْضًا لَمْ أُصِبْ مَالاً أَحَبَّ إِلَىَّ وَلاَ أَنْفَسَ عِنْدِي مِنْهَا . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "سَعْدٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنِ ابْنِ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَصَبْتُ أَرْضًا مِنْ أَرْضِ خَيْبَرَ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ أ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3599": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Endowments",
+    "book_num": "29",
+    "reference": "Reference  : Sunan an-Nasa'i 3599\nIn-book reference  : Book 29, Hadith 6\nEnglish translation  : Vol. 4, Book 29, Hadith 3629",
+    "url": "https://sunnah.com/nasai/29",
+    "sanad_full": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - قَالَ حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، قَالَ أَصَابَ عُمَرُ أَرْضًا بِخَيْبَرَ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ أَصَبْتُ أَرْضًا لَمْ أُصِبْ مَالاً قَطُّ أَنْفَسَ عِنْدِي فَكَيْفَ تَأْمُرُ بِهِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَصَابَ عُمَرُ أَرْضًا بِخَيْبَرَ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ أَصَبْتُ أَرْضًا لَمْ أُصِبْ مَالاً قَطُّ أَنْفَسَ عِنْدِي فَكَيْفَ تَأْمُرُ بِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3600": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Endowments",
+    "book_num": "29",
+    "reference": "Reference  : Sunan an-Nasa'i 3600\nIn-book reference  : Book 29, Hadith 7\nEnglish translation  : Vol. 4, Book 29, Hadith 3630",
+    "url": "https://sunnah.com/nasai/29",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا بِشْرٌ، عَنِ ابْنِ عَوْنٍ، قَالَ وَأَنْبَأَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا بِشْرٌ، قَالَ حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ أَصَابَ عُمَرُ أَرْضًا بِخَيْبَرَ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَاسْتَأْمَرَهُ فِيهَا فَقَالَ إِنِّي أَصَبْتُ أَرْضًا كَثِيرًا لَمْ أُصِبْ مَالاً قَطُّ أَنْفَسَ عِنْدِي مِنْهُ فَمَا تَأْمُرُ فِيهَا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بِشْرٌ، عَنِ ابْنِ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ وَأَنْبَأَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا بِشْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا ابْنُ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ أَصَابَ عُمَرُ أَرْضًا بِخَيْبَرَ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَاسْتَأْمَرَهُ فِيهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "فِيهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3601": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Endowments",
+    "book_num": "29",
+    "reference": "Reference  : Sunan an-Nasa'i 3601\nIn-book reference  : Book 29, Hadith 8\nEnglish translation  : Vol. 4, Book 29, Hadith 3631",
+    "url": "https://sunnah.com/nasai/29",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَزْهَرُ السَّمَّانُ، عَنِ ابْنِ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، أَصَابَ أَرْضًا بِخَيْبَرَ فَأَتَى النَّبِيَّ صلى الله عليه وسلم يَسْتَأْمِرُهُ فِي ذَلِكَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَزْهَرُ السَّمَّانُ، عَنِ ابْنِ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، أَصَابَ أَرْضًا بِخَيْبَرَ فَأَتَى النَّبِيَّ صلى الل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3603": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Endowments",
+    "book_num": "29",
+    "reference": "Reference  : Sunan an-Nasa'i 3603\nIn-book reference  : Book 29, Hadith 10\nEnglish translation  : Vol. 4, Book 29, Hadith 3633",
+    "url": "https://sunnah.com/nasai/29",
+    "sanad_full": "أَخْبَرَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ عُمَرُ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ الْمِائَةَ سَهْمٍ الَّتِي لِي بِخَيْبَرَ لَمْ أُصِبْ مَالاً قَطُّ أَعْجَبَ إِلَىَّ مِنْهَا قَدْ أَرَدْتُ أَنْ أَتَصَدَّقَ بِهَا . فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ عُمَرُ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ الْمِائَةَ سَهْمٍ الَّتِي لِي بِخَيْبَرَ لَمْ أُصِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3604": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Endowments",
+    "book_num": "29",
+    "reference": "Reference  : Sunan an-Nasa'i 3604\nIn-book reference  : Book 29, Hadith 11\nEnglish translation  : Vol. 4, Book 29, Hadith 3634",
+    "url": "https://sunnah.com/nasai/29",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الْخَلَنْجِيُّ، بِبَيْتِ الْمَقْدِسِ قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، رضى الله عنه قَالَ جَاءَ عُمَرُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي أَصَبْتُ مَالاً لَمْ أُصِبْ مِثْلَهُ قَطُّ كَانَ لِي مِائَةُ رَأْسٍ فَاشْتَرَيْتُ بِهَا مِائَةَ سَهْمٍ مِنْ خَيْبَرَ مِنْ أَهْلِهَا وَإِنِّي قَدْ أَرَدْتُ أَنْ أَتَقَرَّبَ بِهَا إِلَى اللَّهِ عَزَّ وَجَلَّ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْمَقْدِسِ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُمَرَ، رضى الله عنه",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ جَاءَ عُمَرُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ إِنِّي أَصَبْتُ مَالاً لَمْ أُصِبْ مِثْلَهُ قَطُّ كَانَ لِي مِائَةُ رَأْسٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3605": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Endowments",
+    "book_num": "29",
+    "reference": "Reference  : Sunan an-Nasa'i 3605\nIn-book reference  : Book 29, Hadith 12\nEnglish translation  : Vol. 4, Book 29, Hadith 3635",
+    "url": "https://sunnah.com/nasai/29",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُصَفَّى بْنِ بُهْلُولٍ، قَالَ حَدَّثَنَا بَقِيَّةُ، عَنْ سَعِيدِ بْنِ سَالِمٍ الْمَكِّيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ أَرْضٍ لِي بِثَمْغٍ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُصَفَّى بْنِ بُهْلُولٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَقِيَّةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ سَالِمٍ الْمَكِّيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "بِثَمْغٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

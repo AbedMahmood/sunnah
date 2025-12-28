@@ -1,0 +1,1717 @@
+{
+  "6983": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6983\nIn-book reference  : Book 91, Hadith 2\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 112\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6984": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6984\nIn-book reference  : Book 91, Hadith 3\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 113\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا يَحْيَى ـ هُوَ ابْنُ سَعِيدٍ ـ قَالَ سَمِعْتُ أَبَا سَلَمَةَ، قَالَ سَمِعْتُ أَبَا قَتَادَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زُهَيْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى ـ هُوَ ابْنُ سَعِيدٍ ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ أَبَا سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ أَبَا قَتَادَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "6985": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6985\nIn-book reference  : Book 91, Hadith 4\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 114\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا اللَّيْثُ، حَدَّثَنِي ابْنُ الْهَادِ، عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي ابْنُ الْهَادِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "6986": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6986\nIn-book reference  : Book 91, Hadith 5\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 115\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَحْيَى بْنِ أَبِي كَثِيرٍ ـ وَأَثْنَى عَلَيْهِ خَيْرًا لَقِيتُهُ بِالْيَمَامَةِ ـ عَنْ أَبِيهِ، حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي قَتَادَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَحْيَى بْنِ أَبِي كَثِيرٍ ـ وَأَثْنَى عَلَيْهِ خَيْرًا لَقِيتُهُ بِا",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي قَتَادَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6987": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6987\nIn-book reference  : Book 91, Hadith 6\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 116\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا غُنْدَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُبَادَةَ بْنِ الصَّامِتِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6988": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6988\nIn-book reference  : Book 91, Hadith 7\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 117\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ قَزَعَةَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ قَزَعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6989": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6989\nIn-book reference  : Book 91, Hadith 8\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 118\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ حَمْزَةَ، حَدَّثَنِي ابْنُ أَبِي حَازِمٍ، وَالدَّرَاوَرْدِيُّ، عَنْ يَزِيدَ، عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ حَمْزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي ابْنُ أَبِي حَازِمٍ، وَالدَّرَاوَرْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "6991": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6991\nIn-book reference  : Book 91, Hadith 10\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 120\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنه ـ أَنَّ أُنَاسًا، أُرُوا لَيْلَةَ الْقَدْرِ فِي السَّبْعِ الأَوَاخِرِ، وَأَنَّ أُنَاسًا أُرُوا أَنَّهَا فِي الْعَشْرِ الأَوَاخِرِ، فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنه ـ أَنَّ أُنَاسًا، أُرُوا لَيْلَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6992": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6992\nIn-book reference  : Book 91, Hadith 11\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 121\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ، حَدَّثَنَا جُوَيْرِيَةُ، عَنْ مَالِكٍ، عَنِ الزُّهْرِيِّ، أَنَّ سَعِيدَ بْنَ الْمُسَيَّبِ، وَأَبَا، عُبَيْدٍ أَخْبَرَاهُ عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جُوَيْرِيَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَاهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6993": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6993\nIn-book reference  : Book 91, Hadith 12\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 122\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عَبْدَانُ، أَخْبَرَنَا عَبْدُ اللَّهِ، عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، حَدَّثَنِي أَبُو سَلَمَةَ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ، أَنَّ أَبَا هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "6994": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6994\nIn-book reference  : Book 91, Hadith 13\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 123\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُخْتَارٍ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُخْتَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6995": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6995\nIn-book reference  : Book 91, Hadith 14\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 124\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، أَخْبَرَنِي أَبُو سَلَمَةَ، عَنْ أَبِي قَتَادَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، أَخْبَرَنِي أَبُو سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6996": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6996\nIn-book reference  : Book 91, Hadith 15\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 125\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا خَالِدُ بْنُ خَلِيٍّ، حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، حَدَّثَنِي الزُّبَيْدِيُّ، عَنِ الزُّهْرِيِّ، قَالَ أَبُو سَلَمَةَ قَالَ أَبُو قَتَادَةَ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ خَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي الزُّبَيْدِيُّ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "سَلَمَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَبُو قَتَادَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "6997": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6997\nIn-book reference  : Book 91, Hadith 16\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 126\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا اللَّيْثُ، حَدَّثَنِي ابْنُ الْهَادِ، عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي ابْنُ الْهَادِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "6998": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6998\nIn-book reference  : Book 91, Hadith 17\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 127\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ الْمِقْدَامِ الْعِجْلِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ الطُّفَاوِيُّ، حَدَّثَنَا أَيُّوبُ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ الْمِقْدَامِ الْعِجْلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ الطُّفَاوِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَيُّوبُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6999": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 6999\nIn-book reference  : Book 91, Hadith 18\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 128\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7005": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7005\nIn-book reference  : Book 91, Hadith 23\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 133\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، أَنَّ أَبَا قَتَادَةَ الأَنْصَارِيّ َ ـ وَكَانَ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَفُرْسَانِهِ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "وَفُرْسَانِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7010": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7010\nIn-book reference  : Book 91, Hadith 28\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 138\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الْجُعْفِيُّ، حَدَّثَنَا حَرَمِيُّ بْنُ عُمَارَةَ، حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ قَالَ قَيْسُ بْنُ عُبَادٍ كُنْتُ فِي حَلْقَةٍ فِيهَا سَعْدُ بْنُ مَالِكٍ وَابْنُ عُمَرَ فَمَرَّ عَبْدُ اللَّهِ بْنُ سَلاَمٍ فَقَالُوا هَذَا رَجُلٌ مِنْ أَهْلِ الْجَنَّةِ. فَقُلْتُ لَهُ إِنَّهُمْ قَالُوا كَذَا وَكَذَا. قَالَ سُبْحَانَ اللَّهِ مَا كَانَ يَنْبَغِي لَهُمْ أَنْ يَقُولُوا مَا لَيْسَ لَهُمْ بِهِ عِلْمٌ، إِنَّمَا رَأَيْتُ كَأَنَّمَا عَمُودٌ وُضِعَ فِي رَوْضَةٍ خَضْرَاءَ، فَنُصِبَ فِيهَا وَفِي رَأْسِهَا عُرْوَةٌ وَفِي أَسْفَلِهَا مِنْصَفٌ ـ وَالْمِنْصَفُ الْوَصِيفُ ـ فَقِيلَ ارْقَهْ. فَرَقِيتُ حَتَّى أَخَذْتُ بِالْعُرْوَةِ. فَقَصَصْتُهَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الْجُعْفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَرَمِيُّ بْنُ عُمَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قَيْسُ بْنُ عُبَادٍ كُنْتُ فِي حَلْقَةٍ فِيهَا سَعْدُ بْنُ مَالِكٍ وَابْنُ عُمَرَ فَمَرَّ عَبْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سُبْحَانَ اللَّهِ مَا كَانَ يَنْبَغِي لَهُمْ أَنْ يَقُولُوا مَا لَيْسَ لَهُمْ بِهِ عِلْمٌ، إِن",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7011": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7011\nIn-book reference  : Book 91, Hadith 29\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 139\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله عنها ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7012": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7012\nIn-book reference  : Book 91, Hadith 30\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 140\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدٌ، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، أَخْبَرَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا أَبُو مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7013": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7013\nIn-book reference  : Book 91, Hadith 31\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 141\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، حَدَّثَنَا اللَّيْثُ، حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7014": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7014\nIn-book reference  : Book 91, Hadith 32\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 142\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَزْهَرُ، عَنِ ابْنِ عَوْنٍ، ح وَحَدَّثَنِي خَلِيفَةُ، حَدَّثَنَا مُعَاذٌ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ مُحَمَّدٍ، حَدَّثَنَا قَيْسُ بْنُ عُبَادٍ، عَنْ عَبْدِ اللَّهِ بْنِ سَلاَمٍ، قَالَ رَأَيْتُ كَأَنِّي فِي رَوْضَةٍ، وَسَطَ الرَّوْضَةِ عَمُودٌ فِي أَعْلَى الْعَمُودِ عُرْوَةٌ، فَقِيلَ لِي ارْقَهْ. قُلْتُ لاَ أَسْتَطِيعُ. فَأَتَانِي وَصِيفٌ فَرَفَعَ ثِيَابِي فَرَقِيتُ، فَاسْتَمْسَكْتُ بِالْعُرْوَةِ، فَانْتَبَهْتُ وَأَنَا مُسْتَمْسِكٌ بِهَا، فَقَصَصْتُهَا عَلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَزْهَرُ، عَنِ ابْنِ عَوْنٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي خَلِيفَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُعَاذٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا قَيْسُ بْنُ عُبَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ سَلاَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَأَيْتُ كَأَنِّي فِي رَوْضَةٍ، وَسَطَ الرَّوْضَةِ عَمُودٌ فِي أَعْلَى الْعَمُودِ عُرْوَةٌ، فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7017": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7017\nIn-book reference  : Book 91, Hadith 34\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 144\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَبَّاحٍ، حَدَّثَنَا مُعْتَمِرٌ، سَمِعْتُ عَوْفًا، حَدَّثَنَا مُحَمَّدُ بْنُ سِيرِينَ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَبَّاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعْتَمِرٌ، سَمِعْتُ عَوْفًا،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "7019": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7019\nIn-book reference  : Book 91, Hadith 36\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 146\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ كَثِيرٍ، حَدَّثَنَا شُعَيْبُ بْنُ حَرْبٍ، حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِيَةَ، حَدَّثَنَا نَافِعٌ، أَنَّ ابْنَ عُمَرَ ـ رضى الله عنهما ـ حَدَّثَهُ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعَيْبُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "7020": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7020\nIn-book reference  : Book 91, Hadith 37\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 147\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا مُوسَى، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنْ رُؤْيَا النَّبِيِّ، صلى الله عليه وسلم فِي أَبِي بَكْرٍ وَعُمَرَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زُهَيْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "وَعُمَرَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7021": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7021\nIn-book reference  : Book 91, Hadith 38\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 148\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، حَدَّثَنِي اللَّيْثُ، قَالَ حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَعِيدٌ، أَنَّ أَبَا هُرَيْرَةَ، أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَعِيدٌ، أَنَّ أَبَا هُرَيْرَةَ، أَخْبَرَهُ أَن",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7022": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7022\nIn-book reference  : Book 91, Hadith 39\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 149\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7023": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7023\nIn-book reference  : Book 91, Hadith 40\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 150\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، حَدَّثَنِي اللَّيْثُ، حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ بَيْنَا نَحْنُ جُلُوسٌ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ بَيْنَا نَحْنُ جُلُوسٌ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7024": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7024\nIn-book reference  : Book 91, Hadith 41\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 151\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7025": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7025\nIn-book reference  : Book 91, Hadith 42\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 152\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنِي يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ بَيْنَمَا نَحْنُ جُلُوسٌ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ بَيْنَمَا نَحْنُ جُلُوسٌ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7026": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7026\nIn-book reference  : Book 91, Hadith 43\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 153\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "7028": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7028, 7029\nIn-book reference  : Book 91, Hadith 45\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 155\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ، حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِيَةَ، حَدَّثَنَا نَافِعٌ، أَنَّ ابْنَ عُمَرَ، قَالَ إِنَّ رِجَالاً مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم كَانُوا يَرَوْنَ الرُّؤْيَا عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَيَقُصُّونَهَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَيَقُولُ فِيهَا رَسُولُ اللَّهِ صلى الله عليه وسلم مَا شَاءَ اللَّهُ، وَأَنَا غُلاَمٌ حَدِيثُ السِّنِّ وَبَيْتِي الْمَسْجِدُ قَبْلَ أَنْ أَنْكِحَ، فَقُلْتُ فِي نَفْسِي لَوْ كَانَ فِيكَ خَيْرٌ لَرَأَيْتَ مِثْلَ مَا يَرَى هَؤُلاَءِ. فَلَمَّا اضْطَجَعْتُ لَيْلَةً قُلْتُ اللَّهُمَّ إِنْ كُنْتَ تَعْلَمُ فِيَّ خَيْرًا فَأَرِنِي رُؤْيَا. فَبَيْنَمَا أَنَا كَذَلِكَ إِذْ جَاءَنِي مَلَكَانِ فِي يَدِ كُلِّ وَاحِدٍ مِنْهُمَا مَقْمَعَةٌ مِنْ حَدِيدٍ، يُقْبِلاَ بِي إِلَى جَهَنَّمَ، وَأَنَا بَيْنَهُمَا أَدْعُو اللَّهَ اللَّهُمَّ أَعُوذُ بِكَ مِنْ جَهَنَّمَ. ثُمَّ أُرَانِي لَقِيَنِي مَلَكٌ فِي يَدِهِ مِقْمَعَةٌ مِنْ حَدِيدٍ فَقَالَ لَنْ تُرَاعَ، نِعْمَ الرَّجُلُ أَنْتَ لَوْ تُكْثِرُ الصَّلاَةَ. فَانْطَلَقُوا بِي حَتَّى وَقَفُوا بِي عَلَى شَفِيرِ جَهَنَّمَ فَإِذَا هِيَ مَطْوِيَّةٌ كَطَىِّ الْبِئْرِ، لَهُ قُرُونٌ كَقَرْنِ الْبِئْرِ، بَيْنَ كُلِّ قَرْنَيْنِ مَلَكٌ بِيَدِهِ مِقْمَعَةٌ مِنْ حَدِيدٍ، وَأَرَى فِيهَا رِجَالاً مُعَلَّقِينَ بِالسَّلاَسِلِ، رُءُوسُهُمْ أَسْفَلَهُمْ، عَرَفْتُ فِيهَا رِجَالاً مِنْ قُرَيْشٍ، فَانْصَرَفُوا بِي عَنْ ذَاتِ الْيَمِينِ. فَقَصَصْتُهَا عَلَى حَفْصَةَ فَقَصَّتْهَا حَفْصَةُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ، حَدَّثَنَا صَخْرُ بْنُ ",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قَالَ إِنَّ رِجَالاً مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم كَانُوا يَرَوْنَ الرُّؤْيَا ع",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ لَنْ تُرَاعَ، نِعْمَ الرَّجُلُ أَنْتَ لَوْ تُكْثِرُ الصَّلاَةَ. فَانْطَلَقُوا بِي حَتَّى وَقَف",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ ذَاتِ الْيَمِينِ. فَقَصَصْتُهَا عَلَى حَفْصَةَ فَقَصَّتْهَا حَفْصَةُ عَلَى رَسُولِ اللَّهِ صلى ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7030": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7030, 7031\nIn-book reference  : Book 91, Hadith 46\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 156\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، قَالَ كُنْتُ غُلاَمًا شَابًّا عَزَبًا فِي عَهْدِ النَّبِيِّ صلى الله عليه وسلم وَكُنْتُ أَبِيتُ فِي الْمَسْجِدِ، وَكَانَ مَنْ رَأَى مَنَامًا قَصَّهُ عَلَى النَّبِيِّ صلى الله عليه وسلم فَقُلْتُ اللَّهُمَّ إِنْ كَانَ لِي عِنْدَكَ خَيْرٌ فَأَرِنِي مَنَامًا يُعَبِّرُهُ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم، فَنِمْتُ فَرَأَيْتُ مَلَكَيْنِ أَتَيَانِي فَانْطَلَقَا بِي، فَلَقِيَهُمَا مَلَكٌ آخَرُ فَقَالَ لِي لَنْ تُرَاعَ، إِنَّكَ رَجُلٌ صَالِحٌ، فَانْطَلَقَا بِي إِلَى النَّارِ، فَإِذَا هِيَ مَطْوِيَّةٌ كَطَىِّ الْبِئْرِ، وَإِذَا فِيهَا نَاسٌ قَدْ عَرَفْتُ بَعْضَهُمْ، فَأَخَذَا بِي ذَاتَ الْيَمِينِ، فَلَمَّا أَصْبَحْتُ ذَكَرْتُ ذَلِكَ لِحَفْصَةَ. فَزَعَمَتْ حَفْصَةُ أَنَّهَا قَصَّتْهَا عَلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ كُنْتُ غُلاَمًا شَابًّا عَزَبًا فِي عَهْدِ النَّبِيِّ صلى الله عليه وسلم وَكُنْتُ أَبِيتُ فِي ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ لِي لَنْ تُرَاعَ، إِنَّكَ رَجُلٌ صَالِحٌ، فَانْطَلَقَا بِي إِلَى النَّارِ، فَإِذَا هِيَ مَطْوِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7034": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7034\nIn-book reference  : Book 91, Hadith 49\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 158\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "فَقَالَ ابْنُ عَبَّاسٍ ذُكِرَ لِي أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالَ ابْنُ عَبَّاسٍ ذُكِرَ لِي أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "قَالَ"
+    ]
+  },
+  "7035": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7035\nIn-book reference  : Book 91, Hadith 50\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 159\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنِي مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ جَدِّهِ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، أُرَاهُ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُرَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَدِّهِ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى، أُرَاهُ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7038": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7038\nIn-book reference  : Book 91, Hadith 52\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 161\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنِي أَخِي عَبْدُ الْحَمِيدِ، عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنِي أَخِي عَبْدُ الْحَمِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مُوسَى بْنِ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7039": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7039\nIn-book reference  : Book 91, Hadith 53\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 162\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ، حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ، حَدَّثَنَا مُوسَى، حَدَّثَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ فِي رُؤْيَا النَّبِيِّ صلى الله عليه وسلم فِي الْمَدِينَةِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْمَدِينَةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7040": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7040\nIn-book reference  : Book 91, Hadith 54\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 163\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنِي أَبُو بَكْرِ بْنُ أَبِي أُوَيْسٍ، حَدَّثَنِي سُلَيْمَانُ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي أَبُو بَكْرِ بْنُ أَبِي أُوَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي سُلَيْمَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُوسَى بْنِ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7041": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7041\nIn-book reference  : Book 91, Hadith 55\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 164\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي بُرْدَةَ، عَنْ جَدِّهِ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، أُرَاهُ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَدِّهِ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى، أُرَاهُ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7043": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7043\nIn-book reference  : Book 91, Hadith 57\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 167\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ دِينَارٍ، مَوْلَى ابْنِ عُمَرَ عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الصَّمَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عُمَرَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7044": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7044\nIn-book reference  : Book 91, Hadith 58\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 168\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ الرَّبِيعِ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ رَبِّهِ بْنِ سَعِيدٍ، قَالَ سَمِعْتُ أَبَا سَلَمَةَ، يَقُولُ لَقَدْ كُنْتُ أَرَى الرُّؤْيَا فَتُمْرِضُنِي حَتَّى سَمِعْتُ أَبَا قَتَادَةَ يَقُولُ وَأَنَا كُنْتُ لأَرَى الرُّؤْيَا تُمْرِضُنِي، حَتَّى سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ الرَّبِيعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ رَبِّهِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7045": {
+    "collection": "Sahih Bukhari",
+    "book": "Interpretation of Dreams",
+    "book_num": "91",
+    "reference": "Reference  : Sahih al-Bukhari 7045\nIn-book reference  : Book 91, Hadith 59\nUSC-MSA web (English) reference  : Vol. 9, Book 87, Hadith 169\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/91",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ حَمْزَةَ، حَدَّثَنِي ابْنُ أَبِي حَازِمٍ، وَالدَّرَاوَرْدِيُّ، عَنْ يَزِيدَ، عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ حَمْزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي ابْنُ أَبِي حَازِمٍ، وَالدَّرَاوَرْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ خَبَّابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

@@ -1,0 +1,808 @@
+{
+  "2738": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2738\nIn-book reference  : Book 55, Hadith 1\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 1\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2743": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2743\nIn-book reference  : Book 55, Hadith 6\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 6\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ لَوْ غَضَّ النَّاسُ إِلَى الرُّبْعِ، لأَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ لَوْ غَضَّ النَّاسُ إِلَى الرُّبْعِ، لأَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2748": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2748\nIn-book reference  : Book 55, Hadith 11\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 11\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ سُفْيَانَ، عَنْ عُمَارَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَجُلٌ لِلنَّبِيِّ صلى الله عليه وسلم يَا رَسُولَ اللَّهِ، أَىُّ الصَّدَقَةِ أَفْضَلُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُمَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي زُرْعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أَفْضَلُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2749": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2749\nIn-book reference  : Book 55, Hadith 12\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 12\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَبُو الرَّبِيعِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، حَدَّثَنَا نَافِعُ بْنُ مَالِكِ بْنِ أَبِي عَامِرٍ أَبُو سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ أَبُو الرَّبِيعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا نَافِعُ بْنُ مَالِكِ بْنِ أَبِي عَامِرٍ أَبُو سُهَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2750": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2750\nIn-book reference  : Book 55, Hadith 13\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 13\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَعُرْوَةَ بْنِ الزُّبَيْرِ، أَنَّ حَكِيمَ بْنَ حِزَامٍ ـ رضى الله عنه ـ قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَعْطَانِي، ثُمَّ سَأَلْتُهُ فَأَعْطَانِي ثُمَّ قَالَ لِي",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَعُرْوَةَ بْنِ الزُّبَيْرِ، أَنَّ حَكِيمَ بْنَ حِزَامٍ ـ رضى الله ع",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ لِي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2756": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2756\nIn-book reference  : Book 55, Hadith 19\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 19\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدٌ، أَخْبَرَنَا مَخْلَدُ بْنُ يَزِيدَ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي يَعْلَى، أَنَّهُ سَمِعَ عِكْرِمَةَ، يَقُولُ أَنْبَأَنَا ابْنُ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ سَعْدَ بْنَ عُبَادَةَ ـ رضى الله عنه ـ تُوُفِّيَتْ أُمُّهُ وَهْوَ غَائِبٌ عَنْهَا، فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ أُمِّي تُوُفِّيَتْ وَأَنَا غَائِبٌ عَنْهَا، أَيَنْفَعُهَا شَىْءٌ إِنْ تَصَدَّقْتُ بِهِ عَنْهَا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَخْلَدُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "غَائِبٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْهَا، فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "غَائِبٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْهَا، أَيَنْفَعُهَا شَىْءٌ إِنْ تَصَدَّقْتُ بِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2757": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2757\nIn-book reference  : Book 55, Hadith 20\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 20\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ كَعْبٍ، أَنَّ عَبْدَ اللَّهِ بْنَ كَعْبٍ، قَالَ سَمِعْتُ كَعْبَ بْنَ مَالِكٍ ـ رضى الله عنه. قُلْتُ يَا رَسُولَ اللَّهِ، إِنَّ مِنْ تَوْبَتِي أَنْ أَنْخَلِعَ مِنْ مَالِي صَدَقَةً إِلَى اللَّهِ وَإِلَى رَسُولِهِ صلى الله عليه وسلم. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ كَعْبٍ، أَنَّ عَبْدَ اللَّهِ بْنَ كَعْ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ كَعْبَ بْنَ مَالِكٍ ـ رضى الله عنه. قُلْتُ يَا رَسُولَ اللَّهِ، إِنَّ مِنْ تَوْبَتِي ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2760": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2760\nIn-book reference  : Book 55, Hadith 23\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 22\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ رَجُلاً، قَالَ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ أُمِّي افْتُلِتَتْ نَفْسَهَا، وَأُرَاهَا لَوْ تَكَلَّمَتْ تَصَدَّقَتْ، أَفَأَتَصَدَّقُ عَنْهَا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ، رضى الله عنها أَنَّ رَجُلاً،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَفَأَتَصَدَّقُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2761": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2761\nIn-book reference  : Book 55, Hadith 24\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 23\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ سَعْدَ بْنَ عُبَادَةَ ـ رضى الله عنه ـ اسْتَفْتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنَّ أُمِّي مَاتَتْ وَعَلَيْهَا نَذْرٌ. فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ سَعْدَ بْنَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ إِنَّ أُمِّي مَاتَتْ وَعَلَيْهَا نَذْرٌ. فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2762": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2762\nIn-book reference  : Book 55, Hadith 25\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 24\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا هِشَامُ بْنُ يُوسُفَ، أَنَّ ابْنَ جُرَيْجٍ، أَخْبَرَهُمْ قَالَ أَخْبَرَنِي يَعْلَى، أَنَّهُ سَمِعَ عِكْرِمَةَ، مَوْلَى ابْنِ عَبَّاسٍ يَقُولُ أَنْبَأَنَا ابْنُ عَبَّاسٍ، أَنَّ سَعْدَ بْنَ عُبَادَةَ ـ رضى الله عنهم ـ أَخَا بَنِي سَاعِدَةَ تُوُفِّيَتْ أُمُّهُ وَهْوَ غَائِبٌ، فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ أُمِّي تُوُفِّيَتْ وَأَنَا غَائِبٌ عَنْهَا، فَهَلْ يَنْفَعُهَا شَىْءٌ إِنْ تَصَدَّقْتُ بِهِ عَنْهَا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي يَعْلَى، أَنَّهُ سَمِعَ عِكْرِمَةَ، مَوْلَى ابْنِ عَبَّاسٍ يَقُولُ أَنْبَأَنَا ابْ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "غَائِبٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْهَا، فَهَلْ يَنْفَعُهَا شَىْءٌ إِنْ تَصَدَّقْتُ بِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2764": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2764\nIn-book reference  : Book 55, Hadith 27\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 26\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا هَارُونُ، حَدَّثَنَا أَبُو سَعِيدٍ، مَوْلَى بَنِي هَاشِمٍ حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِيَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ عُمَرَ، تَصَدَّقَ بِمَالٍ لَهُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَكَانَ يُقَالُ لَهُ ثَمْغٌ، وَكَانَ نَخْلاً، فَقَالَ عُمَرُ يَا رَسُولَ اللَّهِ إِنِّي اسْتَفَدْتُ مَالاً وَهُوَ عِنْدِي نَفِيسٌ فَأَرَدْتُ أَنْ أَتَصَدَّقَ بِهِ. فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا هَارُونُ، حَدَّثَنَا أَبُو سَعِيدٍ، مَوْلَى بَنِي هَاشِمٍ حَدَّثَنَا صَخْرُ بْنُ جُوَيْرِ",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ عُمَرَ، تَصَدَّقَ بِمَالٍ لَهُ عَلَى عَهْدِ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ عُمَرُ يَا رَسُولَ اللَّهِ إِنِّي اسْتَفَدْتُ مَالاً وَهُوَ عِنْدِي نَفِيسٌ فَأَرَدْتُ أَنْ أَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2770": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2770\nIn-book reference  : Book 55, Hadith 33\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 31\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا زَكَرِيَّاءُ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنِي عَمْرُو بْنُ دِينَارٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما أَنَّ رَجُلاً، قَالَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم إِنَّ أُمَّهُ تُوُفِّيَتْ أَيَنْفَعُهَا إِنْ تَصَدَّقْتُ عَنْهَا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَكَرِيَّاءُ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي عَمْرُو بْنُ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما أَنَّ رَجُلاً،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "تَصَدَّقْتُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2771": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2771\nIn-book reference  : Book 55, Hadith 34\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 32\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ أَمَرَ النَّبِيُّ صلى الله عليه وسلم بِبِنَاءِ الْمَسْجِدِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَمَرَ النَّبِيُّ صلى الله عليه وسلم بِبِنَاءِ الْمَسْجِدِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2772": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2772\nIn-book reference  : Book 55, Hadith 35\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 33\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ أَصَابَ عُمَرُ بِخَيْبَرَ أَرْضًا فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ أَصَبْتُ أَرْضًا لَمْ أُصِبْ مَالاً قَطُّ أَنْفَسَ مِنْهُ، فَكَيْفَ تَأْمُرُنِي بِهِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَصَابَ عُمَرُ بِخَيْبَرَ أَرْضًا فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَصَبْتُ أَرْضًا لَمْ أُصِبْ مَالاً قَطُّ أَنْفَسَ مِنْهُ، فَكَيْفَ تَأْمُرُنِي بِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2773": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2773\nIn-book reference  : Book 55, Hadith 36\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 34\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا أَبُو عَاصِمٍ، حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، رضى الله عنه وَجَدَ مَالاً بِخَيْبَرَ، فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَأَخْبَرَهُ، قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، رضى الله عنه وَجَدَ مَالاً بِخَيْبَرَ، فَأَتَى النَّب",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2774": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2774\nIn-book reference  : Book 55, Hadith 37\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 35\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ، حَدَّثَنَا عَبْدُ الصَّمَدِ، قَالَ سَمِعْتُ أَبِي، حَدَّثَنَا أَبُو التَّيَّاحِ، قَالَ حَدَّثَنِي أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ لَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ أَمَرَ بِالْمَسْجِدِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الصَّمَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ سَمِعْتُ أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ لَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2775": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2775\nIn-book reference  : Book 55, Hadith 38\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 36\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا عُبَيْدُ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ عُمَرَ، حَمَلَ عَلَى فَرَسٍ لَهُ فِي سَبِيلِ اللَّهِ أَعْطَاهَا رَسُولَ اللَّهِ صلى الله عليه وسلم لِيَحْمِلَ عَلَيْهَا رَجُلاً، فَأُخْبِرَ عُمَرُ أَنَّهُ قَدْ وَقَفَهَا يَبِيعُهَا، فَسَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم أَنْ يَبْتَاعَهَا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ عُمَرَ، حَمَلَ عَلَى فَرَسٍ لَهُ فِي ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2776": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2776\nIn-book reference  : Book 55, Hadith 39\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 37\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2779": {
+    "collection": "Sahih Bukhari",
+    "book": "Wills and Testaments (Wasaayaa)",
+    "book_num": "55",
+    "reference": "Reference  : Sahih al-Bukhari 2779\nIn-book reference  : Book 55, Hadith 42\nUSC-MSA web (English) reference  : Vol. 4, Book 51, Hadith 39\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/55",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

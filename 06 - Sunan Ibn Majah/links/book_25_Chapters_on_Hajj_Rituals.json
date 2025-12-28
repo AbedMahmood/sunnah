@@ -1,0 +1,4437 @@
+{
+  "2882": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2882\nIn-book reference  : Book 25, Hadith 1\nEnglish translation  : Vol. 4, Book 25, Hadith 2882",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، وَأَبُو مُصْعَبٍ الزُّهْرِيُّ وَسُوَيْدُ بْنُ سَعِيدٍ قَالُوا حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي صَالِحٍ السَّمَّانِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "الرَّحْمَنِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ السَّمَّانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2883": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2883\nIn-book reference  : Book 25, Hadith 2\nEnglish translation  : Vol. 4, Book 25, Hadith 2883",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَعَمْرُو بْنُ عَبْدِ اللَّهِ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا إِسْمَاعِيلُ أَبُو إِسْرَائِيلَ، عَنْ فُضَيْلِ بْنِ عَمْرٍو، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ الْفَضْلِ، - أَوْ أَحَدِهِمَا عَنِ الآخَرِ، - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ أَبُو إِسْرَائِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ فُضَيْلِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ الْفَضْلِ، - أَوْ أَحَدِهِمَا عَنِ الآخَرِ، -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2885": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2885\nIn-book reference  : Book 25, Hadith 4\nEnglish translation  : Vol. 4, Book 25, Hadith 2885",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُبَيْدَةَ، عَنْ أَبِيهِ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالُوا يَا رَسُولَ اللَّهِ الْحَجُّ فِي كُلِّ عَامٍ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُبَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَامٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2886": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2886\nIn-book reference  : Book 25, Hadith 5\nEnglish translation  : Vol. 4, Book 25, Hadith 2886",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا سُفْيَانُ بْنُ حُسَيْنٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سِنَانٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ الأَقْرَعَ بْنَ حَابِسٍ، سَأَلَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ الْحَجُّ فِي كُلِّ سَنَةٍ أَوْ مَرَّةً وَاحِدَةً قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا سُفْيَانُ بْنُ حُسَيْنٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي سِنَانٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ الأَقْرَعَ بْنَ حَابِسٍ، سَأَلَ النَّبِيَّ صلى الله ع",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "وَاحِدَةً",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2887": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2887\nIn-book reference  : Book 25, Hadith 6\nEnglish translation  : Vol. 4, Book 25, Hadith 2887",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرٍ، عَنْ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2888": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2888\nIn-book reference  : Book 25, Hadith 7\nEnglish translation  : Vol. 4, Book 25, Hadith 2888",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو مُصْعَبٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ سُمَىٍّ، - مَوْلَى أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ - عَنْ أَبِي صَالِحٍ السَّمَّانِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مُصْعَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُمَىٍّ، - مَوْلَى أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ السَّمَّانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2889": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2889\nIn-book reference  : Book 25, Hadith 8\nEnglish translation  : Vol. 4, Book 25, Hadith 2889",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ مِسْعَرٍ، وَسُفْيَانَ، عَنْ مَنْصُورٍ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مِسْعَرٍ، وَسُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2890": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2890\nIn-book reference  : Book 25, Hadith 9\nEnglish translation  : Vol. 4, Book 25, Hadith 2890",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنِ الرَّبِيعِ بْنِ صَبِيحٍ، عَنْ يَزِيدَ بْنِ أَبَانَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ حَجَّ النَّبِيُّ ـ صلى الله عليه وسلم ـ عَلَى رَحْلٍ رَثٍّ وَقَطِيفَةٍ تُسَاوِي أَرْبَعَةَ دَرَاهِمَ أَوْ لاَ تُسَاوِي ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ، عَنِ الرَّبِيعِ بْنِ صَبِيحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2892": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2892\nIn-book reference  : Book 25, Hadith 11\nEnglish translation  : Vol. 4, Book 25, Hadith 2892",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ، حَدَّثَنَا صَالِحُ بْنُ عَبْدِ اللَّهِ بْنِ صَالِحٍ، - مَوْلَى بَنِي عَامِرٍ - حَدَّثَنِي يَعْقُوبُ بْنُ يَحْيَى بْنِ عَبَّادِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ أَبِي صَالِحٍ السَّمَّانِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا صَالِحُ بْنُ عَبْدِ اللَّهِ بْنِ صَالِحٍ، - مَوْلَى بَنِي عَامِرٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي يَعْقُوبُ بْنُ يَحْيَى بْنِ عَبَّادِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ السَّمَّانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2893": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2893\nIn-book reference  : Book 25, Hadith 12\nEnglish translation  : Vol. 4, Book 25, Hadith 2893",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ طَرِيفٍ، حَدَّثَنَا عِمْرَانُ بْنُ عُيَيْنَةَ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ طَرِيفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عِمْرَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ السَّائِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُجَاهِدٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2894": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2894\nIn-book reference  : Book 25, Hadith 13\nEnglish translation  : Vol. 4, Book 25, Hadith 2894",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، أَنَّهُ اسْتَأْذَنَ النَّبِيَّ ـ صلى الله عليه وسلم ـ فِي الْعُمْرَةِ فَأَذِنَ لَهُ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُمَرَ، أَنَّهُ اسْتَأْذَنَ النَّبِيَّ ـ صلى الله عليه وسلم ـ فِي الْعُمْرَةِ فَأَذِنَ لَهُ وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2895": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2895\nIn-book reference  : Book 25, Hadith 14\nEnglish translation  : Vol. 4, Book 25, Hadith 2895",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ صَفْوَانَ بْنِ عَبْدِ اللَّهِ بْنِ صَفْوَانَ، قَالَ وَكَانَتْ تَحْتَهُ ابْنَةُ أَبِي الدَّرْدَاءِ فَأَتَاهَا فَوَجَدَ أُمَّ الدَّرْدَاءِ وَلَمْ يَجِدْ أَبَا الدَّرْدَاءِ فَقَالَتْ لَهُ تُرِيدُ الْحَجَّ الْعَامَ قَالَ نَعَمْ . قَالَتْ فَادْعُ اللَّهَ لَنَا بِخَيْرٍ فَإِنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ عَبْدِ اللَّهِ بْنِ صَفْوَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ وَكَانَتْ تَحْتَهُ ابْنَةُ أَبِي الدَّرْدَاءِ فَأَتَاهَا فَوَجَدَ أُمَّ الدَّرْدَاءِ وَلَمْ يَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْعَامَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ نَعَمْ .",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2898": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2898\nIn-book reference  : Book 25, Hadith 17\nEnglish translation  : Vol. 4, Book 25, Hadith 2898",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2899": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2899\nIn-book reference  : Book 25, Hadith 18\nEnglish translation  : Vol. 4, Book 25, Hadith 2899",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شَبَابَةُ، عَنِ ابْنِ أَبِي ذِئْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2900": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2900\nIn-book reference  : Book 25, Hadith 19\nEnglish translation  : Vol. 4, Book 25, Hadith 2900",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا شُعَيْبُ بْنُ إِسْحَاقَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، حَدَّثَنِي عَمْرُو بْنُ دِينَارٍ، أَنَّهُ سَمِعَ أَبَا مَعْبَدٍ، مَوْلَى ابْنِ عَبَّاسٍ عَنِ ابْنِ عَبَّاسٍ، قَالَ جَاءَ أَعْرَابِيٌّ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ إِنِّي اكْتُتِبْتُ فِي غَزْوَةِ كَذَا وَكَذَا وَامْرَأَتِي حَاجَّةٌ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعَيْبُ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عَمْرُو بْنُ دِينَارٍ، أَنَّهُ سَمِعَ أَبَا مَعْبَدٍ، مَوْلَى ابْنِ عَبَّاسٍ عَنِ ابْنِ ع",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ جَاءَ أَعْرَابِيٌّ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ إِنِّي اكْتُتِبْتُ فِي غَزْوَةِ كَذَا وَكَذَا وَامْرَأَتِي حَاجَّةٌ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2901": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2901\nIn-book reference  : Book 25, Hadith 20\nEnglish translation  : Vol. 4, Book 25, Hadith 2901",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ حَبِيبِ بْنِ أَبِي عَمْرَةَ، عَنْ عَائِشَةَ بِنْتِ طَلْحَةَ، عَنْ عَائِشَةَ، قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ عَلَى النِّسَاءِ جِهَادٌ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَبِيبِ بْنِ أَبِي عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَائِشَةَ بِنْتِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "جِهَادٌ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2902": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2902\nIn-book reference  : Book 25, Hadith 21\nEnglish translation  : Vol. 4, Book 25, Hadith 2902",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنِ الْقَاسِمِ بْنِ الْفَضْلِ الْحُدَّانِيِّ، عَنْ أَبِي جَعْفَرٍ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ، عَنِ الْقَاسِمِ بْنِ الْفَضْلِ الْحُدَّانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2904": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2904\nIn-book reference  : Book 25, Hadith 23\nEnglish translation  : Vol. 4, Book 25, Hadith 2904",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى الصَّنْعَانِيُّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا سُفْيَانُ الثَّوْرِيُّ، عَنْ سُلَيْمَانَ الشَّيْبَانِيِّ، عَنْ يَزِيدَ بْنِ الأَصَمِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ أَحُجُّ عَنْ أَبِي قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى الصَّنْعَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا سُفْيَانُ الثَّوْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُلَيْمَانَ الشَّيْبَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ الأَصَمِّ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَحُجُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2906": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2906\nIn-book reference  : Book 25, Hadith 25\nEnglish translation  : Vol. 4, Book 25, Hadith 2906",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ شُعْبَةَ، عَنِ النُّعْمَانِ بْنِ سَالِمٍ، عَنْ عَمْرِو بْنِ أَوْسٍ، عَنْ أَبِي رَزِينٍ الْعُقَيْلِيِّ، أَنَّهُ أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ أَبِي شَيْخٌ كَبِيرٌ لاَ يَسْتَطِيعُ الْحَجَّ وَلاَ الْعُمْرَةَ وَلاَ الظَّعَنَ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ، عَنِ النُّعْمَانِ بْنِ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي رَزِينٍ الْعُقَيْلِيِّ، أَنَّهُ أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ إِنَّ أَبِي شَيْخٌ كَبِيرٌ لاَ يَسْتَطِيعُ الْحَجَّ وَلاَ الْعُمْرَةَ وَلا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2907": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2907\nIn-book reference  : Book 25, Hadith 26\nEnglish translation  : Vol. 4, Book 25, Hadith 2907",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو مَرْوَانَ، مُحَمَّدُ بْنُ عُثْمَانَ الْعُثْمَانِيُّ حَدَّثَنَا عَبْدُ الْعَزِيزِ الدَّرَاوَرْدِيُّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ عَيَّاشِ بْنِ أَبِي رَبِيعَةَ الْمَخْزُومِيِّ، عَنْ حَكِيمِ بْنِ حَكِيمِ بْنِ عَبَّادِ بْنِ حُنَيْفٍ الأَنْصَارِيِّ، عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّ امْرَأَةً، مِنْ خَثْعَمٍ جَاءَتِ النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ أَبِي شَيْخٌ كَبِيرٌ قَدْ أَفْنَدَ وَأَدْرَكَتْهُ فَرِيضَةُ اللَّهِ عَلَى عِبَادِهِ فِي الْحَجِّ وَلاَ يَسْتَطِيعُ أَدَاءَهَا فَهَلْ يُجْزِئُ عَنْهُ أَنْ أُؤَدِّيَهَا عَنْهُ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْعُثْمَانِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ الدَّرَاوَرْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ عَيَّاشِ بْنِ أَبِي رَبِيعَةَ الْمَخْزُومِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَكِيمِ بْنِ حَكِيمِ بْنِ عَبَّادِ بْنِ حُنَيْفٍ الأَنْصَارِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعِ بْنِ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّ امْرَأَةً، مِنْ خَثْعَمٍ جَاءَتِ النَّبِيَّ ـ صلى الله عليه",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يُجْزِئُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أُؤَدِّيَهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2908": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2908\nIn-book reference  : Book 25, Hadith 27\nEnglish translation  : Vol. 4, Book 25, Hadith 2908",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، حَدَّثَنَا مُحَمَّدُ بْنُ كُرَيْبٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أَخْبَرَنِي حُصَيْنُ بْنُ عَوْفٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّ أَبِي أَدْرَكَهُ الْحَجُّ وَلاَ يَسْتَطِيعُ أَنْ يَحُجَّ إِلاَّ مُعْتَرِضًا . فَصَمَتَ سَاعَةً ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَخْبَرَنِي حُصَيْنُ بْنُ عَوْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2909": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2909\nIn-book reference  : Book 25, Hadith 28\nEnglish translation  : Vol. 4, Book 25, Hadith 2909",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الزُّهْرِيِّ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أَخِيهِ الْفَضْلِ، أَنَّهُ كَانَ رِدْفَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ غَدَاةَ النَّحْرِ فَأَتَتْهُ امْرَأَةٌ مِنْ خَثْعَمٍ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ فَرِيضَةَ اللَّهِ فِي الْحَجِّ عَلَى عِبَادِهِ أَدْرَكَتْ أَبِي شَيْخًا كَبِيرًا لاَ يَسْتَطِيعُ أَنْ يَرْكَبَ أَفَأَحُجُّ عَنْهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَخِيهِ الْفَضْلِ، أَنَّهُ كَانَ رِدْفَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ غَدَاةَ النَّحْر",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَفَأَحُجُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2910": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2910\nIn-book reference  : Book 25, Hadith 29\nEnglish translation  : Vol. 4, Book 25, Hadith 2910",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَمُحَمَّدُ بْنُ طَرِيفٍ، قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنِي مُحَمَّدُ بْنُ سُوقَةَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ رَفَعَتِ امْرَأَةٌ صَبِيًّا لَهَا إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فِي حَجَّتِهِ فَقَالَتْ يَا رَسُولَ اللَّهِ أَلِهَذَا حَجٌّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ سُوقَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَفَعَتِ امْرَأَةٌ صَبِيًّا لَهَا إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فِي حَجَّتِهِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَجٌّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2917": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2917\nIn-book reference  : Book 25, Hadith 36\nEnglish translation  : Vol. 4, Book 25, Hadith 2917",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، وَعُمَرُ بْنُ عَبْدِ الْوَاحِدِ، قَالاَ حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ أَيُّوبَ بْنِ مُوسَى، عَنْ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ إِنِّي عِنْدَ ثَفِنَاتِ نَاقَةِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ عِنْدَ الشَّجَرَةِ فَلَمَّا اسْتَوَتْ بِهِ قَائِمَةً قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ بْنِ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ ثَابِتٍ الْبُنَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَائِمَةً",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2918": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2918\nIn-book reference  : Book 25, Hadith 37\nEnglish translation  : Vol. 4, Book 25, Hadith 2918",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَأَبُو أُسَامَةَ وَعَبْدُ اللَّهِ بْنُ نُمَيْرٍ عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ تَلَقَّفْتُ التَّلْبِيَةَ مِنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ وَهُوَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "نُمَيْرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2919": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2919\nIn-book reference  : Book 25, Hadith 38\nEnglish translation  : Vol. 4, Book 25, Hadith 2919",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا زَيْدُ بْنُ أَخْزَمَ، حَدَّثَنَا مُؤَمَّلُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا سُفْيَانُ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ جَابِرٍ، قَالَ كَانَتْ تَلْبِيَةُ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا زَيْدُ بْنُ أَخْزَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُؤَمَّلُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كَانَتْ تَلْبِيَةُ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2920": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2920\nIn-book reference  : Book 25, Hadith 39\nEnglish translation  : Vol. 4, Book 25, Hadith 2920",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي سَلَمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ فِي تَلْبِيَتِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "تَلْبِيَتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2921": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2921\nIn-book reference  : Book 25, Hadith 40\nEnglish translation  : Vol. 4, Book 25, Hadith 2921",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا عُمَارَةُ بْنُ غَزِيَّةَ الأَنْصَارِيُّ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُمَارَةُ بْنُ غَزِيَّةَ الأَنْصَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2922": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2922\nIn-book reference  : Book 25, Hadith 41\nEnglish translation  : Vol. 4, Book 25, Hadith 2922",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، حَدَّثَهُ عَنْ خَلاَّدِ بْنِ السَّائِبِ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خَلاَّدِ بْنِ السَّائِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2923": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2923\nIn-book reference  : Book 25, Hadith 42\nEnglish translation  : Vol. 4, Book 25, Hadith 2923",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي لَبِيدٍ، عَنِ الْمُطَّلِبِ بْنِ عَبْدِ اللَّهِ بْنِ حَنْطَبٍ، عَنْ خَلاَّدِ بْنِ السَّائِبِ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي لَبِيدٍ، عَنِ الْمُطَّلِبِ بْنِ عَبْدِ اللَّهِ بْنِ حَنْطَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خَلاَّدِ بْنِ السَّائِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2924": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2924\nIn-book reference  : Book 25, Hadith 43\nEnglish translation  : Vol. 4, Book 25, Hadith 2924",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ، وَيَعْقُوبُ بْنُ حُمَيْدِ بْنِ كَاسِبٍ، قَالاَ حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، عَنِ الضَّحَّاكِ بْنِ عُثْمَانَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَرْبُوعٍ، عَنْ أَبِي بَكْرٍ الصِّدِّيقِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ سُئِلَ أَىُّ الأَعْمَالِ أَفْضَلُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، عَنِ الضَّحَّاكِ بْنِ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَرْبُوعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَفْضَلُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2925": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2925\nIn-book reference  : Book 25, Hadith 44\nEnglish translation  : Vol. 4, Book 25, Hadith 2925",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نَافِعٍ، وَعَبْدُ اللَّهِ بْنُ وَهْبٍ، وَمُحَمَّدُ بْنُ فُلَيْحٍ، قَالُوا حَدَّثَنَا عَاصِمُ بْنُ عُمَرَ بْنِ حَفْصٍ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَاصِمُ بْنُ عُمَرَ بْنِ حَفْصٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2929": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2929\nIn-book reference  : Book 25, Hadith 48\nEnglish translation  : Vol. 4, Book 25, Hadith 2929",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو مُصْعَبٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَجُلاً، سَأَلَ النَّبِيَّ ـ صلى الله عليه وسلم ـ مَا يَلْبَسُ الْمُحْرِمُ مِنَ الثِّيَابِ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مُصْعَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَجُلاً، سَأَلَ النَّبِيَّ ـ صلى الله عليه وسلم ـ مَا يَلْبَس",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2932": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2932\nIn-book reference  : Book 25, Hadith 51\nEnglish translation  : Vol. 4, Book 25, Hadith 2932",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو مُصْعَبٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنْ نَافِعٍ، وَعَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مُصْعَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2933": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2933\nIn-book reference  : Book 25, Hadith 52\nEnglish translation  : Vol. 4, Book 25, Hadith 2933",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ يَحْيَى بْنِ عَبَّادِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ أَبِيهِ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ، قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ حَتَّى إِذَا كُنَّا بِالْعَرْجِ نَزَلْنَا فَجَلَسَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ وَعَائِشَةُ إِلَى جَنْبِهِ وَأَنَا إِلَى جَنْبِ أَبِي بَكْرٍ وَكَانَتْ زِمَالَتُنَا وَزِمَالَةُ أَبِي بَكْرٍ وَاحِدَةً مَعَ غُلاَمِ أَبِي بَكْرٍ قَالَ فَطَلَعَ الْغُلاَمُ وَلَيْسَ مَعَهُ بَعِيرُهُ فَقَالَ لَهُ أَيْنَ بَعِيرُكَ قَالَ أَضْلَلْتُهُ الْبَارِحَةَ . قَالَ مَعَكَ بَعِيرٌ وَاحِدٌ تُضِلُّهُ قَالَ فَطَفِقَ يَضْرِبُهُ وَرَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ عَبَّادِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "بَكْرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ فَطَلَعَ الْغُلاَمُ وَلَيْسَ مَعَهُ بَعِيرُهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "بَعِيرُكَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ أَضْلَلْتُهُ الْبَارِحَةَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "تُضِلُّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 12,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2935": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2935\nIn-book reference  : Book 25, Hadith 54\nEnglish translation  : Vol. 4, Book 25, Hadith 2935",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنْ مُجَاهِدٍ، عَنْ عَائِشَةَ، قَالَتْ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2938": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2938\nIn-book reference  : Book 25, Hadith 57\nEnglish translation  : Vol. 4, Book 25, Hadith 2938",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بِشْرٍ، بَكْرُ بْنُ خَلَفٍ حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ طَاوُسًا، وَعِكْرِمَةَ، يُحَدِّثَانِ عَنِ ابْنِ عَبَّاسٍ، قَالَ جَاءَتْ ضُبَاعَةُ بِنْتُ الزُّبَيْرِ بْنِ عَبْدِ الْمُطَّلِبِ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ فَقَالَتْ إِنِّي امْرَأَةٌ ثَقِيلَةٌ وَإِنِّي أُرِيدُ الْحَجَّ فَكَيْفَ أُهِلُّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "خَلَفٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ طَاوُسً",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ جَاءَتْ ضُبَاعَةُ بِنْتُ الزُّبَيْرِ بْنِ عَبْدِ الْمُطَّلِبِ رَسُولَ اللَّهِ ـ صلى الله عليه ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أُهِلُّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "2944": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2944\nIn-book reference  : Book 25, Hadith 63\nEnglish translation  : Vol. 4, Book 25, Hadith 2944",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الرَّحِيمِ الرَّازِيُّ، عَنِ ابْنِ خُثَيْمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُوَيْدُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحِيمِ الرَّازِيُّ، عَنِ ابْنِ خُثَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2945": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2945\nIn-book reference  : Book 25, Hadith 64\nEnglish translation  : Vol. 4, Book 25, Hadith 2945",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا خَالِي، يَعْلَى عَنْ مُحَمَّدِ بْنِ عَوْنٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ اسْتَقْبَلَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ الْحَجَرَ ثُمَّ وَضَعَ شَفَتَيْهِ عَلَيْهِ يَبْكِي طَوِيلاً ثُمَّ الْتَفَتَ فَإِذَا هُوَ بِعُمَرَ بْنِ الْخَطَّابِ يَبْكِي فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يَعْلَى",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ اسْتَقْبَلَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ الْحَجَرَ ثُمَّ وَضَعَ شَفَتَيْهِ عَلَيْهِ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2953": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2953\nIn-book reference  : Book 25, Hadith 72\nEnglish translation  : Vol. 4, Book 25, Hadith 2953",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا مَعْمَرٌ، عَنِ ابْنِ خُثَيْمٍ، عَنْ أَبِي الطُّفَيْلِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ لأَصْحَابِهِ حِينَ أَرَادُوا دُخُولَ مَكَّةَ فِي عُمْرَتِهِ بَعْدَ الْحُدَيْبِيَةِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا مَعْمَرٌ، عَنِ ابْنِ خُثَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الطُّفَيْلِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْحُدَيْبِيَةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2956": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2956\nIn-book reference  : Book 25, Hadith 75\nEnglish translation  : Vol. 4, Book 25, Hadith 2956",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ الْفُضَيْلِ، عَنِ الْعَلاَءِ بْنِ الْمُسَيَّبِ، عَنْ عَطَاءٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْفُضَيْلِ، عَنِ الْعَلاَءِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2968": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2968\nIn-book reference  : Book 25, Hadith 87\nEnglish translation  : Vol. 4, Book 25, Hadith 2968",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا يَحْيَى بْنُ أَبِي إِسْحَاقَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ إِلَى مَكَّةَ فَسَمِعْتُهُ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2969": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2969\nIn-book reference  : Book 25, Hadith 88\nEnglish translation  : Vol. 4, Book 25, Hadith 2969",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَهَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حُمَيْدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2975": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2975\nIn-book reference  : Book 25, Hadith 94\nEnglish translation  : Vol. 4, Book 25, Hadith 2975",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحْرِزُ بْنُ سَلَمَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحْرِزُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2976": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2976\nIn-book reference  : Book 25, Hadith 95\nEnglish translation  : Vol. 4, Book 25, Hadith 2976",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ مُصْعَبٍ، ح وَحَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، - يَعْنِي دُحَيْمًا - حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، قَالاَ حَدَّثَنَا الأَوْزَاعِيُّ، حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، حَدَّثَنِي عِكْرِمَةُ، قَالَ حَدَّثَنَا ابْنُ عَبَّاسٍ، قَالَ حَدَّثَنِي عُمَرُ بْنُ الْخَطَّابِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ وَهُوَ بِالْعَقِيقِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُصْعَبٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، - يَعْنِي دُحَيْمًا -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي عِكْرِمَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنَا ابْنُ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "حَدَّثَنِي عُمَرُ بْنُ الْخَطَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "بِالْعَقِيقِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2977": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2977\nIn-book reference  : Book 25, Hadith 96\nEnglish translation  : Vol. 4, Book 25, Hadith 2977",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ مِسْعَرٍ، عَنْ عَبْدِ الْمَلِكَ بْنِ مَيْسَرَةَ، عَنْ طَاوُسٍ، عَنْ سُرَاقَةَ بْنِ جُعْشُمٍ، قَالَ قَامَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ خَطِيبًا فِي هَذَا الْوَادِي فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مِسْعَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكَ بْنِ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ طَاوُسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سُرَاقَةَ بْنِ جُعْشُمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ قَامَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ خَطِيبًا فِي هَذَا الْوَادِي فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2983": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2983\nIn-book reference  : Book 25, Hadith 102\nEnglish translation  : Vol. 4, Book 25, Hadith 2983",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا بَكْرُ بْنُ خَلَفٍ أَبُو بِشْرٍ، حَدَّثَنَا أَبُو عَاصِمٍ، أَنْبَأَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي مَنْصُورُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أُمِّهِ، صَفِيَّةَ عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ، قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ مُحْرِمِينَ فَقَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا بَكْرُ بْنُ خَلَفٍ أَبُو بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ، أَنْبَأَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي مَنْصُورُ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "صَفِيَّةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ مُحْرِمِينَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2984": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2984\nIn-book reference  : Book 25, Hadith 103\nEnglish translation  : Vol. 4, Book 25, Hadith 2984",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو مُصْعَبٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ الدَّرَاوَرْدِيُّ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنِ الْحَارِثِ بْنِ بِلاَلِ بْنِ الْحَارِثِ، عَنْ أَبِيهِ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَرَأَيْتَ فَسْخَ الْحَجِّ فِي الْعُمْرَةِ لَنَا خَاصَّةً أَمْ لِلنَّاسِ عَامَّةً فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مُصْعَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ الدَّرَاوَرْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنِ الْحَارِثِ بْنِ بِلاَلِ بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَرَأَيْتَ فَسْخَ الْحَجِّ فِي الْعُمْرَةِ لَنَا خَاصَّةً أَمْ لِلن",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2987": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2987\nIn-book reference  : Book 25, Hadith 106\nEnglish translation  : Vol. 4, Book 25, Hadith 2987",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامٌ الدَّسْتَوَائِيُّ، عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ، عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ، عَنْ أُمِّ وَلَدِ، شَيْبَةَ قَالَتْ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَسْعَى بَيْنَ الصَّفَا وَالْمَرْوَةِ وَهُوَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ الدَّسْتَوَائِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "شَيْبَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2989": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2989\nIn-book reference  : Book 25, Hadith 108\nEnglish translation  : Vol. 4, Book 25, Hadith 2989",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا الْحَسَنُ بْنُ يَحْيَى الْخُشَنِيُّ، حَدَّثَنَا عُمَرُ بْنُ قَيْسٍ، أَخْبَرَنِي طَلْحَةُ بْنُ يَحْيَى، عَنْ عَمِّهِ، إِسْحَاقَ بْنِ طَلْحَةَ عَنْ طَلْحَةَ بْنِ عُبَيْدِ اللَّهِ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ يَحْيَى الْخُشَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ قَيْسٍ، أَخْبَرَنِي طَلْحَةُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "طَلْحَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2991": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2991\nIn-book reference  : Book 25, Hadith 110\nEnglish translation  : Vol. 4, Book 25, Hadith 2991",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ بَيَانٍ، وَجَابِرٍ، عَنِ الشَّعْبِيِّ، عَنْ وَهْبِ بْنِ خَنْبَشٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بَيَانٍ، وَجَابِرٍ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ وَهْبِ بْنِ خَنْبَشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2992": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2992\nIn-book reference  : Book 25, Hadith 111\nEnglish translation  : Vol. 4, Book 25, Hadith 2992",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا سُفْيَانُ، ح وَحَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَعَمْرُو بْنُ عَبْدِ اللَّهِ، قَالاَ حَدَّثَنَا وَكِيعٌ، جَمِيعًا عَنْ دَاوُدَ بْنِ يَزِيدَ الزَّعَافِرِيِّ، عَنِ الشَّعْبِيِّ، عَنْ هَرِمِ بْنِ خَنْبَشٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "جَمِيعًا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ دَاوُدَ بْنِ يَزِيدَ الزَّعَافِرِيِّ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ هَرِمِ بْنِ خَنْبَشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2993": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2993\nIn-book reference  : Book 25, Hadith 112\nEnglish translation  : Vol. 4, Book 25, Hadith 2993",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا جُبَارَةُ بْنُ الْمُغَلِّسِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ عُثْمَانَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ، عَنْ أَبِي مَعْقِلٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا جُبَارَةُ بْنُ الْمُغَلِّسِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي مَعْقِلٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2994": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2994\nIn-book reference  : Book 25, Hadith 113\nEnglish translation  : Vol. 4, Book 25, Hadith 2994",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ حَجَّاجٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَجَّاجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2995": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 2995\nIn-book reference  : Book 25, Hadith 114\nEnglish translation  : Vol. 4, Book 25, Hadith 2995",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ الْمَلِكِ بْنِ وَاقِدٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَمْرٍو، عَنْ عَبْدِ الْكَرِيمِ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ الْمَلِكِ بْنِ وَاقِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الْكَرِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3001": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3001\nIn-book reference  : Book 25, Hadith 120\nEnglish translation  : Vol. 4, Book 25, Hadith 3001",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، حَدَّثَنِي سُلَيْمَانُ بْنُ سُحَيْمٍ، عَنْ أُمِّ حَكِيمٍ بِنْتِ أُمَيَّةَ، عَنْ أُمِّ سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي سُلَيْمَانُ بْنُ سُحَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُمِّ حَكِيمٍ بِنْتِ أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3002": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3002\nIn-book reference  : Book 25, Hadith 121\nEnglish translation  : Vol. 4, Book 25, Hadith 3002",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ، حَدَّثَنَا أَحْمَدُ بْنُ خَالِدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ يَحْيَى بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّهِ أُمِّ حَكِيمٍ بِنْتِ أُمَيَّةَ، عَنْ أُمِّ سَلَمَةَ، زَوْجِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُمِّهِ أُمِّ حَكِيمٍ بِنْتِ أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ، زَوْجِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3006": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3006\nIn-book reference  : Book 25, Hadith 125\nEnglish translation  : Vol. 4, Book 25, Hadith 3006",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ إِسْرَائِيلَ، عَنْ إِبْرَاهِيمَ بْنِ مُهَاجِرٍ، عَنْ يُوسُفَ بْنِ مَاهَكَ، عَنْ أُمِّهِ، عَنْ عَائِشَةَ، قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ أَلاَ نَبْنِي لَكَ بِمِنًى بَيْتًا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْرَائِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ مُهَاجِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يُوسُفَ بْنِ مَاهَكَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "بَيْتًا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3007": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3007\nIn-book reference  : Book 25, Hadith 126\nEnglish translation  : Vol. 4, Book 25, Hadith 3007",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَعَمْرُو بْنُ عَبْدِ اللَّهِ، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ إِسْرَائِيلَ، عَنْ إِبْرَاهِيمَ بْنِ مُهَاجِرٍ، عَنْ يُوسُفَ بْنِ مَاهَكَ، عَنْ أُمِّهِ، مُسَيْكَةَ عَنْ عَائِشَةَ، قَالَتْ قُلْنَا يَا رَسُولَ اللَّهِ أَلاَ نَبْنِي لَكَ بِمِنًى بُنْيَانًا يُظِلُّكَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْرَائِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ مُهَاجِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يُوسُفَ بْنِ مَاهَكَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "مُسَيْكَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يُظِلُّكَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3010": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3010\nIn-book reference  : Book 25, Hadith 129\nEnglish translation  : Vol. 4, Book 25, Hadith 3010",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، عَنْ سُفْيَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَيَّاشٍ، عَنْ زَيْدِ بْنِ عَلِيٍّ، عَنْ أَبِيهِ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ، عَنْ عَلِيٍّ، قَالَ وَقَفَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِعَرَفَةَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ آدَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَيَّاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زَيْدِ بْنِ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ وَقَفَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِعَرَفَةَ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3011": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3011\nIn-book reference  : Book 25, Hadith 130\nEnglish translation  : Vol. 4, Book 25, Hadith 3011",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ عَمْرِو بْنِ عَبْدِ اللَّهِ بْنِ صَفْوَانَ، عَنْ يَزِيدَ بْنِ شَيْبَانَ، قَالَ كُنَّا وُقُوفًا فِي مَكَانٍ تُبَاعِدُهُ مِنَ الْمَوْقِفِ فَأَتَانَا ابْنُ مِرْبَعٍ فَقَالَ إِنِّي رَسُولُ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ إِلَيْكُمْ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ عَبْدِ اللَّهِ بْنِ صَفْوَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ شَيْبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كُنَّا وُقُوفًا فِي مَكَانٍ تُبَاعِدُهُ مِنَ الْمَوْقِفِ فَأَتَانَا ابْنُ مِرْبَعٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3012": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3012\nIn-book reference  : Book 25, Hadith 131\nEnglish translation  : Vol. 4, Book 25, Hadith 3012",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا الْقَاسِمُ بْنُ عَبْدِ اللَّهِ الْعُمَرِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْقَاسِمُ بْنُ عَبْدِ اللَّهِ الْعُمَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3014": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3014\nIn-book reference  : Book 25, Hadith 133\nEnglish translation  : Vol. 4, Book 25, Hadith 3014",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الْمِصْرِيُّ أَبُو جَعْفَرٍ، أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي مَخْرَمَةُ بْنُ بُكَيْرٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ يُونُسَ بْنَ يُوسُفَ، يَقُولُ عَنِ ابْنِ الْمُسَيَّبِ، قَالَ قَالَتْ عَائِشَةُ إِنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ سَعِيدٍ الْمِصْرِيُّ أَبُو جَعْفَرٍ، أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ سَمِعْتُ يُونُسَ بْنَ يُوسُفَ، يَقُولُ عَنِ ابْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ عَائِشَةُ إِنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3015": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3015\nIn-book reference  : Book 25, Hadith 134\nEnglish translation  : Vol. 4, Book 25, Hadith 3015",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ بُكَيْرِ بْنِ عَطَاءٍ، سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ يَعْمُرَ الدِّيلِيَّ، قَالَ شَهِدْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ وَهُوَ وَاقِفٌ بِعَرَفَةَ وَأَتَاهُ نَاسٌ مِنْ أَهْلِ نَجْدٍ فَقَالُوا يَا رَسُولَ اللَّهِ كَيْفَ الْحَجُّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ عَطَاءٍ، سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ يَعْمُرَ الدِّيلِيَّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْحَجُّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3016": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3016\nIn-book reference  : Book 25, Hadith 135\nEnglish translation  : Vol. 4, Book 25, Hadith 3016",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ أَبِي خَالِدٍ، عَنْ عَامِرٍ، - يَعْنِي الشَّعْبِيَّ - عَنْ عُرْوَةَ بْنِ مُضَرِّسٍ الطَّائِيِّ، أَنَّهُ حَجَّ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَلَمْ يُدْرِكِ النَّاسَ إِلاَّ وَهُمْ بِجَمْعٍ . قَالَ فَأَتَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقُلْتُ يَا رَسُولَ اللَّهِ إِنِّي أَنْضَيْتُ رَاحِلَتِي وَأَتْعَبْتُ نَفْسِي وَاللَّهِ إِنْ تَرَكْتُ مِنْ حَبْلٍ إِلاَّ وَقَفْتُ عَلَيْهِ فَهَلْ لِي مِنْ حَجٍّ فَقَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ ابْنُ أَبِي خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرٍ، - يَعْنِي الشَّعْبِيَّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ بْنِ مُضَرِّسٍ الطَّائِيِّ، أَنَّهُ حَجَّ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ فَأَتَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقُلْتُ يَا رَسُولَ اللَّهِ إِنِّي أَنْضَيْتُ رَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3019": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3019\nIn-book reference  : Book 25, Hadith 138\nEnglish translation  : Vol. 4, Book 25, Hadith 3019",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ إِبْرَاهِيمَ بْنِ عُقْبَةَ، عَنْ كُرَيْبٍ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ أَفَضْتُ مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَلَمَّا بَلَغَ الشِّعْبَ الَّذِي يَنْزِلُ عِنْدَهُ الأُمَرَاءُ نَزَلَ فَبَالَ وَتَوَضَّأَ قُلْتُ الصَّلاَةَ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُسَامَةَ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَفَضْتُ مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَلَمَّا بَلَغَ الشِّعْبَ الَّذِي يَنْزِل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3021": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3021\nIn-book reference  : Book 25, Hadith 140\nEnglish translation  : Vol. 4, Book 25, Hadith 3021",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحْرِزُ بْنُ سَلَمَةَ الْعَدَنِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ صَلَّى الْمَغْرِبَ بِالْمُزْدَلِفَةِ فَلَمَّا أَنَخْنَا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحْرِزُ بْنُ سَلَمَةَ الْعَدَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَخْنَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3023": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3023\nIn-book reference  : Book 25, Hadith 142\nEnglish translation  : Vol. 4, Book 25, Hadith 3023",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَجَاءٍ الْمَكِّيُّ، عَنِ الثَّوْرِيِّ، قَالَ قَالَ أَبُو الزُّبَيْرِ قَالَ جَابِرٌ أَفَاضَ النَّبِيُّ ـ صلى الله عليه وسلم ـ فِي حَجَّةِ الْوَدَاعِ وَعَلَيْهِ السَّكِينَةُ وَأَمَرَهُمْ بِالسَّكِينَةِ وَأَمَرَهُمْ أَنْ يَرْمُوا بِمِثْلِ حَصَى الْخَذْفِ وَأَوْضَعَ فِي وَادِي مُحَسِّرٍ . وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَجَاءٍ الْمَكِّيُّ، عَنِ الثَّوْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الزُّبَيْرِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ جَابِرٌ أَفَاضَ النَّبِيُّ ـ صلى الله عليه وسلم ـ فِي حَجَّةِ الْوَدَاعِ وَعَلَيْهِ السَّكِينَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "3028": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3028\nIn-book reference  : Book 25, Hadith 147\nEnglish translation  : Vol. 4, Book 25, Hadith 3028",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنْ سُلَيْمَانَ بْنِ عَمْرِو بْنِ الأَحْوَصِ، عَنْ أُمِّهِ، قَالَتْ رَأَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ يَوْمَ النَّحْرِ عِنْدَ جَمْرَةِ الْعَقَبَةِ وَهُوَ رَاكِبٌ عَلَى بَغْلَةٍ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ عَمْرِو بْنِ الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُمِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ رَأَيْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ يَوْمَ النَّحْرِ عِنْدَ جَمْرَةِ الْعَقَبَةِ وَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3045": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3045\nIn-book reference  : Book 25, Hadith 164\nEnglish translation  : Vol. 4, Book 25, Hadith 3045",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا يُونُسُ بْنُ بُكَيْرٍ، حَدَّثَنَا ابْنُ إِسْحَاقَ، حَدَّثَنَا ابْنُ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قِيلَ يَا رَسُولَ اللَّهِ لِمَ ظَاهَرْتَ لِلْمُحَلِّقِينَ ثَلاَثًا وَلِلْمُقَصِّرِينَ وَاحِدَةً قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي نَجِيحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "وَاحِدَةً",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3046": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3046\nIn-book reference  : Book 25, Hadith 165\nEnglish translation  : Vol. 4, Book 25, Hadith 3046",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ حَفْصَةَ، زَوْجَ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ مَا شَأْنُ النَّاسِ حَلُّوا وَلَمْ تَحِلَّ أَنْتَ مِنْ عُمْرَتِكَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ حَفْصَةَ، زَوْجَ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عُمْرَتِكَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3048": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3048\nIn-book reference  : Book 25, Hadith 167\nEnglish translation  : Vol. 4, Book 25, Hadith 3048",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَعَمْرُو بْنُ عَبْدِ اللَّهِ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا أُسَامَةُ بْنُ زَيْدٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أُسَامَةُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3049": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3049\nIn-book reference  : Book 25, Hadith 168\nEnglish translation  : Vol. 4, Book 25, Hadith 3049",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ مَا سُئِلَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَمَّنْ قَدَّمَ شَيْئًا قَبْلَ شَىْءٍ إِلاَّ يُلْقِي بِيَدَيْهِ كِلْتَيْهِمَا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "كِلْتَيْهِمَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3051": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3051\nIn-book reference  : Book 25, Hadith 170\nEnglish translation  : Vol. 4, Book 25, Hadith 3051",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عِيسَى بْنِ طَلْحَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ سُئِلَ عَمَّنْ ذَبَحَ قَبْلَ أَنْ يَحْلِقَ أَوْ حَلَقَ قَبْلَ أَنْ يَذْبَحَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عِيسَى بْنِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَذْبَحَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3056": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3056\nIn-book reference  : Book 25, Hadith 175\nEnglish translation  : Vol. 4, Book 25, Hadith 3056",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَبْدِ السَّلاَمِ، عَنِ الزُّهْرِيِّ، عَنْ مُحَمَّدِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنْ أَبِيهِ، قَالَ قَامَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِالْخَيْفِ مِنْ مِنًى فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ السَّلاَمِ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ قَامَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِالْخَيْفِ مِنْ مِنًى فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3061": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3061\nIn-book reference  : Book 25, Hadith 180\nEnglish translation  : Vol. 4, Book 25, Hadith 3061",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ عُثْمَانَ بْنِ الأَسْوَدِ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ، قَالَ كُنْتُ عِنْدَ ابْنِ عَبَّاسٍ جَالِسًا فَجَاءَهُ رَجُلٌ فَقَالَ مِنْ أَيْنَ جِئْتَ قَالَ مِنْ زَمْزَمَ . قَالَ فَشَرِبْتَ مِنْهَا كَمَا يَنْبَغِي قَالَ وَكَيْفَ قَالَ إِذَا شَرِبْتَ مِنْهَا فَاسْتَقْبِلِ الْكَعْبَةَ وَاذْكُرِ اسْمَ اللَّهِ وَتَنَفَّسْ ثَلاَثًا وَتَضَلَّعْ مِنْهَا فَإِذَا فَرَغْتَ فَاحْمَدِ اللَّهَ عَزَّ وَجَلَّ فَإِنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُثْمَانَ بْنِ الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كُنْتُ عِنْدَ ابْنِ عَبَّاسٍ جَالِسًا فَجَاءَهُ رَجُلٌ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "جِئْتَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ مِنْ زَمْزَمَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَنْبَغِي",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "وَكَيْفَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ إِذَا شَرِبْتَ مِنْهَا فَاسْتَقْبِلِ الْكَعْبَةَ وَاذْكُرِ اسْمَ اللَّهِ وَتَنَفَّسْ ثَلاَثًا ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3062": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3062\nIn-book reference  : Book 25, Hadith 181\nEnglish translation  : Vol. 4, Book 25, Hadith 3062",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، قَالَ قَالَ عَبْدُ اللَّهِ بْنُ الْمُؤَمَّلِ إِنَّهُ سَمِعَ أَبَا الزُّبَيْرِ، يَقُولُ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "3064": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3064\nIn-book reference  : Book 25, Hadith 183\nEnglish translation  : Vol. 4, Book 25, Hadith 3064",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ الْمَلِكِ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عَائِشَةَ، قَالَتْ خَرَجَ النَّبِيُّ ـ صلى الله عليه وسلم ـ مِنْ عِنْدِي وَهُوَ قَرِيرُ الْعَيْنِ طَيِّبُ النَّفْسِ ثُمَّ رَجَعَ إِلَىَّ وَهُوَ حَزِينٌ فَقُلْتُ يَا رَسُولَ اللَّهِ خَرَجْتَ مِنْ عِنْدِي وَأَنْتَ قَرِيرُ الْعَيْنِ وَرَجَعْتَ وَأَنْتَ حَزِينٌ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ الْمَلِكِ، عَنِ ابْنِ أَبِي مُلَيْكَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ خَرَجَ النَّبِيُّ ـ صلى الله عليه وسلم ـ مِنْ عِنْدِي وَهُوَ قَرِيرُ الْعَيْنِ طَيِّبُ النَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3070": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3070\nIn-book reference  : Book 25, Hadith 189\nEnglish translation  : Vol. 4, Book 25, Hadith 3070",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ سُلَيْمَانَ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ النَّاسُ يَنْصَرِفُونَ كُلَّ وَجْهٍ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كَانَ النَّاسُ يَنْصَرِفُونَ كُلَّ وَجْهٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3077": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3077\nIn-book reference  : Book 25, Hadith 196\nEnglish translation  : Vol. 4, Book 25, Hadith 3077",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، وَابْنُ، عُلَيَّةَ عَنْ حَجَّاجِ بْنِ أَبِي عُثْمَانَ، حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، حَدَّثَنِي عِكْرِمَةُ، حَدَّثَنِي الْحَجَّاجُ بْنُ عَمْرٍو الأَنْصَارِيُّ، قَالَ سَمِعْتُ النَّبِيَّ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عُلَيَّةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَجَّاجِ بْنِ أَبِي عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي عِكْرِمَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي الْحَجَّاجُ بْنُ عَمْرٍو الأَنْصَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3078": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3078\nIn-book reference  : Book 25, Hadith 197\nEnglish translation  : Vol. 4, Book 25, Hadith 3078",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا مَعْمَرٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عِكْرِمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ رَافِعٍ، - مَوْلَى أُمِّ سَلَمَةَ - قَالَ سَأَلْتُ الْحَجَّاجَ بْنَ عَمْرٍو عَنْ حَبْسِ الْمُحْرِمِ فَقَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَلَمَةُ بْنُ شَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ رَافِعٍ، - مَوْلَى أُمِّ سَلَمَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَمْرٍو",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ حَبْسِ الْمُحْرِمِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3086": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3086\nIn-book reference  : Book 25, Hadith 205\nEnglish translation  : Vol. 4, Book 25, Hadith 3086",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى الْقَطَّانُ الْوَاسِطِيُّ، حَدَّثَنَا يَزِيدُ بْنُ مَوْهَبٍ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ الْفَزَارِيُّ، حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ الْعَزِيزِ، حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ أَبِي الْمُهَزِّمِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ فِي بَيْضِ النَّعَامِ يُصِيبُهُ الْمُحْرِمُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى الْقَطَّانُ الْوَاسِطِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ مَوْهَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ الْفَزَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الْمُهَزِّمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الْمُحْرِمُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3087": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3087\nIn-book reference  : Book 25, Hadith 206\nEnglish translation  : Vol. 4, Book 25, Hadith 3087",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ بَشَّارٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ الْوَلِيدِ، قَالُوا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3089": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3089\nIn-book reference  : Book 25, Hadith 208\nEnglish translation  : Vol. 4, Book 25, Hadith 3089",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنِ ابْنِ أَبِي نُعْمٍ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، عَنِ ابْنِ أَبِي نُعْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3090": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3090\nIn-book reference  : Book 25, Hadith 209\nEnglish translation  : Vol. 4, Book 25, Hadith 3090",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَهِشَامُ بْنُ عَمَّارٍ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، جَمِيعًا عَنِ ابْنِ شِهَابٍ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أَنْبَأَنَا صَعْبُ بْنُ جَثَّامَةَ، قَالَ مَرَّ بِي رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ وَأَنَا بِالأَبْوَاءِ أَوْ بِوَدَّانَ فَأَهْدَيْتُ لَهُ حِمَارَ وَحْشٍ فَرَدَّهُ عَلَىَّ فَلَمَّا رَأَى فِي وَجْهِيَ الْكَرَاهِيَةَ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، جَمِيعًا عَنِ ابْنِ شِهَابٍ الز",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَنْبَأَنَا صَعْبُ بْنُ جَثَّامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ مَرَّ بِي رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ وَأَنَا بِالأَبْوَاءِ أَوْ بِوَدَّانَ فَأَهْد",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3099": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3099\nIn-book reference  : Book 25, Hadith 218\nEnglish translation  : Vol. 4, Book 25, Hadith 3099",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَبْدِ الْكَرِيمِ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ أَمَرَنِي رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ أَقُومَ عَلَى بُدْنِهِ وَأَنْ أَقْسِمَ جِلاَلَهَا وَجُلُودَهَا وَأَنْ لاَ أُعْطِيَ الْجَازِرَ مِنْهَا شَيْئًا وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَبْدِ الْكَرِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُجَاهِدٍ، عَنِ ابْنِ أَبِي لَيْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَمَرَنِي رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ أَقُومَ عَلَى بُدْنِهِ وَأَنْ أَقْسِمَ ج",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3105": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3105\nIn-book reference  : Book 25, Hadith 224\nEnglish translation  : Vol. 4, Book 25, Hadith 3105",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ الْعَبْدِيُّ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ سِنَانِ بْنِ سَلَمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ ذُؤَيْبًا الْخُزَاعِيَّ، حَدَّثَ أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ كَانَ يَبْعَثُ مَعَهُ بِالْبُدْنِ ثُمَّ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ الْعَبْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "3106": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3106\nIn-book reference  : Book 25, Hadith 225\nEnglish translation  : Vol. 4, Book 25, Hadith 3106",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، وَعَمْرُو بْنُ عَبْدِ اللَّهِ، قَالُوا حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ نَاجِيَةَ الْخُزَاعِيِّ، - قَالَ عَمْرٌو فِي حَدِيثِهِ وَكَانَ صَاحِبَ بُدْنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ - قَالَ قُلْتُ يَا رَسُولَ اللَّهِ كَيْفَ أَصْنَعُ بِمَا عَطِبَ مِنَ الْبُدْنِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَاجِيَةَ الْخُزَاعِيِّ، -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ عَمْرٌو فِي حَدِيثِهِ وَكَانَ صَاحِبَ بُدْنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْبُدْنِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3108": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3108\nIn-book reference  : Book 25, Hadith 227\nEnglish translation  : Vol. 4, Book 25, Hadith 3108",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا عِيسَى بْنُ حَمَّادٍ الْمِصْرِيُّ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، أَخْبَرَنِي عُقَيْلٌ، عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ، أَنَّهُ قَالَ إِنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ أَخْبَرَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عَدِيِّ بْنِ الْحَمْرَاءِ قَالَ لَهُ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ وَهُوَ عَلَى رَاحِلَتِهِ وَاقِفٌ بِالْحَزْوَرَةِ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عِيسَى بْنُ حَمَّادٍ الْمِصْرِيُّ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، أَخْبَرَنِي عُقَيْل",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "الْحَمْرَاءِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3110": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3110\nIn-book reference  : Book 25, Hadith 229\nEnglish translation  : Vol. 4, Book 25, Hadith 3110",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَابْنُ الْفُضَيْلِ، عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، أَنْبَأَنَا عَبْدُ الرَّحْمَنِ بْنُ سَابِطٍ، عَنْ عَيَّاشِ بْنِ أَبِي رَبِيعَةَ الْمَخْزُومِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَابْنُ الْفُضَيْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي زِيَادٍ، أَنْبَأَنَا عَبْدُ الرَّحْمَنِ بْنُ سَابِطٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَيَّاشِ بْنِ أَبِي رَبِيعَةَ الْمَخْزُومِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3111": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3111\nIn-book reference  : Book 25, Hadith 230\nEnglish translation  : Vol. 4, Book 25, Hadith 3111",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، وَأَبُو أُسَامَةَ عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أُسَامَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حَفْصِ بْنِ عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3113": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3113\nIn-book reference  : Book 25, Hadith 232\nEnglish translation  : Vol. 4, Book 25, Hadith 3113",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو مَرْوَانَ، مُحَمَّدُ بْنُ عُثْمَانَ الْعُثْمَانِيُّ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْعُثْمَانِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3114": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3114\nIn-book reference  : Book 25, Hadith 233\nEnglish translation  : Vol. 4, Book 25, Hadith 3114",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3115": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3115\nIn-book reference  : Book 25, Hadith 234\nEnglish translation  : Vol. 4, Book 25, Hadith 3115",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا عَبْدَةُ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَبْدِ اللَّهِ بْنِ مِكْنَفٍ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ إِنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مِكْنَفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ إِنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3117": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3117\nIn-book reference  : Book 25, Hadith 236\nEnglish translation  : Vol. 4, Book 25, Hadith 3117",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْعَدَنِيُّ، حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ زَيْدٍ الْعَمِّيِّ، عَنْ أَبِيهِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْعَدَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ زَيْدٍ الْعَمِّيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3118": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3118\nIn-book reference  : Book 25, Hadith 237\nEnglish translation  : Vol. 4, Book 25, Hadith 3118",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْعَدَنِيُّ، حَدَّثَنَا دَاوُدُ بْنُ عَجْلاَنَ، قَالَ طُفْنَا مَعَ أَبِي عِقَالٍ فِي مَطَرٍ فَلَمَّا قَضَيْنَا طَوَافَنَا أَتَيْنَا خَلْفَ الْمَقَامِ فَقَالَ طُفْتُ مَعَ أَنَسِ بْنِ مَالِكٍ فِي مَطَرٍ فَلَمَّا قَضَيْنَا الطَّوَافَ أَتَيْنَا الْمَقَامَ فَصَلَّيْنَا رَكْعَتَيْنِ فَقَالَ لَنَا أَنَسٌ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عُمَرَ الْعَدَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ بْنُ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ طُفْنَا مَعَ أَبِي عِقَالٍ فِي مَطَرٍ فَلَمَّا قَضَيْنَا طَوَافَنَا أَتَيْنَا خَلْفَ الْمَقَام",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ طُفْتُ مَعَ أَنَسِ بْنِ مَالِكٍ فِي مَطَرٍ فَلَمَّا قَضَيْنَا الطَّوَافَ أَتَيْنَا الْمَقَامَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَسٌ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "3119": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Hajj Rituals",
+    "book_num": "25",
+    "reference": "Reference  : Sunan Ibn Majah 3119\nIn-book reference  : Book 25, Hadith 238\nEnglish translation  : Vol. 4, Book 25, Hadith 3119",
+    "url": "https://sunnah.com/ibnmajah/25",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ حَفْصٍ الأُبُلِّيُّ، حَدَّثَنَا يَحْيَى بْنُ يَمَانٍ، عَنْ حَمْزَةَ بْنِ حَبِيبٍ الزَّيَّاتِ، عَنْ حُمْرَانَ بْنِ أَعْيَنَ، عَنْ أَبِي الطُّفَيْلِ، عَنْ أَبِي سَعِيدٍ، قَالَ حَجَّ النَّبِيُّ ـ صلى الله عليه وسلم ـ وَأَصْحَابُهُ مُشَاةً مِنَ الْمَدِينَةِ إِلَى مَكَّةَ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ حَفْصٍ الأُبُلِّيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَمَانٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَمْزَةَ بْنِ حَبِيبٍ الزَّيَّاتِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُمْرَانَ بْنِ أَعْيَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الطُّفَيْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ حَجَّ النَّبِيُّ ـ صلى الله عليه وسلم ـ وَأَصْحَابُهُ مُشَاةً مِنَ الْمَدِينَةِ إِلَى مَكَّةَ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

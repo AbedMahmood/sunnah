@@ -1,0 +1,1583 @@
+{
+  "60": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 60\nIn-book reference  : Book 3, Hadith 2\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 57\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا أَبُو النُّعْمَانِ، عَارِمُ بْنُ الْفَضْلِ قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ يُوسُفَ بْنِ مَاهَكَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ تَخَلَّفَ عَنَّا النَّبِيُّ صلى الله عليه وسلم فِي سَفْرَةٍ سَافَرْنَاهَا، فَأَدْرَكَنَا وَقَدْ أَرْهَقَتْنَا الصَّلاَةُ وَنَحْنُ نَتَوَضَّأُ، فَجَعَلْنَا نَمْسَحُ عَلَى أَرْجُلِنَا، فَنَادَى بِأَعْلَى صَوْتِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْفَضْلِ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يُوسُفَ بْنِ مَاهَكَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "صَوْتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "66": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 66\nIn-book reference  : Book 3, Hadith 8\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 66\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، أَنَّ أَبَا مُرَّةَ، مَوْلَى عَقِيلِ بْنِ أَبِي طَالِبٍ أَخْبَرَهُ عَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَيْنَمَا هُوَ جَالِسٌ فِي الْمَسْجِدِ وَالنَّاسُ مَعَهُ، إِذْ أَقْبَلَ ثَلاَثَةُ نَفَرٍ، فَأَقْبَلَ اثْنَانِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَذَهَبَ وَاحِدٌ، قَالَ فَوَقَفَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَمَّا أَحَدُهُمَا فَرَأَى فُرْجَةً فِي الْحَلْقَةِ فَجَلَسَ فِيهَا، وَأَمَّا الآخَرُ فَجَلَسَ خَلْفَهُمْ، وَأَمَّا الثَّالِثُ فَأَدْبَرَ ذَاهِبًا، فَلَمَّا فَرَغَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَيْنَمَا هُوَ جَالِسٌ فِي",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ فَوَقَفَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَمَّا أَحَدُهُمَا فَرَأَى فُرْجَةً فِي ا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "69": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 69\nIn-book reference  : Book 3, Hadith 11\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 69\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنِي أَبُو التَّيَّاحِ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي أَبُو التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "71": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 71\nIn-book reference  : Book 3, Hadith 13\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 71\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ قَالَ حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ سَمِعْتُ مُعَاوِيَةَ، خَطِيبًا يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "73": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 73\nIn-book reference  : Book 3, Hadith 15\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 73\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا الْحُمَيْدِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، عَلَى غَيْرِ مَا حَدَّثَنَاهُ الزُّهْرِيُّ، قَالَ سَمِعْتُ قَيْسَ بْنَ أَبِي حَازِمٍ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحُمَيْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، عَلَى غَيْرِ مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَاهُ الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَمِعْتُ قَيْسَ بْنَ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "74": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 74\nIn-book reference  : Book 3, Hadith 16\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 74\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ غُرَيْرٍ الزُّهْرِيُّ، قَالَ حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنِي أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، حَدَّثَ أَنَّ عُبَيْدَ اللَّهِ بْنَ عَبْدِ اللَّهِ أَخْبَرَهُ عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ تَمَارَى هُوَ وَالْحُرُّ بْنُ قَيْسِ بْنِ حِصْنٍ الْفَزَارِيُّ فِي صَاحِبِ مُوسَى قَالَ ابْنُ عَبَّاسٍ هُوَ خَضِرٌ. فَمَرَّ بِهِمَا أُبَىُّ بْنُ كَعْبٍ، فَدَعَاهُ ابْنُ عَبَّاسٍ فَقَالَ إِنِّي تَمَارَيْتُ أَنَا وَصَاحِبِي، هَذَا فِي صَاحِبِ مُوسَى الَّذِي سَأَلَ مُوسَى السَّبِيلَ إِلَى لُقِيِّهِ، هَلْ سَمِعْتَ النَّبِيَّ صلى الله عليه وسلم يَذْكُرُ شَأْنَهُ قَالَ نَعَمْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ غُرَيْرٍ الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "مُوسَى",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ ابْنُ عَبَّاسٍ هُوَ خَضِرٌ. فَمَرَّ بِهِمَا أُبَىُّ بْنُ كَعْبٍ، فَدَعَاهُ ابْنُ عَبَّاسٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "شَأْنَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "75": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 75\nIn-book reference  : Book 3, Hadith 17\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 75\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا أَبُو مَعْمَرٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ ضَمَّنِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ ضَمَّنِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "78": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 78\nIn-book reference  : Book 3, Hadith 20\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 78\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا أَبُو الْقَاسِمِ، خَالِدُ بْنُ خَلِيٍّ قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، قَالَ قَالَ الأَوْزَاعِيُّ أَخْبَرَنَا الزُّهْرِيُّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ تَمَارَى هُوَ وَالْحُرُّ بْنُ قَيْسِ بْنِ حِصْنٍ الْفَزَارِيُّ فِي صَاحِبِ مُوسَى، فَمَرَّ بِهِمَا أُبَىُّ بْنُ كَعْبٍ، فَدَعَاهُ ابْنُ عَبَّاسٍ فَقَالَ إِنِّي تَمَارَيْتُ أَنَا وَصَاحِبِي هَذَا فِي صَاحِبِ مُوسَى الَّذِي سَأَلَ السَّبِيلَ إِلَى لُقِيِّهِ، هَلْ سَمِعْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَذْكُرُ شَأْنَهُ فَقَالَ أُبَىٌّ نَعَمْ، سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَذْكُرُ شَأْنَهُ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "خَلِيٍّ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الأَوْزَاعِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَخْبَرَنَا الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ إِنِّي تَمَارَيْتُ أَنَا وَصَاحِبِي هَذَا فِي صَاحِبِ مُوسَى الَّذِي سَأَلَ السَّبِيلَ إِلَى ل",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "79": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 79\nIn-book reference  : Book 3, Hadith 21\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 79\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ أُسَامَةَ، عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "80": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 80\nIn-book reference  : Book 3, Hadith 22\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 80\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا عِمْرَانُ بْنُ مَيْسَرَةَ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عِمْرَانُ بْنُ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "81": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 81\nIn-book reference  : Book 3, Hadith 23\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 81\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ لأُحَدِّثَنَّكُمْ حَدِيثًا لاَ يُحَدِّثُكُمْ أَحَدٌ بَعْدِي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "85": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 85\nIn-book reference  : Book 3, Hadith 27\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 85\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ، قَالَ أَخْبَرَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ، عَنْ سَالِمٍ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْمَكِّيُّ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا حَنْظَلَةُ بْنُ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "86": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 86\nIn-book reference  : Book 3, Hadith 28\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 86\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا هِشَامٌ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ، قَالَتْ أَتَيْتُ عَائِشَةَ وَهِيَ تُصَلِّي فَقُلْتُ مَا شَأْنُ النَّاسِ فَأَشَارَتْ إِلَى السَّمَاءِ، فَإِذَا النَّاسُ قِيَامٌ، فَقَالَتْ سُبْحَانَ اللَّهِ. قُلْتُ آيَةٌ فَأَشَارَتْ بِرَأْسِهَا، أَىْ نَعَمْ، فَقُمْتُ حَتَّى تَجَلاَّنِي الْغَشْىُ، فَجَعَلْتُ أَصُبُّ عَلَى رَأْسِي الْمَاءَ، فَحَمِدَ اللَّهَ عَزَّ وَجَلَّ النَّبِيُّ صلى الله عليه وسلم وَأَثْنَى عَلَيْهِ، ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ فَاطِمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَسْمَاءَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ أَتَيْتُ عَائِشَةَ وَهِيَ تُصَلِّي فَقُلْتُ مَا شَأْنُ النَّاسِ فَأَشَارَتْ إِلَى السَّمَاءِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "88": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 88\nIn-book reference  : Book 3, Hadith 30\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 88\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ أَبُو الْحَسَنِ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا عُمَرُ بْنُ سَعِيدِ بْنِ أَبِي حُسَيْنٍ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي مُلَيْكَةَ، عَنْ عُقْبَةَ بْنِ الْحَارِثِ، أَنَّهُ تَزَوَّجَ ابْنَةً لأَبِي إِهَابِ بْنِ عَزِيزٍ، فَأَتَتْهُ امْرَأَةٌ فَقَالَتْ إِنِّي قَدْ أَرْضَعْتُ عُقْبَةَ وَالَّتِي تَزَوَّجَ بِهَا. فَقَالَ لَهَا عُقْبَةُ مَا أَعْلَمُ أَنَّكِ أَرْضَعْتِنِي وَلاَ أَخْبَرْتِنِي. فَرَكِبَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بِالْمَدِينَةِ فَسَأَلَهُ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ أَبُو الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَنَا عُمَرُ بْنُ سَعِيدِ بْنِ أَبِي حُسَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي مُلَيْكَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ الْحَارِثِ، أَنَّهُ تَزَوَّجَ ابْنَةً لأَبِي إِهَابِ بْنِ عَزِيزٍ، فَأَتَتْهُ امْ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَتْ إِنِّي قَدْ أَرْضَعْتُ عُقْبَةَ وَالَّتِي تَزَوَّجَ بِهَا. فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ لَهَا عُقْبَةُ مَا أَعْلَمُ أَنَّكِ أَرْضَعْتِنِي وَلاَ أَخْبَرْتِنِي. فَرَكِبَ إِلَى رَسُولِ ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "89": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 89\nIn-book reference  : Book 3, Hadith 31\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 89\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، ح قَالَ أَبُو عَبْدِ اللَّهِ وَقَالَ ابْنُ وَهْبٍ أَخْبَرَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي ثَوْرٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، عَنْ عُمَرَ، قَالَ كُنْتُ أَنَا وَجَارٌ، لِي مِنَ الأَنْصَارِ فِي بَنِي أُمَيَّةَ بْنِ زَيْدٍ، وَهْىَ مِنْ عَوَالِي الْمَدِينَةِ، وَكُنَّا نَتَنَاوَبُ النُّزُولَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم يَنْزِلُ يَوْمًا وَأَنْزِلُ يَوْمًا، فَإِذَا نَزَلْتُ جِئْتُهُ بِخَبَرِ ذَلِكَ الْيَوْمِ مِنَ الْوَحْىِ وَغَيْرِهِ، وَإِذَا نَزَلَ فَعَلَ مِثْلَ ذَلِكَ، فَنَزَلَ صَاحِبِي الأَنْصَارِيُّ يَوْمَ نَوْبَتِهِ، فَضَرَبَ بَابِي ضَرْبًا شَدِيدًا. فَقَالَ أَثَمَّ هُوَ فَفَزِعْتُ فَخَرَجْتُ إِلَيْهِ فَقَالَ قَدْ حَدَثَ أَمْرٌ عَظِيمٌ. قَالَ فَدَخَلْتُ عَلَى حَفْصَةَ فَإِذَا هِيَ تَبْكِي فَقُلْتُ طَلَّقَكُنَّ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَتْ لاَ أَدْرِي. ثُمَّ دَخَلْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم فَقُلْتُ وَأَنَا قَائِمٌ أَطَلَّقْتَ نِسَاءَكَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، ح",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَبُو عَبْدِ اللَّهِ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "وَهْبٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي ثَوْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ كُنْتُ أَنَا وَجَارٌ، لِي مِنَ الأَنْصَارِ فِي بَنِي أُمَيَّةَ بْنِ زَيْدٍ، وَهْىَ مِنْ عَوَال",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ أَثَمَّ هُوَ فَفَزِعْتُ فَخَرَجْتُ إِلَيْهِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ قَدْ حَدَثَ أَمْرٌ عَظِيمٌ.",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ فَدَخَلْتُ عَلَى حَفْصَةَ فَإِذَا هِيَ تَبْكِي فَقُلْتُ طَلَّقَكُنَّ رَسُولُ اللَّهِ صلى الله ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "نِسَاءَكَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 13,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "90": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 90\nIn-book reference  : Book 3, Hadith 32\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 90\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، قَالَ أَخْبَرَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي خَالِدٍ، عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، عَنْ أَبِي مَسْعُودٍ الأَنْصَارِيِّ، قَالَ قَالَ رَجُلٌ يَا رَسُولَ اللَّهِ، لاَ أَكَادُ أُدْرِكُ الصَّلاَةَ مِمَّا يُطَوِّلُ بِنَا فُلاَنٌ، فَمَا رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم فِي مَوْعِظَةٍ أَشَدَّ غَضَبًا مِنْ يَوْمِئِذٍ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مَسْعُودٍ الأَنْصَارِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَجُلٌ يَا رَسُولَ اللَّهِ، لاَ أَكَادُ أُدْرِكُ الصَّلاَةَ مِمَّا يُطَوِّلُ بِنَا فُلاَنٌ، فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "96": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 96\nIn-book reference  : Book 3, Hadith 38\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 96\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ يُوسُفَ بْنِ مَاهَكَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ تَخَلَّفَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ سَافَرْنَاهُ فَأَدْرَكَنَا وَقَدْ أَرْهَقْنَا الصَّلاَةَ صَلاَةَ الْعَصْرِ وَنَحْنُ نَتَوَضَّأُ، فَجَعَلْنَا نَمْسَحُ عَلَى أَرْجُلِنَا، فَنَادَى بِأَعْلَى صَوْتِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يُوسُفَ بْنِ مَاهَكَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "صَوْتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "97": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 97\nIn-book reference  : Book 3, Hadith 39\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 97\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدٌ ـ هُوَ ابْنُ سَلاَمٍ ـ حَدَّثَنَا الْمُحَارِبِيُّ، قَالَ حَدَّثَنَا صَالِحُ بْنُ حَيَّانَ، قَالَ قَالَ عَامِرٌ الشَّعْبِيُّ حَدَّثَنِي أَبُو بُرْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدٌ ـ هُوَ ابْنُ سَلاَمٍ ـ حَدَّثَنَا الْمُحَارِبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ حَدَّثَنَا صَالِحُ بْنُ حَيَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ عَامِرٌ الشَّعْبِيُّ حَدَّثَنِي أَبُو بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "99": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 99\nIn-book reference  : Book 3, Hadith 41\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 98\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي سُلَيْمَانُ، عَنْ عَمْرِو بْنِ أَبِي عَمْرٍو، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ قِيلَ يَا رَسُولَ اللَّهِ، مَنْ أَسْعَدُ النَّاسِ بِشَفَاعَتِكَ يَوْمَ الْقِيَامَةِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي سُلَيْمَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ أَبِي عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْقِيَامَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "100": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 100\nIn-book reference  : Book 3, Hadith 42\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 100\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قَالَ حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "102": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 102\nIn-book reference  : Book 3, Hadith 44\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 102\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا غُنْدَرٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الأَصْبَهَانِيِّ، عَنْ ذَكْوَانَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا. وَعَنْ عَبْدِ الرَّحْمَنِ بْنِ الأَصْبَهَانِيِّ، قَالَ سَمِعْتُ أَبَا حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا غُنْدَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ الأَصْبَهَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ ذَكْوَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا. وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ الأَصْبَهَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ سَمِعْتُ أَبَا حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "104": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 104\nIn-book reference  : Book 3, Hadith 46\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 104\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ حَدَّثَنِي اللَّيْثُ، قَالَ حَدَّثَنِي سَعِيدٌ، عَنْ أَبِي شُرَيْحٍ، أَنَّهُ قَالَ لِعَمْرِو بْنِ سَعِيدٍ وَهْوَ يَبْعَثُ الْبُعُوثَ إِلَى مَكَّةَ ائْذَنْ لِي أَيُّهَا الأَمِيرُ أُحَدِّثْكَ قَوْلاً قَامَ بِهِ النَّبِيُّ صلى الله عليه وسلم الْغَدَ مِنْ يَوْمِ الْفَتْحِ، سَمِعَتْهُ أُذُنَاىَ وَوَعَاهُ قَلْبِي، وَأَبْصَرَتْهُ عَيْنَاىَ، حِينَ تَكَلَّمَ بِهِ، حَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "106": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 106\nIn-book reference  : Book 3, Hadith 48\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 106\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ الْجَعْدِ، قَالَ أَخْبَرَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي مَنْصُورٌ، قَالَ سَمِعْتُ رِبْعِيَّ بْنَ حِرَاشٍ، يَقُولُ سَمِعْتُ عَلِيًّا، يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْجَعْدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي مَنْصُورٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "107": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 107\nIn-book reference  : Book 3, Hadith 49\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 107\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ جَامِعِ بْنِ شَدَّادٍ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ أَبِيهِ، قَالَ قُلْتُ لِلزُّبَيْرِ إِنِّي لاَ أَسْمَعُكَ تُحَدِّثُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم كَمَا يُحَدِّثُ فُلاَنٌ وَفُلاَنٌ. قَالَ أَمَا إِنِّي لَمْ أُفَارِقْهُ وَلَكِنْ سَمِعْتُهُ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْوَلِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَامِعِ بْنِ شَدَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "تُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم كَمَا يُحَدِّثُ فُلاَنٌ وَفُلاَنٌ.",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "108": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 108\nIn-book reference  : Book 3, Hadith 50\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 108\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا أَبُو مَعْمَرٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ عَبْدِ الْعَزِيزِ، قَالَ أَنَسٌ إِنَّهُ لَيَمْنَعُنِي أَنْ أُحَدِّثَكُمْ حَدِيثًا كَثِيرًا أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَنَسٌ إِنَّهُ لَيَمْنَعُنِي أَنْ أُحَدِّثَكُمْ حَدِيثًا كَثِيرًا أَنَّ النَّبِيَّ صلى الله عل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "109": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 109\nIn-book reference  : Book 3, Hadith 51\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 109\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مَكِّيُّ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ أَبِي عُبَيْدٍ، عَنْ سَلَمَةَ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَكِّيُّ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ أَبِي عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "110": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 110\nIn-book reference  : Book 3, Hadith 52\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 110\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُوسَى، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي حَصِينٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "115": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 115\nIn-book reference  : Book 3, Hadith 57\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 115\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا صَدَقَةُ، أَخْبَرَنَا ابْنُ عُيَيْنَةَ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ هِنْدٍ، عَنْ أُمِّ سَلَمَةَ، وَعَمْرٍو، وَيَحْيَى بْنِ سَعِيدٍ، عَنِ الزُّهْرِيِّ، عَنْ هِنْدٍ، عَنْ أُمِّ سَلَمَةَ، قَالَتِ اسْتَيْقَظَ النَّبِيُّ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا صَدَقَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِنْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ، وَعَمْرٍو، وَيَحْيَى بْنِ سَعِيدٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ هِنْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتِ اسْتَيْقَظَ النَّبِيُّ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "116": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 116\nIn-book reference  : Book 3, Hadith 58\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 116\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ، قَالَ حَدَّثَنِي اللَّيْثُ، قَالَ حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ خَالِدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، وَأَبِي، بَكْرِ بْنِ سُلَيْمَانَ بْنِ أَبِي حَثْمَةَ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، قَالَ صَلَّى بِنَا النَّبِيُّ صلى الله عليه وسلم الْعِشَاءَ فِي آخِرِ حَيَاتِهِ، فَلَمَّا سَلَّمَ قَامَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عُفَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ خَالِدٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَالِمٍ، وَأَبِي، بَكْرِ بْنِ سُلَيْمَانَ بْنِ أَبِي حَثْمَةَ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ صَلَّى بِنَا النَّبِيُّ صلى الله عليه وسلم الْعِشَاءَ فِي آخِرِ حَيَاتِهِ، فَلَمَّا سَلَّمَ قَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "117": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 117\nIn-book reference  : Book 3, Hadith 59\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 117\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا الْحَكَمُ، قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ بِتُّ فِي بَيْتِ خَالَتِي مَيْمُونَةَ بِنْتِ الْحَارِثِ زَوْجِ النَّبِيِّ صلى الله عليه وسلم وَكَانَ النَّبِيُّ صلى الله عليه وسلم عِنْدَهَا فِي لَيْلَتِهَا، فَصَلَّى النَّبِيُّ صلى الله عليه وسلم الْعِشَاءَ، ثُمَّ جَاءَ إِلَى مَنْزِلِهِ، فَصَلَّى أَرْبَعَ رَكَعَاتٍ، ثُمَّ نَامَ، ثُمَّ قَامَ، ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا آدَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الْحَكَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "123": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 123\nIn-book reference  : Book 3, Hadith 65\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 125\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ، قَالَ أَخْبَرَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ أَبِي مُوسَى، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ، مَا الْقِتَالُ فِي سَبِيلِ اللَّهِ فَإِنَّ أَحَدَنَا يُقَاتِلُ غَضَبًا، وَيُقَاتِلُ حَمِيَّةً. فَرَفَعَ إِلَيْهِ رَأْسَهُ ـ قَالَ وَمَا رَفَعَ إِلَيْهِ رَأْسَهُ إِلاَّ أَنَّهُ كَانَ قَائِمًا ـ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ، مَا الْقِتَالُ فِي سَبِيلِ اللَّهِ فَإِنَّ أَحَدَنَا يُقَاتِلُ غَضَبًا، و",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ وَمَا رَفَعَ إِلَيْهِ رَأْسَهُ إِلاَّ أَنَّهُ كَانَ قَائِمًا ـ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "126": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 126\nIn-book reference  : Book 3, Hadith 68\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 128\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ إِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، قَالَ قَالَ لِي ابْنُ الزُّبَيْرِ كَانَتْ عَائِشَةُ تُسِرُّ إِلَيْكَ كَثِيرًا فَمَا حَدَّثَتْكَ فِي الْكَعْبَةِ قُلْتُ قَالَتْ لِي قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ إِسْرَائِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قُلْتُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ لِي",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "132": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 132\nIn-book reference  : Book 3, Hadith 74\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 134\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنِ الأَعْمَشِ، عَنْ مُنْذِرٍ الثَّوْرِيِّ، عَنْ مُحَمَّدٍ ابْنِ الْحَنَفِيَّةِ، عَنْ عَلِيٍّ، قَالَ كُنْتُ رَجُلاً مَذَّاءً فَأَمَرْتُ الْمِقْدَادَ أَنْ يَسْأَلَ النَّبِيَّ صلى الله عليه وسلم فَسَأَلَهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُنْذِرٍ الثَّوْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدٍ ابْنِ الْحَنَفِيَّةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كُنْتُ رَجُلاً مَذَّاءً فَأَمَرْتُ الْمِقْدَادَ أَنْ يَسْأَلَ النَّبِيَّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "134": {
+    "collection": "Sahih Bukhari",
+    "book": "Knowledge",
+    "book_num": "3",
+    "reference": "Reference  : Sahih al-Bukhari 134\nIn-book reference  : Book 3, Hadith 76\nUSC-MSA web (English) reference  : Vol. 1, Book 3, Hadith 136\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/3",
+    "sanad_full": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم. وَعَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَجُلاً سَأَلَهُ مَا يَلْبَسُ الْمُحْرِمُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا آدَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم. وَعَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَجُلاً سَأَلَهُ مَا يَلْب",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

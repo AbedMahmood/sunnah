@@ -1,0 +1,1466 @@
+{
+  "1367": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1367\nIn-book reference  : Book 14, Hadith 1\nEnglish translation  : Vol. 2, Book 14, Hadith 1368",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، وَابْنُ، طَاوُسٍ عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْمَخْزُومِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "طَاوُسٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1368": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1368\nIn-book reference  : Book 14, Hadith 2\nEnglish translation  : Vol. 2, Book 14, Hadith 1369",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنْ أَبِي مَالِكٍ الأَشْجَعِيِّ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، وَعَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ حُذَيْفَةَ، قَالاَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي مَالِكٍ الأَشْجَعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رِبْعِيِّ بْنِ حِرَاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1369": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1369\nIn-book reference  : Book 14, Hadith 5\nEnglish translation  : Vol. 2, Book 14, Hadith 1370",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ سَوَّادٍ، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَنْبَأَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ أَسِيدِ بْنِ أَبِي أَسِيدٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، - رضى الله عنه - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ سَوَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ أَبِي ذِئْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَسِيدِ بْنِ أَبِي أَسِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، - رضى الله عنه - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1370": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1370\nIn-book reference  : Book 14, Hadith 6\nEnglish translation  : Vol. 2, Book 14, Hadith 1371",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، قَالَ حَدَّثَنَا حَبَّانُ، قَالَ حَدَّثَنَا أَبَانُ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنِ الْحَضْرَمِيِّ بْنِ لاَحِقٍ، عَنْ زَيْدٍ، عَنْ أَبِي سَلاَّمٍ، عَنِ الْحَكَمِ بْنِ مِينَاءَ، أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ، وَابْنَ، عُمَرَ يُحَدِّثَانِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ وَهُوَ عَلَى أَعْوَادِ مِنْبَرِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَبَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنِ الْحَضْرَمِيِّ بْنِ لاَحِقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي سَلاَّمٍ، عَنِ الْحَكَمِ بْنِ مِينَاءَ، أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ، وَابْنَ، عُمَرَ يُ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "مِنْبَرِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1371": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1371\nIn-book reference  : Book 14, Hadith 7\nEnglish translation  : Vol. 2, Book 14, Hadith 1372",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنِي مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنِي الْمُفَضَّلُ بْنُ فَضَالَةَ، عَنْ عَيَّاشِ بْنِ عَبَّاسٍ، عَنْ بُكَيْرِ بْنِ الأَشَجِّ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ حَفْصَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي الْمُفَضَّلُ بْنُ فَضَالَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَيَّاشِ بْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ الأَشَجِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ حَفْصَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1372": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1372\nIn-book reference  : Book 14, Hadith 9\nEnglish translation  : Vol. 2, Book 14, Hadith 1373",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا نَصْرُ بْنُ عَلِيٍّ، قَالَ أَنْبَأَنَا نُوحٌ، عَنْ خَالِدٍ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، - رضى الله عنه - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا نَصْرُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا نُوحٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَمُرَةَ، - رضى الله عنه - عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1373": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1373\nIn-book reference  : Book 14, Hadith 10\nEnglish translation  : Vol. 2, Book 14, Hadith 1374",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ الأَعْرَجُ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1376": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1376\nIn-book reference  : Book 14, Hadith 13\nEnglish translation  : Vol. 2, Book 14, Hadith 1377",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1377": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1377\nIn-book reference  : Book 14, Hadith 14\nEnglish translation  : Vol. 2, Book 14, Hadith 1378",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ سُلَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1378": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1378\nIn-book reference  : Book 14, Hadith 15\nEnglish translation  : Vol. 2, Book 14, Hadith 1379",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا بِشْرٌ، قَالَ حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بِشْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1379": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1379\nIn-book reference  : Book 14, Hadith 16\nEnglish translation  : Vol. 2, Book 14, Hadith 1380",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ خَالِدٍ، عَنِ الْوَلِيدِ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْعَلاَءِ، أَنَّهُ سَمِعَ الْقَاسِمَ بْنَ مُحَمَّدِ بْنِ أَبِي بَكْرٍ، أَنَّهُمْ ذَكَرُوا غُسْلَ يَوْمِ الْجُمُعَةِ عِنْدَ عَائِشَةَ فَقَالَتْ إِنَّمَا كَانَ النَّاسُ يَسْكُنُونَ الْعَالِيَةَ فَيَحْضُرُونَ الْجُمُعَةَ وَبِهِمْ وَسَخٌ فَإِذَا أَصَابَهُمُ الرَّوْحُ سَطَعَتْ أَرْوَاحُهُمْ فَيَتَأَذَّى بِهَا النَّاسُ فَذُكِرَ ذَلِكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ خَالِدٍ، عَنِ الْوَلِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْعَلاَءِ، أَنَّهُ سَمِعَ الْقَاسِمَ بْنَ مُحَمَّدِ بْنِ أَبِي بَكْر",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَتْ إِنَّمَا كَانَ النَّاسُ يَسْكُنُونَ الْعَالِيَةَ فَيَحْضُرُونَ الْجُمُعَةَ وَبِهِمْ وَسَخٌ ف",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "1380": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1380\nIn-book reference  : Book 14, Hadith 17\nEnglish translation  : Vol. 2, Book 14, Hadith 1381",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا أَبُو الأَشْعَثِ، عَنْ يَزِيدَ بْنِ زُرَيْعٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو الأَشْعَثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَمُرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1381": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1381\nIn-book reference  : Book 14, Hadith 18\nEnglish translation  : Vol. 2, Book 14, Hadith 1382",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، وَهَارُونُ بْنُ مُحَمَّدِ بْنِ بَكَّارِ بْنِ بِلاَلٍ، - وَاللَّفْظُ لَهُ - قَالاَ حَدَّثَنَا أَبُو مُسْهِرٍ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، عَنْ يَحْيَى بْنِ الْحَارِثِ، عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ، عَنْ أَوْسِ بْنِ أَوْسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُسْهِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَوْسِ بْنِ أَوْسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1383": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1383\nIn-book reference  : Book 14, Hadith 20\nEnglish translation  : Vol. 2, Book 14, Hadith 1384",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا الْحَسَنُ بْنُ سَوَّارٍ، قَالَ حَدَّثَنَا اللَّيْثُ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ سَعِيدٍ، عَنْ أَبِي بَكْرِ بْنِ الْمُنْكَدِرِ، أَنَّ عَمْرَو بْنَ سُلَيْمٍ، أَخْبَرَهُ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ سَوَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أَخْبَرَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1384": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1384\nIn-book reference  : Book 14, Hadith 21\nEnglish translation  : Vol. 2, Book 14, Hadith 1385",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنِي عَمْرُو بْنُ عُثْمَانَ بْنِ سَعِيدِ بْنِ كَثِيرٍ، قَالَ حَدَّثَنَا الْوَلِيدُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ بْنِ جَابِرٍ، أَنَّهُ سَمِعَ أَبَا الأَشْعَثِ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَوْسَ بْنَ أَوْسٍ، صَاحِبَ رَسُولِ اللَّهِ صلى الله عليه وسلم يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي عَمْرُو بْنُ عُثْمَانَ بْنِ سَعِيدِ بْنِ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1386": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1386\nIn-book reference  : Book 14, Hadith 23\nEnglish translation  : Vol. 2, Book 14, Hadith 1387",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1387": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1387\nIn-book reference  : Book 14, Hadith 24\nEnglish translation  : Vol. 2, Book 14, Hadith 1388",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا شُعَيْبُ بْنُ اللَّيْثِ، قَالَ أَنْبَأَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعَيْبُ بْنُ اللَّيْثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُمَىٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1388": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1388\nIn-book reference  : Book 14, Hadith 25\nEnglish translation  : Vol. 2, Book 14, Hadith 1389",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُمَىٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1389": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1389\nIn-book reference  : Book 14, Hadith 26\nEnglish translation  : Vol. 2, Book 14, Hadith 1390",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ سَوَّادِ بْنِ الأَسْوَدِ بْنِ عَمْرٍو، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنِ الْجُلاَحِ، مَوْلَى عَبْدِ الْعَزِيزِ أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ، حَدَّثَهُ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ سَوَّادِ بْنِ الأَسْوَدِ بْنِ عَمْرٍو، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1395": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1395\nIn-book reference  : Book 14, Hadith 32\nEnglish translation  : Vol. 2, Book 14, Hadith 1396",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ دِينَارٍ، قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1398": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1398\nIn-book reference  : Book 14, Hadith 35\nEnglish translation  : Vol. 2, Book 14, Hadith 1399",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ خَالِدٍ، قَالَ حَدَّثَنِي عُمَرُ بْنُ عَبْدِ الْوَاحِدِ، قَالَ سَمِعْتُ يَحْيَى بْنَ الْحَارِثِ، يُحَدِّثُ عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ، عَنْ أَوْسِ بْنِ أَوْسٍ الثَّقَفِيِّ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي عُمَرُ بْنُ عَبْدِ الْوَاحِدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَوْسِ بْنِ أَوْسٍ الثَّقَفِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1399": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1399\nIn-book reference  : Book 14, Hadith 36\nEnglish translation  : Vol. 2, Book 14, Hadith 1400",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ سَمِعْتُ مُعَاوِيَةَ بْنَ صَالِحٍ، عَنْ أَبِي الزَّاهِرِيَّةِ، عَنْ عَبْدِ اللَّهِ بْنِ بُسْرٍ، قَالَ كُنْتُ جَالِسًا إِلَى جَانِبِهِ يَوْمَ الْجُمُعَةِ فَقَالَ جَاءَ رَجُلٌ يَتَخَطَّى رِقَابَ النَّاسِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ سَمِعْتُ مُعَاوِيَةَ بْنَ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزَّاهِرِيَّةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُسْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كُنْتُ جَالِسًا إِلَى جَانِبِهِ يَوْمَ الْجُمُعَةِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ جَاءَ رَجُلٌ يَتَخَطَّى رِقَابَ النَّاسِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1401": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1401\nIn-book reference  : Book 14, Hadith 38\nEnglish translation  : Vol. 2, Book 14, Hadith 1402",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1402": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1402\nIn-book reference  : Book 14, Hadith 39\nEnglish translation  : Vol. 2, Book 14, Hadith 1403",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ بْنِ سَعْدٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ جَدِّي، قَالَ حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، عَنْ عَبْدِ اللَّهِ بْنِ إِبْرَاهِيمَ بْنِ قَارِظٍ، وَعَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُمَا حَدَّثَاهُ أَنَّ أَبَا هُرَيْرَةَ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَدِّي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ إِبْرَاهِيمَ بْنِ قَارِظٍ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1403": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1403\nIn-book reference  : Book 14, Hadith 40\nEnglish translation  : Vol. 2, Book 14, Hadith 1404",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي مَعْشَرٍ، زِيَادِ بْنِ كُلَيْبٍ عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنِ الْقَرْثَعِ الضَّبِّيِّ، - وَكَانَ مِنَ الْقُرَّاءِ الأَوَّلِينَ - عَنْ سَلْمَانَ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "كُلَيْبٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَلْقَمَةَ، عَنِ الْقَرْثَعِ الضَّبِّيِّ، - وَكَانَ مِنَ الْقُرَّاءِ الأَوَّلِينَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَلْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1405": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1405\nIn-book reference  : Book 14, Hadith 42\nEnglish translation  : Vol. 2, Book 14, Hadith 1406",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ خَطَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ خَطَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1407": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1407\nIn-book reference  : Book 14, Hadith 44\nEnglish translation  : Vol. 2, Book 14, Hadith 1408",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ وَهُوَ قَائِمٌ عَلَى الْمِنْبَرِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْمِنْبَرِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1410": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1410\nIn-book reference  : Book 14, Hadith 47\nEnglish translation  : Vol. 2, Book 14, Hadith 1411",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا أَبُو مُوسَى، إِسْرَائِيلُ بْنُ مُوسَى قَالَ سَمِعْتُ الْحَسَنَ، يَقُولُ سَمِعْتُ أَبَا بَكْرَةَ، يَقُولُ لَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى الْمِنْبَرِ وَالْحَسَنُ مَعَهُ وَهُوَ يُقْبِلُ عَلَى النَّاسِ مَرَّةً وَعَلَيْهِ مَرَّةً وَيَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "مُوسَى",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "وَيَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "1425": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1425\nIn-book reference  : Book 14, Hadith 62\nEnglish translation  : Vol. 2, Book 14, Hadith 1426",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، وَمُحَمَّدُ بْنُ مَنْصُورٍ، - وَاللَّفْظُ لَهُ - عَنْ سُفْيَانَ، عَنِ الْزُّهْرِيِّ عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ، وَمُحَمَّدُ بْنُ مَنْصُورٍ، - وَاللَّفْظُ لَهُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "الْزُّهْرِيِّ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1426": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1426\nIn-book reference  : Book 14, Hadith 63\nEnglish translation  : Vol. 2, Book 14, Hadith 1427",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُهَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1431": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1431\nIn-book reference  : Book 14, Hadith 68\nEnglish translation  : Vol. 2, Book 14, Hadith 1432",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنِي مُحَمَّدُ بْنُ يَحْيَى بْنِ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ خَالِدٍ، عَنْ رَبَاحٍ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي سَعِيدٌ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي مُحَمَّدُ بْنُ يَحْيَى بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَبَاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنِي سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1432": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Jumu'ah (Friday Prayer)",
+    "book_num": "14",
+    "reference": "Reference  : Sunan an-Nasa'i 1432\nIn-book reference  : Book 14, Hadith 69\nEnglish translation  : Vol. 2, Book 14, Hadith 1433",
+    "url": "https://sunnah.com/nasai/14",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ زُرَارَةَ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ عَنْ مُحَمَّدٍ ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ أَبُو الْقَاسِمِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ زُرَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَيُّوبَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدٍ ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَبُو الْقَاسِمِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

@@ -1,0 +1,1858 @@
+{
+  "4361": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4361\nIn-book reference  : Book 43, Hadith 1\nEnglish translation  : Vol. 5, Book 43, Hadith 4366",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا سُلَيْمَانُ بْنُ سَلْمٍ الْبَلْخِيُّ، قَالَ حَدَّثَنَا النَّضْرُ، - وَهُوَ ابْنُ شُمَيْلٍ - قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنِ ابْنِ مُسْلِمٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أُمِّ سَلَمَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُلَيْمَانُ بْنُ سَلْمٍ الْبَلْخِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا النَّضْرُ، - وَهُوَ ابْنُ شُمَيْلٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَالِكِ بْنِ أَنَسٍ، عَنِ ابْنِ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4362": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4362\nIn-book reference  : Book 43, Hadith 2\nEnglish translation  : Vol. 5, Book 43, Hadith 4367",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ، عَنْ شُعَيْبٍ، قَالَ أَنْبَأَنَا اللَّيْثُ، قَالَ حَدَّثَنَا خَالِدُ بْنُ يَزِيدَ، عَنِ ابْنِ أَبِي هِلاَلٍ، عَنْ عَمْرِو بْنِ مُسْلِمٍ، أَنَّهُ قَالَ أَخْبَرَنِي ابْنُ الْمُسَيَّبِ، أَنَّ أُمَّ سَلَمَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَنْبَأَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ يَزِيدَ، عَنِ ابْنِ أَبِي هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَخْبَرَنِي ابْنُ الْمُسَيَّبِ، أَنَّ أُمَّ سَلَمَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَخ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4364": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4364\nIn-book reference  : Book 43, Hadith 4\nEnglish translation  : Vol. 5, Book 43, Hadith 4369",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أُمِّ سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4368": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4368\nIn-book reference  : Book 43, Hadith 8\nEnglish translation  : Vol. 5, Book 43, Hadith 4373",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي الأَحْوَصِ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ جُنْدُبِ بْنِ سُفْيَانَ، قَالَ شَهِدْتُ أَضْحَى مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَصَلَّى بِالنَّاسِ فَلَمَّا قَضَى الصَّلاَةَ رَأَى غَنَمًا قَدْ ذُبِحَتْ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي الأَحْوَصِ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جُنْدُبِ بْنِ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ شَهِدْتُ أَضْحَى مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَصَلَّى بِالنَّاسِ فَلَمَّا قَضَى ال",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4369": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4369\nIn-book reference  : Book 43, Hadith 9\nEnglish translation  : Vol. 5, Book 43, Hadith 4374",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ بْنِ عَبْدِ الرَّحْمَنِ، مَوْلَى بَنِي أَسَدٍ عَنْ أَبِي الضَّحَّاكِ، عُبَيْدِ بْنِ فَيْرُوزَ مَوْلَى بَنِي شَيْبَانَ قَالَ قُلْتُ لِلْبَرَاءِ حَدِّثْنِي عَمَّا، نَهَى عَنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الأَضَاحِي . قَالَ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَيَدِي أَقْصَرُ مِنْ يَدِهِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَسَدٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "شَيْبَانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "نَهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الأَضَاحِي .",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَيَدِي أَقْصَرُ مِنْ يَدِهِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4370": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4370\nIn-book reference  : Book 43, Hadith 10\nEnglish translation  : Vol. 5, Book 43, Hadith 4375",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، وَأَبُو دَاوُدَ وَيَحْيَى وَعَبْدُ الرَّحْمَنِ وَابْنُ أَبِي عَدِيٍّ وَأَبُو الْوَلِيدِ قَالُوا أَنْبَأَنَا شُعْبَةُ، قَالَ سَمِعْتُ سُلَيْمَانَ بْنَ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ عُبَيْدَ بْنَ فَيْرُوزَ، قَالَ قُلْتُ لِلْبَرَاءِ بْنِ عَازِبٍ حَدِّثْنِي مَا، كَرِهَ أَوْ نَهَى عَنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الأَضَاحِي . قَالَ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ هَكَذَا بِيَدِهِ وَيَدِي أَقْصَرُ مِنْ يَدِ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، وَأَبُو دَاوُدَ وَيَحْيَى وَعَبْدُ الرَّحْمَنِ وَابْنُ أَبِي عَد",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ سُلَيْمَانَ بْنَ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ عُبَيْدَ بْنَ فَيْرُوزَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "نَهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الأَضَاحِي .",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ هَكَذَا بِيَدِهِ وَيَدِي أَقْصَرُ مِنْ يَدِ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4371": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4371\nIn-book reference  : Book 43, Hadith 11\nEnglish translation  : Vol. 5, Book 43, Hadith 4376",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا سُلَيْمَانُ بْنُ دَاوُدَ، عَنِ ابْنِ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، وَاللَّيْثُ بْنُ سَعْدٍ، وَذَكَرَ، آخَرَ وَقَدَّمَهُ أَنَّ سُلَيْمَانَ بْنَ عَبْدِ الرَّحْمَنِ، حَدَّثَهُمْ عَنْ عُبَيْدِ بْنِ فَيْرُوزَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَأَشَارَ بِأَصَابِعِهِ وَأَصَابِعِي أَقْصَرُ مِنْ أَصَابِعِ رَسُولِ اللَّهِ صلى الله عليه وسلم يُشِيرُ بِأَصْبُعِهِ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُلَيْمَانُ بْنُ دَاوُدَ، عَنِ ابْنِ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ فَيْرُوزَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4375": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4375\nIn-book reference  : Book 43, Hadith 15\nEnglish translation  : Vol. 5, Book 43, Hadith 4380",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا شُجَاعُ بْنُ الْوَلِيدِ، قَالَ حَدَّثَنِي زِيَادُ بْنُ خَيْثَمَةَ، قَالَ حَدَّثَنَا أَبُو إِسْحَاقَ، عَنْ شُرَيْحِ بْنِ النُّعْمَانِ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُجَاعُ بْنُ الْوَلِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي زِيَادُ بْنُ خَيْثَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ شُرَيْحِ بْنِ النُّعْمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4378": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4378\nIn-book reference  : Book 43, Hadith 18\nEnglish translation  : Vol. 5, Book 43, Hadith 4383",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا أَبُو دَاوُدَ، سُلَيْمَانُ بْنُ سَيْفٍ قَالَ حَدَّثَنَا الْحَسَنُ، - وَهُوَ ابْنُ أَعْيَنَ - وَأَبُو جَعْفَرٍ - يَعْنِي النُّفَيْلِيَّ - قَالاَ حَدَّثَنَا زُهَيْرٌ، قَالَ حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "سَيْفٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا زُهَيْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4379": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4379\nIn-book reference  : Book 43, Hadith 19\nEnglish translation  : Vol. 5, Book 43, Hadith 4384",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَعْطَاهُ غَنَمًا يُقَسِّمُهَا عَلَى صَحَابَتِهِ فَبَقِيَ عَتُودٌ فَذَكَرَهُ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الْخَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَامِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَعْطَاهُ غَنَمًا يُقَسِّمُهَا ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4380": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4380\nIn-book reference  : Book 43, Hadith 20\nEnglish translation  : Vol. 5, Book 43, Hadith 4385",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا يَحْيَى بْنُ دُرُسْتَ، قَالَ حَدَّثَنَا أَبُو إِسْمَاعِيلَ، - وَهُوَ الْقَنَّادُ - قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنِي بَعْجَةُ بْنُ عَبْدِ اللَّهِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَسَّمَ بَيْنَ أَصْحَابِهِ ضَحَايَا فَصَارَتْ لِي جَذَعَةٌ فَقُلْتُ يَا رَسُولَ اللَّهِ صَارَتْ لِي جَذَعَةٌ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَحْيَى بْنُ دُرُسْتَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو إِسْمَاعِيلَ، - وَهُوَ الْقَنَّادُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي بَعْجَةُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَامِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَسَّمَ بَيْنَ أَصْحَابِهِ ضَحَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4381": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4381\nIn-book reference  : Book 43, Hadith 21\nEnglish translation  : Vol. 5, Book 43, Hadith 4386",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ بَعْجَةَ بْنِ عَبْدِ اللَّهِ الْجُهَنِيِّ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ قَسَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ أَصْحَابِهِ أَضَاحِيَّ فَأَصَابَنِي جَذَعَةٌ فَقُلْتُ يَا رَسُولَ اللَّهِ أَصَابَتْنِي جَذَعَةٌ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ بَعْجَةَ بْنِ عَبْدِ اللَّهِ الْجُهَنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ قَسَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ أَصْحَابِهِ أَضَاحِيَّ فَأَصَابَنِي جَذَعَةٌ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4383": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4383\nIn-book reference  : Book 43, Hadith 23\nEnglish translation  : Vol. 5, Book 43, Hadith 4388",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، فِي حَدِيثِهِ عَنْ أَبِي الأَحْوَصِ، عَنِ عَاصِمِ بْنِ كُلَيْبٍ، عَنْ أَبِيهِ، قَالَ كُنَّا فِي سَفَرٍ فَحَضَرَ الأَضْحَى فَجَعَلَ الرَّجُلُ مِنَّا يَشْتَرِي الْمُسِنَّةَ بِالْجَذَعَتَيْنِ وَالثَّلاَثَةِ فَقَالَ لَنَا رَجُلٌ مِنْ مُزَيْنَةَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ فَحَضَرَ هَذَا الْيَوْمُ فَجَعَلَ الرَّجُلُ يَطْلُبُ الْمُسِنَّةَ بِالْجَذَعَتَيْنِ وَالثَّلاَثَةِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدِيثِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي الأَحْوَصِ، عَنِ عَاصِمِ بْنِ كُلَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ كُنَّا فِي سَفَرٍ فَحَضَرَ الأَضْحَى فَجَعَلَ الرَّجُلُ مِنَّا يَشْتَرِي الْمُسِنَّةَ بِالْجَذ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ لَنَا رَجُلٌ مِنْ مُزَيْنَةَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ فَحَضَر",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4384": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4384\nIn-book reference  : Book 43, Hadith 24\nEnglish translation  : Vol. 5, Book 43, Hadith 4389",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَاصِمِ بْنِ كُلَيْبٍ، قَالَ سَمِعْتُ أَبِي يُحَدِّثُ، عَنْ رَجُلٍ، قَالَ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم قَبْلَ الأَضْحَى بِيَوْمَيْنِ نُعْطِي الْجَذَعَتَيْنِ بِالثَّنِيَّةِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ كُلَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَمِعْتُ أَبِي يُحَدِّثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ رَجُلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم قَبْلَ الأَضْحَى بِيَوْمَيْنِ نُعْطِي الْجَذَعَتَيْن",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4396": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4396\nIn-book reference  : Book 43, Hadith 36\nEnglish translation  : Vol. 5, Book 43, Hadith 4401",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ عُلَيَّةَ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ مُحَمَّدٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ النَّحْرِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ عُلَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَيُّوبُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "النَّحْرِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4397": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4397\nIn-book reference  : Book 43, Hadith 37\nEnglish translation  : Vol. 5, Book 43, Hadith 4402",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ يَحْيَى، ح وَأَنْبَأَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ بُشَيْرِ بْنِ يَسَارٍ، عَنْ أَبِي بُرْدَةَ بْنِ نِيَارٍ، أَنَّهُ ذَبَحَ قَبْلَ النَّبِيِّ صلى الله عليه وسلم فَأَمَرَهُ النَّبِيُّ صلى الله عليه وسلم أَنْ يُعِيدَ . قَالَ عِنْدِي عَنَاقُ جَذَعَةٍ هِيَ أَحَبُّ إِلَىَّ مِنْ مُسِنَّتَيْنِ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى، ح وَأَنْبَأَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ بُشَيْرِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ بْنِ نِيَارٍ، أَنَّهُ ذَبَحَ قَبْلَ النَّبِيِّ صلى الله عليه وسلم فَأَمَرَهُ الن",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ عِنْدِي عَنَاقُ جَذَعَةٍ هِيَ أَحَبُّ إِلَىَّ مِنْ مُسِنَّتَيْنِ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4398": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4398\nIn-book reference  : Book 43, Hadith 38\nEnglish translation  : Vol. 5, Book 43, Hadith 4403",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ جُنْدُبِ بْنِ سُفْيَانَ، قَالَ ضَحَّيْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم أَضْحَى ذَاتَ يَوْمٍ فَإِذَا النَّاسُ قَدْ ذَبَحُوا ضَحَايَاهُمْ قَبْلَ الصَّلاَةِ فَلَمَّا انْصَرَفَ رَآهُمُ النَّبِيُّ صلى الله عليه وسلم أَنَّهُمْ ذَبَحُوا قَبْلَ الصَّلاَةِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جُنْدُبِ بْنِ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ ضَحَّيْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم أَضْحَى ذَاتَ يَوْمٍ فَإِذَا النَّاسُ قَدْ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4399": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4399\nIn-book reference  : Book 43, Hadith 39\nEnglish translation  : Vol. 5, Book 43, Hadith 4404",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ حَدَّثَنَا دَاوُدُ، عَنْ عَامِرٍ، عَنْ مُحَمَّدِ بْنِ صَفْوَانَ، أَنَّهُ أَصَابَ أَرْنَبَيْنِ وَلَمْ يَجِدْ حَدِيدَةً يَذْبَحُهُمَا بِهِ فَذَكَّاهُمَا بِمَرْوَةٍ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي اصْطَدْتُ أَرْنَبَيْنِ فَلَمْ أَجِدْ حَدِيدَةً أُذَكِّيهِمَا بِهِ فَذَكَّيْتُهُمَا بِمَرْوَةٍ أَفَآكُلُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ صَفْوَانَ، أَنَّهُ أَصَابَ أَرْنَبَيْنِ وَلَمْ يَجِدْ حَدِيدَةً يَذْبَحُهُمَا بِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أَفَآكُلُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4401": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4401\nIn-book reference  : Book 43, Hadith 41\nEnglish translation  : Vol. 5, Book 43, Hadith 4406",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، وَإِسْمَاعِيلُ بْنُ مَسْعُودٍ، عَنْ خَالِدٍ، عَنْ شُعْبَةَ، عَنْ سِمَاكٍ، قَالَ سَمِعْتُ مُرِّيَّ بْنَ قَطَرِيٍّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنِّي أُرْسِلُ كَلْبِي فَآخُذُ الصَّيْدَ فَلاَ أَجِدُ مَا أُذَكِّيهِ بِهِ فَأَذْبَحُهُ بِالْمَرْوَةِ وَبِالْعَصَا . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، وَإِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سِمَاكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ مُرِّيَّ بْنَ قَطَرِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنِّي أُرْسِلُ كَلْبِي فَآخُذُ الصَّيْدَ فَلاَ أَجِدُ مَا أُذَكِّي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4403": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4403\nIn-book reference  : Book 43, Hadith 43\nEnglish translation  : Vol. 5, Book 43, Hadith 4408",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عُمَرَ بْنِ سَعِيدٍ، عَنْ أَبِيهِ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُمَرَ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبَايَةَ بْنِ رِفَاعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4404": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4404\nIn-book reference  : Book 43, Hadith 44\nEnglish translation  : Vol. 5, Book 43, Hadith 4409",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي الأَحْوَصِ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، رَافِعِ بْنِ خَدِيجٍ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّا نَلْقَى الْعَدُوَّ غَدًا وَلَيْسَ مَعَنَا مُدًى . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبَايَةَ بْنِ رِفَاعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "خَدِيجٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّا نَلْقَى الْعَدُوَّ غَدًا وَلَيْسَ مَعَنَا مُدًى . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4405": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4405\nIn-book reference  : Book 43, Hadith 45\nEnglish translation  : Vol. 5, Book 43, Hadith 4410",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ خَالِدٍ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الأَشْعَثِ، عَنْ شَدَّادِ بْنِ أَوْسٍ، قَالَ اثْنَتَانِ حَفِظْتُهُمَا عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الأَشْعَثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ شَدَّادِ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَفِظْتُهُمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4408": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4408\nIn-book reference  : Book 43, Hadith 48\nEnglish translation  : Vol. 5, Book 43, Hadith 4413",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ أَبِي الْعُشَرَاءِ، عَنْ أَبِيهِ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَمَا تَكُونُ الذَّكَاةُ إِلاَّ فِي الْحَلْقِ وَاللَّبَّةِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَمَّادِ بْنِ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الْعُشَرَاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "وَاللَّبَّةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4411": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4411\nIn-book reference  : Book 43, Hadith 51\nEnglish translation  : Vol. 5, Book 43, Hadith 4416",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، قَالَ أَنْبَأَنَا إِسْرَائِيلُ، عَنْ مَنْصُورٍ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي أَسْمَاءَ الرَّحَبِيِّ، عَنْ أَبِي الأَشْعَثِ، عَنْ شَدَّادِ بْنِ أَوْسٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا إِسْرَائِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ خَالِدٍ الْحَذَّاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي أَسْمَاءَ الرَّحَبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي الأَشْعَثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ شَدَّادِ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4412": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4412\nIn-book reference  : Book 43, Hadith 52\nEnglish translation  : Vol. 5, Book 43, Hadith 4417",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ أَبُو عَمَّارٍ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ، عَنْ شَدَّادِ بْنِ أَوْسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ أَبُو عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خَالِدٍ الْحَذَّاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ شَدَّادِ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4413": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4413\nIn-book reference  : Book 43, Hadith 53\nEnglish translation  : Vol. 5, Book 43, Hadith 4418",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الأَشْعَثِ، عَنْ شَدَّادِ بْنِ أَوْسٍ، قَالَ سَمِعْتُ مِنَ النَّبِيِّ، صلى الله عليه وسلم اثْنَتَيْنِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي الأَشْعَثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ شَدَّادِ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ سَمِعْتُ مِنَ النَّبِيِّ، صلى الله عليه وسلم اثْنَتَيْنِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4414": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4414\nIn-book reference  : Book 43, Hadith 54\nEnglish translation  : Vol. 5, Book 43, Hadith 4419",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - قَالَ حَدَّثَنَا خَالِدٌ، ح وَأَنْبَأَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، عَنْ خَالِدٍ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الأَشْعَثِ، عَنْ شَدَّادِ بْنِ أَوْسٍ، قَالَ ثِنْتَانِ حَفِظْتُهُمَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ، ح وَأَنْبَأَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا غُنْدَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ أَبِي الأَشْعَثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "عَنْ شَدَّادِ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَ ثِنْتَانِ حَفِظْتُهُمَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4422": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4422\nIn-book reference  : Book 43, Hadith 62\nEnglish translation  : Vol. 5, Book 43, Hadith 4427",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ - عَنِ ابْنِ حَيَّانَ، - يَعْنِي مَنْصُورًا - عَنْ عَامِرِ بْنِ وَاثِلَةَ، قَالَ سَأَلَ رَجُلٌ عَلِيًّا هَلْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُسِرُّ إِلَيْكَ بِشَىْءٍ دُونَ النَّاسِ فَغَضِبَ عَلِيٌّ حَتَّى احْمَرَّ وَجْهُهُ وَقَالَ مَا كَانَ يُسِرُّ إِلَىَّ شَيْئًا دُونَ النَّاسِ غَيْرَ أَنَّهُ حَدَّثَنِي بِأَرْبَعِ كَلِمَاتٍ وَأَنَا وَهُوَ فِي الْبَيْتِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ - عَنِ ابْنِ حَيَّانَ، - يَعْنِي ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرِ بْنِ وَاثِلَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَأَلَ رَجُلٌ عَلِيًّا هَلْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُسِرُّ إِلَيْكَ بِشَىْءٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي بِأَرْبَعِ كَلِمَاتٍ وَأَنَا وَهُوَ فِي الْبَيْتِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4426": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4426\nIn-book reference  : Book 43, Hadith 66\nEnglish translation  : Vol. 5, Book 43, Hadith 4431",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ أَكْلِ لُحُومِ الضَّحَايَا بَعْدَ ثَلاَثٍ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَع",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "نَهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4430": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4430\nIn-book reference  : Book 43, Hadith 70\nEnglish translation  : Vol. 5, Book 43, Hadith 4435",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ الْعَنْبَرِيُّ، عَنِ الأَحْوَصِ بْنِ جَوَّابٍ، عَنْ عَمَّارِ بْنِ رُزَيْقٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الزُّبَيْرِ بْنِ عَدِيٍّ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ الْ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْبَرِيُّ، عَنِ الأَحْوَصِ بْنِ جَوَّابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمَّارِ بْنِ رُزَيْقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ، عَنِ الزُّبَيْرِ بْنِ عَدِيٍّ، عَنِ ابْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4434": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4434\nIn-book reference  : Book 43, Hadith 74\nEnglish translation  : Vol. 5, Book 43, Hadith 4439",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنِ ابْنِ عَوْنٍ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ إِمْسَاكِ الأُضْحِيَةِ فَوْقَ ثَلاَثَةِ أَيَّامٍ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنِ ابْنِ عَوْنٍ، عَنِ ابْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4436": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4436\nIn-book reference  : Book 43, Hadith 76\nEnglish translation  : Vol. 5, Book 43, Hadith 4441",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، قَالَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ نَاسًا، مِنَ الأَعْرَابِ كَانُوا يَأْتُونَا بِلَحْمٍ وَلاَ نَدْرِي أَذَكَرُوا اسْمَ اللَّهِ عَلَيْهِ أَمْ لاَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ نَاسًا، مِنَ الأَعْرَابِ كَانُوا يَأْتُونَا بِلَحْمٍ وَلاَ نَدْرِي أَذَكَرُوا ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4438": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4438\nIn-book reference  : Book 43, Hadith 78\nEnglish translation  : Vol. 5, Book 43, Hadith 4443",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، قَالَ حَدَّثَنَا بَقِيَّةُ، عَنْ بَحِيرٍ، عَنْ خَالِدٍ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ أَبِي ثَعْلَبَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَقِيَّةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بَحِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جُبَيْرِ بْنِ نُفَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي ثَعْلَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4440": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4440\nIn-book reference  : Book 43, Hadith 80\nEnglish translation  : Vol. 5, Book 43, Hadith 4445",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ زُنْبُورٍ الْمَكِّيُّ، قَالَ حَدَّثَنَا ابْنُ أَبِي حَازِمٍ، عَنْ يَزِيدَ، - وَهُوَ ابْنُ الْهَادِ - عَنْ مُعَاوِيَةَ بْنِ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ، عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ، قَالَ مَرَّ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى أُنَاسٍ وَهُمْ يَرْمُونَ كَبْشًا بِالنَّبْلِ فَكَرِهَ ذَلِكَ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ زُنْبُورٍ الْمَكِّيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ، - وَهُوَ ابْنُ الْهَادِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُعَاوِيَةَ بْنِ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ مَرَّ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى أُنَاسٍ وَهُمْ يَرْمُونَ كَبْشًا بِالنَّبْلِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4442": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4442\nIn-book reference  : Book 43, Hadith 82\nEnglish translation  : Vol. 5, Book 43, Hadith 4447",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنِي الْمِنْهَالُ بْنُ عَمْرٍو، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي الْمِنْهَالُ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4443": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4443\nIn-book reference  : Book 43, Hadith 83\nEnglish translation  : Vol. 5, Book 43, Hadith 4448",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ شُعْبَةَ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4444": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4444\nIn-book reference  : Book 43, Hadith 84\nEnglish translation  : Vol. 5, Book 43, Hadith 4449",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْكُوفِيُّ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ هَاشِمٍ، عَنِ الْعَلاَءِ بْنِ صَالِحٍ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْكُوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ هَاشِمٍ، عَنِ الْعَلاَءِ بْنِ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4446": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of ad-Dahaya (Sacrifices)",
+    "book_num": "43",
+    "reference": "Reference  : Sunan an-Nasa'i 4446\nIn-book reference  : Book 43, Hadith 86\nEnglish translation  : Vol. 5, Book 43, Hadith 4451",
+    "url": "https://sunnah.com/nasai/43",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ دَاوُدَ الْمِصِّيصِيُّ، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، قَالَ حَدَّثَنَا أَبُو عُبَيْدَةَ عَبْدُ الْوَاحِدِ بْنُ وَاصِلٍ، عَنْ خَلَفٍ، - يَعْنِي ابْنَ مِهْرَانَ - قَالَ حَدَّثَنَا عَامِرٌ الأَحْوَلُ، عَنْ صَالِحِ بْنِ دِينَارٍ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، قَالَ سَمِعْتُ الشَّرِيدَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ دَاوُدَ الْمِصِّيصِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبُو عُبَيْدَةَ عَبْدُ الْوَاحِدِ بْنُ وَاصِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ خَلَفٍ، - يَعْنِي ابْنَ مِهْرَانَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا عَامِرٌ الأَحْوَلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ صَالِحِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ عَمْرِو بْنِ الشَّرِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

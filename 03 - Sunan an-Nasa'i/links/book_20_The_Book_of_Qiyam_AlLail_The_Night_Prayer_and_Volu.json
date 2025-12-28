@@ -1,0 +1,3600 @@
+{
+  "1598": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1598\nIn-book reference  : Book 20, Hadith 1\nEnglish translation  : Vol. 2, Book 20, Hadith 1599",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ، قَالَ حَدَّثَنَا جُوَيْرِيَةُ بْنُ أَسْمَاءَ، عَنِ الْوَلِيدِ بْنِ أَبِي هِشَامٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا جُوَيْرِيَةُ بْنُ أَسْمَاءَ، عَنِ الْوَلِيدِ بْنِ أَبِي هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1599": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1599\nIn-book reference  : Book 20, Hadith 2\nEnglish translation  : Vol. 2, Book 20, Hadith 1600",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ سَمِعْتُ مُوسَى بْنَ عُقْبَةَ، قَالَ سَمِعْتُ أَبَا النَّضْرِ، يُحَدِّثُ عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اتَّخَذَ حُجْرَةً فِي الْمَسْجِدِ مِنْ حَصِيرٍ فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم فِيهَا لَيَالِيَ حَتَّى اجْتَمَعَ إِلَيْهِ النَّاسُ ثُمَّ فَقَدُوا صَوْتَهُ لَيْلَةً فَظَنُّوا أَنَّهُ نَائِمٌ فَجَعَلَ بَعْضُهُمْ يَتَنَحْنَحُ لِيَخْرُجَ إِلَيْهِمْ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ مُوسَى بْنَ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اتَّخَذَ حُجْرَةً فِي الْمَسْجِدِ مِنْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1600": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1600\nIn-book reference  : Book 20, Hadith 3\nEnglish translation  : Vol. 2, Book 20, Hadith 1601",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ أَنْبَأَنَا إِبْرَاهِيمُ بْنُ أَبِي الْوَزِيرِ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى الْفِطْرِيُّ، عَنْ سَعْدِ بْنِ إِسْحَاقَ بْنِ كَعْبِ بْنِ عُجْرَةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْمَغْرِبِ فِي مَسْجِدِ بَنِي عَبْدِ الأَشْهَلِ فَلَمَّا صَلَّى قَامَ نَاسٌ يَتَنَفَّلُونَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا إِبْرَاهِيمُ بْنُ أَبِي الْوَزِيرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى الْفِطْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعْدِ بْنِ إِسْحَاقَ بْنِ كَعْبِ بْنِ عُجْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْمَغْرِبِ فِي مَسْجِدِ بَنِي عَبْدِ الأَشْ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1602": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1602\nIn-book reference  : Book 20, Hadith 5\nEnglish translation  : Vol. 2, Book 20, Hadith 1603",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1603": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1603\nIn-book reference  : Book 20, Hadith 6\nEnglish translation  : Vol. 2, Book 20, Hadith 1604",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ أَبُو بَكْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ، قَالَ حَدَّثَنَا جُوَيْرِيَةُ، عَنْ مَالِكٍ، قَالَ قَالَ الزُّهْرِيُّ أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، وَحُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ أَبُو بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا جُوَيْرِيَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ الزُّهْرِيُّ أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، وَحُمَيْدُ بْنُ عَبْدِ الرَّح",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1604": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1604\nIn-book reference  : Book 20, Hadith 7\nEnglish translation  : Vol. 2, Book 20, Hadith 1605",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى فِي الْمَسْجِدِ ذَاتَ لَيْلَةٍ وَصَلَّى بِصَلاَتِهِ نَاسٌ ثُمَّ صَلَّى مِنَ الْقَابِلَةِ وَكَثُرَ النَّاسُ ثُمَّ اجْتَمَعُوا مِنَ اللَّيْلَةِ الثَّالِثَةِ أَوِ الرَّابِعَةِ فَلَمْ يَخْرُجْ إِلَيْهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم فَلَمَّا أَصْبَحَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَصْبَحَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1605": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1605\nIn-book reference  : Book 20, Hadith 8\nEnglish translation  : Vol. 2, Book 20, Hadith 1606",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ الْفُضَيْلِ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنِ الْوَلِيدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ أَبِي ذَرٍّ، قَالَ صُمْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي رَمَضَانَ فَلَمْ يَقُمْ بِنَا حَتَّى بَقِيَ سَبْعٌ مِنَ الشَّهْرِ فَقَامَ بِنَا حَتَّى ذَهَبَ ثُلُثُ اللَّيْلِ ثُمَّ لَمْ يَقُمْ بِنَا فِي السَّادِسَةِ فَقَامَ بِنَا فِي الْخَامِسَةِ حَتَّى ذَهَبَ شَطْرُ اللَّيْلِ فَقُلْتُ يَا رَسُولَ اللَّهِ لَوْ نَفَّلْتَنَا بَقِيَّةَ لَيْلَتِنَا هَذِهِ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْفُضَيْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنِ الْوَلِيدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جُبَيْرِ بْنِ نُفَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ صُمْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي رَمَضَانَ فَلَمْ يَقُمْ بِنَا حَتَّى بَقِي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1607": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1607\nIn-book reference  : Book 20, Hadith 10\nEnglish translation  : Vol. 2, Book 20, Hadith 1608",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1608": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1608\nIn-book reference  : Book 20, Hadith 11\nEnglish translation  : Vol. 2, Book 20, Hadith 1609",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ ذُكِرَ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم رَجُلٌ نَامَ لَيْلَةً حَتَّى أَصْبَحَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَصْبَحَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1609": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1609\nIn-book reference  : Book 20, Hadith 12\nEnglish translation  : Vol. 2, Book 20, Hadith 1610",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ الصَّمَدِ، قَالَ حَدَّثَنَا مَنْصُورٌ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ إِنَّ فُلاَنًا نَامَ عَنِ الصَّلاَةِ الْبَارِحَةَ حَتَّى أَصْبَحَ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ الصَّمَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَنْصُورٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ، أَنَّ رَجُلاً،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ إِنَّ فُلاَنًا نَامَ عَنِ الصَّلاَةِ الْبَارِحَةَ حَتَّى أَصْبَحَ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1610": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1610\nIn-book reference  : Book 20, Hadith 13\nEnglish translation  : Vol. 2, Book 20, Hadith 1611",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلاَنَ، قَالَ حَدَّثَنِي الْقَعْقَاعُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي الْقَعْقَاعُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1613": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1613\nIn-book reference  : Book 20, Hadith 16\nEnglish translation  : Vol. 2, Book 20, Hadith 1614",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، - هُوَ ابْنُ عَوْفٍ - عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، - هُوَ ابْنُ عَوْفٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1614": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1614\nIn-book reference  : Book 20, Hadith 17\nEnglish translation  : Vol. 2, Book 20, Hadith 1615",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي بِشْرٍ، جَعْفَرِ بْنِ أَبِي وَحْشِيَّةَ أَنَّهُ سَمِعَ حُمَيْدَ بْنَ عَبْدِ الرَّحْمَنِ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1615": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1615\nIn-book reference  : Book 20, Hadith 18\nEnglish translation  : Vol. 2, Book 20, Hadith 1616",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، قَالَ سَمِعْتُ رِبْعِيًّا، عَنْ زَيْدِ بْنِ ظَبْيَانَ، رَفَعَهُ إِلَى أَبِي ذَرٍّ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَمِعْتُ رِبْعِيًّا،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ زَيْدِ بْنِ ظَبْيَانَ، رَفَعَهُ إِلَى أَبِي ذَرٍّ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1617": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1617\nIn-book reference  : Book 20, Hadith 20\nEnglish translation  : Vol. 2, Book 20, Hadith 1618",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عِصْمَةُ بْنُ الْفَضْلِ، قَالَ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ، قَالَ حَدَّثَنَا الأَزْهَرُ بْنُ سَعِيدٍ، عَنْ عَاصِمِ بْنِ حُمَيْدٍ، قَالَ سَأَلْتُ عَائِشَةَ بِمَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَسْتَفْتِحُ قِيَامَ اللَّيْلِ قَالَتْ لَقَدْ سَأَلْتَنِي عَنْ شَىْءٍ مَا سَأَلَنِي عَنْهُ أَحَدٌ قَبْلَكَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُكَبِّرُ عَشْرًا وَيَحْمَدُ عَشْرًا وَيُسَبِّحُ عَشْرًا وَيُهَلِّلُ عَشْرًا وَيَسْتَغْفِرُ عَشْرًا وَيَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عِصْمَةُ بْنُ الْفَضْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا الأَزْهَرُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "اللَّيْلِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "سَأَلْتَنِي",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "سَأَلَنِي",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "وَيَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1625": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1625\nIn-book reference  : Book 20, Hadith 28\nEnglish translation  : Vol. 2, Book 20, Hadith 1626",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ، قَالَ أَنْبَأَنَا عُمَرُ بْنُ يُونُسَ، قَالَ حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ سَأَلْتُ عَائِشَةَ بِأَىِّ شَىْءٍ كَانَ النَّبِيُّ صلى الله عليه وسلم يَفْتَتِحُ صَلاَتَهُ قَالَتْ كَانَ إِذَا قَامَ مِنَ اللَّيْلِ افْتَتَحَ صَلاَتَهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عُمَرُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "صَلاَتَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "صَلاَتَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1630": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1630\nIn-book reference  : Book 20, Hadith 33\nEnglish translation  : Vol. 2, Book 20, Hadith 1631",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ عَمْرِو بْنِ أَوْسٍ، أَنَّهُ سَمِعَ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1632": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1632\nIn-book reference  : Book 20, Hadith 35\nEnglish translation  : Vol. 2, Book 20, Hadith 1633",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، وَثَابِتٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سُلَيْمَانَ التَّيْمِيِّ، وَثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1633": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1633\nIn-book reference  : Book 20, Hadith 36\nEnglish translation  : Vol. 2, Book 20, Hadith 1634",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنِي أَحْمَدُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا حَبَّانُ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، قَالَ أَنْبَأَنَا ثَابِتٌ، وَسُلَيْمَانُ التَّيْمِيُّ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي أَحْمَدُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَبَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَنْبَأَنَا ثَابِتٌ، وَسُلَيْمَانُ التَّيْمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1634": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1634\nIn-book reference  : Book 20, Hadith 37\nEnglish translation  : Vol. 2, Book 20, Hadith 1635",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ، قَالَ حَدَّثَنَا عِيسَى، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ التَّيْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1637": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1637\nIn-book reference  : Book 20, Hadith 40\nEnglish translation  : Vol. 2, Book 20, Hadith 1638",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سُلَيْمَانَ، عَنْ أَنَسٍ، عَنْ بَعْضِ، أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ بَعْضِ، أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1644": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1644\nIn-book reference  : Book 20, Hadith 47\nEnglish translation  : Vol. 2, Book 20, Hadith 1645",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ مَنْصُورٍ، - وَاللَّفْظُ لَهُ - عَنْ سُفْيَانَ، عَنْ زِيَادِ بْنِ عِلاَقَةَ، قَالَ سَمِعْتُ الْمُغِيرَةَ بْنَ شُعْبَةَ، يَقُولُ قَامَ النَّبِيُّ صلى الله عليه وسلم حَتَّى تَوَرَّمَتْ قَدَمَاهُ فَقِيلَ لَهُ قَدْ غَفَرَ اللَّهُ لَكَ مَا تَقَدَّمَ مِنْ ذَنْبِكَ وَمَا تَأَخَّرَ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ مَنْصُورٍ، - وَاللَّفْظُ لَهُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زِيَادِ بْنِ عِلاَقَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ الْمُغِيرَةَ بْنَ شُعْبَةَ، يَقُولُ قَامَ النَّبِيُّ صلى الله عليه وسلم حَتَّى تَوَرّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1660": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1660\nIn-book reference  : Book 20, Hadith 63\nEnglish translation  : Vol. 2, Book 20, Hadith 1661",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، عَنْ سُفْيَانَ بْنِ حَبِيبٍ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، قَالَ سَأَلْتُ النَّبِيَّ صلى الله عليه وسلم عَنِ الَّذِي يُصَلِّي قَاعِدًا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُفْيَانَ بْنِ حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حُسَيْنٍ الْمُعَلِّمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَاعِدًا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1663": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1663\nIn-book reference  : Book 20, Hadith 66\nEnglish translation  : Vol. 2, Book 20, Hadith 1664",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا هَارُونُ بْنُ مُحَمَّدِ بْنِ بَكَّارِ بْنِ بِلاَلٍ، قَالَ حَدَّثَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ سُمَيْعٍ - قَالَ حَدَّثَنَا زَيْدٌ يَعْنِي ابْنَ وَاقِدٍ، عَنْ كَثِيرِ بْنِ مُرَّةَ، أَنَّ عُقْبَةَ بْنَ عَامِرٍ، حَدَّثَهُمْ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَارُونُ بْنُ مُحَمَّدِ بْنِ بَكَّارِ بْنِ بِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ سُمَيْعٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا زَيْدٌ يَعْنِي ابْنَ وَاقِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ كَثِيرِ بْنِ مُرَّةَ، أَنَّ عُقْبَةَ بْنَ عَامِرٍ، حَدَّثَهُمْ أَنَّ رَسُولَ اللَّهِ صلى الله ع",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1666": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1666\nIn-book reference  : Book 20, Hadith 69\nEnglish translation  : Vol. 2, Book 20, Hadith 1667",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، وَعَبْدُ الرَّحْمَنِ، قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ يَعْلَى بْنِ عَطَاءٍ، أَنَّهُ سَمِعَ عَلِيًّا الأَزْدِيَّ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، يُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَعْلَى بْنِ عَطَاءٍ، أَنَّهُ سَمِعَ عَلِيًّا الأَزْدِيَّ، أَنَّهُ سَمِعَ ابْنَ عُمَرَ، يُحَدِّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1667": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1667\nIn-book reference  : Book 20, Hadith 70\nEnglish translation  : Vol. 2, Book 20, Hadith 1668",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ حَبِيبٍ، عَنْ طَاوُسٍ، قَالَ قَالَ ابْنُ عُمَرَ سَأَلَ رَجُلٌ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَةِ اللَّيْلِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ طَاوُسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ ابْنُ عُمَرَ سَأَلَ رَجُلٌ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ صَلاَةِ اللَّيْلِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1668": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1668\nIn-book reference  : Book 20, Hadith 71\nEnglish translation  : Vol. 2, Book 20, Hadith 1669",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، وَمُحَمَّدُ بْنُ صَدَقَةَ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنِ الزُّبَيْدِيِّ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنِ الزُّبَيْدِيِّ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1669": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1669\nIn-book reference  : Book 20, Hadith 72\nEnglish translation  : Vol. 2, Book 20, Hadith 1670",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي لَبِيدٍ، عَنْ أَبِي سَلَمَةَ، عَنِ ابْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى الْمِنْبَرِ يُسْأَلُ عَنْ صَلاَةِ اللَّيْلِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي لَبِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يُسْأَلُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَلاَةِ اللَّيْلِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1670": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1670\nIn-book reference  : Book 20, Hadith 73\nEnglish translation  : Vol. 2, Book 20, Hadith 1671",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُوسَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُونُسَ، قَالَ حَدَّثَنَا زُهَيْرٌ، قَالَ حَدَّثَنَا الْحَسَنُ بْنُ الْحُرِّ، قَالَ حَدَّثَنَا نَافِعٌ، أَنَّ ابْنَ عُمَرَ، أَخْبَرَهُمْ أَنَّ رَجُلاً سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَةِ اللَّيْلِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُوسَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا زُهَيْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ الْحُرِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنَا نَافِعٌ، أَنَّ ابْنَ عُمَرَ، أَخْبَرَهُمْ أَنَّ رَجُلاً سَأَلَ رَسُولَ اللَّهِ صلى الله ع",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "اللَّيْلِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1671": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1671\nIn-book reference  : Book 20, Hadith 74\nEnglish translation  : Vol. 2, Book 20, Hadith 1672",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1672": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1672\nIn-book reference  : Book 20, Hadith 75\nEnglish translation  : Vol. 2, Book 20, Hadith 1673",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ الْمُغِيرَةِ، قَالَ حَدَّثَنَا عُثْمَانُ، عَنْ شُعَيْبٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، قَالَ سَأَلَ رَجُلٌ مِنَ الْمُسْلِمِينَ رَسُولَ اللَّهِ صلى الله عليه وسلم كَيْفَ صَلاَةُ اللَّيْلِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ الْمُغِيرَةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعَيْبٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَأَلَ رَجُلٌ مِنَ الْمُسْلِمِينَ رَسُولَ اللَّهِ صلى الله عليه وسلم كَيْفَ صَلاَةُ اللَّيْلِ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1673": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1673\nIn-book reference  : Book 20, Hadith 76\nEnglish translation  : Vol. 2, Book 20, Hadith 1674",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى، قَالَ حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ أَخِي ابْنِ شِهَابٍ، عَنْ عَمِّهِ، قَالَ أَخْبَرَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، أَخْبَرَهُ أَنَّ رَجُلاً سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَةِ اللَّيْلِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَخِي ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَخْبَرَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، أَخْبَرَهُ أَن",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ صَلاَةِ اللَّيْلِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1674": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1674\nIn-book reference  : Book 20, Hadith 77\nEnglish translation  : Vol. 2, Book 20, Hadith 1675",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ الْهَيْثَمِ، قَالَ حَدَّثَنَا حَرْمَلَةُ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، أَنَّ ابْنَ شِهَابٍ، حَدَّثَهُ أَنَّ سَالِمَ بْنَ عَبْدِ اللَّهِ وَحُمَيْدَ بْنَ عَبْدِ الرَّحْمَنِ حَدَّثَاهُ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ كَيْفَ صَلاَةُ اللَّيْلِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ الْهَيْثَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَرْمَلَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَاهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ قَامَ رَجُلٌ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ كَيْفَ صَلاَةُ اللَّيْلِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1675": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1675\nIn-book reference  : Book 20, Hadith 78\nEnglish translation  : Vol. 2, Book 20, Hadith 1676",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي بَكْرِ بْنِ عَيَّاشٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمٍ، - وَهُوَ ابْنُ ضَمْرَةَ - عَنْ عَلِيٍّ، رَضِيَ اللَّهُ عَنْهُ قَالَ أَوْتَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي بَكْرِ بْنِ عَيَّاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَاصِمٍ، - وَهُوَ ابْنُ ضَمْرَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "اللَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1679": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1679\nIn-book reference  : Book 20, Hadith 82\nEnglish translation  : Vol. 2, Book 20, Hadith 1680",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ مُلاَزِمِ بْنِ عَمْرٍو، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بَدْرٍ، عَنْ قَيْسِ بْنِ طَلْقٍ، قَالَ زَارَنَا أَبِي طَلْقُ بْنُ عَلِيٍّ فِي يَوْمٍ مِنْ رَمَضَانَ فَأَمْسَى بِنَا وَقَامَ بِنَا تِلْكَ اللَّيْلَةَ وَأَوْتَرَ بِنَا ثُمَّ انْحَدَرَ إِلَى مَسْجِدٍ فَصَلَّى بِأَصْحَابِهِ حَتَّى بَقِيَ الْوِتْرُ ثُمَّ قَدَّمَ رَجُلاً فَقَالَ لَهُ أَوْتِرْ بِهِمْ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مُلاَزِمِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بَدْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَيْسِ بْنِ طَلْقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ زَارَنَا أَبِي طَلْقُ بْنُ عَلِيٍّ فِي يَوْمٍ مِنْ رَمَضَانَ فَأَمْسَى بِنَا وَقَامَ بِنَا تِل",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1683": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1683\nIn-book reference  : Book 20, Hadith 86\nEnglish translation  : Vol. 2, Book 20, Hadith 1684",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا مُحَمَّدٌ، - وَهُوَ ابْنُ الْمُبَارَكِ - قَالَ حَدَّثَنَا مُعَاوِيَةُ، - وَهُوَ ابْنُ سَلاَّمِ بْنِ أَبِي سَلاَّمٍ - عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، قَالَ أَخْبَرَنِي أَبُو نَضْرَةَ الْعَوَقِيُّ، أَنَّهُ سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْوَتْرِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا مُحَمَّدٌ، - وَهُوَ ابْنُ الْمُبَارَكِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُعَاوِيَةُ، - وَهُوَ ابْنُ سَلاَّمِ بْنِ أَبِي سَلاَّمٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَخْبَرَنِي أَبُو نَضْرَةَ الْعَوَقِيُّ، أَنَّهُ سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ سُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1684": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1684\nIn-book reference  : Book 20, Hadith 87\nEnglish translation  : Vol. 2, Book 20, Hadith 1685",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا يَحْيَى بْنُ دُرُسْتَ، قَالَ حَدَّثَنَا أَبُو إِسْمَاعِيلَ الْقَنَّادُ، قَالَ حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ أَبِي كَثِيرٍ - عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَحْيَى بْنُ دُرُسْتَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو إِسْمَاعِيلَ الْقَنَّادُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ أَبِي كَثِيرٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي نَضْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1689": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1689\nIn-book reference  : Book 20, Hadith 92\nEnglish translation  : Vol. 2, Book 20, Hadith 1690",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَبِي مِجْلَزٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي مِجْلَزٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1690": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1690\nIn-book reference  : Book 20, Hadith 93\nEnglish translation  : Vol. 2, Book 20, Hadith 1691",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى، وَمُحَمَّدٌ، قَالاَ حَدَّثَنَا ثُمَّ، ذَكَرَ كَلِمَةً مَعْنَاهَا شُعْبَةُ عَنْ قَتَادَةَ، عَنْ أَبِي مِجْلَزٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "شُعْبَةُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مِجْلَزٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1691": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1691\nIn-book reference  : Book 20, Hadith 94\nEnglish translation  : Vol. 2, Book 20, Hadith 1692",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا الْحَسَنُ بْنُ مُحَمَّدٍ، عَنْ عَفَّانَ، قَالَ حَدَّثَنَا هَمَّامٌ، قَالَ حَدَّثَنَا قَتَادَةُ، عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، مِنْ أَهْلِ الْبَادِيَةِ سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَةِ اللَّيْلِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحَسَنُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَفَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ شَقِيقٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، مِنْ أَهْلِ الْبَادِيَةِ سَأَلَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "اللَّيْلِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1692": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1692\nIn-book reference  : Book 20, Hadith 95\nEnglish translation  : Vol. 2, Book 20, Hadith 1693",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا حَجَّاجُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، حَدَّثَهُ عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَجَّاجُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1693": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1693\nIn-book reference  : Book 20, Hadith 96\nEnglish translation  : Vol. 2, Book 20, Hadith 1694",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا خَالِدُ بْنُ زِيَادٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1694": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1694\nIn-book reference  : Book 20, Hadith 97\nEnglish translation  : Vol. 2, Book 20, Hadith 1695",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، وَعَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَةِ اللَّيْلِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَع",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، وَعَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَلاَةِ اللَّيْلِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1695": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1695\nIn-book reference  : Book 20, Hadith 98\nEnglish translation  : Vol. 2, Book 20, Hadith 1696",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ الْمُبَارَكِ - قَالَ حَدَّثَنَا مُعَاوِيَةُ، - وَهُوَ ابْنُ سَلاَّمٍ - عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، وَنَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ سَمِعَهُ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ الْمُبَارَكِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُعَاوِيَةُ، - وَهُوَ ابْنُ سَلاَّمٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، وَنَافِعٌ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1697": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1697\nIn-book reference  : Book 20, Hadith 100\nEnglish translation  : Vol. 2, Book 20, Hadith 1698",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، - وَاللَّفْظُ لَهُ - عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُ أَخْبَرَهُ أَنَّهُ، سَأَلَ عَائِشَةَ أُمَّ الْمُؤْمِنِينَ كَيْفَ كَانَتْ صَلاَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي رَمَضَانَ قَالَتْ مَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَزِيدُ فِي رَمَضَانَ وَلاَ غَيْرِهِ عَلَى إِحْدَى عَشْرَةَ رَكْعَةً يُصَلِّي أَرْبَعًا فَلاَ تَسْأَلْ عَنْ حُسْنِهِنَّ وَطُولِهِنَّ ثُمَّ يُصَلِّي أَرْبَعًا فَلاَ تَسْأَلْ عَنْ حُسْنِهِنَّ وَطُولِهِنَّ ثُمَّ يُصَلِّي ثَلاَثًا قَالَتْ عَائِشَةُ فَقُلْتُ يَا رَسُولَ اللَّهِ أَتَنَامُ قَبْلَ أَنْ تُوتِرَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَع",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "رَمَضَانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "تَسْأَلْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "تَسْأَلْ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "ثَلاَثًا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "تُوتِرَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1710": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1710\nIn-book reference  : Book 20, Hadith 113\nEnglish translation  : Vol. 2, Book 20, Hadith 1711",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، قَالَ حَدَّثَنَا بَقِيَّةُ، قَالَ حَدَّثَنِي ضُبَارَةُ بْنُ أَبِي السَّلِيلِ، قَالَ حَدَّثَنِي دُوَيْدُ بْنُ نَافِعٍ، قَالَ أَخْبَرَنِي ابْنُ شِهَابٍ، قَالَ حَدَّثَنِي عَطَاءُ بْنُ يَزِيدَ، عَنْ أَبِي أَيُّوبَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَقِيَّةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي ضُبَارَةُ بْنُ أَبِي السَّلِيلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي دُوَيْدُ بْنُ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ أَخْبَرَنِي ابْنُ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "حَدَّثَنِي عَطَاءُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ أَبِي أَيُّوبَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1711": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1711\nIn-book reference  : Book 20, Hadith 114\nEnglish translation  : Vol. 2, Book 20, Hadith 1712",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ بْنِ مَزِيدٍ، قَالَ أَخْبَرَنِي أَبِي قَالَ، حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي الزُّهْرِيُّ، قَالَ حَدَّثَنَا عَطَاءُ بْنُ يَزِيدَ، عَنْ أَبِي أَيُّوبَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ بْنِ مَزِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا عَطَاءُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي أَيُّوبَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1745": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1745\nIn-book reference  : Book 20, Hadith 148\nEnglish translation  : Vol. 2, Book 20, Hadith 1746",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ بُرَيْدٍ، عَنْ أَبِي الْحَوْرَاءِ، قَالَ قَالَ الْحَسَنُ عَلَّمَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم كَلِمَاتٍ أَقُولُهُنَّ فِي الْوَتْرِ فِي الْقُنُوتِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ بُرَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الْحَوْرَاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الْقُنُوتِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1746": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1746\nIn-book reference  : Book 20, Hadith 149\nEnglish translation  : Vol. 2, Book 20, Hadith 1747",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يَحْيَى بْنِ عَبْدِ اللَّهِ بْنِ سَالِمٍ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَلِيٍّ، عَنِ الْحَسَنِ بْنِ عَلِيٍّ، قَالَ عَلَّمَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم هَؤُلاَءِ الْكَلِمَاتِ فِي الْوَتْرِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ عَبْدِ اللَّهِ بْنِ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُوسَى بْنِ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَلِيٍّ، عَنِ الْحَسَنِ بْنِ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْوَتْرِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1747": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1747\nIn-book reference  : Book 20, Hadith 150\nEnglish translation  : Vol. 2, Book 20, Hadith 1748",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، وَهِشَامُ بْنُ عَبْدِ الْمَلِكِ، قَالاَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ هِشَامِ بْنِ عَمْرٍو الْفَزَارِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقُولُ فِي آخِرِ وِتْرِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عَمْرٍو الْفَزَارِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "وِتْرِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1759": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1759\nIn-book reference  : Book 20, Hadith 162\nEnglish translation  : Vol. 2, Book 20, Hadith 1760",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا هَارُونُ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا عَبْدَةُ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ بْنِ أَوْفَى، عَنْ سَعْدِ بْنِ هِشَامٍ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَارُونُ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ زُرَارَةَ بْنِ أَوْفَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَعْدِ بْنِ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1763": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1763\nIn-book reference  : Book 20, Hadith 166\nEnglish translation  : Vol. 2, Book 20, Hadith 1764",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنِ الأَوْزَاعِيِّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ، عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1764": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1764\nIn-book reference  : Book 20, Hadith 167\nEnglish translation  : Vol. 2, Book 20, Hadith 1765",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا الْحَارِثُ بْنُ أَسَدٍ، قَالَ حَدَّثَنَا بِشْرُ بْنُ بَكْرٍ، قَالَ حَدَّثَنِي الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ عُمَرَ بْنِ الْحَكَمِ بْنِ ثَوْبَانَ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحَارِثُ بْنُ أَسَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُمَرَ بْنِ الْحَكَمِ بْنِ ثَوْبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1783": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1783\nIn-book reference  : Book 20, Hadith 186\nEnglish translation  : Vol. 2, Book 20, Hadith 1784",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، قَالَ أَنْبَأَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي السَّائِبُ بْنُ يَزِيدَ، أَنَّ شُرَيْحًا الْحَضْرَمِيَّ، ذُكِرَ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا يُونُسُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَخْبَرَنِي السَّائِبُ بْنُ يَزِيدَ، أَنَّ شُرَيْحًا الْحَضْرَمِيَّ، ذُكِرَ عِنْدَ رَسُولِ الل",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "1784": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1784\nIn-book reference  : Book 20, Hadith 187\nEnglish translation  : Vol. 2, Book 20, Hadith 1785",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ رَجُلٍ، عِنْدَهُ رِضًا أَخْبَرَهُ أَنَّ عَائِشَةَ رضى الله عنها أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَجُلٍ، عِنْدَهُ رِضًا أَخْبَرَهُ أَنَّ عَائِشَةَ رضى الله عنها أَخْبَرَتْهُ أَنَّ رَسُولَ اللّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1785": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1785\nIn-book reference  : Book 20, Hadith 188\nEnglish translation  : Vol. 2, Book 20, Hadith 1786",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبُو جَعْفَرٍ الرَّازِيُّ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبُو جَعْفَرٍ الرَّازِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1787": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1787\nIn-book reference  : Book 20, Hadith 190\nEnglish translation  : Vol. 2, Book 20, Hadith 1788",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ سُلَيْمَانَ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ عَبْدَةَ بْنِ أَبِي لُبَابَةَ، عَنْ سُوَيْدِ بْنِ غَفَلَةَ، عَنْ أَبِي الدَّرْدَاءِ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدَةَ بْنِ أَبِي لُبَابَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سُوَيْدِ بْنِ غَفَلَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي الدَّرْدَاءِ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1790": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1790\nIn-book reference  : Book 20, Hadith 193\nEnglish translation  : Vol. 2, Book 20, Hadith 1791",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا أَبُو صَفْوَانَ عَبْدُ اللَّهِ بْنُ سَعِيدِ بْنِ عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، أَنَّ السَّائِبَ بْنَ يَزِيدَ، وَعُبَيْدَ اللَّهِ، أَخْبَرَاهُ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ عَبْدٍ الْقَارِيَّ قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو صَفْوَانَ عَبْدُ اللَّهِ بْنُ سَعِيدِ بْنِ عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الْقَارِيَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1791": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1791\nIn-book reference  : Book 20, Hadith 194\nEnglish translation  : Vol. 2, Book 20, Hadith 1792",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدٍ الْقَارِيِّ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1794": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1794\nIn-book reference  : Book 20, Hadith 197\nEnglish translation  : Vol. 2, Book 20, Hadith 1795",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا الْحُسَيْنُ بْنُ مَنْصُورِ بْنِ جَعْفَرٍ النَّيْسَابُورِيُّ، قَالَ حَدَّثَنَا إِسْحَاقُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا مُغِيرَةُ بْنُ زِيَادٍ، عَنْ عَطَاءٍ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحُسَيْنُ بْنُ مَنْصُورِ بْنِ جَعْفَرٍ النَّيْسَابُورِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُغِيرَةُ بْنُ زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1795": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1795\nIn-book reference  : Book 20, Hadith 198\nEnglish translation  : Vol. 2, Book 20, Hadith 1796",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ يَحْيَى، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، قَالَ حَدَّثَنَا أَبُو يَحْيَى، إِسْحَاقُ بْنُ سُلَيْمَانَ الرَّازِيُّ عَنِ الْمُغِيرَةِ بْنِ زِيَادٍ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، عَنْ عَائِشَةَ، رضى الله عنها عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبُو يَحْيَى، إِسْحَاقُ بْنُ سُلَيْمَانَ الرَّازِيُّ عَنِ الْمُغِيرَةِ بْنِ زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ، رضى الله عنها عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1796": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1796\nIn-book reference  : Book 20, Hadith 199\nEnglish translation  : Vol. 2, Book 20, Hadith 1797",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْدَانَ بْنِ عِيسَى، قَالَ حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، قَالَ حَدَّثَنَا مَعْقِلٌ، عَنْ عَطَاءٍ، قَالَ أُخْبِرْتُ أَنَّ أُمَّ حَبِيبَةَ بِنْتَ أَبِي سُفْيَانَ قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْدَانَ بْنِ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَعْقِلٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "سُفْيَانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1797": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1797\nIn-book reference  : Book 20, Hadith 200\nEnglish translation  : Vol. 2, Book 20, Hadith 1798",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ الْحَسَنِ، قَالَ حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، قَالَ قَالَ ابْنُ جُرَيْجٍ قُلْتُ لِعَطَاءٍ بَلَغَنِي أَنَّكَ تَرْكَعُ قَبْلَ الْجُمُعَةِ اثْنَتَىْ عَشْرَةَ رَكْعَةً مَا بَلَغَكَ فِي ذَلِكَ قَالَ أَخْبَرَتْ أُمُّ حَبِيبَةَ عَنْبَسَةَ بْنَ أَبِي سُفْيَانَ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ذَلِكَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَبِيبَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْبَسَةَ بْنَ أَبِي سُفْيَانَ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1798": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1798\nIn-book reference  : Book 20, Hadith 201\nEnglish translation  : Vol. 2, Book 20, Hadith 1799",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنِي أَيُّوبُ بْنُ مُحَمَّدٍ، قَالَ أَنْبَأَنَا مُعَمَّرُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا زَيْدُ بْنُ حِبَّانَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي أَيُّوبُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قَالَ أَنْبَأَنَا مُعَمَّرُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَيْدُ بْنُ حِبَّانَ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أُمِّ حَبِيبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1799": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1799\nIn-book reference  : Book 20, Hadith 202\nEnglish translation  : Vol. 2, Book 20, Hadith 1800",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ سَعِيدٍ الطَّائِفِيُّ، قَالَ حَدَّثَنَا عَطَاءُ بْنُ أَبِي رَبَاحٍ، عَنْ يَعْلَى بْنِ أُمَيَّةَ، قَالَ قَدِمْتُ الطَّائِفَ فَدَخَلْتُ عَلَى عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ وَهُوَ بِالْمَوْتِ فَرَأَيْتُ مِنْهُ جَزَعًا فَقُلْتُ إِنَّكَ عَلَى خَيْرٍ . فَقَالَ أَخْبَرَتْنِي أُخْتِي أُمُّ حَبِيبَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ سَعِيدٍ الطَّائِفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا عَطَاءُ بْنُ أَبِي رَبَاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ يَعْلَى بْنِ أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَلَى",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ وَهُوَ بِالْمَوْتِ فَرَأَيْتُ مِنْهُ جَزَعًا فَقُلْتُ إِنَّكَ عَلَى ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ أَخْبَرَتْنِي أُخْتِي أُمُّ حَبِيبَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1801": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1801\nIn-book reference  : Book 20, Hadith 204\nEnglish translation  : Vol. 2, Book 20, Hadith 1802",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ، قَالَ أَنْبَأَنَا أَبُو الأَسْوَدِ، قَالَ حَدَّثَنِي بَكْرُ بْنُ مُضَرَ، عَنِ ابْنِ عَجْلاَنَ، عَنْ أَبِي إِسْحَاقَ الْهَمْدَانِيِّ، عَنْ عَمْرِو بْنِ أَوْسٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا أَبُو الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي بَكْرُ بْنُ مُضَرَ، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ الْهَمْدَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أُمِّ حَبِيبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1802": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1802\nIn-book reference  : Book 20, Hadith 205\nEnglish translation  : Vol. 2, Book 20, Hadith 1803",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا أَبُو الأَزْهَرِ، أَحْمَدُ بْنُ الأَزْهَرِ النَّيْسَابُورِيُّ قَالَ حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا فُلَيْحٌ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْمُسَيَّبِ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "النَّيْسَابُورِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا فُلَيْحٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ، عَنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ أُمِّ حَبِيبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1804": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1804\nIn-book reference  : Book 20, Hadith 207\nEnglish translation  : Vol. 2, Book 20, Hadith 1805",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أُمِّ حَبِيبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1808": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1808\nIn-book reference  : Book 20, Hadith 211\nEnglish translation  : Vol. 2, Book 20, Hadith 1809",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبٍ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ عَاصِمٍ، عَنْ أَبِي صَالِحٍ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَحْيَى بْنُ حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّ حَبِيبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1809": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1809\nIn-book reference  : Book 20, Hadith 212\nEnglish translation  : Vol. 2, Book 20, Hadith 1810",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ الْمُثَنَّى، عَنْ سُوَيْدِ بْنِ عَمْرٍو، قَالَ حَدَّثَنِي حَمَّادٌ، عَنْ عَاصِمٍ، عَنْ أَبِي صَالِحٍ، عَنْ أُمِّ حَبِيبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُوَيْدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أُمِّ حَبِيبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1811": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1811\nIn-book reference  : Book 20, Hadith 214\nEnglish translation  : Vol. 2, Book 20, Hadith 1812",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا يَحْيَى بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1812": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1812\nIn-book reference  : Book 20, Hadith 215\nEnglish translation  : Vol. 2, Book 20, Hadith 1813",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنِي يَزِيدُ بْنُ مُحَمَّدِ بْنِ عَبْدِ الصَّمَدِ، قَالَ حَدَّثَنَا هِشَامٌ الْعَطَّارُ، قَالَ حَدَّثَنِي إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ بْنِ سَمَاعَةَ، عَنْ مُوسَى بْنِ أَعْيَنَ، عَنْ أَبِي عَمْرٍو الأَوْزَاعِيِّ، عَنْ حَسَّانَ بْنِ عَطِيَّةَ، قَالَ لَمَّا نُزِلَ بِعَنْبَسَةَ جَعَلَ يَتَضَوَّرُ فَقِيلَ لَهُ فَقَالَ أَمَا إِنِّي سَمِعْتُ أُمَّ حَبِيبَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم تُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي يَزِيدُ بْنُ مُحَمَّدِ بْنِ عَبْدِ الصَّمَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ الْعَطَّارُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ بْنِ سَمَاعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُوسَى بْنِ أَعْيَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي عَمْرٍو الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ حَسَّانَ بْنِ عَطِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لَمَّا نُزِلَ بِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْبَسَةَ جَعَلَ يَتَضَوَّرُ فَقِيلَ لَهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1813": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1813\nIn-book reference  : Book 20, Hadith 216\nEnglish translation  : Vol. 2, Book 20, Hadith 1814",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا هِلاَلُ بْنُ الْعَلاَءِ بْنِ هِلاَلٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ، قَالَ حَدَّثَنِي أَيُّوبُ، - رَجُلٌ مِنْ أَهْلِ الشَّامِ - عَنِ الْقَاسِمِ الدِّمَشْقِيِّ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، قَالَ أَخْبَرَتْنِي أُخْتِي أُمُّ حَبِيبَةَ، زَوْجُ النَّبِيِّ صلى الله عليه وسلم أَنَّ حَبِيبَهَا أَبَا الْقَاسِمِ صلى الله عليه وسلم أَخْبَرَهَا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هِلاَلُ بْنُ الْعَلاَءِ بْنِ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنِي أَيُّوبُ، - رَجُلٌ مِنْ أَهْلِ الشَّامِ - عَنِ الْقَاسِمِ الدِّمَشْقِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "أَخْبَرَهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1814": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1814\nIn-book reference  : Book 20, Hadith 217\nEnglish translation  : Vol. 2, Book 20, Hadith 1815",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ نَاصِحٍ، قَالَ حَدَّثَنَا مَرْوَانُ بْنُ مُحَمَّدٍ، عَنْ سَعِيدِ بْنِ عَبْدِ الْعَزِيزِ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، عَنْ مَكْحُولٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ نَاصِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَرْوَانُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَكْحُولٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1816": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1816\nIn-book reference  : Book 20, Hadith 219\nEnglish translation  : Vol. 2, Book 20, Hadith 1817",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا أَبُو عَاصِمٍ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، قَالَ سَمِعْتُ سُلَيْمَانَ بْنَ مُوسَى، يُحَدِّثُ عَنْ مُحَمَّدِ بْنِ أَبِي سُفْيَانَ، قَالَ لَمَّا نَزَلَ بِهِ الْمَوْتُ أَخَذَهُ أَمْرٌ شَدِيدٌ فَقَالَ حَدَّثَتْنِي أُخْتِي أُمُّ حَبِيبَةَ بِنْتُ أَبِي سُفْيَانَ قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لَمَّا نَزَلَ بِهِ الْمَوْتُ أَخَذَهُ أَمْرٌ شَدِيدٌ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "سُفْيَانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1817": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day",
+    "book_num": "20",
+    "reference": "Reference  : Sunan an-Nasa'i 1817\nIn-book reference  : Book 20, Hadith 220\nEnglish translation  : Vol. 2, Book 20, Hadith 1818",
+    "url": "https://sunnah.com/nasai/20",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا أَبُو قُتَيْبَةَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الشُّعَيْثِيُّ، عَنْ أَبِيهِ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو قُتَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الشُّعَيْثِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أُمِّ حَبِيبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

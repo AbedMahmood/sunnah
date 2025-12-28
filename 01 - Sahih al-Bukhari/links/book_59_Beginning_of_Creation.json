@@ -1,0 +1,3799 @@
+{
+  "3193": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3193\nIn-book reference  : Book 59, Hadith 4\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 415\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي شَيْبَةَ، عَنْ أَبِي أَحْمَدَ، عَنْ سُفْيَانَ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم أُرَاهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي أَحْمَدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أُرَاهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3194": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3194\nIn-book reference  : Book 59, Hadith 5\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 416\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا مُغِيرَةُ بْنُ عَبْدِ الرَّحْمَنِ الْقُرَشِيُّ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُغِيرَةُ بْنُ عَبْدِ الرَّحْمَنِ الْقُرَشِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3195": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3195\nIn-book reference  : Book 59, Hadith 6\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 417\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، أَخْبَرَنَا ابْنُ عُلَيَّةَ، عَنْ عَلِيِّ بْنِ الْمُبَارَكِ، حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، كَانَتْ بَيْنَهُ وَبَيْنَ أُنَاسٍ خُصُومَةٌ فِي أَرْضٍ، فَدَخَلَ عَلَى عَائِشَةَ فَذَكَرَ لَهَا ذَلِكَ، فَقَالَتْ يَا أَبَا سَلَمَةَ اجْتَنِبِ الأَرْضَ، فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ عُلَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، كَانَتْ بَيْنَهُ وَبَيْنَ أُنَاسٍ خُصُومَةٌ فِي أَرْضٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ يَا أَبَا سَلَمَةَ اجْتَنِبِ الأَرْضَ، فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3196": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3196\nIn-book reference  : Book 59, Hadith 7\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 418\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُوسَى بْنِ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3197": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3197\nIn-book reference  : Book 59, Hadith 8\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 419\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا أَيُّوبُ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنِ ابْنِ أَبِي بَكْرَةَ، عَنْ أَبِي بَكْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَهَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَيُّوبُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنِ ابْنِ أَبِي بَكْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بَكْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3198": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3198\nIn-book reference  : Book 59, Hadith 9\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 420\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنِي عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ سَعِيدِ بْنِ زَيْدِ بْنِ عَمْرِو بْنِ نُفَيْلٍ، أَنَّهُ خَاصَمَتْهُ أَرْوَى فِي حَقٍّ زَعَمَتْ أَنَّهُ انْتَقَصَهُ لَهَا إِلَى مَرْوَانَ، فَقَالَ سَعِيدٌ أَنَا أَنْتَقِصُ مِنْ حَقِّهَا شَيْئًا، أَشْهَدُ لَسَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي عُبَيْدُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ زَيْدِ بْنِ عَمْرِو بْنِ نُفَيْلٍ، أَنَّهُ خَاصَمَتْهُ أَرْوَى فِي حَقٍّ زَعَمَتْ ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3200": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3200\nIn-book reference  : Book 59, Hadith 11\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 422\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ، حَدَّثَنَا عَبْدُ اللَّهِ الدَّانَاجُ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ الدَّانَاجُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3201": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3201\nIn-book reference  : Book 59, Hadith 12\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 423\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنِي ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرٌو، أَنَّ عَبْدَ الرَّحْمَنِ بْنَ الْقَاسِمِ، حَدَّثَهُ عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّهُ كَانَ يُخْبِرُ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّهُ كَانَ يُخْبِرُ عَنِ النَّبِيِّ صلى الله ع",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3202": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3202\nIn-book reference  : Book 59, Hadith 13\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 424\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زَيْدِ بْنِ أَسْلَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3204": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3204\nIn-book reference  : Book 59, Hadith 15\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 426\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي قَيْسٌ، عَنْ أَبِي مَسْعُودٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي قَيْسٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مَسْعُودٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3205": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3205\nIn-book reference  : Book 59, Hadith 16\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 427\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا آدَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3208": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3208\nIn-book reference  : Book 59, Hadith 19\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 430\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ الرَّبِيعِ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنِ الأَعْمَشِ، عَنْ زَيْدِ بْنِ وَهْبٍ، قَالَ عَبْدُ اللَّهِ حَدَّثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَهْوَ الصَّادِقُ الْمَصْدُوقُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ الرَّبِيعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زَيْدِ بْنِ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْمَصْدُوقُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3209": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3209\nIn-book reference  : Book 59, Hadith 20\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 431\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ، أَخْبَرَنَا مَخْلَدٌ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ، عَنْ نَافِعٍ، قَالَ قَالَ أَبُو هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم. وَتَابَعَهُ أَبُو عَاصِمٍ عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ، عَنْ نَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلاَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَخْلَدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَبُو هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم. وَتَابَعَهُ أَبُو عَاصِم",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3210": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3210\nIn-book reference  : Book 59, Hadith 21\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 432\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدٌ، حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، أَخْبَرَنَا اللَّيْثُ، حَدَّثَنَا ابْنُ أَبِي جَعْفَرٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا سَمِعَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ"
+    ]
+  },
+  "3211": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3211\nIn-book reference  : Book 59, Hadith 22\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 433\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، حَدَّثَنَا ابْنُ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، وَالأَغَرِّ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ، وَالأَغَرِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3212": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3212\nIn-book reference  : Book 59, Hadith 23\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 434\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، قَالَ مَرَّ عُمَرُ فِي الْمَسْجِدِ وَحَسَّانُ يُنْشِدُ، فَقَالَ كُنْتُ أُنْشِدُ فِيهِ، وَفِيهِ مَنْ هُوَ خَيْرٌ مِنْكَ، ثُمَّ الْتَفَتَ إِلَى أَبِي هُرَيْرَةَ، فَقَالَ أَنْشُدُكَ بِاللَّهِ، أَسَمِعْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ مَرَّ عُمَرُ فِي الْمَسْجِدِ وَحَسَّانُ يُنْشِدُ، فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كُنْتُ أُنْشِدُ فِيهِ، وَفِيهِ مَنْ هُوَ خَيْرٌ مِنْكَ، ثُمَّ الْتَفَتَ إِلَى أَبِي هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3213": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3213\nIn-book reference  : Book 59, Hadith 24\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 435\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم لِحَسَّانَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنِ الْبَرَاءِ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "لِحَسَّانَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3215": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3215\nIn-book reference  : Book 59, Hadith 26\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 438\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا فَرْوَةُ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ الْحَارِثَ بْنَ هِشَامٍ، سَأَلَ النَّبِيَّ صلى الله عليه وسلم كَيْفَ يَأْتِيكَ الْوَحْىُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا فَرْوَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْوَحْىُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3217": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3217\nIn-book reference  : Book 59, Hadith 28\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 440\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامٌ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لَهَا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "لَهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3219": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3219\nIn-book reference  : Book 59, Hadith 30\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 442\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي سُلَيْمَانُ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي سُلَيْمَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى ال",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3221": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3221\nIn-book reference  : Book 59, Hadith 32\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 444\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ شِهَابٍ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ، أَخَّرَ الْعَصْرَ شَيْئًا فَقَالَ لَهُ عُرْوَةُ أَمَا إِنَّ جِبْرِيلَ قَدْ نَزَلَ فَصَلَّى أَمَامَ رَسُولِ اللَّهِ صلى الله عليه وسلم. فَقَالَ عُمَرُ اعْلَمْ مَا تَقُولُ يَا عُرْوَةُ. قَالَ سَمِعْتُ بَشِيرَ بْنَ أَبِي مَسْعُودٍ يَقُولُ سَمِعْتُ أَبَا مَسْعُودٍ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ شِهَابٍ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ، أَخَّرَ الْعَصْرَ شَيْئً",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ لَهُ عُرْوَةُ أَمَا إِنَّ جِبْرِيلَ قَدْ نَزَلَ فَصَلَّى أَمَامَ رَسُولِ اللَّهِ صلى الله عليه",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ عُمَرُ اعْلَمْ مَا تَقُولُ يَا عُرْوَةُ.",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "3222": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3222\nIn-book reference  : Book 59, Hadith 33\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 445\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ زَيْدِ بْنِ وَهْبٍ، عَنْ أَبِي ذَرٍّ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زَيْدِ بْنِ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3223": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3223\nIn-book reference  : Book 59, Hadith 34\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 446\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3225": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3225\nIn-book reference  : Book 59, Hadith 36\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 448\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا ابْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ يَقُولُ سَمِعْتُ أَبَا طَلْحَةَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ مُقَاتِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ"
+    ]
+  },
+  "3228": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3228\nIn-book reference  : Book 59, Hadith 39\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 451\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُمَىٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3229": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3229\nIn-book reference  : Book 59, Hadith 40\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 452\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مُحَمَّدُ بْنُ فُلَيْحٍ، حَدَّثَنَا أَبِي، عَنْ هِلاَلِ بْنِ عَلِيٍّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ فُلَيْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِلاَلِ بْنِ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3231": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3231\nIn-book reference  : Book 59, Hadith 42\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 454\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي عُرْوَةُ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى الله عليه وسلم حَدَّثَتْهُ أَنَّهَا قَالَتْ لِلنَّبِيِّ صلى الله عليه وسلم هَلْ أَتَى عَلَيْكَ يَوْمٌ كَانَ أَشَدَّ مِنْ يَوْمِ أُحُدٍ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أُحُدٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3236": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3236\nIn-book reference  : Book 59, Hadith 47\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 459\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُوسَى، حَدَّثَنَا جَرِيرٌ، حَدَّثَنَا أَبُو رَجَاءٍ، عَنْ سَمُرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو رَجَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَمُرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3237": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3237\nIn-book reference  : Book 59, Hadith 48\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 460\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3240": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3240\nIn-book reference  : Book 59, Hadith 51\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 463\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3241": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3241\nIn-book reference  : Book 59, Hadith 52\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 464\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا سَلْمُ بْنُ زَرِيرٍ، حَدَّثَنَا أَبُو رَجَاءٍ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْوَلِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سَلْمُ بْنُ زَرِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو رَجَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3242": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3242\nIn-book reference  : Book 59, Hadith 53\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 465\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ، حَدَّثَنَا اللَّيْثُ، قَالَ حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ بَيْنَا نَحْنُ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ بَيْنَا نَحْنُ عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3243": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3243\nIn-book reference  : Book 59, Hadith 54\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 466\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا هَمَّامٌ، قَالَ سَمِعْتُ أَبَا عِمْرَانَ الْجَوْنِيَّ، يُحَدِّثُ عَنْ أَبِي بَكْرِ بْنِ عَبْدِ اللَّهِ بْنِ قَيْسٍ الأَشْعَرِيِّ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بَكْرِ بْنِ عَبْدِ اللَّهِ بْنِ قَيْسٍ الأَشْعَرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3245": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3245\nIn-book reference  : Book 59, Hadith 56\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 468\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3246": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3246\nIn-book reference  : Book 59, Hadith 57\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 469\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3247": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3247\nIn-book reference  : Book 59, Hadith 58\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 470\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ، حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا فُضَيْلُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "3248": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3248\nIn-book reference  : Book 59, Hadith 59\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 471\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الْجُعْفِيُّ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، حَدَّثَنَا أَنَسٌ ـ رضى الله عنه ـ قَالَ أُهْدِيَ لِلنَّبِيِّ صلى الله عليه وسلم جُبَّةُ سُنْدُسٍ، وَكَانَ يَنْهَى عَنِ الْحَرِيرِ، فَعَجِبَ النَّاسُ مِنْهَا، فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الْجُعْفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شَيْبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَنَسٌ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أُهْدِيَ لِلنَّبِيِّ صلى الله عليه وسلم جُبَّةُ سُنْدُسٍ، وَكَانَ يَنْهَى عَنِ الْحَرِيرِ، فَع",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3249": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3249\nIn-book reference  : Book 59, Hadith 60\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 472\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي أَبُو إِسْحَاقَ، قَالَ سَمِعْتُ الْبَرَاءَ بْنَ عَازِبٍ ـ رضى الله عنهما ـ قَالَ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِثَوْبٍ مِنْ حَرِيرٍ، فَجَعَلُوا يَعْجَبُونَ مِنْ حُسْنِهِ وَلِينِهِ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبُو إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ الْبَرَاءَ بْنَ عَازِبٍ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أُتِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِثَوْبٍ مِنْ حَرِيرٍ، فَجَعَلُوا يَعْجَبُونَ مِنْ ح",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3250": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3250\nIn-book reference  : Book 59, Hadith 61\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 473\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3251": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3251\nIn-book reference  : Book 59, Hadith 62\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 474\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا رَوْحُ بْنُ عَبْدِ الْمُؤْمِنِ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا رَوْحُ بْنُ عَبْدِ الْمُؤْمِنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3254": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3254\nIn-book reference  : Book 59, Hadith 64\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 476\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مُحَمَّدُ بْنُ فُلَيْحٍ، حَدَّثَنَا أَبِي، عَنْ هِلاَلٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ فُلَيْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "3255": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3255\nIn-book reference  : Book 59, Hadith 65\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 477\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا شُعْبَةُ، قَالَ عَدِيُّ بْنُ ثَابِتٍ أَخْبَرَنِي قَالَ سَمِعْتُ الْبَرَاءَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ لَمَّا مَاتَ إِبْرَاهِيمُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ الْبَرَاءَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "إِبْرَاهِيمُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "3257": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3257\nIn-book reference  : Book 59, Hadith 67\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 479\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ، حَدَّثَنَا مُحَمَّدُ بْنُ مُطَرِّفٍ، قَالَ حَدَّثَنِي أَبُو حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُطَرِّفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبُو حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3259": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3259\nIn-book reference  : Book 59, Hadith 69\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 481\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ ذَكْوَانَ، عَنْ أَبِي سَعِيدٍ، رضى الله عنه قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ ذَكْوَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ، رضى الله عنه",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3260": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3260\nIn-book reference  : Book 59, Hadith 70\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 482\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3262": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3262\nIn-book reference  : Book 59, Hadith 72\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 484\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنِي عَمْرُو بْنُ عَبَّاسٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِيهِ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ، قَالَ أَخْبَرَنِي رَافِعُ بْنُ خَدِيجٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي عَمْرُو بْنُ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبَايَةَ بْنِ رِفَاعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَخْبَرَنِي رَافِعُ بْنُ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3263": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3263\nIn-book reference  : Book 59, Hadith 73\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 485\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا هِشَامٌ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زُهَيْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله عنها ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3264": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3264\nIn-book reference  : Book 59, Hadith 74\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 486\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، عَنْ يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3267": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3267\nIn-book reference  : Book 59, Hadith 77\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 489\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَلِيٌّ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ،، قَالَ قِيلَ لأُسَامَةَ لَوْ أَتَيْتَ فُلاَنًا فَكَلَّمْتَهُ. قَالَ إِنَّكُمْ لَتَرَوْنَ أَنِّي لاَ أُكَلِّمُهُ إِلاَّ أُسْمِعُكُمْ، إِنِّي أُكُلِّمُهُ فِي السِّرِّ دُونَ أَنْ أَفْتَحَ بَابًا لاَ أَكُونُ أَوَّلَ مَنْ فَتَحَهُ، وَلاَ أَقُولُ لِرَجُلٍ أَنْ كَانَ عَلَىَّ أَمِيرًا إِنَّهُ خَيْرُ النَّاسِ بَعْدَ شَىْءٍ سَمِعْتُهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم. قَالُوا وَمَا سَمِعْتَهُ يَقُولُ قَالَ سَمِعْتُهُ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيٌّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ قِيلَ لأُسَامَةَ لَوْ أَتَيْتَ فُلاَنًا فَكَلَّمْتَهُ.",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3269": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3269\nIn-book reference  : Book 59, Hadith 79\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 491\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ، قَالَ حَدَّثَنِي أَخِي، عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي أَخِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3270": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3270\nIn-book reference  : Book 59, Hadith 80\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 492\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ ذُكِرَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم رَجُلٌ نَامَ لَيْلَهُ حَتَّى أَصْبَحَ، قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ ذُكِرَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم رَجُلٌ نَامَ لَيْلَهُ حَتَّى أَصْبَحَ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3271": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3271\nIn-book reference  : Book 59, Hadith 81\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 493\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا هَمَّامٌ، عَنْ مَنْصُورٍ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3274": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3274\nIn-book reference  : Book 59, Hadith 83\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 495\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا يُونُسُ، عَنْ حُمَيْدِ بْنِ هِلاَلٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يُونُسُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3275": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3275\nIn-book reference  : Book 59, Hadith 84\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 495\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "وَقَالَ عُثْمَانُ بْنُ الْهَيْثَمِ حَدَّثَنَا عَوْفٌ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ وَكَّلَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم بِحِفْظِ زَكَاةِ رَمَضَانَ، فَأَتَانِي آتٍ، فَجَعَلَ يَحْثُو مِنَ الطَّعَامِ، فَأَخَذْتُهُ فَقُلْتُ لأَرْفَعَنَّكَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم. فَذَكَرَ الْحَدِيثَ فَقَالَ إِذَا أَوَيْتَ إِلَى فِرَاشِكَ فَاقْرَأْ آيَةَ الْكُرْسِيِّ لَنْ يَزَالَ عَلَيْكَ مِنَ اللَّهِ حَافِظٌ، وَلاَ يَقْرَبُكَ شَيْطَانٌ حَتَّى تُصْبِحَ. فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْهَيْثَمِ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَوْفٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ وَكَّلَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم بِحِفْظِ زَكَاةِ رَمَضَانَ، فَأَتَانِي آتٍ، فَجَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ إِذَا أَوَيْتَ إِلَى فِرَاشِكَ فَاقْرَأْ آيَةَ الْكُرْسِيِّ لَنْ يَزَالَ عَلَيْكَ مِنَ اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3276": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3276\nIn-book reference  : Book 59, Hadith 85\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 496\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُرْوَةُ، قَالَ أَبُو هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي عُرْوَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَبُو هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3277": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3277\nIn-book reference  : Book 59, Hadith 86\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 497\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، قَالَ حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي ابْنُ أَبِي أَنَسٍ، مَوْلَى التَّيْمِيِّينَ أَنَّ أَبَاهُ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3278": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3278\nIn-book reference  : Book 59, Hadith 87\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 498\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا عَمْرٌو، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ جُبَيْرٍ، قَالَ قُلْتُ لاِبْنِ عَبَّاسٍ فَقَالَ حَدَّثَنَا أُبَىُّ بْنُ كَعْبٍ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحُمَيْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَمْرٌو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي سَعِيدُ بْنُ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ قُلْتُ لاِبْنِ عَبَّاسٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "3279": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3279\nIn-book reference  : Book 59, Hadith 88\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 499\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُشِيرُ إِلَى الْمَشْرِقِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُشِيرُ إِلَى الْمَشْرِقِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3280": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3280\nIn-book reference  : Book 59, Hadith 89\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 500\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ جَعْفَرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ، حَدَّثَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَطَاءٌ، عَنْ جَابِرٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَطَاءٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3283": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3283\nIn-book reference  : Book 59, Hadith 92\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 503\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا مَنْصُورٌ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا آدَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَنْصُورٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3284": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3284\nIn-book reference  : Book 59, Hadith 93\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 504\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مَحْمُودٌ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا شُعْبَةُ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ صَلَّى صَلاَةً فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شَبَابَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ صَلَّى صَلاَةً فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3285": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3285\nIn-book reference  : Book 59, Hadith 94\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 505\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3286": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3286\nIn-book reference  : Book 59, Hadith 95\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 506\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3288": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3288\nIn-book reference  : Book 59, Hadith 97\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 508\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "قَالَ وَقَالَ اللَّيْثُ حَدَّثَنِي خَالِدُ بْنُ يَزِيدَ، عَنْ سَعِيدِ بْنِ أَبِي هِلاَلٍ، أَنَّ أَبَا الأَسْوَدِ، أَخْبَرَهُ عُرْوَةُ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالَ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "اللَّيْثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي خَالِدُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي هِلاَلٍ، أَنَّ أَبَا الأَسْوَدِ، أَخْبَرَهُ عُرْوَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله عنها ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3289": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3289\nIn-book reference  : Book 59, Hadith 98\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 509\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3291": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3291\nIn-book reference  : Book 59, Hadith 100\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 511\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ الرَّبِيعِ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَشْعَثَ، عَنْ أَبِيهِ، عَنْ مَسْرُوقٍ، قَالَ قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ سَأَلْتُ النَّبِيَّ صلى الله عليه وسلم عَنِ الْتِفَاتِ الرَّجُلِ فِي الصَّلاَةِ. فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ الرَّبِيعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَشْعَثَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ عَائِشَةُ ـ رضى الله عنها ـ سَأَلْتُ النَّبِيَّ صلى الله عليه وسلم عَنِ الْتِفَاتِ الرَّجُلِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3292": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3292\nIn-book reference  : Book 59, Hadith 101\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 512\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا أَبُو الْمُغِيرَةِ، حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم. حَدَّثَنِي سُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ، حَدَّثَنَا الْوَلِيدُ، حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْمُغِيرَةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم.",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي سُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 17,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 12,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3293": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3293\nIn-book reference  : Book 59, Hadith 102\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 514\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرٍ عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "بَكْرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3295": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3295\nIn-book reference  : Book 59, Hadith 104\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 516\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ حَمْزَةَ، قَالَ حَدَّثَنِي ابْنُ أَبِي حَازِمٍ، عَنْ يَزِيدَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عِيسَى بْنِ طَلْحَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ حَمْزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي ابْنُ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِيسَى بْنِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3296": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3296\nIn-book reference  : Book 59, Hadith 105\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 517\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ الأَنْصَارِيِّ، عَنْ أَبِيهِ، أَنَّهُ أَخْبَرَهُ أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ ـ رضى الله عنه ـ قَالَ لَهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ الأَنْصَار",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّهُ أَخْبَرَهُ أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ لَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3297": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3297, 3298\nIn-book reference  : Book 59, Hadith 106\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 518\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَخْطُبُ عَلَى الْمِنْبَرِ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "3300": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3300\nIn-book reference  : Book 59, Hadith 108\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 519\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3301": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3301\nIn-book reference  : Book 59, Hadith 109\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 520\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3302": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3302\nIn-book reference  : Book 59, Hadith 110\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 521\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، قَالَ حَدَّثَنِي قَيْسٌ، عَنْ عُقْبَةَ بْنِ عَمْرٍو أَبِي مَسْعُودٍ، قَالَ أَشَارَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدِهِ نَحْوَ الْيَمَنِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي قَيْسٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَمْرٍو أَبِي مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَشَارَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدِهِ نَحْوَ الْيَمَنِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3303": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3303\nIn-book reference  : Book 59, Hadith 111\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 522\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3305": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3305\nIn-book reference  : Book 59, Hadith 113\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 524\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، عَنْ خَالِدٍ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3308": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3308\nIn-book reference  : Book 59, Hadith 116\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 527\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله عنها ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3309": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3309\nIn-book reference  : Book 59, Hadith 117\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 528\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ عَائِشَةَ،، قَالَتْ أَمَرَ النَّبِيُّ صلى الله عليه وسلم بِقَتْلِ الأَبْتَرِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ،،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ أَمَرَ النَّبِيُّ صلى الله عليه وسلم بِقَتْلِ الأَبْتَرِ وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3314": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3314\nIn-book reference  : Book 59, Hadith 120\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 531\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ ـ رضى الله عَنْهَا ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْهَا ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3315": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3315\nIn-book reference  : Book 59, Hadith 121\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 532\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، أَخْبَرَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3316": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3316\nIn-book reference  : Book 59, Hadith 122\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 533\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ كَثِيرٍ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ رَفَعَهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "رَفَعَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3318": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3318\nIn-book reference  : Book 59, Hadith 124\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 535\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3319": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3319\nIn-book reference  : Book 59, Hadith 125\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 536\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3320": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3320\nIn-book reference  : Book 59, Hadith 126\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 537\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، قَالَ حَدَّثَنِي عُتْبَةُ بْنُ مُسْلِمٍ، قَالَ أَخْبَرَنِي عُبَيْدُ بْنُ حُنَيْنٍ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عُتْبَةُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَخْبَرَنِي عُبَيْدُ بْنُ حُنَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3321": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3321\nIn-book reference  : Book 59, Hadith 127\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 538\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ الصَّبَّاحِ، حَدَّثَنَا إِسْحَاقُ الأَزْرَقُ، حَدَّثَنَا عَوْفٌ، عَنِ الْحَسَنِ، وَابْنِ، سِيرِينَ عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ الصَّبَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ الأَزْرَقُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سِيرِينَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3322": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3322\nIn-book reference  : Book 59, Hadith 128\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 539\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ حَفِظْتُهُ مِنَ الزُّهْرِيِّ كَمَا أَنَّكَ هَا هُنَا أَخْبَرَنِي عُبَيْدُ اللَّهِ عَنِ ابْنِ عَبَّاسٍ عَنْ أَبِي طَلْحَةَ ـ رضى الله عنهم ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَبَّاسٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي طَلْحَةَ ـ رضى الله عنهم ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3324": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3324\nIn-book reference  : Book 59, Hadith 130\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 541\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا هَمَّامٌ، عَنْ يَحْيَى، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ، أَنَّ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ حَدَّثَهُ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3325": {
+    "collection": "Sahih Bukhari",
+    "book": "Beginning of Creation",
+    "book_num": "59",
+    "reference": "Reference  : Sahih al-Bukhari 3325\nIn-book reference  : Book 59, Hadith 131\nUSC-MSA web (English) reference  : Vol. 4, Book 54, Hadith 542\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/59",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا سُلَيْمَانُ، قَالَ أَخْبَرَنِي يَزِيدُ بْنُ خُصَيْفَةَ، قَالَ أَخْبَرَنِي السَّائِبُ بْنُ يَزِيدَ، سَمِعَ سُفْيَانَ بْنَ أَبِي زُهَيْرٍ الشَّنَئِيَّ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي يَزِيدُ بْنُ خُصَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  }
+}

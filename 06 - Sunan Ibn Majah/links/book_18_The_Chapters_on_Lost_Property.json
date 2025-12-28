@@ -1,0 +1,329 @@
+{
+  "2502": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Lost Property",
+    "book_num": "18",
+    "reference": "Reference  : Sunan Ibn Majah 2502\nIn-book reference  : Book 18, Hadith 1\nEnglish translation  : Vol. 3, Book 18, Hadith 2502",
+    "url": "https://sunnah.com/ibnmajah/18",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ حُمَيْدٍ الطَّوِيلِ، عَنِ الْحَسَنِ، عَنْ مُطَرِّفِ بْنِ عَبْدِ اللَّهِ بْنِ الشِّخِّيرِ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حُمَيْدٍ الطَّوِيلِ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُطَرِّفِ بْنِ عَبْدِ اللَّهِ بْنِ الشِّخِّيرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2503": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Lost Property",
+    "book_num": "18",
+    "reference": "Reference  : Sunan Ibn Majah 2503\nIn-book reference  : Book 18, Hadith 2\nEnglish translation  : Vol. 3, Book 18, Hadith 2503",
+    "url": "https://sunnah.com/ibnmajah/18",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو حَيَّانَ التَّيْمِيُّ، حَدَّثَنَا الضَّحَّاكُ، خَالُ الْمُنْذِرِ بْنِ جَرِيرٍ عَنِ الْمُنْذِرِ بْنِ جَرِيرٍ، قَالَ كُنْتُ مَعَ أَبِي بِالْبَوَازِيجِ فَرَاحَتِ الْبَقَرُ فَرَأَى بَقَرَةً أَنْكَرَهَا فَقَالَ مَا هَذِهِ قَالُوا بَقَرَةٌ لَحِقَتْ بِالْبَقَرِ . قَالَ فَأَمَرَ بِهَا فَطُرِدَتْ حَتَّى تَوَارَتْ ثُمَّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو حَيَّانَ التَّيْمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا الضَّحَّاكُ، خَالُ الْمُنْذِرِ بْنِ جَرِيرٍ عَنِ الْمُنْذِرِ بْنِ جَرِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كُنْتُ مَعَ أَبِي بِالْبَوَازِيجِ فَرَاحَتِ الْبَقَرُ فَرَأَى بَقَرَةً أَنْكَرَهَا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ مَا هَذِهِ قَالُوا بَقَرَةٌ لَحِقَتْ بِالْبَقَرِ .",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "2505": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Lost Property",
+    "book_num": "18",
+    "reference": "Reference  : Sunan Ibn Majah 2505\nIn-book reference  : Book 18, Hadith 4\nEnglish translation  : Vol. 3, Book 18, Hadith 2505",
+    "url": "https://sunnah.com/ibnmajah/18",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي الْعَلاَءِ، عَنْ مُطَرِّفٍ، عَنْ عِيَاضِ بْنِ حِمَارٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ خَالِدٍ الْحَذَّاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُطَرِّفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِيَاضِ بْنِ حِمَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2507": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Lost Property",
+    "book_num": "18",
+    "reference": "Reference  : Sunan Ibn Majah 2507\nIn-book reference  : Book 18, Hadith 6\nEnglish translation  : Vol. 3, Book 18, Hadith 2507",
+    "url": "https://sunnah.com/ibnmajah/18",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، ح وَحَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، قَالاَ حَدَّثَنَا الضَّحَّاكُ بْنُ عُثْمَانَ الْقُرَشِيُّ، حَدَّثَنِي سَالِمٌ أَبُو النَّضْرِ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، . أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سُئِلَ عَنِ اللُّقَطَةِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرٍ الْحَنَفِيُّ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الضَّحَّاكُ بْنُ عُثْمَانَ الْقُرَشِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي سَالِمٌ أَبُو النَّضْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، . أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سُئِلَ عَنِ اللُّق",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2509": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Lost Property",
+    "book_num": "18",
+    "reference": "Reference  : Sunan Ibn Majah 2509\nIn-book reference  : Book 18, Hadith 8\nEnglish translation  : Vol. 3, Book 18, Hadith 2509",
+    "url": "https://sunnah.com/ibnmajah/18",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ مَيْمُونٍ الْمَكِّيُّ، وَهِشَامُ بْنُ عَمَّارٍ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، وَأَبِي، سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سَلَمَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2510": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Lost Property",
+    "book_num": "18",
+    "reference": "Reference  : Sunan Ibn Majah 2510\nIn-book reference  : Book 18, Hadith 9\nEnglish translation  : Vol. 3, Book 18, Hadith 2510",
+    "url": "https://sunnah.com/ibnmajah/18",
+    "sanad_full": "حَدَّثَنَا نَصْرُ بْنُ عَلِيىٍّ الْجَهْضَمِيُّ، حَدَّثَنَا أَبُو أَحْمَدَ، عَنْ إِسْرَائِيلَ، عَنْ سِمَاكٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا نَصْرُ بْنُ عَلِيىٍّ الْجَهْضَمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أَحْمَدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْرَائِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سِمَاكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2511": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Lost Property",
+    "book_num": "18",
+    "reference": "Reference  : Sunan Ibn Majah 2511\nIn-book reference  : Book 18, Hadith 10\nEnglish translation  : Vol. 3, Book 18, Hadith 2511",
+    "url": "https://sunnah.com/ibnmajah/18",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ ثَابِتٍ الْجَحْدَرِيُّ، حَدَّثَنَا يَعْقُوبُ بْنُ إِسْحَاقَ الْحَضْرَمِيُّ، حَدَّثَنَا سُلَيْمَانُ بْنُ حَيَّانَ، سَمِعْتُ أَبِي يُحَدِّثُ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ ثَابِتٍ الْجَحْدَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ بْنُ إِسْحَاقَ الْحَضْرَمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَيَّانَ، سَمِعْتُ أَبِي يُحَدِّثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

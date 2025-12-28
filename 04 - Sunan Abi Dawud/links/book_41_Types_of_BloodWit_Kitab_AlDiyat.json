@@ -1,0 +1,1891 @@
+{
+  "4496": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4496\nIn-book reference  : Book 41, Hadith 3\nEnglish translation  : Book 40, Hadith 4481",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنِ الْحَارِثِ بْنِ فُضَيْلٍ، عَنْ سُفْيَانَ بْنِ أَبِي الْعَوْجَاءِ، عَنْ أَبِي شُرَيْحٍ الْخُزَاعِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنِ الْحَارِثِ بْنِ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُفْيَانَ بْنِ أَبِي الْعَوْجَاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي شُرَيْحٍ الْخُزَاعِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4498": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4498\nIn-book reference  : Book 41, Hadith 5\nEnglish translation  : Book 40, Hadith 4483",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، أَخْبَرَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قُتِلَ رَجُلٌ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم فَرُفِعَ ذَلِكَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَدَفَعَهُ إِلَى وَلِيِّ الْمَقْتُولِ فَقَالَ الْقَاتِلُ يَا رَسُولَ اللَّهِ وَاللَّهِ مَا أَرَدْتُ قَتْلَهُ . قَالَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِلْوَلِيِّ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا أَبُو مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قُتِلَ رَجُلٌ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم فَرُفِعَ ذَلِكَ إِلَى النَّبِيِّ صلى ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ الْقَاتِلُ يَا رَسُولَ اللَّهِ وَاللَّهِ مَا أَرَدْتُ قَتْلَهُ .",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "لِلْوَلِيِّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4502": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4502\nIn-book reference  : Book 41, Hadith 9\nEnglish translation  : Book 40, Hadith 4487",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ، قَالَ كُنَّا مَعَ عُثْمَانَ وَهُوَ مَحْصُورٌ فِي الدَّارِ وَكَانَ فِي الدَّارِ مَدْخَلٌ مَنْ دَخَلَهُ سَمِعَ كَلاَمَ مَنْ عَلَى الْبَلاَطِ فَدَخَلَهُ عُثْمَانُ فَخَرَجَ إِلَيْنَا وَهُوَ مُتَغَيِّرٌ لَوْنُهُ فَقَالَ إِنَّهُمْ لَيَتَوَاعَدُونَنِي بِالْقَتْلِ آنِفًا . قُلْنَا يَكْفِيكَهُمُ اللَّهُ يَا أَمِيرَ الْمُؤْمِنِينَ . قَالَ وَلِمَ يَقْتُلُونَنِي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ بْنِ سَهْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كُنَّا مَعَ عُثْمَانَ وَهُوَ مَحْصُورٌ فِي الدَّارِ وَكَانَ فِي الدَّارِ مَدْخَلٌ مَنْ دَخَلَه",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ إِنَّهُمْ لَيَتَوَاعَدُونَنِي بِالْقَتْلِ آنِفًا . قُلْنَا يَكْفِيكَهُمُ اللَّهُ يَا أَمِيرَ ا",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4504": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4504\nIn-book reference  : Book 41, Hadith 11\nEnglish translation  : Book 40, Hadith 4489",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، قَالَ حَدَّثَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ، قَالَ سَمِعْتُ أَبَا شُرَيْحٍ الْكَعْبِيَّ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4506": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4506\nIn-book reference  : Book 41, Hadith 13\nEnglish translation  : Book 40, Hadith 4491",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُسْلِمٌ، حَدَّثَنَا مُحَمَّدُ بْنُ رَاشِدٍ، حَدَّثَنَا سُلَيْمَانُ بْنُ مُوسَى، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رَاشِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4507": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4507\nIn-book reference  : Book 41, Hadith 14\nEnglish translation  : Book 40, Hadith 4492",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا مَطَرٌ الْوَرَّاقُ، - وَأَحْسَبُهُ - عَنِ الْحَسَنِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَطَرٌ الْوَرَّاقُ، - وَأَحْسَبُهُ - عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4511": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4511\nIn-book reference  : Book 41, Hadith 18\nEnglish translation  : Book 40, Hadith 4496",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، حَدَّثَنَا خَالِدٌ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَهْدَتْ لَهُ يَهُودِيَّةٌ بِخَيْبَرَ شَاةً مَصْلِيَّةً نَحْوَ حَدِيثِ جَابِرٍ قَالَ فَمَاتَ بِشْرُ بْنُ الْبَرَاءِ بْنِ مَعْرُورٍ الأَنْصَارِيُّ فَأَرْسَلَ إِلَى الْيَهُودِيَّةِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "جَابِرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْيَهُودِيَّةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4513": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4513\nIn-book reference  : Book 41, Hadith 20\nEnglish translation  : Book 40, Hadith 4499",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مَخْلَدُ بْنُ خَالِدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنِ ابْنِ كَعْبِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، أَنَّ أُمَّ مُبَشِّرٍ، قَالَتْ لِلنَّبِيِّ صلى الله عليه وسلم فِي مَرَضِهِ الَّذِي مَاتَ فِيهِ مَا يُتَّهَمُ بِكَ يَا رَسُولَ اللَّهِ فَإِنِّي لاَ أَتَّهِمُ بِابْنِي شَيْئًا إِلاَّ الشَّاةَ الْمَسْمُومَةَ الَّتِي أَكَلَ مَعَكَ بِخَيْبَرَ . وَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَخْلَدُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنِ ابْنِ كَعْبِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ أُمَّ مُبَشِّرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ لِلنَّبِيِّ صلى الله عليه وسلم فِي مَرَضِهِ الَّذِي مَاتَ فِيهِ مَا يُتَّهَمُ بِكَ يَا رَسُو",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4514": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4514\nIn-book reference  : Book 41, Hadith 21\nEnglish translation  : Book 40, Hadith 4500",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ خَالِدٍ، حَدَّثَنَا رَبَاحٌ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ، عَنْ أُمِّهِ، أَنَّ أُمَّ مُبَشِّرٍ، - قَالَ أَبُو سَعِيدِ بْنُ الأَعْرَابِيِّ كَذَا قَالَ عَنْ أُمِّهِ، وَالصَّوَابُ، عَنْ أَبِيهِ، عَنْ أُمِّ مُبَشِّرٍ، - دَخَلَتْ عَلَى النَّبِيِّ صلى الله عليه وسلم فَذَكَرَ مَعْنَى حَدِيثِ مَخْلَدِ بْنِ خَالِدٍ نَحْوَ حَدِيثِ جَابِرٍ قَالَ فَمَاتَ بِشْرُ بْنُ الْبَرَاءِ بْنِ مَعْرُورٍ فَأَرْسَلَ إِلَى الْيَهُودِيَّةِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا رَبَاحٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّهِ، أَنَّ أُمَّ مُبَشِّرٍ، -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "كَذَا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أُمِّهِ، وَالصَّوَابُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "جَابِرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ فَمَاتَ بِشْرُ بْنُ الْبَرَاءِ بْنِ مَعْرُورٍ فَأَرْسَلَ إِلَى الْيَهُودِيَّةِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4515": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4515\nIn-book reference  : Book 41, Hadith 22\nEnglish translation  : Book 40, Hadith 4501",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ الْجَعْدِ، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْجَعْدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَمُرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4516": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4516\nIn-book reference  : Book 41, Hadith 23\nEnglish translation  : Book 40, Hadith 4502",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، بِإِسْنَادِهِ مِثْلَهُ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "مِثْلَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4517": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4517\nIn-book reference  : Book 41, Hadith 24\nEnglish translation  : Book 40, Hadith 4503",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ، عَنِ ابْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، بِإِسْنَادِ شُعْبَةَ مِثْلَهُ زَادَ ثُمَّ إِنَّ الْحَسَنَ نَسِيَ هَذَا الْحَدِيثَ فَكَانَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عَامِرٍ، عَنِ ابْنِ أَبِي عَرُوبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "4525": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4525\nIn-book reference  : Book 41, Hadith 32\nEnglish translation  : Book 40, Hadith 4510",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ يَحْيَى الْحَرَّانِيُّ، حَدَّثَنِي مُحَمَّدٌ، - يَعْنِي ابْنَ سَلَمَةَ - عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ بُجَيْدٍ، قَالَ إِنَّ سَهْلاً وَاللَّهِ أَوْهَمَ الْحَدِيثَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَتَبَ إِلَى يَهُودَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ يَحْيَى الْحَرَّانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدٌ، - يَعْنِي ابْنَ سَلَمَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ بُجَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَهُودَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4530": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4530\nIn-book reference  : Book 41, Hadith 37\nEnglish translation  : Book 40, Hadith 4515",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَمُسَدَّدٌ، قَالاَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، أَخْبَرَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ قَيْسِ بْنِ عَبَّادٍ، قَالَ انْطَلَقْتُ أَنَا وَالأَشْتَرُ، إِلَى عَلِيٍّ عَلَيْهِ السَّلاَمُ فَقُلْنَا هَلْ عَهِدَ إِلَيْكَ رَسُولُ اللَّهِ صلى الله عليه وسلم شَيْئًا لَمْ يَعْهَدْهُ إِلَى النَّاسِ عَامَّةً قَالَ لاَ إِلاَّ مَا فِي كِتَابِي هَذَا - قَالَ مُسَدَّدٌ قَالَ - فَأَخْرَجَ كِتَابًا - وَقَالَ أَحْمَدُ كِتَابًا مِنْ قِرَابِ سَيْفِهِ - فَإِذَا فِيهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَيْسِ بْنِ عَبَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَامَّةً",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لاَ إِلاَّ مَا فِي كِتَابِي هَذَا -",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "مُسَدَّدٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ - فَأَخْرَجَ كِتَابًا - وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4531": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4531\nIn-book reference  : Book 41, Hadith 38\nEnglish translation  : Book 40, Hadith 4516",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، حَدَّثَنَا هُشَيْمٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ذَكَرَ نَحْوَ حَدِيثِ عَلِيٍّ زَادَ فِيهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4533": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4533\nIn-book reference  : Book 41, Hadith 40\nEnglish translation  : Book 40, Hadith 4518",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ سَعْدَ بْنَ عُبَادَةَ، قَالَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَرَأَيْتَ لَوْ وَجَدْتُ مَعَ امْرَأَتِي رَجُلاً أُمْهِلُهُ حَتَّى آتِيَ بِأَرْبَعَةِ شُهَدَاءَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ سَعْدَ بْنَ عُبَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "شُهَدَاءَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4536": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4536\nIn-book reference  : Book 41, Hadith 43\nEnglish translation  : Book 40, Hadith 4521",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ عَمْرٍو، - يَعْنِي ابْنَ الْحَارِثِ - عَنْ بُكَيْرِ بْنِ الأَشَجِّ، عَنْ عُبَيْدَةَ بْنِ مُسَافِعٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ بَيْنَمَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْسِمُ قَسْمًا أَقْبَلَ رَجُلٌ فَأَكَبَّ عَلَيْهِ فَطَعَنَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم بِعُرْجُونٍ كَانَ مَعَهُ فَجُرِحَ بِوَجْهِهِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرٍو، - يَعْنِي ابْنَ الْحَارِثِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ الأَشَجِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَيْدَةَ بْنِ مُسَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ بَيْنَمَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْسِمُ قَسْمًا أَقْبَلَ رَجُلٌ فَأَكَبَّ عَلَيْ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4545": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4545\nIn-book reference  : Book 41, Hadith 52\nEnglish translation  : Book 40, Hadith 4529",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الْحَجَّاجُ، عَنْ زَيْدِ بْنِ جُبَيْرٍ، عَنْ خِشْفِ بْنِ مَالِكٍ الطَّائِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَاحِدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْحَجَّاجُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زَيْدِ بْنِ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خِشْفِ بْنِ مَالِكٍ الطَّائِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4556": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4556\nIn-book reference  : Book 41, Hadith 63\nEnglish translation  : Book 40, Hadith 4540",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدَةُ، - يَعْنِي ابْنَ سُلَيْمَانَ - حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ غَالِبٍ التَّمَّارِ، عَنْ حُمَيْدِ بْنِ هِلاَلٍ، عَنْ مَسْرُوقِ بْنِ أَوْسٍ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ، - يَعْنِي ابْنَ سُلَيْمَانَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ غَالِبٍ التَّمَّارِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَسْرُوقِ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4558": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4558\nIn-book reference  : Book 41, Hadith 65\nEnglish translation  : Book 40, Hadith 4542",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، ح وَحَدَّثَنَا ابْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، كُلُّهُمْ عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ مُعَاذٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبِي ح، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "كُلُّهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4559": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4559\nIn-book reference  : Book 41, Hadith 66\nEnglish translation  : Book 40, Hadith 4543",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا عَبَّاسٌ الْعَنْبَرِيُّ، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنِي شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبَّاسٌ الْ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْبَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4560": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4560\nIn-book reference  : Book 41, Hadith 67\nEnglish translation  : Book 40, Hadith 4544",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ، حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ، أَخْبَرَنَا أَبُو حَمْزَةَ، عَنْ يَزِيدَ النَّحْوِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا أَبُو حَمْزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ النَّحْوِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4562": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4562\nIn-book reference  : Book 41, Hadith 69\nEnglish translation  : Book 40, Hadith 4546",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا هُدْبَةُ بْنُ خَالِدٍ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ فِي خُطْبَتِهِ وَهُوَ مُسْنِدٌ ظَهْرَهُ إِلَى الْكَعْبَةِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هُدْبَةُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْكَعْبَةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4563": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4563\nIn-book reference  : Book 41, Hadith 70\nEnglish translation  : Book 40, Hadith 4547",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ أَبُو خَيْثَمَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونُ، حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ أَبُو خَيْثَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4566": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4566\nIn-book reference  : Book 41, Hadith 73\nEnglish translation  : Book 40, Hadith 4549",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا أَبُو كَامِلٍ، فُضَيْلُ بْنُ حُسَيْنٍ أَنَّ خَالِدَ بْنَ الْحَارِثِ، حَدَّثَهُمْ قَالَ أَخْبَرَنَا حُسَيْنٌ، - يَعْنِي الْمُعَلِّمَ - عَنْ عَمْرِو بْنِ شُعَيْبٍ، أَنَّ أَبَاهُ، أَخْبَرَهُ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا حُسَيْنٌ، - يَعْنِي الْمُعَلِّمَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4568": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4568\nIn-book reference  : Book 41, Hadith 75\nEnglish translation  : Book 40, Hadith 4551",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ النَّمَرِيُّ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عُبَيْدِ بْنِ نَضْلَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ امْرَأَتَيْنِ، كَانَتَا تَحْتَ رَجُلٍ مِنْ هُذَيْلٍ فَضَرَبَتْ إِحْدَاهُمَا الأُخْرَى بِعَمُودٍ فَقَتَلَتْهَا وَجَنِينَهَا فَاخْتَصَمُوا إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ أَحَدُ الرَّجُلَيْنِ كَيْفَ نَدِي مَنْ لاَ صَاحَ وَلاَ أَكَلَ وَلاَ شَرِبَ وَلاَ اسْتَهَلَّ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ النَّمَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ نَضْلَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ امْرَأَتَيْنِ، كَانَتَا تَحْتَ ر",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَحَدُ الرَّجُلَيْنِ كَيْفَ نَدِي مَنْ لاَ صَاحَ وَلاَ أَكَلَ وَلاَ شَرِبَ وَلاَ اسْتَهَلَّ . ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4574": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4574\nIn-book reference  : Book 41, Hadith 81\nEnglish translation  : Book 40, Hadith 4557",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ التَّمَّارُ، أَنَّ عَمْرَو بْنَ طَلْحَةَ، حَدَّثَهُمْ قَالَ حَدَّثَنَا أَسْبَاطٌ، عَنْ سِمَاكٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، فِي قِصَّةِ حَمَلِ بْنِ مَالِكٍ قَالَ فَأَسْقَطَتْ غُلاَمًا قَدْ نَبَتَ شَعْرُهُ مَيِّتًا وَمَاتَتِ الْمَرْأَةُ فَقَضَى عَلَى الْعَاقِلَةِ الدِّيَةَ . فَقَالَ عَمُّهَا إِنَّهَا قَدْ أَسْقَطَتْ يَا نَبِيَّ اللَّهِ غُلاَمًا قَدْ نَبَتَ شَعْرُهُ . فَقَالَ أَبُو الْقَاتِلَةِ إِنَّهُ كَاذِبٌ إِنَّهُ وَاللَّهِ مَا اسْتَهَلَّ وَلاَ شَرِبَ وَلاَ أَكَلَ فَمِثْلُهُ يُطَلُّ . فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَسْبَاطٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سِمَاكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "مَالِكٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ فَأَسْقَطَتْ غُلاَمًا قَدْ نَبَتَ شَعْرُهُ مَيِّتًا وَمَاتَتِ الْمَرْأَةُ فَقَضَى عَلَى الْعَا",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ عَمُّهَا إِنَّهَا قَدْ أَسْقَطَتْ يَا نَبِيَّ اللَّهِ غُلاَمًا قَدْ نَبَتَ شَعْرُهُ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ أَبُو الْقَاتِلَةِ إِنَّهُ كَاذِبٌ إِنَّهُ وَاللَّهِ مَا اسْتَهَلَّ وَلاَ شَرِبَ وَلاَ أَكَلَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4575": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4575\nIn-book reference  : Book 41, Hadith 82\nEnglish translation  : Book 40, Hadith 4558",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، حَدَّثَنَا مُجَالِدٌ، قَالَ حَدَّثَنَا الشَّعْبِيُّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ امْرَأَتَيْنِ، مِنْ هُذَيْلٍ قَتَلَتْ إِحْدَاهُمَا الأُخْرَى وَلِكُلِّ وَاحِدَةٍ مِنْهُمَا زَوْجٌ وَوَلَدٌ فَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم دِيَةَ الْمَقْتُولَةِ عَلَى عَاقِلَةِ الْقَاتِلَةِ وَبَرَّأَ زَوْجَهَا وَوَلَدَهَا . قَالَ فَقَالَ عَاقِلَةُ الْمَقْتُولَةِ مِيرَاثُهَا لَنَا قَالَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُجَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا الشَّعْبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ امْرَأَتَيْنِ، مِنْ هُذَيْلٍ قَتَلَتْ إِحْدَاهُمَا الأُخْرَى",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "لَنَا",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4576": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4576\nIn-book reference  : Book 41, Hadith 83\nEnglish translation  : Book 40, Hadith 4559",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا وَهْبُ بْنُ بَيَانٍ، وَابْنُ السَّرْحِ، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَأَبِي، سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ، قَالَ اقْتَتَلَتِ امْرَأَتَانِ مِنْ هُذَيْلٍ فَرَمَتْ إِحْدَاهُمَا الأُخْرَى بِحَجَرٍ فَقَتَلَتْهَا فَاخْتَصَمُوا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم دِيَةَ جَنِينِهَا غُرَّةٌ عَبْدٌ أَوْ وَلِيدَةٌ وَقَضَى بِدِيَةِ الْمَرْأَةِ عَلَى عَاقِلَتِهَا وَوَرَّثَهَا وَلَدَهَا وَمَنْ مَعَهُمْ فَقَالَ حَمَلُ بْنُ مَالِكِ بْنِ النَّابِغَةِ الْهُذَلِيُّ يَا رَسُولَ اللَّهِ كَيْفَ أَغْرَمُ دِيَةَ مَنْ لاَ شَرِبَ وَلاَ أَكَلَ وَلاَ نَطَقَ وَلاَ اسْتَهَلَّ فَمِثْلُ ذَلِكَ يُطَلُّ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سَلَمَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ اقْتَتَلَتِ امْرَأَتَانِ مِنْ هُذَيْلٍ فَرَمَتْ إِحْدَاهُمَا الأُخْرَى بِحَجَرٍ فَقَتَلَتْهَا ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ حَمَلُ بْنُ مَالِكِ بْنِ النَّابِغَةِ الْهُذَلِيُّ يَا رَسُولَ اللَّهِ كَيْفَ أَغْرَمُ دِيَةَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4582": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4582\nIn-book reference  : Book 41, Hadith 89\nEnglish translation  : Book 40, Hadith 4565",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4583": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4583\nIn-book reference  : Book 41, Hadith 90\nEnglish translation  : Book 40, Hadith 4566",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدِ بْنِ مَوْهَبٍ الرَّمْلِيُّ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ خَالِدِ بْنِ مَوْهَبٍ الرَّمْلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عِيسَى بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4584": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4584\nIn-book reference  : Book 41, Hadith 91\nEnglish translation  : Book 40, Hadith 4567",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَطَاءٌ، عَنْ صَفْوَانَ بْنِ يَعْلَى، عَنْ أَبِيهِ، قَالَ قَاتَلَ أَجِيرٌ لِي رَجُلاً فَعَضَّ يَدَهُ فَانْتَزَعَهَا فَنَدَرَتْ ثَنِيَّتُهُ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَأَهْدَرَهَا وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَطَاءٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ يَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قَاتَلَ أَجِيرٌ لِي رَجُلاً فَعَضَّ يَدَهُ فَانْتَزَعَهَا فَنَدَرَتْ ثَنِيَّتُهُ فَأَتَى النَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4585": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4585\nIn-book reference  : Book 41, Hadith 92\nEnglish translation  : Book 40, Hadith 4568",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا زِيَادُ بْنُ أَيُّوبَ، أَخْبَرَنَا هُشَيْمٌ، حَدَّثَنَا حَجَّاجٌ، وَعَبْدُ الْمَلِكِ، عَنْ عَطَاءٍ، عَنْ يَعْلَى بْنِ أُمَيَّةَ، بِهَذَا زَادَ ثُمَّ قَالَ يَعْنِي النَّبِيَّ صلى الله عليه وسلم لِلْعَاضِّ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا زِيَادُ بْنُ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَجَّاجٌ، وَعَبْدُ الْمَلِكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "لِلْعَاضِّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4586": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4586\nIn-book reference  : Book 41, Hadith 93\nEnglish translation  : Book 40, Hadith 4569",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا نَصْرُ بْنُ عَاصِمٍ الأَنْطَاكِيُّ، وَمُحَمَّدُ بْنُ الصَّبَّاحِ بْنِ سُفْيَانَ، أَنَّ الْوَلِيدَ بْنَ مُسْلِمٍ، أَخْبَرَهُمْ عَنِ ابْنِ جُرَيْجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا نَصْرُ بْنُ عَاصِمٍ الأَنْطَاكِيُّ، وَمُحَمَّدُ بْنُ الصَّبَّاحِ بْنِ سُفْيَانَ، أَنَّ ال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4587": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4587\nIn-book reference  : Book 41, Hadith 94\nEnglish translation  : Book 40, Hadith 4570",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا حَفْصٌ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، حَدَّثَنِي بَعْضُ الْوَفْدِ الَّذِينَ، قَدِمُوا عَلَى أَبِي قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَفْصٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4591": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4591\nIn-book reference  : Book 41, Hadith 98\nEnglish translation  : Book 40, Hadith 4574",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "قَالَ أَبُو دَاوُدَ حُدِّثْتُ عَنْ سَعِيدِ بْنِ سُلَيْمَانَ، عَنْ سُلَيْمَانَ بْنِ كَثِيرٍ، حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حُدِّثْتُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4592": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4592\nIn-book reference  : Book 41, Hadith 99\nEnglish translation  : Book 40, Hadith 4575",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ يَزِيدَ، حَدَّثَنَا سُفْيَانُ بْنُ حُسَيْنٍ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ حُسَيْنٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4593": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4593\nIn-book reference  : Book 41, Hadith 100\nEnglish translation  : Book 40, Hadith 4576",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَأَبِي، سَلَمَةَ سَمِعَا أَبَا هُرَيْرَةَ، يُحَدِّثُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4594": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "book_num": "41",
+    "reference": "Reference  : Sunan Abi Dawud 4594\nIn-book reference  : Book 41, Hadith 101\nEnglish translation  : Book 40, Hadith 4577",
+    "url": "https://sunnah.com/abudawud/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُتَوَكِّلِ الْعَسْقَلاَنِيُّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، ح وَحَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ التِّنِّيسِيُّ، حَدَّثَنَا زَيْدُ بْنُ الْمُبَارَكِ، حَدَّثَنَا عَبْدُ الْمَلِكِ الصَّنْعَانِيُّ، كِلاَهُمَا عَنْ مَعْمَرٍ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُتَوَكِّلِ الْعَسْقَلاَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ التِّنِّيسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا زَيْدُ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "كِلاَهُمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

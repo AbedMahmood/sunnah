@@ -1,0 +1,688 @@
+{
+  "1468": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1468\nIn-book reference  : Book 18, Hadith 6\nEnglish translation  : Vol. 3, Book 16, Hadith 1468",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، أَخْبَرَنَا شُعْبَةُ، عَنْ أَبِي بِشْرٍ، قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، يُحَدِّثُ عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَرْمِي الصَّيْدَ فَأَجِدُ فِيهِ مِنَ الْغَدِ سَهْمِي قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "سَهْمِي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1469": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1469\nIn-book reference  : Book 18, Hadith 7\nEnglish translation  : Vol. 3, Book 16, Hadith 1469",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنِي عَاصِمٌ الأَحْوَلُ، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّيْدِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنِي عَاصِمٌ الأَحْوَلُ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّيْدِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1471": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1471\nIn-book reference  : Book 18, Hadith 9\nEnglish translation  : Vol. 3, Book 16, Hadith 1471",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا يُوسُفُ بْنُ عِيسَى، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا زَكَرِيَّا، عَنِ الشَّعْبِيِّ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ سَأَلْتُ النَّبِيَّ صلى الله عليه وسلم عَنْ صَيْدِ الْمِعْرَاضِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يُوسُفُ بْنُ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَكَرِيَّا، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَأَلْتُ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَيْدِ الْمِعْرَاضِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1476": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1476\nIn-book reference  : Book 18, Hadith 15\nEnglish translation  : Vol. 3, Book 16, Hadith 1476",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ مُجَالِدٍ، ح قَالَ وَحَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ مُجَالِدٍ، عَنْ أَبِي الْوَدَّاكِ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُجَالِدٍ، ح",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مُجَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي الْوَدَّاكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1480": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1480\nIn-book reference  : Book 18, Hadith 20\nEnglish translation  : Vol. 3, Book 16, Hadith 1480",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى الصَّنْعَانِيُّ، حَدَّثَنَا سَلَمَةُ بْنُ رَجَاءٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ، قَالَ قَدِمَ النَّبِيُّ صلى الله عليه وسلم الْمَدِينَةَ وَهُمْ يَجُبُّونَ أَسْنِمَةَ الإِبِلِ وَيَقْطَعُونَ أَلْيَاتِ الْغَنَمِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى الصَّنْعَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سَلَمَةُ بْنُ رَجَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زَيْدِ بْنِ أَسْلَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الْغَنَمِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1481": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1481\nIn-book reference  : Book 18, Hadith 22\nEnglish translation  : Vol. 3, Book 16, Hadith 1481",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، وَمُحَمَّدُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا وَكِيعٌ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، ح وَقَالَ أَحْمَدُ بْنُ مَنِيعٍ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ أَبِي الْعُشَرَاءِ، عَنْ أَبِيهِ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَمَا تَكُونُ الذَّكَاةُ إِلاَّ فِي الْحَلْقِ وَاللَّبَّةِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ، وَمُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَمَّادِ بْنِ سَلَمَةَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "مَنِيعٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي الْعُشَرَاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "وَاللَّبَّةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1482": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1482\nIn-book reference  : Book 18, Hadith 23\nEnglish translation  : Vol. 3, Book 16, Hadith 1482",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1483": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1483\nIn-book reference  : Book 18, Hadith 24\nEnglish translation  : Vol. 3, Book 16, Hadith 1483",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1484": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1484\nIn-book reference  : Book 18, Hadith 25\nEnglish translation  : Vol. 3, Book 16, Hadith 1484",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا عَبْدَةُ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ صَيْفِيٍّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ صَيْفِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1485": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1485\nIn-book reference  : Book 18, Hadith 27\nEnglish translation  : Vol. 3, Book 16, Hadith 1485",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، حَدَّثَنَا ابْنُ أَبِي لَيْلَى، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، قَالَ قَالَ أَبُو لَيْلَى قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي لَيْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ ثَابِتٍ الْبُنَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "لَيْلَى",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1489": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1489\nIn-book reference  : Book 18, Hadith 31\nEnglish translation  : Vol. 3, Book 16, Hadith 1489",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ بْنُ أَسْبَاطِ بْنِ مُحَمَّدٍ الْقُرَشِيُّ، حَدَّثَنَا أَبِي، عَنِ الأَعْمَشِ، عَنْ إِسْمَاعِيلَ بْنِ مُسْلِمٍ، عَنِ الْحَسَنِ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ إِنِّي لَمِمَّنْ يَرْفَعُ أَغْصَانَ الشَّجَرَةِ عَنْ وَجْهِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ يَخْطُبُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ بْنُ أَسْبَاطِ بْنِ مُحَمَّدٍ الْقُرَشِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ مُسْلِمٍ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الشَّجَرَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ وَجْهِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ يَخْطُبُ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1490": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1490\nIn-book reference  : Book 18, Hadith 32\nEnglish translation  : Vol. 3, Book 16, Hadith 1490",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، وَغَيْرُ، وَاحِدٍ، قَالُوا أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1491": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1491\nIn-book reference  : Book 18, Hadith 33\nEnglish translation  : Vol. 3, Book 16, Hadith 1491",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ بْنِ رَافِعِ بْنِ خَدِيجٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، رَافِعِ بْنِ خَدِيجٍ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّا نَلْقَى الْعَدُوَّ غَدًا وَلَيْسَتْ مَعَنَا مُدًى فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبَايَةَ بْنِ رِفَاعَةَ بْنِ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "خَدِيجٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّا نَلْقَى الْعَدُوَّ غَدًا وَلَيْسَتْ مَعَنَا مُدًى فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1492": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Hunting",
+    "book_num": "18",
+    "reference": "Reference  : Jami` at-Tirmidhi 1492\nIn-book reference  : Book 18, Hadith 35\nEnglish translation  : Vol. 3, Book 16, Hadith 1492",
+    "url": "https://sunnah.com/tirmidhi/18",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنْ عَبَايَةَ بْنِ رِفَاعَةَ بْنِ رَافِعٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، رَافِعِ بْنِ خَدِيجٍ قَالَ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ فَنَدَّ بَعِيرٌ مِنْ إِبِلِ الْقَوْمِ وَلَمْ يَكُنْ مَعَهُمْ خَيْلٌ فَرَمَاهُ رَجُلٌ بِسَهْمٍ فَحَبَسَهُ اللَّهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبَايَةَ بْنِ رِفَاعَةَ بْنِ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "خَدِيجٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ فَنَدَّ بَعِيرٌ مِنْ إِبِلِ الْقَوْمِ وَل",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

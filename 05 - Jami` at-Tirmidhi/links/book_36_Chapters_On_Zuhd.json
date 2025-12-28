@@ -1,0 +1,3275 @@
+{
+  "2304": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2304\nIn-book reference  : Book 36, Hadith 1\nEnglish translation  : Vol. 4, Book 10, Hadith 2304",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا صَالِحُ بْنُ عَبْدِ اللَّهِ، وَسُوَيْدُ بْنُ نَصْرٍ، قَالَ صَالِحٌ حَدَّثَنَا وَقَالَ، سُوَيْدٌ أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ عَبْدِ اللَّهِ بْنِ سَعِيدِ بْنِ أَبِي هِنْدٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا صَالِحُ بْنُ عَبْدِ اللَّهِ، وَسُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "صَالِحٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "سُوَيْدٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ سَعِيدِ بْنِ أَبِي هِنْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2306": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2306\nIn-book reference  : Book 36, Hadith 3\nEnglish translation  : Vol. 4, Book 10, Hadith 2306",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَبُو مُصْعَبٍ الْمَدَنِيُّ، عَنْ مُحَرَّرِ بْنِ هَارُونَ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مُصْعَبٍ الْمَدَنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مُحَرَّرِ بْنِ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2307": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2307\nIn-book reference  : Book 36, Hadith 4\nEnglish translation  : Vol. 4, Book 10, Hadith 2307",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2309": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2309\nIn-book reference  : Book 36, Hadith 6\nEnglish translation  : Vol. 4, Book 10, Hadith 2309",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، أَخْبَرَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ سَمِعْتُ أَنَسًا، يُحَدِّثُ عَنْ عُبَادَةَ بْنِ الصَّامِتِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُبَادَةَ بْنِ الصَّامِتِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2311": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2311\nIn-book reference  : Book 36, Hadith 8\nEnglish translation  : Vol. 4, Book 10, Hadith 2311",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ الْمَسْعُودِيِّ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عِيسَى بْنِ طَلْحَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ الْمَسْعُودِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِيسَى بْنِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2312": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2312\nIn-book reference  : Book 36, Hadith 9\nEnglish translation  : Vol. 4, Book 10, Hadith 2312",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ إِبْرَاهِيمَ بْنِ الْمُهَاجِرِ، عَنْ مُجَاهِدٍ، عَنْ مُوَرِّقٍ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْرَائِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ الْمُهَاجِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُوَرِّقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2313": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2313\nIn-book reference  : Book 36, Hadith 10\nEnglish translation  : Vol. 4, Book 10, Hadith 2313",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَبُو حَفْصٍ، عَمْرُو بْنُ عَلِيٍّ الْفَلاَّسُ حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْفَلاَّسُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2314": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2314\nIn-book reference  : Book 36, Hadith 11\nEnglish translation  : Vol. 4, Book 10, Hadith 2314",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، حَدَّثَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ، عَنْ عِيسَى بْنِ طَلْحَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِيسَى بْنِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2315": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2315\nIn-book reference  : Book 36, Hadith 12\nEnglish translation  : Vol. 4, Book 10, Hadith 2315",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا بَهْزُ بْنُ حَكِيمٍ، حَدَّثَنِي أَبِي، عَنْ جَدِّي، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَهْزُ بْنُ حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَدِّي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2316": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2316\nIn-book reference  : Book 36, Hadith 13\nEnglish translation  : Vol. 4, Book 10, Hadith 2316",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الْجَبَّارِ الْبَغْدَادِيُّ، حَدَّثَنَاَ عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ، حَدَّثَنَا أَبِي، عَنِ الأَعْمَشِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ تُوُفِّيَ رَجُلٌ مِنْ أَصْحَابِهِ فَقَالَ يَعْنِي رَجُلٌ أَبْشِرْ بِالْجَنَّةِ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الْجَبَّارِ الْبَغْدَادِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَاَ عُمَرُ بْنُ حَفْصِ بْنِ غِيَاثٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبِي، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ تُوُفِّيَ رَجُلٌ مِنْ أَصْحَابِهِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ يَعْنِي رَجُلٌ أَبْشِرْ بِالْجَنَّةِ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2317": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2317\nIn-book reference  : Book 36, Hadith 14\nEnglish translation  : Vol. 4, Book 10, Hadith 2317",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ نَصْرٍ النَّيْسَابُورِيُّ، وَغَيْرُ، وَاحِدٍ، قَالُوا حَدَّثَنَا أَبُو مُسْهِرٍ، عَنْ إِسْمَاعِيلَ بْنِ عَبْدِ اللَّهِ بْنِ سَمَاعَةَ، عَنِ الأَوْزَاعِيِّ، عَنْ قُرَّةَ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُسْهِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ عَبْدِ اللَّهِ بْنِ سَمَاعَةَ، عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قُرَّةَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2318": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2318\nIn-book reference  : Book 36, Hadith 15\nEnglish translation  : Vol. 4, Book 10, Hadith 2318",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ الزُّهْرِيِّ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ حُسَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2319": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2319\nIn-book reference  : Book 36, Hadith 16\nEnglish translation  : Vol. 4, Book 10, Hadith 2319",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا عَبْدَةُ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، حَدَّثَنِي أَبِي، عَنْ جَدِّي، قَالَ سَمِعْتُ بِلاَلَ بْنَ الْحَارِثِ الْمُزَنِيَّ، صَاحِبَ رَسُولِ اللَّهِ صلى الله عليه وسلم يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَدِّي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2320": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2320\nIn-book reference  : Book 36, Hadith 17\nEnglish translation  : Vol. 4, Book 10, Hadith 2320",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ سُلَيْمَانَ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2322": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2322\nIn-book reference  : Book 36, Hadith 19\nEnglish translation  : Vol. 4, Book 10, Hadith 2322",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمٍ الْمُكْتِبُ، حَدَّثَنَا عَلِيُّ بْنُ ثَابِتٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ ثَابِتِ بْنِ ثَوْبَانَ، قَالَ سَمِعْتُ عَطَاءَ بْنَ قُرَّةَ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ ضَمْرَةَ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمٍ الْمُكْتِبُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ ثَابِتِ بْنِ ثَوْبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ عَطَاءَ بْنَ قُرَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ ضَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "2323": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2323\nIn-book reference  : Book 36, Hadith 20\nEnglish translation  : Vol. 4, Book 10, Hadith 2323",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ، حَدَّثَنَا قَيْسُ بْنُ أَبِي حَازِمٍ، قَالَ سَمِعْتُ مُسْتَوْرِدًا، أَخَا بَنِي فِهْرٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا قَيْسُ بْنُ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فِهْرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "2324": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2324\nIn-book reference  : Book 36, Hadith 21\nEnglish translation  : Vol. 4, Book 10, Hadith 2324",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2326": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2326\nIn-book reference  : Book 36, Hadith 23\nEnglish translation  : Vol. 4, Book 10, Hadith 2326",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ بَشِيرٍ أَبِي إِسْمَاعِيلَ، عَنْ سَيَّارٍ، عَنْ طَارِقِ بْنِ شِهَابٍ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بَشِيرٍ أَبِي إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَيَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ طَارِقِ بْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2327": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2327\nIn-book reference  : Book 36, Hadith 24\nEnglish translation  : Vol. 4, Book 10, Hadith 2327",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، وَالأَعْمَشِ، عَنْ أَبِي وَائِلٍ، قَالَ جَاءَ مُعَاوِيَةُ إِلَى أَبِي هَاشِمِ بْنِ عُتْبَةَ وَهُوَ مَرِيضٌ يَعُودُهُ فَقَالَ يَا خَالُ مَا يُبْكِيكَ أَوَجَعٌ يُشْئِزُكَ أَمْ حِرْصٌ عَلَى الدُّنْيَا قَالَ كُلٌّ لاَ وَلَكِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم عَهِدَ إِلَىَّ عَهْدًا لَمْ آخُذْ بِهِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ، وَالأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ جَاءَ مُعَاوِيَةُ إِلَى أَبِي هَاشِمِ بْنِ عُتْبَةَ وَهُوَ مَرِيضٌ يَعُودُهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الدُّنْيَا",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ كُلٌّ لاَ وَلَكِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم عَهِدَ إِلَىَّ عَهْدًا لَمْ آخُذْ بِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2328": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2328\nIn-book reference  : Book 36, Hadith 25\nEnglish translation  : Vol. 4, Book 10, Hadith 2328",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ شِمْرِ بْنِ عَطِيَّةَ، عَنِ الْمُغِيرَةِ بْنِ سَعْدِ بْنِ الأَخْرَمِ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شِمْرِ بْنِ عَطِيَّةَ، عَنِ الْمُغِيرَةِ بْنِ سَعْدِ بْنِ الأَخْرَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2329": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2329\nIn-book reference  : Book 36, Hadith 26\nEnglish translation  : Vol. 4, Book 10, Hadith 2329",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ، عَنْ عَمْرِو بْنِ قَيْسٍ، عَنْ عَبْدِ اللَّهِ بْنِ بُسْرٍ، أَنَّ أَعْرَابِيًّا، قَالَ يَا رَسُولَ اللَّهِ مَنْ خَيْرُ النَّاسِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُسْرٍ، أَنَّ أَعْرَابِيًّا،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "النَّاسِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2331": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2331\nIn-book reference  : Book 36, Hadith 28\nEnglish translation  : Vol. 4, Book 10, Hadith 2331",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ رَبِيعَةَ، عَنْ كَامِلٍ أَبِي الْعَلاَءِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ كَامِلٍ أَبِي الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2332": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2332\nIn-book reference  : Book 36, Hadith 29\nEnglish translation  : Vol. 4, Book 10, Hadith 2332",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا عَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ، حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ الْعُمَرِيُّ، عَنْ سَعْدِ بْنِ سَعِيدٍ الأَنْصَارِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ الْعُمَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعْدِ بْنِ سَعِيدٍ الأَنْصَارِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2336": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2336\nIn-book reference  : Book 36, Hadith 33\nEnglish translation  : Vol. 4, Book 10, Hadith 2336",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا الْحَسَنُ بْنُ سَوَّارٍ، حَدَّثَنَا لَيْثُ بْنُ سَعْدٍ، عَنْ مُعَاوِيَةَ بْنِ صَالِحٍ، أَنَّ عَبْدَ الرَّحْمَنِ بْنَ جُبَيْرِ بْنِ نُفَيْرِ، حَدَّثَهُ عَنْ أَبِيهِ، عَنْ كَعْبِ بْنِ عِيَاضٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ سَوَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا لَيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ كَعْبِ بْنِ عِيَاضٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2337": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2337\nIn-book reference  : Book 36, Hadith 34\nEnglish translation  : Vol. 4, Book 10, Hadith 2337",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي زِيَادٍ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنِ ابْنِ شِهَابٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2338": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2338\nIn-book reference  : Book 36, Hadith 35\nEnglish translation  : Vol. 4, Book 10, Hadith 2338",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنِ الْقَعْقَاعِ بْنِ حَكِيمٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنِ الْقَعْقَاعِ بْنِ حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2339": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2339\nIn-book reference  : Book 36, Hadith 36\nEnglish translation  : Vol. 4, Book 10, Hadith 2339",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2340": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2340\nIn-book reference  : Book 36, Hadith 37\nEnglish translation  : Vol. 4, Book 10, Hadith 2340",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ، أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ، حَدَّثَنَا عَمْرُو بْنُ وَاقِدٍ، حَدَّثَنَا يُونُسُ بْنُ حَلْبَسٍ، عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ، عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ وَاقِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ حَلْبَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2341": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2341\nIn-book reference  : Book 36, Hadith 38\nEnglish translation  : Vol. 4, Book 10, Hadith 2341",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا حُرَيْثُ بْنُ السَّائِبِ، قَالَ سَمِعْتُ الْحَسَنَ، يَقُولُ حَدَّثَنِي حُمْرَانُ بْنُ أَبَانَ، عَنْ عُثْمَانَ بْنِ عَفَّانَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حُرَيْثُ بْنُ السَّائِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي حُمْرَانُ بْنُ أَبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُثْمَانَ بْنِ عَفَّانَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2343": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2343\nIn-book reference  : Book 36, Hadith 40\nEnglish translation  : Vol. 4, Book 10, Hadith 2343",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عُمَرُ بْنُ يُونُسَ، - هُوَ الْيَمَامِيُّ حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، حَدَّثَنَا شَدَّادُ بْنُ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ أَبَا أُمَامَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "الْيَمَامِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شَدَّادُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "2344": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2344\nIn-book reference  : Book 36, Hadith 41\nEnglish translation  : Vol. 4, Book 10, Hadith 2344",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ سَعِيدٍ الْكِنْدِيُّ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، عَنْ بَكْرِ بْنِ عَمْرٍو، عَنْ عَبْدِ اللَّهِ بْنِ هُبَيْرَةَ، عَنْ أَبِي تَمِيمٍ الْجَيْشَانِيِّ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ سَعِيدٍ الْكِنْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَيْوَةَ بْنِ شُرَيْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بَكْرِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ هُبَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي تَمِيمٍ الْجَيْشَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُمَرَ بْنِ الْخَطَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2345": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2345\nIn-book reference  : Book 36, Hadith 42\nEnglish translation  : Vol. 4, Book 10, Hadith 2345",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو دَاوُدَ الطَّيَالِسِيُّ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ أَخَوَانِ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم فَكَانَ أَحَدُهُمَا يَأْتِي النَّبِيَّ صلى الله عليه وسلم وَالآخَرُ يَحْتَرِفُ فَشَكَا الْمُحْتَرِفُ أَخَاهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ الطَّيَالِسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كَانَ أَخَوَانِ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم فَكَانَ أَحَدُهُمَا يَأْتِي النَّبِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2348": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2348\nIn-book reference  : Book 36, Hadith 45\nEnglish translation  : Vol. 4, Book 10, Hadith 2348",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي أَيُّوبَ، عَنْ شُرَحْبِيلَ بْنِ شَرِيكٍ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْحُبُلِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُرَحْبِيلَ بْنِ شَرِيكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْحُبُلِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2349": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2349\nIn-book reference  : Book 36, Hadith 46\nEnglish translation  : Vol. 4, Book 10, Hadith 2349",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ، أَخْبَرَنَا حَيْوَةُ بْنُ شُرَيْحٍ، أَخْبَرَنِي أَبُو هَانِئٍ الْخَوْلاَنِيُّ، أَنَّ أَبَا عَلِيٍّ، عَمْرَو بْنَ مَالِكٍ الْجَنْبِيَّ أَخْبَرَهُ عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ"
+    ]
+  },
+  "2351": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2351\nIn-book reference  : Book 36, Hadith 48\nEnglish translation  : Vol. 4, Book 10, Hadith 2351",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى الْبَصْرِيُّ، حَدَّثَنَا زِيَادُ بْنُ عَبْدِ اللَّهِ، عَنِ الأَعْمَشِ، عَنْ عَطِيَّةَ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى الْبَصْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زِيَادُ بْنُ عَبْدِ اللَّهِ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَطِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2353": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2353\nIn-book reference  : Book 36, Hadith 50\nEnglish translation  : Vol. 4, Book 10, Hadith 2353",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا قَبِيصَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2354": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2354\nIn-book reference  : Book 36, Hadith 51\nEnglish translation  : Vol. 4, Book 10, Hadith 2354",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا الْمُحَارِبِيُّ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْمُحَارِبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2355": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2355\nIn-book reference  : Book 36, Hadith 52\nEnglish translation  : Vol. 4, Book 10, Hadith 2355",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ، حَدَّثَنَا سَعِيدُ بْنُ أَبِي أَيُّوبَ، عَنْ عَمْرِو بْنِ جَابِرٍ الْحَضْرَمِيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ جَابِرٍ الْحَضْرَمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2361": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2361\nIn-book reference  : Book 36, Hadith 58\nEnglish translation  : Vol. 4, Book 10, Hadith 2361",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَبُو عَمَّارٍ، حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي زُرْعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2368": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2368\nIn-book reference  : Book 36, Hadith 65\nEnglish translation  : Vol. 4, Book 10, Hadith 2368",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ، أَخْبَرَنِي أَبُو هَانِئٍ الْخَوْلاَنِيُّ، أَنَّ أَبَا عَلِيٍّ، عَمْرَو بْنَ مَالِكٍ الْجَنْبِيَّ أَخْبَرَهُ عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا صَلَّى بِالنَّاسِ يَخِرُّ رِجَالٌ مِنْ قَامَتِهِمْ فِي الصَّلاَةِ مِنَ الْخَصَاصَةِ وَهُمْ أَصْحَابُ الصُّفَّةِ حَتَّى تَقُولَ الأَعْرَابُ هَؤُلاَءِ مَجَانِينُ أَوْ مَجَانُونَ فَإِذَا صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم انْصَرَفَ إِلَيْهِمْ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا صَلَّى بِالنَّاسِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2373": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2373\nIn-book reference  : Book 36, Hadith 70\nEnglish translation  : Vol. 4, Book 10, Hadith 2373",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ بُدَيْلِ بْنِ قُرَيْشٍ الْيَامِيُّ الْكُوفِيُّ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ بُدَيْلِ بْنِ قُرَيْشٍ الْيَامِيُّ الْكُوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَصِينٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2374": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2374\nIn-book reference  : Book 36, Hadith 71\nEnglish translation  : Vol. 4, Book 10, Hadith 2374",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي الْوَلِيدِ، قَالَ سَمِعْتُ خَوْلَةَ بِنْتَ قَيْسٍ، وَكَانَتْ، تَحْتَ حَمْزَةَ بْنِ عَبْدِ الْمُطَّلِبِ تَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي الْوَلِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2375": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2375\nIn-book reference  : Book 36, Hadith 72\nEnglish translation  : Vol. 4, Book 10, Hadith 2375",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ الصَّوَّافُ، حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ سَعِيدٍ، عَنْ يُونُسَ، عَنِ الْحَسَنِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ الصَّوَّافُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2376": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2376\nIn-book reference  : Book 36, Hadith 73\nEnglish translation  : Vol. 4, Book 10, Hadith 2376",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ سَعْدِ بْنِ زُرَارَةَ، عَنِ ابْنِ كَعْبِ بْنِ مَالِكٍ الأَنْصَارِيِّ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ سَعْدِ بْنِ زُرَارَةَ، عَنِ ابْنِ كَعْبِ بْنِ مَالِكٍ ال",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2377": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2377\nIn-book reference  : Book 36, Hadith 74\nEnglish translation  : Vol. 4, Book 10, Hadith 2377",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ عَبْدِ الرَّحْمَنِ الْكِنْدِيُّ، حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، أَخْبَرَنِي الْمَسْعُودِيُّ، حَدَّثَنَا عَمْرُو بْنُ مُرَّةَ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ نَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى حَصِيرٍ فَقَامَ وَقَدْ أَثَّرَ فِي جَنْبِهِ فَقُلْنَا يَا رَسُولَ اللَّهِ لَوِ اتَّخَذْنَا لَكَ وِطَاءً . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ عَبْدِ الرَّحْمَنِ الْكِنْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، أَخْبَرَنِي الْمَسْعُودِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ مُرَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلْقَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ نَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى حَصِيرٍ فَقَامَ وَقَدْ أَثَّرَ فِي جَنْبِهِ فَق",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2378": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2378\nIn-book reference  : Book 36, Hadith 75\nEnglish translation  : Vol. 4, Book 10, Hadith 2378",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ، وَأَبُو دَاوُدَ قَالاَ حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ، حَدَّثَنِي مُوسَى بْنُ وَرْدَانَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي مُوسَى بْنُ وَرْدَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2379": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2379\nIn-book reference  : Book 36, Hadith 76\nEnglish translation  : Vol. 4, Book 10, Hadith 2379",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ سُفْيَانَ بْنِ عُيَيْنَةَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، هُوَ ابْنُ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ الأَنْصَارِيُّ قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ بْنِ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الأَنْصَارِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2380": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2380\nIn-book reference  : Book 36, Hadith 77\nEnglish translation  : Vol. 4, Book 10, Hadith 2380",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنِي أَبُو سَلَمَةَ الْحِمْصِيُّ، وَحَبِيبُ بْنُ صَالِحٍ، عَنْ يَحْيَى بْنِ جَابِرٍ الطَّائِيِّ، عَنْ مِقْدَامِ بْنِ مَعْدِيكَرِبَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ الْحِمْصِيُّ، وَحَبِيبُ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى بْنِ جَابِرٍ الطَّائِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مِقْدَامِ بْنِ مَعْدِيكَرِبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2386": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2386\nIn-book reference  : Book 36, Hadith 83\nEnglish translation  : Vol. 4, Book 10, Hadith 2386",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَبُو هِشَامٍ الرِّفَاعِيُّ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ أَشْعَثَ، عَنِ الْحَسَنِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو هِشَامٍ الرِّفَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَشْعَثَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2387": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2387\nIn-book reference  : Book 36, Hadith 84\nEnglish translation  : Vol. 4, Book 10, Hadith 2387",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمٍ، عَنْ زِرِّ بْنِ حُبَيْشٍ، عَنْ صَفْوَانَ بْنِ عَسَّالٍ، قَالَ جَاءَ أَعْرَابِيٌّ جَهْوَرِيُّ الصَّوْتِ فَقَالَ يَا مُحَمَّدُ الرَّجُلُ يُحِبُّ الْقَوْمَ وَلَمَّا يَلْحَقْ بِهِمْ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ آدَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زِرِّ بْنِ حُبَيْشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ عَسَّالٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ جَاءَ أَعْرَابِيٌّ جَهْوَرِيُّ الصَّوْتِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ يَا مُحَمَّدُ الرَّجُلُ يُحِبُّ الْقَوْمَ وَلَمَّا يَلْحَقْ بِهِمْ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2388": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2388\nIn-book reference  : Book 36, Hadith 85\nEnglish translation  : Vol. 4, Book 10, Hadith 2388",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا وَكِيعٌ، عَنْ جَعْفَرِ بْنِ بُرْقَانَ، عَنْ يَزِيدَ بْنِ الأَصَمِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جَعْفَرِ بْنِ بُرْقَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ الأَصَمِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2389": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2389\nIn-book reference  : Book 36, Hadith 86\nEnglish translation  : Vol. 4, Book 10, Hadith 2389",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ عَبْدِ الرَّحْمَنِ الْكِنْدِيُّ الْكُوفِيُّ، حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ جُبَيْرِ بْنِ نُفَيْرٍ الْحَضْرَمِيُّ، عَنْ أَبِيهِ، عَنِ النَّوَّاسِ بْنِ سَمْعَانَ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْبِرِّ وَالإِثْمِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ عَبْدِ الرَّحْمَنِ الْكِنْدِيُّ الْكُوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ جُبَيْرِ بْنِ نُفَيْرٍ الْحَضْرَمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ النَّوَّاسِ بْنِ سَمْعَانَ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه و",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2390": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2390\nIn-book reference  : Book 36, Hadith 87\nEnglish translation  : Vol. 4, Book 10, Hadith 2390",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا كَثِيرُ بْنُ هِشَامٍ، حَدَّثَنَا جَعْفَرُ بْنُ بُرْقَانَ، حَدَّثَنَا حَبِيبُ بْنُ أَبِي مَرْزُوقٍ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، عَنْ أَبِي مُسْلِمٍ الْخَوْلاَنِيِّ، حَدَّثَنِي مُعَاذُ بْنُ جَبَلٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا كَثِيرُ بْنُ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا جَعْفَرُ بْنُ بُرْقَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا حَبِيبُ بْنُ أَبِي مَرْزُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُسْلِمٍ الْخَوْلاَنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي مُعَاذُ بْنُ جَبَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2392": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2392 b\nIn-book reference  : Book 36, Hadith 90\nEnglish translation  : Vol. 4, Book 10, Hadith 2392",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، وَقُتَيْبَةُ، قَالاَ حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنْ عِمْرَانَ بْنِ مُسْلِمٍ الْقَصِيرِ، عَنْ سَعِيدِ بْنِ سَلْمَانَ، عَنْ يَزِيدَ بْنِ نُعَامَةَ الضَّبِّيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ مُسْلِمٍ الْقَصِيرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ سَلْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ نُعَامَةَ الضَّبِّيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2395": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2395\nIn-book reference  : Book 36, Hadith 93\nEnglish translation  : Vol. 4, Book 10, Hadith 2395",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا ابْنُ الْمُبَارَكِ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، حَدَّثَنِي سَالِمُ بْنُ غَيْلاَنَ، أَنَّ الْوَلِيدَ بْنَ قَيْسٍ التُّجِيبِيَّ، أَخْبَرَهُ أَنَّهُ، سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، قَالَ سَالِمٌ أَوْ عَنْ أَبِي الْهَيْثَمِ، عَنْ أَبِي سَعِيدٍ، - أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَيْوَةَ بْنِ شُرَيْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي سَالِمُ بْنُ غَيْلاَنَ، أَنَّ الْوَلِيدَ بْنَ قَيْسٍ التُّجِيبِيَّ، أَخْبَرَهُ أَنَّهُ، س",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَالِمٌ أَوْ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الْهَيْثَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2398": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2398\nIn-book reference  : Book 36, Hadith 96\nEnglish translation  : Vol. 4, Book 10, Hadith 2398",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَاصِمِ بْنِ بَهْدَلَةَ، عَنْ مُصْعَبِ بْنِ سَعْدٍ، عَنْ أَبِيهِ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَىُّ النَّاسِ أَشَدُّ بَلاَءً قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ بَهْدَلَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مُصْعَبِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "بَلاَءً",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2399": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2399\nIn-book reference  : Book 36, Hadith 97\nEnglish translation  : Vol. 4, Book 10, Hadith 2399",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2400": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2400\nIn-book reference  : Book 36, Hadith 98\nEnglish translation  : Vol. 4, Book 10, Hadith 2400",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُعَاوِيَةَ الْجُمَحِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، حَدَّثَنَا أَبُو ظِلاَلٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُعَاوِيَةَ الْجُمَحِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو ظِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2401": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2401\nIn-book reference  : Book 36, Hadith 99\nEnglish translation  : Vol. 4, Book 10, Hadith 2401",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، رَفَعَهُ إِلَى النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، رَفَعَهُ إِلَى النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2402": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2402\nIn-book reference  : Book 36, Hadith 100\nEnglish translation  : Vol. 4, Book 10, Hadith 2402",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ حُمَيْدٍ الرَّازِيُّ، وَيُوسُفُ بْنُ مُوسَى الْقَطَّانُ الْبَغْدَادِيُّ، قَالاَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَغْرَاءَ أَبُو زُهَيْرٍ، عَنِ الأَعْمَشِ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَغْرَاءَ أَبُو زُهَيْرٍ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2404": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2404\nIn-book reference  : Book 36, Hadith 102\nEnglish translation  : Vol. 4, Book 10, Hadith 2404",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا سُوَيْدٌ، أَخْبَرَنَا ابْنُ الْمُبَارَكِ، أَخْبَرَنَا يَحْيَى بْنُ عُبَيْدِ اللَّهِ، قَالَ سَمِعْتُ أَبِي يَقُولُ، سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُوَيْدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا يَحْيَى بْنُ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "2405": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2405\nIn-book reference  : Book 36, Hadith 103\nEnglish translation  : Vol. 4, Book 10, Hadith 2405",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ، أَخْبَرَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، أَخْبَرَنَا حَمْزَةُ بْنُ أَبِي مُحَمَّدٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا حَمْزَةُ بْنُ أَبِي مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2406": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2406\nIn-book reference  : Book 36, Hadith 104\nEnglish translation  : Vol. 4, Book 10, Hadith 2406",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا صَالِحُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، ح وَحَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا ابْنُ الْمُبَارَكِ، عَنْ يَحْيَى بْنِ أَيُّوبَ، عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ، عَنْ عَلِيِّ بْنِ يَزِيدَ، عَنِ الْقَاسِمِ، عَنْ أَبِي أُمَامَةَ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ مَا النَّجَاةُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا صَالِحُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا ابْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ يَزِيدَ، عَنِ الْقَاسِمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "النَّجَاةُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2407": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2407\nIn-book reference  : Book 36, Hadith 105\nEnglish translation  : Vol. 4, Book 10, Hadith 2407",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى الْبَصْرِيُّ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَبِي الصَّهْبَاءِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، رَفَعَهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى الْبَصْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الصَّهْبَاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "رَفَعَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2408": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2408\nIn-book reference  : Book 36, Hadith 106\nEnglish translation  : Vol. 4, Book 10, Hadith 2408",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى الصَّنْعَانِيُّ، حَدَّثَنَا عُمَرُ بْنُ عَلِيٍّ الْمُقَدَّمِيُّ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى الصَّنْعَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ عَلِيٍّ الْمُقَدَّمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2409": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2409\nIn-book reference  : Book 36, Hadith 107\nEnglish translation  : Vol. 4, Book 10, Hadith 2409",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2411": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2411\nIn-book reference  : Book 36, Hadith 109\nEnglish translation  : Vol. 4, Book 10, Hadith 2411",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا أَبُو عَبْدِ اللَّهِ، مُحَمَّدُ بْنُ أَبِي ثَلْجٍ الْبَغْدَادِيُّ صَاحِبُ أَحْمَدَ بْنِ حَنْبَلٍ حَدَّثَنَا عَلِيُّ بْنُ حَفْصٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ عَبْدِ اللَّهِ بْنِ حَاطِبٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَنْبَلٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ حَفْصٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ عَبْدِ اللَّهِ بْنِ حَاطِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2412": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2412\nIn-book reference  : Book 36, Hadith 110\nEnglish translation  : Vol. 4, Book 10, Hadith 2412",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَغَيْرُ، وَاحِدٍ، قَالُوا حَدَّثَنَا مُحَمَّدُ بْنُ يَزِيدَ بْنِ خُنَيْسٍ الْمَكِّيُّ، قَالَ سَمِعْتُ سَعِيدَ بْنَ حَسَّانَ الْمَخْزُومِيَّ، قَالَ حَدَّثَتْنِي أُمُّ صَالِحٍ، عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ، عَنْ أُمِّ حَبِيبَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَزِيدَ بْنِ خُنَيْسٍ الْمَكِّيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ سَمِعْتُ سَعِيدَ بْنَ حَسَّانَ الْمَخْزُومِيَّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ حَدَّثَتْنِي أُمُّ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّ حَبِيبَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2413": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2413\nIn-book reference  : Book 36, Hadith 111\nEnglish translation  : Vol. 4, Book 10, Hadith 2413",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ، حَدَّثَنَا أَبُو الْعُمَيْسِ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، عَنْ أَبِيهِ، قَالَ آخَى رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ سَلْمَانَ وَبَيْنَ أَبِي الدَّرْدَاءِ فَزَارَ سَلْمَانُ أَبَا الدَّرْدَاءِ فَرَأَى أُمَّ الدَّرْدَاءِ مُتَبَذِّلَةً فَقَالَ مَا شَأْنُكِ مُتَبَذِّلَةً قَالَتْ إِنَّ أَخَاكَ أَبَا الدَّرْدَاءِ لَيْسَ لَهُ حَاجَةٌ فِي الدُّنْيَا . قَالَ فَلَمَّا جَاءَ أَبُو الدَّرْدَاءِ قَرَّبَ إِلَيْهِ طَعَامًا فَقَالَ كُلْ فَإِنِّي صَائِمٌ . قَالَ مَا أَنَا بِآكِلٍ حَتَّى تَأْكُلَ . قَالَ فَأَكَلَ فَلَمَّا كَانَ اللَّيْلُ ذَهَبَ أَبُو الدَّرْدَاءِ لِيَقُومَ فَقَالَ لَهُ سَلْمَانُ نَمْ . فَنَامَ ثُمَّ ذَهَبَ يَقُومُ فَقَالَ لَهُ نَمْ . فَنَامَ فَلَمَّا كَانَ عِنْدَ الصُّبْحِ قَالَ لَهُ سَلْمَانُ قُمِ الآنَ فَقَامَا فَصَلَّيَا فَقَالَ إِنَّ لِنَفْسِكَ عَلَيْكَ حَقًّا وَلِرَبِّكَ عَلَيْكَ حَقًّا وَلِضَيْفِكَ عَلَيْكَ حَقًّا وَإِنَّ لأَهْلِكَ عَلَيْكَ حَقًّا فَأَعْطِ كُلَّ ذِي حَقٍّ حَقَّهُ . فَأَتَيَا النَّبِيَّ صلى الله عليه وسلم فَذَكَرَا ذَلِكَ فَقَالَ لَهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو الْعُمَيْسِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ آخَى رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ سَلْمَانَ وَبَيْنَ أَبِي الدَّرْدَاءِ فَزَارَ س",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "مُتَبَذِّلَةً",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ إِنَّ أَخَاكَ أَبَا الدَّرْدَاءِ لَيْسَ لَهُ حَاجَةٌ فِي الدُّنْيَا .",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ فَلَمَّا جَاءَ أَبُو الدَّرْدَاءِ قَرَّبَ إِلَيْهِ طَعَامًا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ كُلْ فَإِنِّي صَائِمٌ .",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ مَا أَنَا بِآكِلٍ حَتَّى تَأْكُلَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ فَأَكَلَ فَلَمَّا كَانَ اللَّيْلُ ذَهَبَ أَبُو الدَّرْدَاءِ لِيَقُومَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَ لَهُ سَلْمَانُ نَمْ . فَنَامَ ثُمَّ ذَهَبَ يَقُومُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "الصُّبْحِ",
+        "role": "narrator"
+      },
+      {
+        "position": 16,
+        "arabic_name": "قَالَ لَهُ سَلْمَانُ قُمِ الآنَ فَقَامَا فَصَلَّيَا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 17,
+        "arabic_name": "قَالَ إِنَّ لِنَفْسِكَ عَلَيْكَ حَقًّا وَلِرَبِّكَ عَلَيْكَ حَقًّا وَلِضَيْفِكَ عَلَيْكَ حَقًّا وَإِ",
+        "role": "narrator"
+      },
+      {
+        "position": 18,
+        "arabic_name": "قَالَ لَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 17,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2414": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Zuhd",
+    "book_num": "36",
+    "reference": "Reference  : Jami` at-Tirmidhi 2414\nIn-book reference  : Book 36, Hadith 112\nEnglish translation  : Vol. 4, Book 10, Hadith 2414",
+    "url": "https://sunnah.com/tirmidhi/36",
+    "sanad_full": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ عَبْدِ الْوَهَّابِ بْنِ الْوَرْدِ، عَنْ رَجُلٍ، مِنْ أَهْلِ الْمَدِينَةِ قَالَ كَتَبَ مُعَاوِيَةُ إِلَى عَائِشَةَ أُمِّ الْمُؤْمِنِينَ رضى الله عنها أَنِ اكْتُبِي إِلَىَّ كِتَابًا تُوصِينِي فِيهِ وَلاَ تُكْثِرِي عَلَىَّ . فَكَتَبَتْ عَائِشَةُ رضى الله عنها إِلَى مُعَاوِيَةَ سَلاَمٌ عَلَيْكَ أَمَّا بَعْدُ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَبْدِ الْوَهَّابِ بْنِ الْوَرْدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "الْمَدِينَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "1454": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Shortening the Prayer When Traveling",
+    "book_num": "15",
+    "reference": "Reference  : Sunan an-Nasa'i 1454\nIn-book reference  : Book 15, Hadith 22\nEnglish translation  : Vol. 2, Book 15, Hadith 1455",
+    "url": "https://sunnah.com/nasai/15",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ زَنْجَوَيْهِ، عَنْ عَبْدِ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي إِسْمَاعِيلُ بْنُ مُحَمَّدِ بْنِ سَعْدٍ، أَنَّ حُمَيْدَ بْنَ عَبْدِ الرَّحْمَنِ، أَخْبَرَهُ أَنَّ السَّائِبَ بْنَ يَزِيدَ أَخْبَرَهُ أَنَّهُ، سَمِعَ الْعَلاَءَ بْنَ الْحَضْرَمِيِّ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ زَنْجَوَيْهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَبْدِ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1455": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Shortening the Prayer When Traveling",
+    "book_num": "15",
+    "reference": "Reference  : Sunan an-Nasa'i 1455\nIn-book reference  : Book 15, Hadith 23\nEnglish translation  : Vol. 2, Book 15, Hadith 1456",
+    "url": "https://sunnah.com/nasai/15",
+    "sanad_full": "أَخْبَرَنَا أَبُو عَبْدِ الرَّحْمَنِ، قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، فِي حَدِيثِهِ عَنْ سُفْيَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدٍ، عَنِ السَّائِبِ بْنِ يَزِيدَ، عَنِ الْعَلاَءِ بْنِ الْحَضْرَمِيِّ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدِيثِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدٍ، عَنِ السَّائِبِ بْنِ يَزِيدَ، عَنِ الْعَلاَءِ بْنِ الْحَضْرَم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1456": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Shortening the Prayer When Traveling",
+    "book_num": "15",
+    "reference": "Reference  : Sunan an-Nasa'i 1456\nIn-book reference  : Book 15, Hadith 24\nEnglish translation  : Vol. 2, Book 15, Hadith 1457",
+    "url": "https://sunnah.com/nasai/15",
+    "sanad_full": "أَخْبَرَنِي أَحْمَدُ بْنُ يَحْيَى الصُّوفِيُّ، قَالَ حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا الْعَلاَءُ بْنُ زُهَيْرٍ الأَزْدِيُّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الأَسْوَدِ، عَنْ عَائِشَةَ، أَنَّهَا اعْتَمَرَتْ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ الْمَدِينَةِ إِلَى مَكَّةَ حَتَّى إِذَا قَدِمَتْ مَكَّةَ قَالَتْ يَا رَسُولَ اللَّهِ بِأَبِي أَنْتَ وَأُمِّي قَصَرْتَ وَأَتْمَمْتُ وَأَفْطَرْتَ وَصُمْتُ . قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي أَحْمَدُ بْنُ يَحْيَى الصُّوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا الْعَلاَءُ بْنُ زُهَيْرٍ الأَزْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "مَكَّةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ يَا رَسُولَ اللَّهِ بِأَبِي أَنْتَ وَأُمِّي قَصَرْتَ وَأَتْمَمْتُ وَأَفْطَرْتَ وَصُمْتُ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

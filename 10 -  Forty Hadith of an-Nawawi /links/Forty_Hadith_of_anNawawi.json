@@ -1,0 +1,952 @@
+{
+  "1500010": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Source: Bukhari, Muslim",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "عَنْ أَمِيرِ الْمُؤْمِنِينَ أَبِي حَفْصٍ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَمِيرِ الْمُؤْمِنِينَ أَبِي حَفْصٍ عُمَرَ بْنِ الْخَطَّابِ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500020": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 2",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ أَيْضًا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ أَيْضًا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500030": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 3",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500040": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 4",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500050": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 5",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500060": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 6",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500070": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 7",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500080": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 8",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500090": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 9",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "عَنْ أَبِي هُرَيْرَةَ عَبْدِ الرَّحْمَنِ بْنِ صَخْرٍ رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ عَبْدِ الرَّحْمَنِ بْنِ صَخْرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500100": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 10",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500110": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 11",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500120": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 12",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500130": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 13",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ خَادِمِ رَسُولِ اللَّهِ صلى الله عليه و سلم عَنْ النَّبِيِّ صلى الله عليه و سلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ خَادِمِ رَسُولِ اللَّهِ صلى الله عليه و سلم",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ النَّبِيِّ صلى الله عليه و سلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500140": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 14",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500150": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 15",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500160": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 16",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ أَنَّ رَجُلًا قَالَ لِلنَّبِيِّ صلى الله عليه و سلم أَوْصِنِي.",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْهُ أَنَّ رَجُلًا",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ لِلنَّبِيِّ صلى الله عليه و سلم أَوْصِنِي.",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "عَنْ",
+      "قَالَ",
+      "رَضِيَ"
+    ]
+  },
+  "1500170": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 17",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه و سلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه و سلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500180": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 18",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500190": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 19",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500200": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 20",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500210": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 21",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500220": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 22",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500230": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 23",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500240": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 24",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ عَنْ النَّبِيِّ صلى الله عليه و سلم فِيمَا يَرْوِيهِ عَنْ رَبِّهِ تَبَارَكَ وَتَعَالَى، أَنَّهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ النَّبِيِّ صلى الله عليه و سلم فِيمَا يَرْوِيهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ رَبِّهِ تَبَارَكَ وَتَعَالَى، أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500250": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 25",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ أَيْضًا، \"أَنَّ نَاسًا مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه و سلم قَالُوا لِلنَّبِيِّ صلى الله عليه و سلم يَا رَسُولَ اللَّهِ ذَهَبَ أَهْلُ الدُّثُورِ بِالْأُجُورِ؛ يُصَلُّونَ كَمَا نُصَلِّي، وَيَصُومُونَ كَمَا نَصُومُ، وَيَتَصَدَّقُونَ بِفُضُولِ أَمْوَالِهِمْ.",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ أَيْضًا، \"أَنَّ نَاسًا مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه و سلم قَالُوا لِلنَّبِيِّ صلى الله عليه و سلم يَا رَسُولَ اللَّهِ ذَهَبَ أَهْلُ الدُّثُورِ بِالْأُجُورِ؛ يُصَلُّونَ كَمَا نُصَلِّي، وَيَصُومُونَ كَمَا نَصُومُ، وَيَتَصَدَّقُونَ بِفُضُولِ أَمْوَالِهِمْ.",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500260": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 26",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500270": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 27",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ عَنْ النَّبِيِّ صلى الله عليه و سلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ النَّبِيِّ صلى الله عليه و سلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500280": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 28",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500290": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 29",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500300": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 30",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه و سلم قَال: \"إنَّ اللَّهَ تَعَالَى فَرَضَ فَرَائِضَ فَلَا تُضَيِّعُوهَا، وَحَدَّ حُدُودًا فَلَا تَعْتَدُوهَا، وَحَرَّمَ أَشْيَاءَ فَلَا تَنْتَهِكُوهَا، وَسَكَتَ عَنْ أَشْيَاءَ رَحْمَةً لَكُمْ غَيْرَ نِسْيَانٍ فَلَا تَبْحَثُوا عَنْهَا\". حَدِيثٌ حَسَنٌ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه و سلم قَال: \"إنَّ اللَّهَ تَعَالَى فَرَضَ فَرَائِضَ فَلَا تُضَيِّعُوهَا، وَحَدَّ حُدُودًا فَلَا تَعْتَدُوهَا، وَحَرَّمَ أَشْيَاءَ فَلَا تَنْتَهِكُوهَا، وَسَكَتَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَشْيَاءَ رَحْمَةً لَكُمْ غَيْرَ نِسْيَانٍ فَلَا تَبْحَثُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْهَا\". حَدِيثٌ حَسَنٌ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500310": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 31",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500320": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 32",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه و سلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500330": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 33",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500340": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 34",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500350": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 35",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500360": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 36",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللهُ عَنْهُ عَنْ النَّبِيِّ صلى الله عليه و سلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ النَّبِيِّ صلى الله عليه و سلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500370": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 37",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500380": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 38",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  },
+  "1500390": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 39",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500400": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 40",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500410": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 41",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": []
+  },
+  "1500420": {
+    "collection": "Forty Hadith of an-Nawawi",
+    "book": "Forty Hadith",
+    "book_num": "40",
+    "reference": "Reference: Forty Hadith of an-Nawawi Hadith 42",
+    "url": "https://sunnah.com/nawawi40",
+    "sanad_full": "رَضِيَ اللهُ عَنْهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "رَضِيَ اللهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "عَنْ",
+      "رَضِيَ"
+    ]
+  }
+}

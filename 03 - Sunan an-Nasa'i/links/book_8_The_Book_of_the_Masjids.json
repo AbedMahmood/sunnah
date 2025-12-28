@@ -1,0 +1,1316 @@
+{
+  "688": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 688\nIn-book reference  : Book 8, Hadith 1\nEnglish translation  : Vol. 1, Book 8, Hadith 689",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، قَالَ حَدَّثَنَا بَقِيَّةُ، عَنْ بَحِيرٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ كَثِيرِ بْنِ مُرَّةَ، عَنْ عَمْرِو بْنِ عَبَسَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَقِيَّةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بَحِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خَالِدِ بْنِ مَعْدَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ كَثِيرِ بْنِ مُرَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَمْرِو بْنِ عَبَسَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "689": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 689\nIn-book reference  : Book 8, Hadith 2\nEnglish translation  : Vol. 1, Book 8, Hadith 690",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَمَّادِ بْنِ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "691": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 691\nIn-book reference  : Book 8, Hadith 4\nEnglish translation  : Vol. 1, Book 8, Hadith 692",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ مَعْبَدِ بْنِ عَبَّاسٍ، أَنَّ مَيْمُونَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ مَنْ صَلَّى فِي مَسْجِدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ مَعْبَدِ بْنِ عَبَّاسٍ، أَنَّ مَيْمُونَةَ، زَوْجَ النَّبِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "693": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 693\nIn-book reference  : Book 8, Hadith 6\nEnglish translation  : Vol. 1, Book 8, Hadith 694",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا أَبُو مُسْهِرٍ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ، عَنْ رَبِيعَةَ بْنِ يَزِيدَ، عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ، عَنِ ابْنِ الدَّيْلَمِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مُسْهِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَبِيعَةَ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ، عَنِ ابْنِ الدَّيْلَمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "694": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 694\nIn-book reference  : Book 8, Hadith 7\nEnglish translation  : Vol. 1, Book 8, Hadith 695",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا كَثِيرُ بْنُ عُبَيْدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنِ الزُّبَيْدِيِّ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، وَأَبِي عَبْدِ اللَّهِ الأَغَرِّ، مَوْلَى الْجُهَنِيِّينَ وَكَانَا مِنْ أَصْحَابِ أَبِي هُرَيْرَةَ أَنَّهُمَا سَمِعَا أَبَا هُرَيْرَةَ يَقُولُ صَلاَةٌ فِي مَسْجِدِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَفْضَلُ مِنْ أَلْفِ صَلاَةٍ فِيمَا سِوَاهُ مِنَ الْمَسَاجِدِ إِلاَّ الْمَسْجِدَ الْحَرَامَ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم آخِرُ الأَنْبِيَاءِ وَمَسْجِدُهُ آخِرُ الْمَسَاجِدِ . قَالَ أَبُو سَلَمَةَ وَأَبُو عَبْدِ اللَّهِ لَمْ نَشُكَّ أَنَّ أَبَا هُرَيْرَةَ كَانَ يَقُولُ عَنْ حَدِيثِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَمُنِعْنَا أَنْ نَسْتَثْبِتَ أَبَا هُرَيْرَةَ فِي ذَلِكَ الْحَدِيثِ حَتَّى إِذَا تُوُفِّيَ أَبُو هُرَيْرَةَ ذَكَرْنَا ذَلِكَ وَتَلاَوَمْنَا أَنْ لاَ نَكُونَ كَلَّمْنَا أَبَا هُرَيْرَةَ فِي ذَلِكَ حَتَّى يُسْنِدَهُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم إِنْ كَانَ سَمِعَهُ مِنْهُ فَبَيْنَا نَحْنُ عَلَى ذَلِكَ جَالَسْنَا عَبْدَ اللَّهِ بْنَ إِبْرَاهِيمَ بْنِ قَارِظٍ فَذَكَرْنَا ذَلِكَ الْحَدِيثَ وَالَّذِي فَرَّطْنَا فِيهِ مِنْ نَصِّ أَبِي هُرَيْرَةَ فَقَالَ لَنَا عَبْدُ اللَّهِ بْنُ إِبْرَاهِيمَ أَشْهَدُ أَنِّي سَمِعْتُ أَبَا هُرَيْرَةَ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا كَثِيرُ بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنِ الزُّبَيْدِيِّ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، وَأَبِي عَبْدِ اللَّهِ الأَغَرِّ، مَوْلَى الْجُهَنِيِّي",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ حَدِيثِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَمُنِعْنَا أَنْ نَسْتَثْبِتَ أَبَا هُرَيْرَةَ فِي ذ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "695": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 695\nIn-book reference  : Book 8, Hadith 8\nEnglish translation  : Vol. 1, Book 8, Hadith 696",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبَّادِ بْنِ تَمِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "696": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 696\nIn-book reference  : Book 8, Hadith 9\nEnglish translation  : Vol. 1, Book 8, Hadith 697",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمَّارٍ الدُّهْنِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أُمِّ سَلَمَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمَّارٍ الدُّهْنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "697": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 697\nIn-book reference  : Book 8, Hadith 10\nEnglish translation  : Vol. 1, Book 8, Hadith 698",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ عِمْرَانَ بْنِ أَبِي أَنَسٍ، عَنِ ابْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنْ أَبِيهِ، قَالَ تَمَارَى رَجُلاَنِ فِي الْمَسْجِدِ الَّذِي أُسِّسَ عَلَى التَّقْوَى مِنْ أَوَّلِ يَوْمٍ فَقَالَ رَجُلٌ هُوَ مَسْجِدُ قُبَاءٍ وَقَالَ الآخَرُ هُوَ مَسْجِدُ رَسُولِ اللَّهِ صلى الله عليه وسلم . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ أَبِي أَنَسٍ، عَنِ ابْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ تَمَارَى رَجُلاَنِ فِي الْمَسْجِدِ الَّذِي أُسِّسَ عَلَى التَّقْوَى مِنْ أَوَّلِ يَوْمٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَجُلٌ هُوَ مَسْجِدُ قُبَاءٍ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ الآخَرُ هُوَ مَسْجِدُ رَسُولِ اللَّهِ صلى الله عليه وسلم . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "699": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 699\nIn-book reference  : Book 8, Hadith 12\nEnglish translation  : Vol. 1, Book 8, Hadith 700",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا مُجَمِّعُ بْنُ يَعْقُوبَ، عَنْ مُحَمَّدِ بْنِ سُلَيْمَانَ الْكِرْمَانِيِّ، قَالَ سَمِعْتُ أَبَا أُمَامَةَ بْنَ سَهْلِ بْنِ حُنَيْفٍ، قَالَ قَالَ أَبِي قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُجَمِّعُ بْنُ يَعْقُوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ سُلَيْمَانَ الْكِرْمَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ أَبَا أُمَامَةَ بْنَ سَهْلِ بْنِ حُنَيْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "700": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 700\nIn-book reference  : Book 8, Hadith 13\nEnglish translation  : Vol. 1, Book 8, Hadith 701",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "702": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 702\nIn-book reference  : Book 8, Hadith 15\nEnglish translation  : Vol. 1, Book 8, Hadith 703",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ لَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم نَزَلَ فِي عُرْضِ الْمَدِينَةِ فِي حَىٍّ يُقَالُ لَهُمْ بَنُو عَمْرِو بْنِ عَوْفٍ فَأَقَامَ فِيهِمْ أَرْبَعَ عَشْرَةَ لَيْلَةً ثُمَّ أَرْسَلَ إِلَى مَلإٍ مِنْ بَنِي النَّجَّارِ فَجَاءُوا مُتَقَلِّدِي سُيُوفِهِمْ كَأَنِّي أَنْظُرُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى رَاحِلَتِهِ وَأَبُو بَكْرٍ - رضى الله عنه - رَدِيفُهُ وَمَلأٌ مِنْ بَنِي النَّجَّارِ حَوْلَهُ حَتَّى أَلْقَى بِفِنَاءِ أَبِي أَيُّوبَ وَكَانَ يُصَلِّي حَيْثُ أَدْرَكَتْهُ الصَّلاَةُ فَيُصَلِّي فِي مَرَابِضِ الْغَنَمِ ثُمَّ أُمِرَ بِالْمَسْجِدِ فَأَرْسَلَ إِلَى مَلإٍ مِنْ بَنِي النَّجَّارِ فَجَاءُوا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم نَزَلَ فِي عُرْضِ الْمَدِينَةِ فِي حَىٍّ يُقَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "703": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 703\nIn-book reference  : Book 8, Hadith 16\nEnglish translation  : Vol. 1, Book 8, Hadith 704",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ مَعْمَرٍ، وَيُونُسَ، قَالاَ قَالَ الزُّهْرِيُّ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ، أَنَّ عَائِشَةَ، وَابْنَ، عَبَّاسٍ قَالاَ لَمَّا نُزِلَ بِرَسُولِ اللَّهِ صلى الله عليه وسلم فَطَفِقَ يَطْرَحُ خَمِيصَةً لَهُ عَلَى وَجْهِهِ فَإِذَا اغْتَمَّ كَشَفَهَا عَنْ وَجْهِهِ قَالَ وَهُوَ كَذَلِكَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "كَشَفَهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "وَجْهِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "كَذَلِكَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "704": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 704\nIn-book reference  : Book 8, Hadith 17\nEnglish translation  : Vol. 1, Book 8, Hadith 705",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، قَالَ حَدَّثَنِي أَبِي، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ، وَأُمَّ سَلَمَةَ ذَكَرَتَا كَنِيسَةً رَأَتَاهَا بِالْحَبَشَةِ فِيهَا تَصَاوِيرُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ، وَأُمَّ سَلَمَةَ ذَكَرَتَا كَنِيسَةً رَأَتَاهَا بِالْحَبَشَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "705": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 705\nIn-book reference  : Book 8, Hadith 18\nEnglish translation  : Vol. 1, Book 8, Hadith 706",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، قَالَ حَدَّثَنَا الأَسْوَدُ بْنُ الْعَلاَءِ بْنِ جَارِيَةَ الثَّقَفِيُّ، عَنْ أَبِي سَلَمَةَ، - هُوَ ابْنُ عَبْدِ الرَّحْمَنِ - عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا الأَسْوَدُ بْنُ الْعَلاَءِ بْنِ جَارِيَةَ الثَّقَفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ، - هُوَ ابْنُ عَبْدِ الرَّحْمَنِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "706": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 706\nIn-book reference  : Book 8, Hadith 19\nEnglish translation  : Vol. 1, Book 8, Hadith 707",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "709": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 709\nIn-book reference  : Book 8, Hadith 22\nEnglish translation  : Vol. 1, Book 8, Hadith 710",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا يَعْلَى، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَرَادَ أَنْ يَعْتَكِفَ صَلَّى الصُّبْحَ ثُمَّ دَخَلَ فِي الْمَكَانِ الَّذِي يُرِيدُ أَنْ يَعْتَكِفَ فِيهِ فَأَرَادَ أَنْ يَعْتَكِفَ الْعَشْرَ الأَوَاخِرَ مِنْ رَمَضَانَ فَأَمَرَ فَضُرِبَ لَهُ خِبَاءٌ وَأَمَرَتْ حَفْصَةُ فَضُرِبَ لَهَا خِبَاءٌ فَلَمَّا رَأَتْ زَيْنَبُ خِبَاءَهَا أَمَرَتْ فَضُرِبَ لَهَا خِبَاءٌ فَلَمَّا رَأَى ذَلِكَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَرَادَ أَنْ يَعْتَكِفَ صَلَّى الصُّبْحَ ثُمّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "716": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 716\nIn-book reference  : Book 8, Hadith 29\nEnglish translation  : Vol. 1, Book 8, Hadith 717",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، قَالَ مَرَّ عُمَرُ بِحَسَّانَ بْنِ ثَابِتٍ وَهُوَ يُنْشِدُ فِي الْمَسْجِدِ فَلَحَظَ إِلَيْهِ فَقَالَ قَدْ أَنْشَدْتُ وَفِيهِ مَنْ هُوَ خَيْرٌ مِنْكَ ثُمَّ الْتَفَتَ إِلَى أَبِي هُرَيْرَةَ فَقَالَ أَسَمِعْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ مَرَّ عُمَرُ بِحَسَّانَ بْنِ ثَابِتٍ وَهُوَ يُنْشِدُ فِي الْمَسْجِدِ فَلَحَظَ إِلَيْهِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قَدْ أَنْشَدْتُ وَفِيهِ مَنْ هُوَ خَيْرٌ مِنْكَ ثُمَّ الْتَفَتَ إِلَى أَبِي هُرَيْرَةَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "717": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 717\nIn-book reference  : Book 8, Hadith 30\nEnglish translation  : Vol. 1, Book 8, Hadith 718",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ وَهْبٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ أَبِي عَبْدِ الرَّحِيمِ، قَالَ حَدَّثَنِي زَيْدُ بْنُ أَبِي أُنَيْسَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ جَاءَ رَجُلٌ يَنْشُدُ ضَالَّةً فِي الْمَسْجِدِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي عَبْدِ الرَّحِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي زَيْدُ بْنُ أَبِي أُنَيْسَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ جَاءَ رَجُلٌ يَنْشُدُ ضَالَّةً فِي الْمَسْجِدِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "718": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 718\nIn-book reference  : Book 8, Hadith 31\nEnglish translation  : Vol. 1, Book 8, Hadith 719",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْمِسْوَرِ الزُّهْرِيُّ، - بَصْرِيٌّ - وَمُحَمَّدُ بْنُ مَنْصُورٍ قَالاَ حَدَّثَنَا سُفْيَانُ، قَالَ قُلْتُ لِعَمْرٍو أَسَمِعْتَ جَابِرًا يَقُولُ مَرَّ رَجُلٌ بِسِهَامٍ فِي الْمَسْجِدِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ قُلْتُ لِعَمْرٍو أَسَمِعْتَ جَابِرًا يَقُولُ مَرَّ رَجُلٌ بِسِهَامٍ فِي الْمَسْجِدِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "723": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 723\nIn-book reference  : Book 8, Hadith 36\nEnglish translation  : Vol. 1, Book 8, Hadith 724",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "724": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 724\nIn-book reference  : Book 8, Hadith 37\nEnglish translation  : Vol. 1, Book 8, Hadith 725",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى بُصَاقًا فِي جِدَارِ الْقِبْلَةِ فَحَكَّهُ ثُمَّ أَقْبَلَ عَلَى النَّاسِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى بُصَاقًا فِي جِدَارِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "725": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 725\nIn-book reference  : Book 8, Hadith 38\nEnglish translation  : Vol. 1, Book 8, Hadith 726",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى نُخَامَةً فِي قِبْلَةِ الْمَسْجِدِ فَحَكَّهَا بِحَصَاةٍ وَنَهَى أَنْ يَبْصُقَ الرَّجُلُ بَيْنَ يَدَيْهِ أَوْ عَنْ يَمِينِهِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى نُخَامَةً فِي قِبْلَةِ ال",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَمِينِهِ وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "726": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 726\nIn-book reference  : Book 8, Hadith 39\nEnglish translation  : Vol. 1, Book 8, Hadith 727",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي مَنْصُورٌ، عَنْ رِبْعِيٍّ، عَنْ طَارِقِ بْنِ عَبْدِ اللَّهِ الْمُحَارِبِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي مَنْصُورٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رِبْعِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ طَارِقِ بْنِ عَبْدِ اللَّهِ الْمُحَارِبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "728": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 728\nIn-book reference  : Book 8, Hadith 41\nEnglish translation  : Vol. 1, Book 8, Hadith 729",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَائِذُ بْنُ حَبِيبٍ، قَالَ حَدَّثَنَا حُمَيْدٌ الطَّوِيلُ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ رَأَى رَسُولُ اللَّهِ صلى الله عليه وسلم نُخَامَةً فِي قِبْلَةِ الْمَسْجِدِ فَغَضِبَ حَتَّى احْمَرَّ وَجْهُهُ فَقَامَتِ امْرَأَةٌ مِنَ الأَنْصَارِ فَحَكَّتْهَا وَجَعَلَتْ مَكَانَهَا خَلُوقًا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَائِذُ بْنُ حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حُمَيْدٌ الطَّوِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَأَى رَسُولُ اللَّهِ صلى الله عليه وسلم نُخَامَةً فِي قِبْلَةِ الْمَسْجِدِ فَغَضِبَ حَتَّى اح",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "729": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 729\nIn-book reference  : Book 8, Hadith 42\nEnglish translation  : Vol. 1, Book 8, Hadith 730",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا سُلَيْمَانُ بْنُ عُبَيْدِ اللَّهِ الْغَيْلاَنِيُّ، - بَصْرِيٌّ - قَالَ حَدَّثَنَا أَبُو عَامِرٍ، قَالَ حَدَّثَنَا سُلَيْمَانُ، عَنْ رَبِيعَةَ، عَنْ عَبْدِ الْمَلِكِ بْنِ سَعِيدٍ، قَالَ سَمِعْتُ أَبَا حُمَيْدٍ، وَأَبَا، أُسَيْدٍ يَقُولاَنِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُلَيْمَانُ بْنُ عُبَيْدِ اللَّهِ الْغَيْلاَنِيُّ، - بَصْرِيٌّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولاَنِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "730": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 730\nIn-book reference  : Book 8, Hadith 43\nEnglish translation  : Vol. 1, Book 8, Hadith 731",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ عَمْرِو بْنِ سُلَيْمِ، عَنْ أَبِي قَتَادَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمْرِو بْنِ سُلَيْمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي قَتَادَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "733": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 733\nIn-book reference  : Book 8, Hadith 46\nEnglish translation  : Vol. 1, Book 8, Hadith 734",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "734": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 734\nIn-book reference  : Book 8, Hadith 47\nEnglish translation  : Vol. 1, Book 8, Hadith 735",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا بَكْرُ بْنُ مُضَرَ، عَنْ عَيَّاشِ بْنِ عُقْبَةَ، أَنَّ يَحْيَى بْنَ مَيْمُونٍ، حَدَّثَهُ قَالَ سَمِعْتُ سَهْلاً السَّاعِدِيَّ، - رضى الله عنه - يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بَكْرُ بْنُ مُضَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "736": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of the Masjids",
+    "book_num": "8",
+    "reference": "Reference  : Sunan an-Nasa'i 736\nIn-book reference  : Book 8, Hadith 49\nEnglish translation  : Vol. 1, Book 8, Hadith 737",
+    "url": "https://sunnah.com/nasai/8",
+    "sanad_full": "أَخْبَرَنَا الْحَسَنُ بْنُ إِسْمَاعِيلَ بْنِ سُلَيْمَانَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ حَدَّثَنَا سَيَّارٌ، عَنْ يَزِيدَ الْفَقِيرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحَسَنُ بْنُ إِسْمَاعِيلَ بْنِ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَيَّارٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَزِيدَ الْفَقِيرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "1902520": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "Story Telling Of Rasoolullah At Night",
+    "book_num": "37",
+    "reference": "Reference  : Shama'il Muhammadiyah 1902520\nIn-book reference  : Book 37, Hadith 001\nEnglish translation  : Vol. 1, Book 37, Hadith 001",
+    "url": "https://sunnah.com/shamail/37",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ صَبَّاحٍ الْبَزَّارُ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ صَبَّاحٍ الْبَزَّارُ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  }
+}

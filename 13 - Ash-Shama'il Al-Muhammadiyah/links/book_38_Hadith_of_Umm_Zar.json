@@ -1,0 +1,21 @@
+{
+  "1902530": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "Hadith of Umm Zar`",
+    "book_num": "38",
+    "reference": "Reference  : Shama'il Muhammadiyah 1902530\nIn-book reference  : Book 38, Hadith 001\nEnglish translation  : Vol. 1, Book 38, Hadith 001",
+    "url": "https://sunnah.com/shamail/38",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "1902040": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "Description Of The Things Rasoolullah Drank",
+    "book_num": "30",
+    "reference": "Reference  : Shama'il Muhammadiyah 1902040\nIn-book reference  : Book 30, Hadith 001\nEnglish translation  : Vol. 1, Book 30, Hadith 001",
+    "url": "https://sunnah.com/shamail/30",
+    "sanad_full": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "1902050": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "Description Of The Things Rasoolullah Drank",
+    "book_num": "30",
+    "reference": "Reference  : Shama'il Muhammadiyah 1902050\nIn-book reference  : Book 30, Hadith 002\nEnglish translation  : Vol. 1, Book 30, Hadith 002",
+    "url": "https://sunnah.com/shamail/30",
+    "sanad_full": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  }
+}

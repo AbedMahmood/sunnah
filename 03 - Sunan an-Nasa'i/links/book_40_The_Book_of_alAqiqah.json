@@ -1,0 +1,285 @@
+{
+  "4214": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of al-'Aqiqah",
+    "book_num": "40",
+    "reference": "Reference  : Sunan an-Nasa'i 4214\nIn-book reference  : Book 40, Hadith 3\nEnglish translation  : Vol. 5, Book 40, Hadith 4219",
+    "url": "https://sunnah.com/nasai/40",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَفَّانُ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنَا أَيُّوبُ، وَحَبِيبٌ، وَيُونُسُ، وَقَتَادَةُ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ سَلْمَانَ بْنِ عَامِرٍ الضَّبِّيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَفَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا أَيُّوبُ، وَحَبِيبٌ، وَيُونُسُ، وَقَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ سَلْمَانَ بْنِ عَامِرٍ الضَّبِّيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4215": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of al-'Aqiqah",
+    "book_num": "40",
+    "reference": "Reference  : Sunan an-Nasa'i 4215\nIn-book reference  : Book 40, Hadith 4\nEnglish translation  : Vol. 5, Book 40, Hadith 4220",
+    "url": "https://sunnah.com/nasai/40",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا عَفَّانُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ قَيْسِ بْنِ سَعْدٍ، عَنْ عَطَاءٍ، وَطَاوُسٍ، وَمُجَاهِدٍ، عَنْ أُمِّ كُرْزٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَفَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَيْسِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَطَاءٍ، وَطَاوُسٍ، وَمُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أُمِّ كُرْزٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4216": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of al-'Aqiqah",
+    "book_num": "40",
+    "reference": "Reference  : Sunan an-Nasa'i 4216\nIn-book reference  : Book 40, Hadith 5\nEnglish translation  : Vol. 5, Book 40, Hadith 4221",
+    "url": "https://sunnah.com/nasai/40",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ قَالَ عَمْرٌو عَنْ عَطَاءٍ، عَنْ حَبِيبَةَ بِنْتِ مَيْسَرَةَ، عَنْ أُمِّ كُرْزٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَمْرٌو",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ حَبِيبَةَ بِنْتِ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أُمِّ كُرْزٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4217": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of al-'Aqiqah",
+    "book_num": "40",
+    "reference": "Reference  : Sunan an-Nasa'i 4217\nIn-book reference  : Book 40, Hadith 6\nEnglish translation  : Vol. 5, Book 40, Hadith 4222",
+    "url": "https://sunnah.com/nasai/40",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ، - وَهُوَ ابْنُ أَبِي يَزِيدَ - عَنْ سِبَاعِ بْنِ ثَابِتٍ، عَنْ أُمِّ كُرْزٍ، قَالَتْ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم بِالْحُدَيْبِيَةِ أَسْأَلُهُ عَنْ لُحُومِ الْهَدْىِ فَسَمِعْتُهُ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ، - وَهُوَ ابْنُ أَبِي يَزِيدَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سِبَاعِ بْنِ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّ كُرْزٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَسْأَلُهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4218": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of al-'Aqiqah",
+    "book_num": "40",
+    "reference": "Reference  : Sunan an-Nasa'i 4218\nIn-book reference  : Book 40, Hadith 7\nEnglish translation  : Vol. 5, Book 40, Hadith 4223",
+    "url": "https://sunnah.com/nasai/40",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، قَالَ حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ أَبِي يَزِيدَ، عَنْ سِبَاعِ بْنِ ثَابِتٍ، عَنْ أُمِّ كُرْزٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ أَبِي يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سِبَاعِ بْنِ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أُمِّ كُرْزٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4220": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of al-'Aqiqah",
+    "book_num": "40",
+    "reference": "Reference  : Sunan an-Nasa'i 4220\nIn-book reference  : Book 40, Hadith 9\nEnglish translation  : Vol. 5, Book 40, Hadith 4225",
+    "url": "https://sunnah.com/nasai/40",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، وَمُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالاَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - عَنْ سَعِيدٍ، أَنْبَأَنَا قَتَادَةُ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدٍ، أَنْبَأَنَا قَتَادَةُ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَمُرَةَ بْنِ جُنْدُبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

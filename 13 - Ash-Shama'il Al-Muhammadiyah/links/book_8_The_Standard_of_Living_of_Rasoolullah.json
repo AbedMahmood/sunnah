@@ -1,0 +1,50 @@
+{
+  "1900710": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Standard of Living of Rasoolullah",
+    "book_num": "8",
+    "reference": "Reference  : Shama'il Muhammadiyah 1900710\nIn-book reference  : Book 8, Hadith 001\nEnglish translation  : Vol. 1, Book 8, Hadith 001",
+    "url": "https://sunnah.com/shamail/8b",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حماد بن زيد , عن أيوب , عن محمد بن سيرين , قال: كُنَّا عِنْدَ أَبِى هُرَيْرَةَ رضي الله عنه وَعَلَيْهِ ثَوْبَانِ مُمَشَّقَانِ مِنْ كَتَّان فَتَمَخَّطَ في أحدهما. فَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حماد بن زيد , عن أيوب , عن محمد بن سيرين , قال: كُنَّا عِنْدَ أَبِى هُرَيْرَةَ رضي الله ع",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "1900720": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Standard of Living of Rasoolullah",
+    "book_num": "8",
+    "reference": "Reference  : Shama'il Muhammadiyah 1900720\nIn-book reference  : Book 8, Hadith 002\nEnglish translation  : Vol. 1, Book 8, Hadith 002",
+    "url": "https://sunnah.com/shamail/8b",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حماد بن زيد , عن أيوب , عن محمد بن سيرين , قال: كُنَّا عِنْدَ أَبِى هُرَيْرَةَ رضي الله عنه وَعَلَيْهِ ثَوْبَانِ مُمَشَّقَانِ مِنْ كَتَّان فَتَمَخَّطَ في أحدهما. فَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حماد بن زيد , عن أيوب , عن محمد بن سيرين , قال: كُنَّا عِنْدَ أَبِى هُرَيْرَةَ رضي الله ع",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  }
+}

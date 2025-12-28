@@ -1,0 +1,378 @@
+{
+  "1086": {
+    "collection": "Sahih Bukhari",
+    "book": "Shortening the Prayers (At-Taqseer)",
+    "book_num": "18",
+    "reference": "Reference  : Sahih al-Bukhari 1086\nIn-book reference  : Book 18, Hadith 7\nUSC-MSA web (English) reference  : Vol. 2, Book 20, Hadith 192\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/18",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، قَالَ قُلْتُ لأَبِي أُسَامَةَ حَدَّثَكُمْ عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ قُلْتُ لأَبِي أُسَامَةَ حَدَّثَكُمْ عُبَيْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1087": {
+    "collection": "Sahih Bukhari",
+    "book": "Shortening the Prayers (At-Taqseer)",
+    "book_num": "18",
+    "reference": "Reference  : Sahih al-Bukhari 1087\nIn-book reference  : Book 18, Hadith 8\nUSC-MSA web (English) reference  : Vol. 2, Book 20, Hadith 193\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/18",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1088": {
+    "collection": "Sahih Bukhari",
+    "book": "Shortening the Prayers (At-Taqseer)",
+    "book_num": "18",
+    "reference": "Reference  : Sahih al-Bukhari 1088\nIn-book reference  : Book 18, Hadith 9\nUSC-MSA web (English) reference  : Vol. 2, Book 20, Hadith 194\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/18",
+    "sanad_full": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، قَالَ حَدَّثَنَا سَعِيدٌ الْمَقْبُرِيُّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا آدَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ الْمَقْبُرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1113": {
+    "collection": "Sahih Bukhari",
+    "book": "Shortening the Prayers (At-Taqseer)",
+    "book_num": "18",
+    "reference": "Reference  : Sahih al-Bukhari 1113\nIn-book reference  : Book 18, Hadith 33\nUSC-MSA web (English) reference  : Vol. 2, Book 20, Hadith 214\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/18",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّهَا قَالَتْ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي بَيْتِهِ وَهْوَ شَاكٍ، فَصَلَّى جَالِسًا وَصَلَّى وَرَاءَهُ قَوْمٌ قِيَامًا، فَأَشَارَ إِلَيْهِمْ أَنِ اجْلِسُوا، فَلَمَّا انْصَرَفَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "انْصَرَفَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1114": {
+    "collection": "Sahih Bukhari",
+    "book": "Shortening the Prayers (At-Taqseer)",
+    "book_num": "18",
+    "reference": "Reference  : Sahih al-Bukhari 1114\nIn-book reference  : Book 18, Hadith 34\nUSC-MSA web (English) reference  : Vol. 2, Book 20, Hadith 215\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/18",
+    "sanad_full": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا ابْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ سَقَطَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ فَرَسٍ فَخُدِشَ ـ أَوْ فَجُحِشَ ـ شِقُّهُ الأَيْمَنُ، فَدَخَلْنَا عَلَيْهِ نَعُودُهُ، فَحَضَرَتِ الصَّلاَةُ فَصَلَّى قَاعِدًا فَصَلَّيْنَا قُعُودًا وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَقَطَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ فَرَسٍ فَخُدِشَ ـ أَوْ فَجُحِشَ ـ شِقُّهُ الأَي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1115": {
+    "collection": "Sahih Bukhari",
+    "book": "Shortening the Prayers (At-Taqseer)",
+    "book_num": "18",
+    "reference": "Reference  : Sahih al-Bukhari 1115\nIn-book reference  : Book 18, Hadith 35\nUSC-MSA web (English) reference  : Vol. 2, Book 20, Hadith 216\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/18",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ، أَخْبَرَنَا حُسَيْنٌ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ ـ رضى الله عنه ـ أَنَّهُ سَأَلَ نَبِيَّ اللَّهِ صلى الله عليه وسلم. أَخْبَرَنَا إِسْحَاقُ قَالَ أَخْبَرَنَا عَبْدُ الصَّمَدِ قَالَ سَمِعْتُ أَبِي قَالَ حَدَّثَنَا الْحُسَيْنُ عَنِ ابْنِ بُرَيْدَةَ قَالَ حَدَّثَنِي عِمْرَانُ بْنُ حُصَيْنٍ ـ وَكَانَ مَبْسُورًا ـ قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَةِ الرَّجُلِ قَاعِدًا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا حُسَيْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ ـ رضى الله عنه ـ أَنَّهُ سَأَلَ نَبِيَّ اللَّهِ صلى الله عليه وسلم.",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "إِسْحَاقُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "الصَّمَدِ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "بُرَيْدَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "حَدَّثَنِي عِمْرَانُ بْنُ حُصَيْنٍ ـ وَكَانَ مَبْسُورًا ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 16,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 17,
+        "arabic_name": "عَنْ صَلاَةِ الرَّجُلِ قَاعِدًا فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 12,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1116": {
+    "collection": "Sahih Bukhari",
+    "book": "Shortening the Prayers (At-Taqseer)",
+    "book_num": "18",
+    "reference": "Reference  : Sahih al-Bukhari 1116\nIn-book reference  : Book 18, Hadith 36\nUSC-MSA web (English) reference  : Vol. 2, Book 20, Hadith 217\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/18",
+    "sanad_full": "حَدَّثَنَا أَبُو مَعْمَرٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، أَنَّ عِمْرَانَ بْنَ حُصَيْنٍ ـ وَكَانَ رَجُلاً مَبْسُورًا ـ وَقَالَ أَبُو مَعْمَرٍ مَرَّةً عَنْ عِمْرَانَ، قَالَ سَأَلْتُ النَّبِيَّ صلى الله عليه وسلم عَنْ صَلاَةِ الرَّجُلِ وَهْوَ قَاعِدٌ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، أَنَّ عِمْرَانَ بْنَ حُصَيْنٍ ـ وَكَانَ رَجُلاً مَبْسُورًا ـ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "مَرَّةً",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عِمْرَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ سَأَلْتُ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ صَلاَةِ الرَّجُلِ وَهْوَ قَاعِدٌ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1117": {
+    "collection": "Sahih Bukhari",
+    "book": "Shortening the Prayers (At-Taqseer)",
+    "book_num": "18",
+    "reference": "Reference  : Sahih al-Bukhari 1117\nIn-book reference  : Book 18, Hadith 37\nUSC-MSA web (English) reference  : Vol. 2, Book 20, Hadith 218\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/18",
+    "sanad_full": "حَدَّثَنَا عَبْدَانُ، عَنْ عَبْدِ اللَّهِ، عَنْ إِبْرَاهِيمَ بْنِ طَهْمَانَ، قَالَ حَدَّثَنِي الْحُسَيْنُ الْمُكْتِبُ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ ـ رضى الله عنه ـ قَالَ كَانَتْ بِي بَوَاسِيرُ فَسَأَلْتُ النَّبِيَّ صلى الله عليه وسلم عَنِ الصَّلاَةِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ طَهْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي الْحُسَيْنُ الْمُكْتِبُ، عَنِ ابْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كَانَتْ بِي بَوَاسِيرُ فَسَأَلْتُ النَّبِيَّ صلى الله عليه وسلم عَنِ الصَّلاَةِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

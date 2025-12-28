@@ -1,0 +1,811 @@
+{
+  "4161": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4161\nIn-book reference  : Book 35, Hadith 3\nEnglish translation  : Book 34, Hadith 4149",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا النُّفَيْلِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أُمَامَةَ، عَنْ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ، عَنْ أَبِي أُمَامَةَ، قَالَ ذَكَرَ أَصْحَابُ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمًا عِنْدَهُ الدُّنْيَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا النُّفَيْلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي أُمَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ ذَكَرَ أَصْحَابُ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمًا عِنْدَهُ الدُّنْيَا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4163": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4163\nIn-book reference  : Book 35, Hadith 5\nEnglish translation  : Book 34, Hadith 4151",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي ابْنُ أَبِي الزِّنَادِ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي ابْنُ أَبِي الزِّنَادِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4165": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4165\nIn-book reference  : Book 35, Hadith 7\nEnglish translation  : Book 34, Hadith 4153",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَتْنِي غِبْطَةُ بِنْتُ عَمْرٍو الْمُجَاشِعِيَّةُ، قَالَتْ حَدَّثَتْنِي عَمَّتِي أُمُّ الْحَسَنِ، عَنْ جَدَّتِهَا، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ هِنْدًا بِنْتَ عُتْبَةَ، قَالَتْ يَا نَبِيَّ اللَّهِ بَايِعْنِي . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَتْنِي غِبْطَةُ بِنْتُ عَمْرٍو الْمُجَاشِعِيَّةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَتْ حَدَّثَتْنِي عَمَّتِي أُمُّ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جَدَّتِهَا،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَائِشَةَ، رضى الله عنها أَنَّ هِنْدًا بِنْتَ عُتْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ يَا نَبِيَّ اللَّهِ بَايِعْنِي .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4167": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4167\nIn-book reference  : Book 35, Hadith 9\nEnglish translation  : Book 34, Hadith 4155",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُ سَمِعَ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ، عَامَ حَجَّ وَهُوَ عَلَى الْمِنْبَرِ وَتَنَاوَلَ قُصَّةً مِنْ شَعْرٍ كَانَتْ فِي يَدِ حَرَسِيٍّ يَقُولُ يَا أَهْلَ الْمَدِينَةِ أَيْنَ عُلَمَاؤُكُمْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنْ مِثْلِ هَذِهِ وَيَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَنْهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "وَيَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "4172": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4172\nIn-book reference  : Book 35, Hadith 14\nEnglish translation  : Book 34, Hadith 4160",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، وَهَارُونُ بْنُ عَبْدِ اللَّهِ، - الْمَعْنَى - أَنَّ أَبَا عَبْدِ الرَّحْمَنِ الْمُقْرِئَ، حَدَّثَهُمْ عَنْ سَعِيدِ بْنِ أَبِي أَيُّوبَ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4173": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4173\nIn-book reference  : Book 35, Hadith 15\nEnglish translation  : Book 34, Hadith 4161",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، أَخْبَرَنَا ثَابِتُ بْنُ عُمَارَةَ، حَدَّثَنِي غُنَيْمُ بْنُ قَيْسٍ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا ثَابِتُ بْنُ عُمَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي غُنَيْمُ بْنُ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4174": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4174\nIn-book reference  : Book 35, Hadith 16\nEnglish translation  : Book 34, Hadith 4162",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ، عَنْ عُبَيْدِ اللَّهِ، مَوْلَى أَبِي رُهْمٍ عَنْ أَبِي هُرَيْرَةَ، قَالَ لَقِيَتْهُ امْرَأَةٌ وَجَدَ مِنْهَا رِيحَ الطِّيبِ يُنْفَحُ وَلِذَيْلِهَا إِعْصَارٌ فَقَالَ يَا أَمَةَ الْجَبَّارِ جِئْتِ مِنَ الْمَسْجِدِ قَالَتْ نَعَمْ . قَالَ وَلَهُ تَطَيَّبْتِ قَالَتْ نَعَمْ . قَالَ إِنِّي سَمِعْتُ حِبِّي أَبَا الْقَاسِمِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "رُهْمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لَقِيَتْهُ امْرَأَةٌ وَجَدَ مِنْهَا رِيحَ الطِّيبِ يُنْفَحُ وَلِذَيْلِهَا إِعْصَارٌ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْمَسْجِدِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ نَعَمْ .",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "تَطَيَّبْتِ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَتْ نَعَمْ .",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4178": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4178\nIn-book reference  : Book 35, Hadith 20\nEnglish translation  : Book 34, Hadith 4166",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ الأَسَدِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ حَرْبٍ الأَسَدِيُّ، حَدَّثَنَا أَبُو جَعْفَرٍ الرَّازِيُّ، عَنِ الرَّبِيعِ بْنِ أَنَسٍ، عَنْ جَدَّيْهِ، قَالاَ سَمِعْنَا أَبَا مُوسَى، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ الأَسَدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ حَرْبٍ الأَسَدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو جَعْفَرٍ الرَّازِيُّ، عَنِ الرَّبِيعِ بْنِ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4180": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4180\nIn-book reference  : Book 35, Hadith 22\nEnglish translation  : Book 34, Hadith 4168",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ الأُوَيْسِيُّ، حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ ثَوْرِ بْنِ زَيْدٍ، عَنِ الْحَسَنِ بْنِ أَبِي الْحَسَنِ، عَنْ عَمَّارِ بْنِ يَاسِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ الأُوَيْسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ ثَوْرِ بْنِ زَيْدٍ، عَنِ الْحَسَنِ بْنِ أَبِي الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمَّارِ بْنِ يَاسِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4182": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4182\nIn-book reference  : Book 35, Hadith 24\nEnglish translation  : Book 34, Hadith 4170",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، حَدَّثَنَا سَلْمٌ الْعَلَوِيُّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَجُلاً، دَخَلَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَعَلَيْهِ أَثَرُ صُفْرَةٍ - وَكَانَ النَّبِيُّ صلى الله عليه وسلم قَلَّمَا يُوَاجِهُ رَجُلاً فِي وَجْهِهِ بِشَىْءٍ يَكْرَهُهُ - فَلَمَّا خَرَجَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَلْمٌ الْعَلَوِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "خَرَجَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4195": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4195\nIn-book reference  : Book 35, Hadith 37\nEnglish translation  : Book 34, Hadith 4183",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى صَبِيًّا قَدْ حُلِقَ بَعْضُ شَعْرِهِ وَتُرِكَ بَعْضُهُ فَنَهَاهُمْ عَنْ ذَلِكَ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فَنَهَاهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ ذَلِكَ وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4197": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4197\nIn-book reference  : Book 35, Hadith 39\nEnglish translation  : Book 34, Hadith 4185",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا الْحَجَّاجُ بْنُ حَسَّانَ، قَالَ دَخَلْنَا عَلَى أَنَسِ بْنِ مَالِكٍ فَحَدَّثَتْنِي أُخْتِي الْمُغِيرَةُ، قَالَتْ وَأَنْتَ يَوْمَئِذٍ غُلاَمٌ وَلَكَ قَرْنَانِ أَوْ قُصَّتَانِ فَمَسَحَ رَأْسَكَ وَبَرَّكَ عَلَيْكَ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْحَجَّاجُ بْنُ حَسَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ دَخَلْنَا عَلَى أَنَسِ بْنِ مَالِكٍ فَحَدَّثَتْنِي أُخْتِي الْمُغِيرَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ وَأَنْتَ يَوْمَئِذٍ غُلاَمٌ وَلَكَ قَرْنَانِ أَوْ قُصَّتَانِ فَمَسَحَ رَأْسَكَ وَبَرَّكَ عَل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "4198": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4198\nIn-book reference  : Book 35, Hadith 40\nEnglish translation  : Book 34, Hadith 4186",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "4203": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4203\nIn-book reference  : Book 35, Hadith 45\nEnglish translation  : Book 34, Hadith 4191",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، وَسُلَيْمَانَ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ، وَسُلَيْمَانَ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4204": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4204\nIn-book reference  : Book 35, Hadith 46\nEnglish translation  : Book 34, Hadith 4192",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، وَأَحْمَدُ بْنُ سَعِيدٍ الْهَمْدَانِيُّ، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ أُتِيَ بِأَبِي قُحَافَةَ يَوْمَ فَتْحِ مَكَّةَ وَرَأْسُهُ وَلِحْيَتُهُ كَالثَّغَامَةِ بَيَاضًا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أُتِيَ بِأَبِي قُحَافَةَ يَوْمَ فَتْحِ مَكَّةَ وَرَأْسُهُ وَلِحْيَتُهُ كَالثَّغَامَةِ بَيَاضًا",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4205": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4205\nIn-book reference  : Book 35, Hadith 47\nEnglish translation  : Book 34, Hadith 4193",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ سَعِيدٍ الْجُرَيْرِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ الْجُرَيْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4207": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4207\nIn-book reference  : Book 35, Hadith 49\nEnglish translation  : Book 34, Hadith 4195",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا ابْنُ إِدْرِيسَ، قَالَ سَمِعْتُ ابْنَ أَبْجَرَ، عَنْ إِيَادِ بْنِ لَقِيطٍ، عَنْ أَبِي رِمْثَةَ، فِي هَذَا الْخَبَرِ قَالَ فَقَالَ لَهُ أَبِي أَرِنِي هَذَا الَّذِي بِظَهْرِكَ فَإِنِّي رَجُلٌ طَبِيبٌ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ إِدْرِيسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ سَمِعْتُ ابْنَ أَبْجَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِيَادِ بْنِ لَقِيطٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْخَبَرِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَهُ أَبِي أَرِنِي هَذَا الَّذِي بِظَهْرِكَ فَإِنِّي رَجُلٌ طَبِيبٌ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4212": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Combing the Hair (Kitab Al-Tarajjul)",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Abi Dawud 4212\nIn-book reference  : Book 35, Hadith 54\nEnglish translation  : Book 34, Hadith 4200",
+    "url": "https://sunnah.com/abudawud/35",
+    "sanad_full": "حَدَّثَنَا أَبُو تَوْبَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ عَبْدِ الْكَرِيمِ الْجَزَرِيِّ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو تَوْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْكَرِيمِ الْجَزَرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

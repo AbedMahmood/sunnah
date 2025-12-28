@@ -1,0 +1,5873 @@
+{
+  "5040": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5040\nIn-book reference  : Book 48, Hadith 1\nEnglish translation  : Vol. 6, Book 48, Hadith 5043",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا وَكِيعٌ، قَالَ حَدَّثَنَا زَكَرِيَّا بْنُ أَبِي زَائِدَةَ، عَنْ مُصْعَبِ بْنِ شَيْبَةَ، عَنْ طَلْقِ بْنِ حَبِيبٍ، عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا زَكَرِيَّا بْنُ أَبِي زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُصْعَبِ بْنِ شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ طَلْقِ بْنِ حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5043": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5043\nIn-book reference  : Book 48, Hadith 4\nEnglish translation  : Vol. 6, Book 48, Hadith 5046",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، عَنْ بِشْرٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِسْحَاقَ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5045": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5045\nIn-book reference  : Book 48, Hadith 6\nEnglish translation  : Vol. 6, Book 48, Hadith 5048",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَلْقَمَةَ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَلْقَمَةَ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5046": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5046\nIn-book reference  : Book 48, Hadith 7\nEnglish translation  : Vol. 6, Book 48, Hadith 5049",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَلْقَمَةَ، قَالَ سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَلْقَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "5047": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5047\nIn-book reference  : Book 48, Hadith 8\nEnglish translation  : Vol. 6, Book 48, Hadith 5050",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ يُوسُفَ بْنَ صُهَيْبٍ، يُحَدِّثُ عَنْ حَبِيبِ بْنِ يَسَارٍ، عَنْ زَيْدِ بْنِ أَرْقَمَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْمُعْتَمِرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حَبِيبِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ زَيْدِ بْنِ أَرْقَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5048": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5048\nIn-book reference  : Book 48, Hadith 9\nEnglish translation  : Vol. 6, Book 48, Hadith 5051",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى صَبِيًّا حَلَقَ بَعْضَ رَأْسِهِ وَتَرَكَ بَعْضَ فَنَهَى عَنْ ذَلِكَ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَنْبَأَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "فَنَهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ ذَلِكَ وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5050": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5050\nIn-book reference  : Book 48, Hadith 11\nEnglish translation  : Vol. 6, Book 48, Hadith 5053",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنِي عِمْرَانُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ أَبِي الرِّجَالِ، عَنْ عُمَرَ بْنِ نَافِعٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي عِمْرَانُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ أَبِي الرِّجَالِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُمَرَ بْنِ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5065": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5065\nIn-book reference  : Book 48, Hadith 26\nEnglish translation  : Vol. 6, Book 48, Hadith 5068",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ الْمُسْتَمِرِ الْعُرُوقِيُّ، قَالَ حَدَّثَنَا الصَّلْتُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا غَسَّانُ بْنُ الأَغَرِّ بْنِ حُصَيْنٍ النَّهْشَلِيُّ، قَالَ حَدَّثَنِي عَمِّي، زِيَادُ بْنُ الْحُصَيْنِ عَنْ أَبِيهِ، قَالَ لَمَّا قَدِمَ عَلَى النَّبِيِّ صلى الله عليه وسلم بِالْمَدِينَةِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ الْمُسْتَمِرِ الْعُرُوقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الصَّلْتُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا غَسَّانُ بْنُ الأَغَرِّ بْنِ حُصَيْنٍ النَّهْشَلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْحُصَيْنِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ لَمَّا قَدِمَ عَلَى النَّبِيِّ صلى الله عليه وسلم بِالْمَدِينَةِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5067": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5067\nIn-book reference  : Book 48, Hadith 28\nEnglish translation  : Vol. 6, Book 48, Hadith 5070",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، وَذَكَرَ، آخَرَ قَبْلَهُ عَنْ عَيَّاشِ بْنِ عَبَّاسٍ الْقِتْبَانِيِّ، أَنَّ شُيَيْمَ بْنَ بَيْتَانَ، حَدَّثَهُ أَنَّهُ، سَمِعَ رُوَيْفِعَ بْنَ ثَابِتٍ، يَقُولُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَبْلَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَيَّاشِ بْنِ عَبَّاسٍ الْقِتْبَانِيِّ، أَنَّ شُيَيْمَ بْنَ بَيْتَانَ، حَدَّثَهُ أَنَّهُ، سَمِع",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5069": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5069\nIn-book reference  : Book 48, Hadith 30\nEnglish translation  : Vol. 6, Book 48, Hadith 5072",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعْدِ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَمِّي، قَالَ حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، قَالَ قَالَ أَبُو سَلَمَةَ إِنَّ أَبَا هُرَيْرَةَ قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ح وَأَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ قَالَ أَخْبَرَنِي يُونُسُ عَنِ ابْنِ شِهَابٍ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ أَخْبَرَهُ عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعْدِ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَمِّي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "الأَعْلَى",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "وَهْبٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "شِهَابٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "أَخْبَرَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5071": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5071\nIn-book reference  : Book 48, Hadith 32\nEnglish translation  : Vol. 6, Book 48, Hadith 5074",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنِي الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي الْحُسَيْنُ بْنُ حُرَيْثٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قَالَ أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5072": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5072\nIn-book reference  : Book 48, Hadith 33\nEnglish translation  : Vol. 6, Book 48, Hadith 5075",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ، قَالَ حَدَّثَنَا عِيسَى، - وَهُوَ ابْنُ يُونُسَ - عَنِ الأَوْزَاعِيِّ، عَنِ الزُّهْرِيِّ، عَنْ سُلَيْمَانَ، وَأَبِي، سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عِيسَى، - وَهُوَ ابْنُ يُونُسَ - عَنِ الأَوْزَاعِيِّ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الرَّحْمَنِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5073": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5073\nIn-book reference  : Book 48, Hadith 34\nEnglish translation  : Vol. 6, Book 48, Hadith 5076",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنِي عُثْمَانُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ جَنَابٍ، قَالَ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي عُثْمَانُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ جَنَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عِيسَى بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5074": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5074\nIn-book reference  : Book 48, Hadith 35\nEnglish translation  : Vol. 6, Book 48, Hadith 5077",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا حُمَيْدُ بْنُ مَخْلَدِ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ كُنَاسَةَ، قَالَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ عُثْمَانَ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنِ الزُّبَيْرِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا حُمَيْدُ بْنُ مَخْلَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كُنَاسَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُثْمَانَ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5075": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5075\nIn-book reference  : Book 48, Hadith 36\nEnglish translation  : Vol. 6, Book 48, Hadith 5078",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ عُبَيْدِ اللَّهِ الْحَلَبِيُّ، عَنْ عُبَيْدِ اللَّهِ، - وَهُوَ ابْنُ عَمْرٍو - عَنْ عَبْدِ الْكَرِيمِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، رَفَعَهُ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ عُبَيْدِ اللَّهِ الْحَلَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ، - وَهُوَ ابْنُ عَمْرٍو -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْكَرِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5076": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5076\nIn-book reference  : Book 48, Hadith 37\nEnglish translation  : Vol. 6, Book 48, Hadith 5079",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي ابْنُ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ أُتِيَ بِأَبِي قُحَافَةَ يَوْمَ فَتْحِ مَكَّةَ وَرَأْسُهُ وَلِحْيَتُهُ كَالثَّغَامَةِ بَيَاضًا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أُتِيَ بِأَبِي قُحَافَةَ يَوْمَ فَتْحِ مَكَّةَ وَرَأْسُهُ وَلِحْيَتُهُ كَالثَّغَامَةِ بَيَاضًا",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5077": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5077\nIn-book reference  : Book 48, Hadith 38\nEnglish translation  : Vol. 6, Book 48, Hadith 5080",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ يَعْلَى، قَالَ حَدَّثَنَا بِهِ أَبِي، عَنْ غَيْلاَنَ، عَنْ أَبِي إِسْحَاقَ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا بِهِ أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ، عَنِ ابْنِ أَبِي لَيْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5078": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5078\nIn-book reference  : Book 48, Hadith 39\nEnglish translation  : Vol. 6, Book 48, Hadith 5081",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ الأَجْلَحِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنِ الأَجْلَحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5079": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5079\nIn-book reference  : Book 48, Hadith 40\nEnglish translation  : Vol. 6, Book 48, Hadith 5082",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَشْعَثَ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ عِيسَى، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَخْبَرَنِي ابْنُ أَبِي لَيْلَى، عَنِ الأَجْلَحِ، فَلَقِيتُ الأَجْلَحَ فَحَدَّثَنِي عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، عَنْ أَبِي ذَرٍّ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَشْعَثَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَخْبَرَنِي ابْنُ أَبِي لَيْلَى، عَنِ الأَجْلَحِ، فَلَقِيتُ الأَجْلَحَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي عَنِ ابْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5080": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5080\nIn-book reference  : Book 48, Hadith 41\nEnglish translation  : Vol. 6, Book 48, Hadith 5083",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا عَبْثَرٌ، عَنِ الأَجْلَحِ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْثَرٌ، عَنِ الأَجْلَحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الأَسْوَدِ الدِّيلِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5081": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5081\nIn-book reference  : Book 48, Hadith 42\nEnglish translation  : Vol. 6, Book 48, Hadith 5084",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا الْجُرَيْرِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الْجُرَيْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5082": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5082\nIn-book reference  : Book 48, Hadith 43\nEnglish translation  : Vol. 6, Book 48, Hadith 5085",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ كَهْمَسًا، يُحَدِّثُ عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، أَنَّهُ بَلَغَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْمُعْتَمِرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، أَنَّهُ بَلَغَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5093": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5093\nIn-book reference  : Book 48, Hadith 54\nEnglish translation  : Vol. 6, Book 48, Hadith 5096",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي مَخْرَمَةُ بْنُ بُكَيْرٍ، عَنْ أَبِيهِ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، قَالَ رَأَيْتُ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ عَلَى الْمِنْبَرِ وَمَعَهُ فِي يَدِهِ كُبَّةٌ مِنْ كُبَبِ النِّسَاءِ مِنْ شَعْرٍ فَقَالَ مَا بَالُ الْمُسْلِمَاتِ يَصْنَعْنَ مِثْلَ هَذَا إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي مَخْرَمَةُ بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَأَيْتُ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ عَلَى الْمِنْبَرِ وَمَعَهُ فِي يَدِهِ كُبَّةٌ مِنْ ك",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5097": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5097\nIn-book reference  : Book 48, Hadith 58\nEnglish translation  : Vol. 6, Book 48, Hadith 5100",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ وَهْبٍ، قَالَ حَدَّثَنَا مِسْكِينُ بْنُ بُكَيْرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنِ الْحَسَنِ بْنِ مُسْلِمٍ، عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مِسْكِينُ بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ مُرَّةَ، عَنِ الْحَسَنِ بْنِ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5106": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5106\nIn-book reference  : Book 48, Hadith 67\nEnglish translation  : Vol. 6, Book 48, Hadith 5109",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ عُمَارَةَ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أُتِيَ عُمَرُ بِامْرَأَةٍ تَشِمُ فَقَالَ أَنْشُدُكُمْ بِاللَّهِ هَلْ سَمِعَ أَحَدٌ مِنْكُمْ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ أَبُو هُرَيْرَةَ فَقُمْتُ فَقُلْتُ يَا أَمِيرَ الْمُؤْمِنِينَ أَنَا سَمِعْتُهُ . قَالَ فَمَا سَمِعْتَهُ قُلْتُ سَمِعْتُهُ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُمَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي زُرْعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أُتِيَ عُمَرُ بِامْرَأَةٍ تَشِمُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَنْشُدُكُمْ بِاللَّهِ هَلْ سَمِعَ أَحَدٌ مِنْكُمْ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ أَبُو هُرَيْرَةَ فَقُمْتُ فَقُلْتُ يَا أَمِيرَ الْمُؤْمِنِينَ أَنَا سَمِعْتُهُ .",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5109": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5109\nIn-book reference  : Book 48, Hadith 70\nEnglish translation  : Vol. 6, Book 48, Hadith 5112",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ بْنِ شَقِيقٍ، قَالَ أَنْبَأَنَا الْحُسَيْنُ بْنُ وَاقِدٍ، قَالَ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عُمَيْرٍ، عَنِ الْعُرْيَانِ بْنِ الْهَيْثَمِ، عَنْ قَبِيصَةَ بْنِ جَابِرٍ، عَنْ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ بْنِ شَقِيقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا الْحُسَيْنُ بْنُ وَاقِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عُمَيْرٍ، عَنِ الْعُرْيَانِ بْنِ الْهَيْثَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ قَبِيصَةَ بْنِ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5113": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5113\nIn-book reference  : Book 48, Hadith 74\nEnglish translation  : Vol. 6, Book 48, Hadith 5116",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا دَاوُدُ، - وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ الْعَطَّارُ - عَنْ عَبْدِ اللَّهِ بْنِ عُثْمَانَ بْنِ خُثَيْمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ، - وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ الْعَطَّارُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُثْمَانَ بْنِ خُثَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5117": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5117\nIn-book reference  : Book 48, Hadith 78\nEnglish translation  : Vol. 6, Book 48, Hadith 5120",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، - يَعْنِي الْحَفَرِيَّ - عَنْ سُفْيَانَ، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي نَضْرَةَ، عَنْ رَجُلٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ، - يَعْنِي الْحَفَرِيَّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُفْيَانَ، عَنِ الْجُرَيْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي نَضْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَجُلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5118": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5118\nIn-book reference  : Book 48, Hadith 79\nEnglish translation  : Vol. 6, Book 48, Hadith 5121",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ مَيْمُونٍ الرَّقِّيُّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ الْفِرْيَابِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي نَضْرَةَ، عَنِ الطُّفَاوِيِّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ مَيْمُونٍ الرَّقِّيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ الْفِرْيَابِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الْجُرَيْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي نَضْرَةَ، عَنِ الطُّفَاوِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5122": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5122\nIn-book reference  : Book 48, Hadith 83\nEnglish translation  : Vol. 6, Book 48, Hadith 5125",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَطَاءٍ، قَالَ سَمِعْتُ { أَبَا، } حَفْصِ بْنَ عَمْرٍو عَنْ يَعْلَى بْنِ مُرَّةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَبْصَرَ رَجُلاً مُتَخَلِّقًا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَمْرٍو",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "مُتَخَلِّقًا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5126": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5126\nIn-book reference  : Book 48, Hadith 87\nEnglish translation  : Vol. 6, Book 48, Hadith 5129",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا ثَابِتٌ، - وَهُوَ ابْنُ عُمَارَةَ - عَنْ غُنَيْمِ بْنِ قَيْسٍ، عَنِ الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ثَابِتٌ، - وَهُوَ ابْنُ عُمَارَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ غُنَيْمِ بْنِ قَيْسٍ، عَنِ الأَشْعَرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5127": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5127\nIn-book reference  : Book 48, Hadith 88\nEnglish translation  : Vol. 6, Book 48, Hadith 5130",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ بْنِ عَلِيِّ بْنِ عَبْدِ اللَّهِ بْنِ الْعَبَّاسِ الْهَاشِمِيِّ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، قَالَ سَمِعْتُ صَفْوَانَ بْنَ سُلَيْمٍ، - وَلَمْ أَسْمَعْ مِنْ صَفْوَانَ غَيْرَهُ - يُحَدِّثُ عَنْ رَجُلٍ ثِقَةٍ عَنْ أَبِي هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ بْنِ عَلِيِّ بْنِ عَبْدِ اللَّهِ بْنِ الْعَبَّاسِ الْهَاشِمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثِقَةٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5128": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5128\nIn-book reference  : Book 48, Hadith 89\nEnglish translation  : Vol. 6, Book 48, Hadith 5131",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ هِشَامِ بْنِ عِيسَى الْبَغْدَادِيُّ، قَالَ حَدَّثَنَا أَبُو عَلْقَمَةَ الْفَرْوِيُّ عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ خُصَيْفَةَ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ هِشَامِ بْنِ عِيسَى الْبَغْدَادِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَلْقَمَةَ الْفَرْوِيُّ عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي يَزِيدُ بْنُ خُصَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5129": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5129\nIn-book reference  : Book 48, Hadith 90\nEnglish translation  : Vol. 6, Book 48, Hadith 5132",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنِي هِلاَلُ بْنُ الْعَلاَءِ بْنِ هِلاَلٍ، قَالَ حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، قَالَ حَدَّثَنَا وُهَيْبٌ، عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ، عَنْ يَعْقُوبَ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْنَبَ، امْرَأَةِ عَبْدِ اللَّهِ قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي هِلاَلُ بْنُ الْعَلاَءِ بْنِ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَعْقُوبَ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5130": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5130\nIn-book reference  : Book 48, Hadith 91\nEnglish translation  : Vol. 6, Book 48, Hadith 5133",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ ابْنِ عَجْلاَنَ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْنَبَ، امْرَأَةِ عَبْدِ اللَّهِ قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5131": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5131\nIn-book reference  : Book 48, Hadith 92\nEnglish translation  : Vol. 6, Book 48, Hadith 5134",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنِي أَحْمَدُ بْنُ سَعِيدِ بْنِ يَعْقُوبَ الْحِمْصِيُّ، قَالَ حَدَّثَنَا عُثْمَانُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ بُكَيْرِ بْنِ الأَشَجِّ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْنَبَ الثَّقَفِيَّةِ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي أَحْمَدُ بْنُ سَعِيدِ بْنِ يَعْقُوبَ الْحِمْصِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ الأَشَجِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ زَيْنَبَ الثَّقَفِيَّةِ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5133": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5133\nIn-book reference  : Book 48, Hadith 94\nEnglish translation  : Vol. 6, Book 48, Hadith 5136",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا مَنْصُورُ بْنُ أَبِي مُزَاحِمٍ، قَالَ أَنْبَأَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ أَبِيهِ، عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ هِشَامٍ، عَنْ بُكَيْرٍ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْنَبَ الثَّقَفِيَّةِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَنْصُورُ بْنُ أَبِي مُزَاحِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ زَيْنَبَ الثَّقَفِيَّةِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5134": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5134\nIn-book reference  : Book 48, Hadith 95\nEnglish translation  : Vol. 6, Book 48, Hadith 5137",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنِي يُوسُفُ بْنُ سَعِيدٍ، قَالَ بَلَغَنِي عَنْ حَجَّاجٍ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي زِيَادُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْنَبَ الثَّقَفِيَّةِ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي يُوسُفُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "بَلَغَنِي",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ حَجَّاجٍ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي زِيَادُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زَيْنَبَ الثَّقَفِيَّةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5136": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5136\nIn-book reference  : Book 48, Hadith 97\nEnglish translation  : Vol. 6, Book 48, Hadith 5139",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَنْبَأَنَا عَمْرُو بْنُ الْحَارِثِ، أَنَّ أَبَا عُشَّانَةَ، - هُوَ الْمَعَافِرِيُّ - حَدَّثَهُ أَنَّهُ، سَمِعَ عُقْبَةَ بْنَ عَامِرٍ، يُخْبِرُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَمْنَعُ أَهْلَهُ الْحِلْيَةَ وَالْحَرِيرَ وَيَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "وَيَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "5137": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5137\nIn-book reference  : Book 48, Hadith 98\nEnglish translation  : Vol. 6, Book 48, Hadith 5140",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، ح وَأَنْبَأَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ رِبْعِيٍّ، عَنِ امْرَأَتِهِ، عَنْ أُخْتِ، حُذَيْفَةَ قَالَتْ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ، ح وَأَنْبَأَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ رِبْعِيٍّ، عَنِ امْرَأَتِهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "حُذَيْفَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَتْ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5138": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5138\nIn-book reference  : Book 48, Hadith 99\nEnglish translation  : Vol. 6, Book 48, Hadith 5141",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ مَنْصُورًا، يُحَدِّثُ عَنْ رِبْعِيٍّ، عَنِ امْرَأَتِهِ، عَنْ أُخْتِ، حُذَيْفَةَ قَالَتْ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْمُعْتَمِرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رِبْعِيٍّ، عَنِ امْرَأَتِهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حُذَيْفَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ خَطَبَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5139": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5139\nIn-book reference  : Book 48, Hadith 100\nEnglish translation  : Vol. 6, Book 48, Hadith 5142",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي مَحْمُودُ بْنُ عَمْرٍو، أَنَّ أَسْمَاءَ بِنْتَ يَزِيدَ، حَدَّثَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنِي مَحْمُودُ بْنُ عَمْرٍو، أَنَّ أَسْمَاءَ بِنْتَ يَزِيدَ، حَدَّثَتْهُ أَنَّ رَسُولَ اللَّهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5143": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5143\nIn-book reference  : Book 48, Hadith 104\nEnglish translation  : Vol. 6, Book 48, Hadith 5146",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنِي الرَّبِيعُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا إِسْحَاقُ بْنُ بَكْرٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى عَلَيْهَا مَسَكَتَىْ ذَهَبٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي الرَّبِيعُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى عَلَيْهَا مَسَكَتَىْ ذَهَبٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5144": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5144\nIn-book reference  : Book 48, Hadith 105\nEnglish translation  : Vol. 6, Book 48, Hadith 5147",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي أَفْلَحَ الْهَمْدَانِيِّ، عَنِ ابْنِ زُرَيْرٍ، أَنَّهُ سَمِعَ عَلِيَّ بْنَ أَبِي طَالِبٍ، يَقُولُ إِنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم أَخَذَ حَرِيرًا فَجَعَلَهُ فِي يَمِينِهِ وَأَخَذَ ذَهَبًا فَجَعَلَهُ فِي شِمَالِهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5145": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5145\nIn-book reference  : Book 48, Hadith 106\nEnglish translation  : Vol. 6, Book 48, Hadith 5148",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ، قَالَ أَنْبَأَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنِ ابْنِ أَبِي الصَّعْبَةِ، عَنْ رَجُلٍ، مِنْ هَمْدَانَ يُقَالُ لَهُ أَبُو أَفْلَحَ عَنِ ابْنِ زُرَيْرٍ، أَنَّهُ سَمِعَ عَلِيَّ بْنَ أَبِي طَالِبٍ، يَقُولُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَخَذَ حَرِيرًا فَجَعَلَهُ فِي يَمِينِهِ وَأَخَذَ ذَهَبًا فَجَعَلَهُ فِي شِمَالِهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنِ ابْنِ أَبِي الصَّعْبَةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5146": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5146\nIn-book reference  : Book 48, Hadith 107\nEnglish translation  : Vol. 6, Book 48, Hadith 5149",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ حَدَّثَنَا حِبَّانُ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ لَيْثِ بْنِ سَعْدٍ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ، عَنِ ابْنِ أَبِي الصَّعْبَةِ، عَنْ رَجُلٍ، مِنْ هَمْدَانَ يُقَالُ لَهُ أَفْلَحُ عَنِ ابْنِ زُرَيْرٍ، أَنَّهُ سَمِعَ عَلِيًّا، يَقُولُ إِنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم أَخَذَ حَرِيرًا فَجَعَلَهُ فِي يَمِينِهِ وَأَخَذَ ذَهَبًا فَجَعَلَهُ فِي شِمَالِهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حِبَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ لَيْثِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي يَزِيدُ بْنُ أَبِي حَبِيبٍ، عَنِ ابْنِ أَبِي الصَّعْبَةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5147": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5147\nIn-book reference  : Book 48, Hadith 108\nEnglish translation  : Vol. 6, Book 48, Hadith 5150",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ أَبِي الصَّعْبَةِ، عَنْ أَبِي أَفْلَحَ الْهَمْدَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ زُرَيْرٍ الْغَافِقِيِّ، قَالَ سَمِعْتُ عَلِيًّا، يَقُولُ أَخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم ذَهَبًا بِيَمِينِهِ وَحَرِيرًا بِشِمَالِهِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ بْنِ أَبِي الصَّعْبَةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي أَفْلَحَ الْهَمْدَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ زُرَيْرٍ الْغَافِقِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ سَمِعْتُ عَلِيًّا، يَقُولُ أَخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم ذَهَبًا بِيَمِينِهِ وَحَر",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5148": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5148\nIn-book reference  : Book 48, Hadith 109\nEnglish translation  : Vol. 6, Book 48, Hadith 5151",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ الْحُسَيْنِ الدِّرْهَمِيُّ، قَالَ حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ سَعِيدٍ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنْ سَعِيدِ بْنِ أَبِي هِنْدٍ، عَنْ أَبِي مُوسَى، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ الْحُسَيْنِ الدِّرْهَمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي هِنْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي مُوسَى، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5164": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5164\nIn-book reference  : Book 48, Hadith 125\nEnglish translation  : Vol. 6, Book 48, Hadith 5167",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، عَنْ إِسْمَاعِيلَ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمَ الذَّهَبِ فَلَبِسَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم فَاتَّخَذَ النَّاسُ خَوَاتِيِمَ الذَّهَبِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمَ الذَّهَبِ فَلَبِسَهُ رَسُولُ اللَّهِ صلى ا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5188": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5188\nIn-book reference  : Book 48, Hadith 149\nEnglish translation  : Vol. 6, Book 48, Hadith 5191",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، عَنْ بَكْرِ بْنِ سَوَادَةَ، أَنَّ أَبَا النَّجِيبِ، حَدَّثَهُ أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ حَدَّثَهُ أَنَّ رَجُلاً قَدِمَ مِنْ نَجْرَانَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَعَلَيْهِ خَاتَمٌ مِنْ ذَهَبٍ فَأَعْرَضَ عَنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "فَأَعْرَضَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5190": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5190\nIn-book reference  : Book 48, Hadith 151\nEnglish translation  : Vol. 6, Book 48, Hadith 5193",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَفَّانُ، قَالَ حَدَّثَنَا وُهَيْبٌ، عَنِ النُّعْمَانِ بْنِ رَاشِدٍ، عَنِ الزُّهْرِيِّ، عَنْ عَطَاءِ بْنِ يَزِيدَ، عَنْ أَبِي ثَعْلَبَةَ الْخُشَنِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَبْصَرَ فِي يَدِهِ خَاتَمًا مِنْ ذَهَبٍ فَجَعَلَ يَقْرَعُهُ بِقَضِيبٍ مَعَهُ فَلَمَّا غَفَلَ النَّبِيُّ صلى الله عليه وسلم أَلْقَاهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَفَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ، عَنِ النُّعْمَانِ بْنِ رَاشِدٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَلْقَاهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5207": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5207\nIn-book reference  : Book 48, Hadith 168\nEnglish translation  : Vol. 6, Book 48, Hadith 5210",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ، قَالَ حَدَّثَنَا هِشَامُ بْنُ حَسَّانَ، قَالَ حَدَّثَنِي عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، عَنْ أَنَسٍ، قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَدِ اتَّخَذَ حَلْقَةً مِنْ فِضَّةٍ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ حَسَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَدِ اتَّخَذَ حَلْقَةً مِنْ فِضَّةٍ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5208": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5208\nIn-book reference  : Book 48, Hadith 169\nEnglish translation  : Vol. 6, Book 48, Hadith 5211",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا أَبُو دَاوُدَ، سُلَيْمَانُ بْنُ سَيْفٍ الْحَرَّانِيُّ قَالَ حَدَّثَنَا هَارُونُ بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمًا وَنَقَشَ عَلَيْهِ نَقْشًا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْحَرَّانِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "نَقْشًا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5209": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5209\nIn-book reference  : Book 48, Hadith 170\nEnglish translation  : Vol. 6, Book 48, Hadith 5212",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُجَاهِدُ بْنُ مُوسَى الْخُوَارَزْمِيُّ، بِبَغْدَادَ قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَنْبَأَنَا الْعَوَّامُ بْنُ حَوْشَبٍ، عَنْ أَزْهَرَ بْنِ رَاشِدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "بِبَغْدَادَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا الْعَوَّامُ بْنُ حَوْشَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَزْهَرَ بْنِ رَاشِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5210": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5210\nIn-book reference  : Book 48, Hadith 171\nEnglish translation  : Vol. 6, Book 48, Hadith 5213",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمِ بْنِ كُلَيْبٍ، عَنْ أَبِي بُرْدَةَ، قَالَ قَالَ عَلِيٌّ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ كُلَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَلِيٌّ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5212": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5212\nIn-book reference  : Book 48, Hadith 173\nEnglish translation  : Vol. 6, Book 48, Hadith 5215",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا بِشْرٌ، قَالَ حَدَّثَنَا عَاصِمُ بْنُ كُلَيْبٍ، عَنْ أَبِي بُرْدَةَ، عَنْ عَلِيٍّ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بِشْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عَاصِمُ بْنُ كُلَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5214": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5214\nIn-book reference  : Book 48, Hadith 175\nEnglish translation  : Vol. 6, Book 48, Hadith 5217",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ عُبَيْدَ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمًا مِنْ ذَهَبٍ وَجَعَلَ فَصَّهُ مِنْ قِبَلِ كَفِّهِ فَاتَّخَذَ النَّاسُ خَوَاتِيمَ الذَّهَبِ فَأَلْقَى رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمَهُ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا الْمُعْتَمِرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ سَمِعْتُ عُبَيْدَ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمًا مِنْ ذَهَبٍ وَجَعَلَ فَصَّهُ مِنْ قِبَلِ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5215": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5215\nIn-book reference  : Book 48, Hadith 176\nEnglish translation  : Vol. 6, Book 48, Hadith 5218",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا مِنْ ذَهَبٍ وَجَعَلَ فَصَّهُ مِمَّا يَلِي كَفَّهُ فَاتَّخَذَ النَّاسُ خَوَاتِيمَ فَطَرَحَهُ النَّبِيُّ صلى الله عليه وسلم وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا مِنْ ذَه",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5216": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5216\nIn-book reference  : Book 48, Hadith 177\nEnglish translation  : Vol. 6, Book 48, Hadith 5219",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ بْنِ مُوسَى، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم تَخَتَّمَ خَاتَمًا مِنْ ذَهَبٍ ثُمَّ طَرَحَهُ وَلَبِسَ خَاتَمًا مِنْ وَرِقٍ وَنَقَشَ فِيهِ مُحَمَّدٌ رَسُولُ اللَّهِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ بْنِ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم تَخَتَّمَ خَاتَمًا مِنْ ذَهَبٍ ثُمَّ طَرَحَهُ وَلَبِسَ خَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5219": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5219\nIn-book reference  : Book 48, Hadith 180\nEnglish translation  : Vol. 6, Book 48, Hadith 5222",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُثْمَانَ بْنِ أَبِي صَفْوَانَ الثَّقَفِيُّ، - مِنْ وَلَدِ عُثْمَانَ بْنِ أَبِي الْعَاصِ - قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ أَبِي الْوَزِيرِ، قَالَ حَدَّثَنَا نَافِعُ بْنُ عُمَرَ الْجُمَحِيُّ، عَنْ أَبِي بَكْرِ بْنِ أَبِي شَيْخٍ، قَالَ كُنْتُ جَالِسًا مَعَ سَالِمٍ فَمَرَّ بِنَا رَكْبٌ لأُمِّ الْبَنِينَ مَعَهُمْ أَجْرَاسٌ فَحَدَّثَ نَافِعًا سَالِمٌ عَنْ أَبِيهِ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُثْمَانَ بْنِ أَبِي صَفْوَانَ الثَّقَفِيُّ، - مِنْ وَلَدِ عُثْمَانَ بْنِ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ أَبِي الْوَزِيرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا نَافِعُ بْنُ عُمَرَ الْجُمَحِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي بَكْرِ بْنِ أَبِي شَيْخٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "سَالِمٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِيهِ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5220": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5220\nIn-book reference  : Book 48, Hadith 181\nEnglish translation  : Vol. 6, Book 48, Hadith 5223",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ سَلاَّمٍ الطَّرَسُوسِيُّ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ أَنْبَأَنَا نَافِعُ بْنُ عُمَرَ الْجُمَحِيُّ، عَنْ أَبِي بَكْرِ بْنِ مُوسَى، قَالَ كُنْتُ مَعَ سَالِمِ بْنِ عَبْدِ اللَّهِ فَحَدَّثَ سَالِمٌ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ سَلاَّمٍ الطَّرَسُوسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا نَافِعُ بْنُ عُمَرَ الْجُمَحِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بَكْرِ بْنِ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كُنْتُ مَعَ سَالِمِ بْنِ عَبْدِ اللَّهِ فَحَدَّثَ سَالِمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5221": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5221\nIn-book reference  : Book 48, Hadith 182\nEnglish translation  : Vol. 6, Book 48, Hadith 5223",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا أَبُو هِشَامٍ الْمَخْزُومِيُّ، قَالَ حَدَّثَنَا نَافِعُ بْنُ عُمَرَ، عَنْ بُكَيْرِ بْنِ مُوسَى، عَنْ سَالِمٍ، عَنْ أَبِيهِ، رَفَعَهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو هِشَامٍ الْمَخْزُومِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا نَافِعُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "رَفَعَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5222": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5222\nIn-book reference  : Book 48, Hadith 183\nEnglish translation  : Vol. 6, Book 48, Hadith 5224",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا يُوسُفُ بْنُ سَعِيدِ بْنِ مُسَلَّمٍ، قَالَ حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي سُلَيْمَانُ بْنُ بَابَيْهِ، مَوْلَى آلِ نَوْفَلٍ أَنَّ أُمَّ، سَلَمَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يُوسُفُ بْنُ سَعِيدِ بْنِ مُسَلَّمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي سُلَيْمَانُ بْنُ بَابَيْهِ، مَوْلَى آلِ نَوْفَلٍ أَنَّ أُمَّ، سَلَمَةَ زَوْجَ النّ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "5225": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5225\nIn-book reference  : Book 48, Hadith 186\nEnglish translation  : Vol. 6, Book 48, Hadith 5227",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا ابْنُ السُّنِّيِّ، قِرَاءَةً قَالَ حَدَّثَنَا أَبُو عَبْدِ الرَّحْمَنِ، أَحْمَدُ بْنُ شُعَيْبٍ لَفْظًا قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا الْمُعْتَمِرُ، - وَهُوَ ابْنُ سُلَيْمَانَ - قَالَ سَمِعْتُ مَعْمَرًا، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قِرَاءَةً",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "لَفْظًا",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا الْمُعْتَمِرُ، - وَهُوَ ابْنُ سُلَيْمَانَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَمِعْتُ مَعْمَرًا، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5226": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5226\nIn-book reference  : Book 48, Hadith 187\nEnglish translation  : Vol. 6, Book 48, Hadith 5228",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5236": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5236\nIn-book reference  : Book 48, Hadith 197\nEnglish translation  : Vol. 6, Book 48, Hadith 5238",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ، قَالَ أَنْبَأَنَا عِيسَى، عَنِ الأَوْزَاعِيِّ، عَنْ حَسَّانَ بْنِ عَطِيَّةَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ قَالَ أَتَانَا النَّبِيُّ صلى الله عليه وسلم فَرَأَى رَجُلاً ثَائِرَ الرَّأْسِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عِيسَى، عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَسَّانَ بْنِ عَطِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَتَانَا النَّبِيُّ صلى الله عليه وسلم فَرَأَى رَجُلاً ثَائِرَ الرَّأْسِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5241": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5241\nIn-book reference  : Book 48, Hadith 202\nEnglish translation  : Vol. 6, Book 48, Hadith 5243",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، وَسُلَيْمَانَ بْنِ يَسَارٍ، أَنَّهُمَا سَمِعَا أَبَا هُرَيْرَةَ، يُخْبِرُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُخْبِرُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5242": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5242\nIn-book reference  : Book 48, Hadith 203\nEnglish translation  : Vol. 6, Book 48, Hadith 5244",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، - وَهُوَ ابْنُ الْحَارِثِ - قَالَ حَدَّثَنَا عَزْرَةُ، - وَهُوَ ابْنُ ثَابِتٍ - عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِأَبِي قُحَافَةَ وَرَأْسُهُ وَلِحْيَتُهُ كَأَنَّهُ ثَغَامَةٌ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ، - وَهُوَ ابْنُ الْحَارِثِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عَزْرَةُ، - وَهُوَ ابْنُ ثَابِتٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِأَبِي قُحَافَةَ وَرَأْسُهُ وَلِحْيَتُهُ كَأَنَّهُ ثَغَا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5245": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5245\nIn-book reference  : Book 48, Hadith 206\nEnglish translation  : Vol. 6, Book 48, Hadith 5247",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ سَمِعْتُ مُعَاوِيَةَ، وَهُوَ عَلَى الْمِنْبَرِ بِالْمَدِينَةِ وَأَخْرَجَ مِنْ كُمِّهِ قُصَّةً مِنْ شَعْرٍ فَقَالَ يَا أَهْلَ الْمَدِينَةِ أَيْنَ عُلَمَاؤُكُمْ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَنْهَى عَنْ مِثْلِ هَذِهِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ مُعَاوِيَةَ، وَهُوَ عَلَى الْمِنْبَرِ بِالْمَدِينَةِ وَأَخْرَجَ مِنْ كُمِّهِ قُصَّةً ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَنْهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مِثْلِ هَذِهِ وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5250": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5250\nIn-book reference  : Book 48, Hadith 211\nEnglish translation  : Vol. 6, Book 48, Hadith 5252",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ حَدَّثَتْنِي فَاطِمَةُ، عَنْ أَسْمَاءَ، أَنَّ امْرَأَةً، جَاءَتْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ بِنْتًا لِي عَرُوسٌ وَإِنَّهَا اشْتَكَتْ فَتَمَزَّقَ شَعْرُهَا فَهَلْ عَلَىَّ جُنَاحٌ إِنْ وَصَلْتُ لَهَا فِيهِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ حَدَّثَتْنِي فَاطِمَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَسْمَاءَ، أَنَّ امْرَأَةً، جَاءَتْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ يَا رَسُولَ اللَّهِ إِنَّ بِنْتًا لِي عَرُوسٌ وَإِنَّهَا اشْتَكَتْ فَتَمَزَّقَ شَعْرُهَا فَه",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5259": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5259\nIn-book reference  : Book 48, Hadith 220\nEnglish translation  : Vol. 6, Book 48, Hadith 5261",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ، قَالَ حَدَّثَنَا سَعِيدٌ، قَالَ حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ أَبِي جَعْفَرٍ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ فَضَالَةَ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ أَبِي جَعْفَرٍ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5260": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5260\nIn-book reference  : Book 48, Hadith 221\nEnglish translation  : Vol. 6, Book 48, Hadith 5262",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ ابْنِ عَجْلاَنَ، عَنْ بُكَيْرٍ، ح وَأَنْبَأَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلاَنَ، قَالَ حَدَّثَنِي بُكَيْرُ بْنُ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْنَبَ، امْرَأَةِ عَبْدِ اللَّهِ قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُكَيْرٍ، ح وَأَنْبَأَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي بُكَيْرُ بْنُ عَبْدِ اللَّهِ بْنِ الأَشَجِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5261": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5261\nIn-book reference  : Book 48, Hadith 222\nEnglish translation  : Vol. 6, Book 48, Hadith 5263",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ هِشَامٍ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ بُسْرِ بْنِ سَعِيدٍ، أَخْبَرَتْنِي زَيْنَبُ الثَّقَفِيَّةُ، امْرَأَةُ عَبْدِ اللَّهِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لَهَا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ، أَخْبَرَتْنِي زَيْنَبُ الثَّقَفِيَّةُ، امْرَأَةُ عَبْدِ اللَّهِ أَنَّ رَسُ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "لَهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5262": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5262\nIn-book reference  : Book 48, Hadith 223\nEnglish translation  : Vol. 6, Book 48, Hadith 5264",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "وَحَدَّثَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي جَعْفَرٍ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْنَبَ الثَّقَفِيَّةِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ زَيْنَبَ الثَّقَفِيَّةِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5263": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5263\nIn-book reference  : Book 48, Hadith 224\nEnglish translation  : Vol. 6, Book 48, Hadith 5265",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ هِشَامِ بْنِ عِيسَى، قَالَ حَدَّثَنَا أَبُو عَلْقَمَةَ الْفَرْوِيُّ عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ خُصَيْفَةَ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ هِشَامِ بْنِ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَلْقَمَةَ الْفَرْوِيُّ عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي يَزِيدُ بْنُ خُصَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5264": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5264\nIn-book reference  : Book 48, Hadith 225\nEnglish translation  : Vol. 6, Book 48, Hadith 5266",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ غَزْوَانَ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ خُلَيْدِ بْنِ جَعْفَرٍ، وَالْمُسْتَمِرِّ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، قَالَ ذَكَرَ النَّبِيُّ صلى الله عليه وسلم امْرَأَةً حَشَتْ خَاتَمَهَا بِالْمِسْكِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ غَزْوَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خُلَيْدِ بْنِ جَعْفَرٍ، وَالْمُسْتَمِرِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي نَضْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ ذَكَرَ النَّبِيُّ صلى الله عليه وسلم امْرَأَةً حَشَتْ خَاتَمَهَا بِالْمِسْكِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5265": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5265\nIn-book reference  : Book 48, Hadith 226\nEnglish translation  : Vol. 6, Book 48, Hadith 5267",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، وَيَزِيدُ، وَمُعْتَمِرٌ، وَبِشْرُ بْنُ الْمُفَضَّلِ، قَالُوا حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنْ سَعِيدِ بْنِ أَبِي هِنْدٍ، عَنْ أَبِي مُوسَى، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي هِنْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي مُوسَى، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5275": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5275\nIn-book reference  : Book 48, Hadith 236\nEnglish translation  : Vol. 6, Book 48, Hadith 5277",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، عَنْ إِسْمَاعِيلَ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمَ الذَّهَبِ فَلَبِسَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم فَاتَّخَذَ النَّاسُ خَوَاتِيمَ الذَّهَبِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمَ الذَّهَبِ فَلَبِسَهُ رَسُولُ اللَّهِ صلى ا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5281": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5281\nIn-book reference  : Book 48, Hadith 242\nEnglish translation  : Vol. 6, Book 48, Hadith 5283",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ حُجْرٍ، - وَاللَّفْظُ لَهُ - قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5282": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5282\nIn-book reference  : Book 48, Hadith 243\nEnglish translation  : Vol. 6, Book 48, Hadith 5284",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ عَبْدِ الْعَزِيزِ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اصْطَنَعَ خَاتَمًا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اصْطَنَعَ خَاتَمًا فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5288": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5288\nIn-book reference  : Book 48, Hadith 249\nEnglish translation  : Vol. 6, Book 48, Hadith 5290",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ بْنِ مُوسَى، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَتَخَتَّمُ بِخَاتَمٍ مِنْ ذَهَبٍ ثُمَّ طَرَحَهُ وَلَبِسَ خَاتَمًا مِنْ وَرِقٍ وَنُقِشَ عَلَيْهِ مُحَمَّدٌ رَسُولُ اللَّهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ بْنِ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5289": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5289\nIn-book reference  : Book 48, Hadith 250\nEnglish translation  : Vol. 6, Book 48, Hadith 5291",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ حَرْبٍ، قَالَ حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، قَالَ حَدَّثَنَا مَالِكُ بْنُ مِغْوَلٍ، عَنْ سُلَيْمَانَ الشَّيْبَانِيِّ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا فَلَبِسَهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ مِغْوَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سُلَيْمَانَ الشَّيْبَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "فَلَبِسَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5293": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5293\nIn-book reference  : Book 48, Hadith 254\nEnglish translation  : Vol. 6, Book 48, Hadith 5295",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ بِشْرٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمًا مِنْ ذَهَبٍ وَجَعَلَ فَصَّهُ مِمَّا يَلِي بَطْنَ كَفِّهِ فَاتَّخَذَ النَّاسُ الْخَوَاتِيمَ فَأَلْقَاهُ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ اتَّخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَاتَمًا مِنْ ذَهَبٍ وَجَعَلَ فَصَّهُ مِمَّا يَلِي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5298": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5298\nIn-book reference  : Book 48, Hadith 259\nEnglish translation  : Vol. 6, Book 48, Hadith 5300",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا النَّضْرُ، وَأَبُو عَامِرٍ قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي عَوْنٍ الثَّقَفِيِّ، قَالَ سَمِعْتُ أَبَا صَالِحٍ الْحَنَفِيَّ، يَقُولُ سَمِعْتُ عَلِيًّا، يَقُولُ أُهْدِيَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم حُلَّةُ سِيَرَاءَ فَبَعَثَ بِهَا إِلَىَّ فَلَبِسْتُهَا فَعَرَفْتُ الْغَضَبَ فِي وَجْهِهِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي عَوْنٍ الثَّقَفِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ أَبَا صَالِحٍ الْحَنَفِيَّ، يَقُولُ سَمِعْتُ عَلِيًّا، يَقُولُ أُهْدِيَتْ لِرَسُولِ ا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5300": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5300\nIn-book reference  : Book 48, Hadith 261\nEnglish translation  : Vol. 6, Book 48, Hadith 5302",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ أَبِي إِسْحَاقَ - قَالَ قَالَ سَالِمٌ مَا الإِسْتَبْرَقُ قُلْتُ مَا غَلُظَ مِنَ الدِّيبَاجِ وَخَشُنَ مِنْهُ . قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ يَقُولُ رَأَى عُمَرُ مَعَ رَجُلٍ حُلَّةَ سُنْدُسٍ فَأَتَى بِهَا النَّبِيَّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عِمْرَانُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ أَبِي إِسْحَاقَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَالِمٌ مَا الإِسْتَبْرَقُ قُلْتُ مَا غَلُظَ مِنَ الدِّيبَاجِ وَخَشُنَ مِنْهُ .",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ يَقُولُ رَأَى عُمَرُ مَعَ رَجُلٍ حُلَّةَ سُنْدُسٍ فَأَتَى ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "5301": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5301\nIn-book reference  : Book 48, Hadith 262\nEnglish translation  : Vol. 6, Book 48, Hadith 5303",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا ابْنُ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ أَبِي لَيْلَى، وَيَزِيدُ بْنُ أَبِي زِيَادٍ، عَنِ ابْنِ أَبِي لَيْلَى، وَأَبُو فَرْوَةَ عَنْ عَبْدِ اللَّهِ بْنِ عُكَيْمٍ، قَالَ اسْتَسْقَى حُذَيْفَةُ فَأَتَاهُ دُهْقَانٌ بِمَاءٍ فِي إِنَاءٍ مِنْ فِضَّةٍ فَحَذَفَهُ ثُمَّ اعْتَذَرَ إِلَيْهِمْ مِمَّا صَنَعَ بِهِ وَقَالَ إِنِّي نَهَيْتُهُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي نَجِيحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "فَرْوَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُكَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ اسْتَسْقَى حُذَيْفَةُ فَأَتَاهُ دُهْقَانٌ بِمَاءٍ فِي إِنَاءٍ مِنْ فِضَّةٍ فَحَذَفَهُ ثُمَّ اع",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5302": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5302\nIn-book reference  : Book 48, Hadith 263\nEnglish translation  : Vol. 6, Book 48, Hadith 5304",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا الْحَسَنُ بْنُ قَزَعَةَ، عَنْ خَالِدٍ، - وَهُوَ ابْنُ الْحَارِثِ - قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو، عَنْ وَاقِدِ بْنِ عَمْرِو بْنِ سَعْدِ بْنِ مُعَاذٍ، قَالَ دَخَلْتُ عَلَى أَنَسِ بْنِ مَالِكٍ حِينَ قَدِمَ الْمَدِينَةَ فَسَلَّمْتُ عَلَيْهِ فَقَالَ مِمَّنْ أَنْتَ قُلْتُ أَنَا وَاقِدُ بْنُ عَمْرِو بْنِ سَعْدِ بْنِ مُعَاذٍ . قَالَ إِنَّ سَعْدًا كَانَ أَعْظَمَ النَّاسِ وَأَطْوَلَهُ . ثُمَّ بَكَى فَأَكْثَرَ الْبُكَاءَ ثُمَّ قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ إِلَى أُكَيْدِرَ صَاحِبِ دُومَةَ بَعْثًا فَأَرْسَلَ إِلَيْهِ بِجُبَّةِ دِيبَاجٍ مَنْسُوجَةٍ فِيهَا الذَّهَبُ فَلَبِسَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ قَامَ عَلَى الْمِنْبَرِ وَقَعَدَ فَلَمْ يَتَكَلَّمْ وَنَزَلَ فَجَعَلَ النَّاسُ يَلْمُسُونَهَا بِأَيْدِيهِمْ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحَسَنُ بْنُ قَزَعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ خَالِدٍ، - وَهُوَ ابْنُ الْحَارِثِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ وَاقِدِ بْنِ عَمْرِو بْنِ سَعْدِ بْنِ مُعَاذٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ دَخَلْتُ عَلَى أَنَسِ بْنِ مَالِكٍ حِينَ قَدِمَ الْمَدِينَةَ فَسَلَّمْتُ عَلَيْهِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ مِمَّنْ أَنْتَ قُلْتُ أَنَا وَاقِدُ بْنُ عَمْرِو بْنِ سَعْدِ بْنِ مُعَاذٍ .",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ إِلَى أُكَيْدِرَ صَاحِبِ دُومَةَ بَعْثًا فَأَر",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5304": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5304\nIn-book reference  : Book 48, Hadith 265\nEnglish translation  : Vol. 6, Book 48, Hadith 5306",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ الزُّبَيْرِ، وَهُوَ عَلَى الْمِنْبَرِ يَخْطُبُ وَيَقُولُ قَالَ مُحَمَّدٌ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "وَيَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ مُحَمَّدٌ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5305": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5305\nIn-book reference  : Book 48, Hadith 266\nEnglish translation  : Vol. 6, Book 48, Hadith 5307",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ أَنْبَأَنَا النَّضْرُ بْنُ شُمَيْلٍ، قَالَ أَنْبَأَنَا شُعْبَةُ، قَالَ حَدَّثَنَا خَلِيفَةُ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ الزُّبَيْرِ، قَالَ لاَ تُلْبِسُوا نِسَاءَكُمُ الْحَرِيرَ فَإِنِّي سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا النَّضْرُ بْنُ شُمَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَنْبَأَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا خَلِيفَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "5306": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5306\nIn-book reference  : Book 48, Hadith 267\nEnglish translation  : Vol. 6, Book 48, Hadith 5308",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَجَاءٍ، قَالَ أَنْبَأَنَا حَرْبٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي عِمْرَانُ بْنُ حِطَّانَ، أَنَّهُ سَأَلَ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ عَنْ لُبْسِ الْحَرِيرِ، فَقَالَ سَلْ عَائِشَةَ . فَسَأَلْتُ عَائِشَةَ قَالَتْ سَلْ عَبْدَ اللَّهِ بْنَ عُمَرَ . فَسَأَلْتُ ابْنَ عُمَرَ فَقَالَ حَدَّثَنِي أَبُو حَفْصٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَجَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا حَرْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَبَّاسٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ لُبْسِ الْحَرِيرِ، فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَائِشَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَتْ سَلْ عَبْدَ اللَّهِ بْنَ عُمَرَ . فَسَأَلْتُ ابْنَ عُمَرَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "حَدَّثَنِي أَبُو حَفْصٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5307": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5307\nIn-book reference  : Book 48, Hadith 268\nEnglish translation  : Vol. 6, Book 48, Hadith 5309",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا سُلَيْمَانُ بْنُ سَلْمٍ، قَالَ أَنْبَأَنَا النَّضْرُ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ، وَبِشْرِ بْنِ الْمُحْتَفِزِ، عَنِ ابْنِ عُمَرَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُلَيْمَانُ بْنُ سَلْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا النَّضْرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ، وَبِشْرِ بْنِ الْمُحْتَفِزِ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5312": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5312\nIn-book reference  : Book 48, Hadith 273\nEnglish translation  : Vol. 6, Book 48, Hadith 5314",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، قَالَ كُنَّا مَعَ عُتْبَةَ بْنِ فَرْقَدٍ فَجَاءَ كِتَابُ عُمَرَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُلَيْمَانَ التَّيْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كُنَّا مَعَ عُتْبَةَ بْنِ فَرْقَدٍ فَجَاءَ كِتَابُ عُمَرَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5316": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5316\nIn-book reference  : Book 48, Hadith 277\nEnglish translation  : Vol. 6, Book 48, Hadith 5318",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، - وَهُوَ ابْنُ الْحَارِثِ - قَالَ حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، أَنَّ خَالِدَ بْنَ مَعْدَانَ، أَخْبَرَهُ أَنَّ جُبَيْرَ بْنَ نُفَيْرٍ أَخْبَرَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عَمْرٍو أَخْبَرَهُ أَنَّهُ، رَآهُ رَسُولُ اللَّهِ صلى الله عليه وسلم وَعَلَيْهِ ثَوْبَانِ مُعَصْفَرَانِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ، - وَهُوَ ابْنُ الْحَارِثِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، أَنَّ خَالِدَ بْنَ مَعْدَانَ، أَخْبَرَهُ أَنَّ جُبَيْرَ بْنَ نُفَي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5322": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5322\nIn-book reference  : Book 48, Hadith 283\nEnglish translation  : Vol. 6, Book 48, Hadith 5324",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ سَمِعْتُ سَعِيدَ بْنَ أَبِي عَرُوبَةَ، يُحَدِّثُ عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الْمُهَلَّبِ، عَنْ سَمُرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي الْمُهَلَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سَمُرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5323": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5323\nIn-book reference  : Book 48, Hadith 284\nEnglish translation  : Vol. 6, Book 48, Hadith 5325",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ سَمُرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَمُرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5324": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5324\nIn-book reference  : Book 48, Hadith 285\nEnglish translation  : Vol. 6, Book 48, Hadith 5326",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، قَالَ قَسَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَقْبِيَةً وَلَمْ يُعْطِ مَخْرَمَةَ شَيْئًا فَقَالَ مَخْرَمَةُ يَا بُنَىَّ انْطَلِقْ بِنَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم . فَانْطَلَقْتُ مَعَهُ قَالَ ادْخُلْ فَادْعُهُ لِي . قَالَ فَدَعَوْتُهُ فَخَرَجَ إِلَيْهِ وَعَلَيْهِ قِبَاءٌ مِنْهَا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ قَسَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَقْبِيَةً وَلَمْ يُعْطِ مَخْرَمَةَ شَيْئًا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "مَعَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ ادْخُلْ فَادْعُهُ لِي .",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ فَدَعَوْتُهُ فَخَرَجَ إِلَيْهِ وَعَلَيْهِ قِبَاءٌ مِنْهَا فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "5325": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5325\nIn-book reference  : Book 48, Hadith 286\nEnglish translation  : Vol. 6, Book 48, Hadith 5327",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ بِعَرَفَاتٍ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ سَمِعَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5326": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5326\nIn-book reference  : Book 48, Hadith 287\nEnglish translation  : Vol. 6, Book 48, Hadith 5328",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَنَّ سَالِمًا، أَخْبَرَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَنَّ سَالِمًا، أَخْبَرَهُ أَنَّ عَبْدَ اللَّهِ بْنَ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "5327": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5327\nIn-book reference  : Book 48, Hadith 288\nEnglish translation  : Vol. 6, Book 48, Hadith 5329",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، ح وَأَنْبَأَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا بِشْرٌ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، ح وَأَنْبَأَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا بِشْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5328": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5328\nIn-book reference  : Book 48, Hadith 289\nEnglish translation  : Vol. 6, Book 48, Hadith 5330",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ مُحَارِبٍ، قَالَ سَمِعْتُ ابْنَ عُمَرَ، يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَارِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَمِعْتُ ابْنَ عُمَرَ، يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5329": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5329\nIn-book reference  : Book 48, Hadith 290\nEnglish translation  : Vol. 6, Book 48, Hadith 5331",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ قُدَامَةَ، عَنْ جَرِيرٍ، عَنِ الأَعْمَشِ، عَنْ أَبِي إِسْحَاقَ، عَنْ مُسْلِمِ بْنِ نُذَيْرٍ، عَنْ حُذَيْفَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ قُدَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ جَرِيرٍ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُسْلِمِ بْنِ نُذَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حُذَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5330": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5330\nIn-book reference  : Book 48, Hadith 291\nEnglish translation  : Vol. 6, Book 48, Hadith 5332",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، - وَهُوَ ابْنُ الْحَارِثِ - قَالَ حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنِي أَبُو يَعْقُوبَ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ، - وَهُوَ ابْنُ الْحَارِثِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5331": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5331\nIn-book reference  : Book 48, Hadith 292\nEnglish translation  : Vol. 6, Book 48, Hadith 5333",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي سَعِيدٌ الْمَقْبُرِيُّ، وَقَدْ كَانَ يُخْبِرُ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يُخْبِرُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5332": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5332\nIn-book reference  : Book 48, Hadith 293\nEnglish translation  : Vol. 6, Book 48, Hadith 5334",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عَقِيلٍ، قَالَ حَدَّثَنِي جَدِّي، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَشْعَثَ، قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عَقِيلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي جَدِّي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَشْعَثَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَمِعْتُ سَعِيدَ بْنَ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5333": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5333\nIn-book reference  : Book 48, Hadith 294\nEnglish translation  : Vol. 6, Book 48, Hadith 5335",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا بِشْرُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، قَالَ سَمِعْتُ سُلَيْمَانَ بْنَ مِهْرَانَ الأَعْمَشَ، عَنْ سُلَيْمَانَ بْنِ مُسْهِرٍ، عَنْ خَرَشَةَ بْنِ الْحُرِّ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا بِشْرُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا غُنْدَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ سُلَيْمَانَ بْنَ مِهْرَانَ الأَعْمَشَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ مُسْهِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ خَرَشَةَ بْنِ الْحُرِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5334": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5334\nIn-book reference  : Book 48, Hadith 295\nEnglish translation  : Vol. 6, Book 48, Hadith 5336",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ عَبْدِ الْعَزِيزِ بْنِ أَبِي رَوَّادٍ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ بْنِ أَبِي رَوَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5347": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5347\nIn-book reference  : Book 48, Hadith 308\nEnglish translation  : Vol. 6, Book 48, Hadith 5349",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أَبِي طَلْحَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي طَلْحَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5348": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5348\nIn-book reference  : Book 48, Hadith 309\nEnglish translation  : Vol. 6, Book 48, Hadith 5350",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَنْبَأَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أَبِي طَلْحَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَنْبَأَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5349": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5349\nIn-book reference  : Book 48, Hadith 310\nEnglish translation  : Vol. 6, Book 48, Hadith 5351",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ شُعَيْبٍ، قَالَ حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ أَبِي النَّضْرِ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ دَخَلَ عَلَى أَبِي طَلْحَةَ الأَنْصَارِيِّ يَعُودُهُ فَوَجَدَ عِنْدَهُ سَهْلَ بْنَ حُنَيْفٍ فَأَمَرَ أَبُو طَلْحَةَ إِنْسَانًا يَنْزِعُ نَمَطًا تَحْتَهُ فَقَالَ لَهُ سَهْلٌ لِمَ تَنْزِعُ قَالَ لأَنَّ فِيهِ تَصَاوِيرُ وَقَدْ قَالَ فِيهَا رَسُولُ اللَّهِ صلى الله عليه وسلم مَا قَدْ عَلِمْتَ . قَالَ أَلَمْ يَقُلْ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَعْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي النَّضْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ دَخَلَ عَلَى أَبِي طَلْحَةَ الأَنْصَارِيِّ يَعُود",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "تَنْزِعُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "وَقَدْ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ فِيهَا رَسُولُ اللَّهِ صلى الله عليه وسلم مَا قَدْ عَلِمْتَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "يَقُلْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5351": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5351\nIn-book reference  : Book 48, Hadith 312\nEnglish translation  : Vol. 6, Book 48, Hadith 5353",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "حَدَّثَنَا مَسْعُودُ بْنُ جُوَيْرِيَةَ، قَالَ حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامٍ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ عَلِيٍّ، قَالَ صَنَعْتُ طَعَامًا فَدَعَوْتُ النَّبِيَّ صلى الله عليه وسلم فَجَاءَ فَدَخَلَ فَرَأَى سِتْرًا فِيهِ تَصَاوِيرُ فَخَرَجَ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَسْعُودُ بْنُ جُوَيْرِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ صَنَعْتُ طَعَامًا فَدَعَوْتُ النَّبِيَّ صلى الله عليه وسلم فَجَاءَ فَدَخَلَ فَرَأَى سِتْرًا فِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5352": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5352\nIn-book reference  : Book 48, Hadith 313\nEnglish translation  : Vol. 6, Book 48, Hadith 5354",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، قَالَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَرْجَةً ثُمَّ دَخَلَ وَقَدْ عَلَّقْتُ قِرَامًا فِيهِ الْخَيْلُ أُولاَتُ الأَجْنِحَةِ - قَالَتْ - فَلَمَّا رَآهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَرْجَةً ثُمَّ دَخَلَ وَقَدْ عَلَّقْتُ قِرَامًا فِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "رَآهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5353": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5353\nIn-book reference  : Book 48, Hadith 314\nEnglish translation  : Vol. 6, Book 48, Hadith 5355",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ، قَالَ حَدَّثَنَا عَزْرَةُ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ سَعْدِ بْنِ هِشَامٍ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ كَانَ لَنَا سِتْرٌ فِيهِ تِمْثَالُ طَيْرٍ مُسْتَقْبِلَ الْبَيْتِ إِذَا دَخَلَ الدَّاخِلُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا عَزْرَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ سَعْدِ بْنِ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَتْ كَانَ لَنَا سِتْرٌ فِيهِ تِمْثَالُ طَيْرٍ مُسْتَقْبِلَ الْبَيْتِ إِذَا دَخَلَ الدَّاخِلُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5354": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5354\nIn-book reference  : Book 48, Hadith 315\nEnglish translation  : Vol. 6, Book 48, Hadith 5356",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنِ الْقَاسِمِ، يُحَدِّثُ عَنْ عَائِشَةَ، قَالَتْ كَانَ فِي بَيْتِي ثَوْبٌ فِيهِ تَصَاوِيرُ فَجَعَلْتُهُ إِلَى سَهْوَةٍ فِي الْبَيْتِ فَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي إِلَيْهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5356": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5356\nIn-book reference  : Book 48, Hadith 317\nEnglish translation  : Vol. 6, Book 48, Hadith 5358",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ سَفَرٍ وَقَدْ سَتَّرْتُ بِقِرَامٍ عَلَى سَهْوَةٍ لِي فِيهِ تَصَاوِيرُ فَنَزَعَهُ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ سَفَرٍ وَقَدْ سَتَّرْتُ بِقِرَامٍ عَلَى سَهْو",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5357": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5357\nIn-book reference  : Book 48, Hadith 318\nEnglish translation  : Vol. 6, Book 48, Hadith 5359",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ سُفْيَانَ، عَنِ الزُّهْرِيِّ، أَنَّهُ سَمِعَ الْقَاسِمَ بْنَ مُحَمَّدٍ، يُخْبِرُ عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم قَالَتْ دَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَدْ سَتَّرْتُ بِقِرَامٍ فِيهِ تَمَاثِيلُ فَلَمَّا رَآهُ تَلَوَّنَ وَجْهُهُ ثُمَّ هَتَكَهُ بِيَدِهِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يُخْبِرُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَتْ دَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَدْ سَتَّرْتُ بِقِرَامٍ فِيهِ تَمَاثِيل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5358": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5358\nIn-book reference  : Book 48, Hadith 319\nEnglish translation  : Vol. 6, Book 48, Hadith 5360",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا خَالِدٌ، - وَهُوَ ابْنُ الْحَارِثِ - قَالَ حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، قَالَ كُنْتُ جَالِسًا عِنْدَ ابْنِ عَبَّاسٍ أَتَاهُ رَجُلٌ مِنْ أَهْلِ الْعِرَاقِ فَقَالَ إِنِّي أُصَوِّرُ هَذِهِ التَّصَاوِيرَ فَمَا تَقُولُ فِيهَا فَقَالَ ادْنُهْ ادْنُهْ سَمِعْتُ مُحَمَّدًا صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ، - وَهُوَ ابْنُ الْحَارِثِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كُنْتُ جَالِسًا عِنْدَ ابْنِ عَبَّاسٍ أَتَاهُ رَجُلٌ مِنْ أَهْلِ الْعِرَاقِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ إِنِّي أُصَوِّرُ هَذِهِ التَّصَاوِيرَ فَمَا تَقُولُ فِيهَا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "5359": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5359\nIn-book reference  : Book 48, Hadith 320\nEnglish translation  : Vol. 6, Book 48, Hadith 5361",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5360": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5360\nIn-book reference  : Book 48, Hadith 321\nEnglish translation  : Vol. 6, Book 48, Hadith 5362",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَفَّانُ، قَالَ حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَفَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عِكْرِمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5361": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5361\nIn-book reference  : Book 48, Hadith 322\nEnglish translation  : Vol. 6, Book 48, Hadith 5363",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5362": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5362\nIn-book reference  : Book 48, Hadith 323\nEnglish translation  : Vol. 6, Book 48, Hadith 5364",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ الْقَاسِمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5365": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5365\nIn-book reference  : Book 48, Hadith 326\nEnglish translation  : Vol. 6, Book 48, Hadith 5367",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي بَكْرٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ مُجَاهِدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ اسْتَأْذَنَ جِبْرِيلُ عَلَيْهِ السَّلاَمُ عَلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ اسْتَأْذَنَ جِبْرِيلُ عَلَيْهِ السَّلاَمُ عَلَى النَّبِيِّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5369": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5369\nIn-book reference  : Book 48, Hadith 330\nEnglish translation  : Vol. 6, Book 48, Hadith 5371",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5370": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5370\nIn-book reference  : Book 48, Hadith 331\nEnglish translation  : Vol. 6, Book 48, Hadith 5372",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَخْبَرَنَا أَبُو مُعَاوِيَةَ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي رَزِينٍ، قَالَ رَأَيْتُ أَبَا هُرَيْرَةَ يَضْرِبُ بِيَدِهِ عَلَى جَبْهَتِهِ يَقُولُ يَا أَهْلَ الْعِرَاقِ تَزْعُمُونَ أَنِّي أَكْذِبُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَشْهَدُ لَسَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا أَبُو مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي رَزِينٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5371": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5371\nIn-book reference  : Book 48, Hadith 332\nEnglish translation  : Vol. 6, Book 48, Hadith 5373",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عُمَرَ بْنِ أَبِي الْوَزِيرِ أَبُو مُطَرِّفٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اضْطَجَعَ عَلَى نِطْعٍ فَعَرِقَ فَقَامَتْ أُمُّ سُلَيْمٍ إِلَى عَرَقِهِ فَنَشَّفَتْهُ فَجَعَلَتْهُ فِي قَارُورَةٍ فَرَآهَا النَّبِيُّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُمَرَ بْنِ أَبِي الْوَزِيرِ أَبُو مُطَرِّفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اضْطَجَعَ عَلَى نِطْعٍ فَعَرِقَ فَقَام",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5372": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5372\nIn-book reference  : Book 48, Hadith 333\nEnglish translation  : Vol. 6, Book 48, Hadith 5374",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ، عَنْ جَرِيرٍ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ سَمُرَةَ بْنِ سَهْمٍ، - رَجُلٌ مِنْ قَوْمِهِ - قَالَ نَزَلْتُ عَلَى أَبِي هَاشِمِ بْنِ عُتْبَةَ وَهُوَ طَعِينٌ فَأَتَاهُ مُعَاوِيَةُ يَعُودُهُ فَبَكَى أَبُو هَاشِمٍ فَقَالَ مُعَاوِيَةُ مَا يُبْكِيكَ أَوَجَعٌ يُشْئِزُكَ أَمْ عَلَى الدُّنْيَا فَقَدْ ذَهَبَ صَفْوُهَا قَالَ كُلٌّ لاَ وَلَكِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم عَهِدَ إِلَىَّ عَهْدًا وَدِدْتُ أَنِّي كُنْتُ تَبِعْتُهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ جَرِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَمُرَةَ بْنِ سَهْمٍ، - رَجُلٌ مِنْ قَوْمِهِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ نَزَلْتُ عَلَى أَبِي هَاشِمِ بْنِ عُتْبَةَ وَهُوَ طَعِينٌ فَأَتَاهُ مُعَاوِيَةُ يَعُودُهُ فَبَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "صَفْوُهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "تَبِعْتُهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5376": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Adornment",
+    "book_num": "48",
+    "reference": "Reference  : Sunan an-Nasa'i 5376\nIn-book reference  : Book 48, Hadith 337\nEnglish translation  : Vol. 6, Book 48, Hadith 5378",
+    "url": "https://sunnah.com/nasai/48",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا ابْنُ إِدْرِيسَ، قَالَ سَمِعْتُ عَاصِمَ بْنَ كُلَيْبٍ، عَنْ أَبِي بُرْدَةَ، عَنْ عَلِيٍّ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ إِدْرِيسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ عَاصِمَ بْنَ كُلَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

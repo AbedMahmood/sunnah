@@ -1,0 +1,1309 @@
+{
+  "3893": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3893\nIn-book reference  : Book 35, Hadith 1\nEnglish translation  : Vol. 5, Book 35, Hadith 3893",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، حَدَّثَنِي إِسْحَاقُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي إِسْحَاقُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3894": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3894\nIn-book reference  : Book 35, Hadith 2\nEnglish translation  : Vol. 5, Book 35, Hadith 3894",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3895": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3895\nIn-book reference  : Book 35, Hadith 3\nEnglish translation  : Vol. 5, Book 35, Hadith 3895",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، أَنْبَأَنَا شَيْبَانُ، عَنْ فِرَاسٍ، عَنْ عَطِيَّةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، أَنْبَأَنَا شَيْبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ فِرَاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3896": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3896\nIn-book reference  : Book 35, Hadith 4\nEnglish translation  : Vol. 5, Book 35, Hadith 3896",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ الْحَمَّالُ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي يَزِيدَ، عَنْ أَبِيهِ، عَنْ سِبَاعِ بْنِ ثَابِتٍ، عَنْ أُمِّ كُرْزٍ الْكَعْبِيَّةِ، قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ الْحَمَّالُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سِبَاعِ بْنِ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّ كُرْزٍ الْكَعْبِيَّةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3897": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3897\nIn-book reference  : Book 35, Hadith 5\nEnglish translation  : Vol. 5, Book 35, Hadith 3897",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو أُسَامَةَ، وَعَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ، وَعَبْدُ اللَّهِ بْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3899": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3899\nIn-book reference  : Book 35, Hadith 7\nEnglish translation  : Vol. 5, Book 35, Hadith 3899",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ الأَيْلِيُّ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ سُلَيْمَانَ بْنِ سُحَيْمٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ مَعْبَدِ بْنِ عَبَّاسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَشَفَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ السِّتَارَةَ فِي مَرَضِهِ وَالنَّاسُ صُفُوفٌ خَلْفَ أَبِي بَكْرٍ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ الأَيْلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ سُحَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ مَعْبَدِ بْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كَشَفَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ السِّتَارَةَ فِي مَرَضِهِ وَالنَّاسُ صُفُوفٌ خَل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3900": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3900\nIn-book reference  : Book 35, Hadith 8\nEnglish translation  : Vol. 5, Book 35, Hadith 3900",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3901": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3901\nIn-book reference  : Book 35, Hadith 9\nEnglish translation  : Vol. 5, Book 35, Hadith 3901",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا أَبُو مَرْوَانَ الْعُثْمَانِيُّ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مَرْوَانَ الْعُثْمَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3902": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3902\nIn-book reference  : Book 35, Hadith 10\nEnglish translation  : Vol. 5, Book 35, Hadith 3902",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3903": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3903\nIn-book reference  : Book 35, Hadith 11\nEnglish translation  : Vol. 5, Book 35, Hadith 3903",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا بَكْرُ بْنُ عَبْدِ الرَّحْمَنِ، حَدَّثَنَا عِيسَى بْنُ الْمُخْتَارِ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ عَطِيَّةَ، عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بَكْرُ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عِيسَى بْنُ الْمُخْتَارِ، عَنِ ابْنِ أَبِي لَيْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3904": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3904\nIn-book reference  : Book 35, Hadith 12\nEnglish translation  : Vol. 5, Book 35, Hadith 3904",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ الدِّمَشْقِيُّ، حَدَّثَنَا سَعْدَانُ بْنُ يَحْيَى بْنِ صَالِحٍ اللَّخْمِيُّ، حَدَّثَنَا صَدَقَةُ بْنُ أَبِي عِمْرَانَ، عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ، عَنْ أَبِيهِ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ الدِّمَشْقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعْدَانُ بْنُ يَحْيَى بْنِ صَالِحٍ اللَّخْمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا صَدَقَةُ بْنُ أَبِي عِمْرَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَوْنِ بْنِ أَبِي جُحَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3905": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3905\nIn-book reference  : Book 35, Hadith 13\nEnglish translation  : Vol. 5, Book 35, Hadith 3905",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ أَبُو عَوَانَةَ حَدَّثَنَا عَنْ جَابِرٍ، عَنْ عَمَّارٍ، - هُوَ الدُّهْنِيُّ - عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الْوَلِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَوَانَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمَّارٍ، - هُوَ الدُّهْنِيُّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3906": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3906\nIn-book reference  : Book 35, Hadith 14\nEnglish translation  : Vol. 5, Book 35, Hadith 3906",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا هَوْذَةُ بْنُ خَلِيفَةَ، حَدَّثَنَا عَوْفٌ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هَوْذَةُ بْنُ خَلِيفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَوْفٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3907": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3907\nIn-book reference  : Book 35, Hadith 15\nEnglish translation  : Vol. 5, Book 35, Hadith 3907",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، حَدَّثَنَا يَزِيدُ بْنُ عَبِيدَةَ، حَدَّثَنِي أَبُو عُبَيْدِ اللَّهِ، مُسْلِمُ بْنُ مِشْكَمٍ عَنْ عَوْفِ بْنِ مَالِكٍ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ عَبِيدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "مِشْكَمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَوْفِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3908": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3908\nIn-book reference  : Book 35, Hadith 16\nEnglish translation  : Vol. 5, Book 35, Hadith 3908",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ الْمِصْرِيُّ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ الْمِصْرِيُّ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3909": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3909\nIn-book reference  : Book 35, Hadith 17\nEnglish translation  : Vol. 5, Book 35, Hadith 3909",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ أَبِي قَتَادَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي قَتَادَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3910": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3910\nIn-book reference  : Book 35, Hadith 18\nEnglish translation  : Vol. 5, Book 35, Hadith 3910",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، عَنِ الْعُمَرِيِّ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ، عَنِ الْعُمَرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3911": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3911\nIn-book reference  : Book 35, Hadith 19\nEnglish translation  : Vol. 5, Book 35, Hadith 3911",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ عُمَرَ بْنِ سَعِيدِ بْنِ أَبِي حُسَيْنٍ، حَدَّثَنِي عَطَاءُ بْنُ أَبِي رَبَاحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ إِنِّي رَأَيْتُ رَأْسِي ضُرِبَ فَرَأَيْتُهُ يَتَدَهْدَهُ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُمَرَ بْنِ سَعِيدِ بْنِ أَبِي حُسَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عَطَاءُ بْنُ أَبِي رَبَاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ جَاءَ رَجُلٌ إِلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ إِنِّي رَأَيْتُ رَأْسِي ضُرِبَ فَرَأَيْتُهُ يَتَدَهْدَهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3912": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3912\nIn-book reference  : Book 35, Hadith 20\nEnglish translation  : Vol. 5, Book 35, Hadith 3912",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، قَالَ أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ رَجُلٌ وَهْوَ يَخْطُبُ فَقَالَ يَا رَسُولَ اللَّهِ رَأَيْتُ الْبَارِحَةَ فِيمَا يَرَى النَّائِمُ كَأَنَّ عُنُقِي ضُرِبَتْ وَسَقَطَ رَأْسِي فَاتَّبَعْتُهُ فَأَخَذْتُهُ فَأَعَدْتُهُ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ رَجُلٌ وَهْوَ يَخْطُبُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ رَأَيْتُ الْبَارِحَةَ فِيمَا يَرَى النَّائِمُ كَأَنَّ عُنُقِي ضُرِبَتْ وَس",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3913": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3913\nIn-book reference  : Book 35, Hadith 21\nEnglish translation  : Vol. 5, Book 35, Hadith 3913",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3915": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3915\nIn-book reference  : Book 35, Hadith 23\nEnglish translation  : Vol. 5, Book 35, Hadith 3915",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، عَنْ يَزِيدَ الرَّقَاشِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ الرَّقَاشِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3916": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3916\nIn-book reference  : Book 35, Hadith 24\nEnglish translation  : Vol. 5, Book 35, Hadith 3916",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ الصَّوَّافُ، حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ سَعِيدٍ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ الصَّوَّافُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3917": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3917\nIn-book reference  : Book 35, Hadith 25\nEnglish translation  : Vol. 5, Book 35, Hadith 3917",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ الْمِصْرِيُّ، حَدَّثَنَا بِشْرُ بْنُ بَكْرٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ الْمِصْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ ابْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3919": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3919\nIn-book reference  : Book 35, Hadith 27\nEnglish translation  : Vol. 5, Book 35, Hadith 3919",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُعَاذٍ الصَّنْعَانِيُّ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، قَالَ كُنْتُ غُلاَمًا شَابًّا عَزَبًا فِي عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَكُنْتُ أَبِيتُ فِي الْمَسْجِدِ فَكَانَ مَنْ رَأَى مِنَّا رُؤْيَا يَقُصُّهَا عَلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ فَقُلْتُ اللَّهُمَّ إِنْ كَانَ لِي عِنْدَكَ خَيْرٌ فَأَرِنِي رُؤْيَا يُعَبِّرُهَا لِي النَّبِيُّ ـ صلى الله عليه وسلم ـ . فَنِمْتُ فَرَأَيْتُ مَلَكَيْنِ أَتَيَانِي فَانْطَلَقَا بِي فَلَقِيَهُمَا مَلَكٌ آخَرُ فَقَالَ لَمْ تُرَعْ . فَانْطَلَقَا بِي إِلَى النَّارِ فَإِذَا هِيَ مَطْوِيَّةٌ كَطَىِّ الْبِئْرِ وَإِذَا فِيهَا نَاسٌ قَدْ عَرَفْتُ بَعْضَهُمْ فَأَخَذُوا بِي ذَاتَ الْيَمِينِ فَلَمَّا أَصْبَحْتُ ذَكَرْتُ ذَلِكَ لِحَفْصَةَ فَزَعَمَتْ حَفْصَةُ أَنَّهَا قَصَّتْهَا عَلَى رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُعَاذٍ الصَّنْعَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كُنْتُ غُلاَمًا شَابًّا عَزَبًا فِي عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَكُنْتُ أَب",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لَمْ تُرَعْ . فَانْطَلَقَا بِي إِلَى النَّارِ فَإِذَا هِيَ مَطْوِيَّةٌ كَطَىِّ الْبِئْرِ وَإِذ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3920": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3920\nIn-book reference  : Book 35, Hadith 28\nEnglish translation  : Vol. 5, Book 35, Hadith 3920",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا الْحَسَنُ بْنُ مُوسَى الأَشْيَبُ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ عَاصِمِ بْنِ بَهْدَلَةَ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ، عَنْ خَرَشَةَ بْنِ الْحُرِّ، قَالَ قَدِمْتُ الْمَدِينَةَ فَجَلَسْتُ إِلَى أَشْيِخَةٍ فِي مَسْجِدِ النَّبِيِّ ـ صلى الله عليه وسلم ـ فَجَاءَ شَيْخٌ يَتَوَكَّأُ عَلَى عَصًا لَهُ فَقَالَ الْقَوْمُ مَنْ سَرَّهُ أَنْ يَنْظُرَ إِلَى رَجُلٍ مِنْ أَهْلِ الْجَنَّةِ فَلْيَنْظُرْ إِلَى هَذَا . فَقَامَ خَلْفَ سَارِيَةٍ فَصَلَّى رَكْعَتَيْنِ فَقُمْتُ إِلَيْهِ فَقُلْتُ لَهُ قَالَ بَعْضُ الْقَوْمِ كَذَا وَكَذَا . قَالَ الْحَمْدُ لِلَّهِ الْجَنَّةُ لِلَّهِ يُدْخِلُهَا مَنْ يَشَاءُ وَإِنِّي رَأَيْتُ عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ رُؤْيَا رَأَيْتُ كَأَنَّ رَجُلاً أَتَانِي فَقَالَ لِيَ انْطَلِقْ . فَذَهَبْتُ مَعَهُ فَسَلَكَ بِي فِي مَنْهَجٍ عَظِيمٍ فَعُرِضَتْ عَلَىَّ طَرِيقٌ عَلَى يَسَارِي فَأَرَدْتُ أَنْ أَسْلُكَهَا فَقَالَ إِنَّكَ لَسْتَ مِنْ أَهْلِهَا . ثُمَّ عُرِضَتْ عَلَىَّ طَرِيقٌ عَنْ يَمِينِي فَسَلَكْتُهَا حَتَّى إِذَا انْتَهَيْتُ إِلَى جَبَلٍ زَلَقٍ فَأَخَذَ بِيَدِي فَزَجَلَ بِي فَإِذَا أَنَا عَلَى ذُرْوَتِهِ فَلَمْ أَتَقَارَّ وَلَمْ أَتَمَاسَكْ وَإِذَا عَمُودٌ مِنْ حَدِيدٍ فِي ذُرْوَتِهِ حَلْقَةٌ مِنْ ذَهَبٍ فَأَخَذَ بِيَدِي فَزَجَّلَ بِي حَتَّى أَخَذْتُ بِالْعُرْوَةِ فَقَالَ اسْتَمْسَكْتَ قُلْتُ نَعَمْ فَضَرَبَ الْعَمُودَ بِرِجْلِهِ . فَاسْتَمْسَكْتُ بِالْعُرْوَةِ . فَقَالَ قَصَصْتُهَا عَلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ مُوسَى الأَشْيَبُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ بَهْدَلَةَ، عَنِ الْمُسَيَّبِ بْنِ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خَرَشَةَ بْنِ الْحُرِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قَدِمْتُ الْمَدِينَةَ فَجَلَسْتُ إِلَى أَشْيِخَةٍ فِي مَسْجِدِ النَّبِيِّ ـ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ الْقَوْمُ مَنْ سَرَّهُ أَنْ يَنْظُرَ إِلَى رَجُلٍ مِنْ أَهْلِ الْجَنَّةِ فَلْيَنْظُرْ إِلَى هَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ بَعْضُ الْقَوْمِ كَذَا وَكَذَا .",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ الْحَمْدُ لِلَّهِ الْجَنَّةُ لِلَّهِ يُدْخِلُهَا مَنْ يَشَاءُ وَإِنِّي رَأَيْتُ عَلَى عَهْدِ ر",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ لِيَ انْطَلِقْ . فَذَهَبْتُ مَعَهُ فَسَلَكَ بِي فِي مَنْهَجٍ عَظِيمٍ فَعُرِضَتْ عَلَىَّ طَرِيق",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "طَرِيقٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "عَنْ يَمِينِي فَسَلَكْتُهَا حَتَّى إِذَا انْتَهَيْتُ إِلَى جَبَلٍ زَلَقٍ فَأَخَذَ بِيَدِي فَزَجَلَ ب",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَ اسْتَمْسَكْتَ قُلْتُ نَعَمْ فَضَرَبَ الْعَمُودَ بِرِجْلِهِ . فَاسْتَمْسَكْتُ بِالْعُرْوَةِ . ف",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "قَالَ قَصَصْتُهَا عَلَى النَّبِيِّ ـ صلى الله عليه وسلم ـ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 14,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3921": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3921\nIn-book reference  : Book 35, Hadith 29\nEnglish translation  : Vol. 5, Book 35, Hadith 3921",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا بُرَيْدٌ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بُرَيْدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3922": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3922\nIn-book reference  : Book 35, Hadith 30\nEnglish translation  : Vol. 5, Book 35, Hadith 3922",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3924": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3924\nIn-book reference  : Book 35, Hadith 32\nEnglish translation  : Vol. 5, Book 35, Hadith 3924",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ، أَخْبَرَنِي ابْنُ جُرَيْجٍ، أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ، أَخْبَرَنِي سَالِمُ بْنُ عَبْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ رُؤْيَا النَّبِيِّ، ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَامِرٍ، أَخْبَرَنِي ابْنُ جُرَيْجٍ، أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ، أَخْبَرَنِي ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ رُؤْيَا النَّبِيِّ، ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3926": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Interpretation of Dreams",
+    "book_num": "35",
+    "reference": "Reference  : Sunan Ibn Majah 3926\nIn-book reference  : Book 35, Hadith 34\nEnglish translation  : Vol. 5, Book 35, Hadith 3926",
+    "url": "https://sunnah.com/ibnmajah/35",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا أَبُو بَكْرٍ الْهُذَلِيُّ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرٍ الْهُذَلِيُّ، عَنِ ابْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

@@ -1,0 +1,898 @@
+{
+  "5640": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5640\nIn-book reference  : Book 75, Hadith 1\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 544\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ الْحَكَمُ بْنُ نَافِعٍ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ الْحَكَمُ بْنُ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ ـ رضى الله عنها ـ زَوْجَ النَّبِيِّ صلى",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "5641": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5641, 5642\nIn-book reference  : Book 75, Hadith 2\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 545\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو، حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَلْحَلَةَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، وَعَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زُهَيْرُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَلْحَلَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5643": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5643\nIn-book reference  : Book 75, Hadith 3\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 546\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، عَنْ سَعْدٍ، عَنْ عَبْدِ اللَّهِ بْنِ كَعْبٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ كَعْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5644": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5644\nIn-book reference  : Book 75, Hadith 4\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 547\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ فُلَيْحٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ هِلاَلِ بْنِ عَلِيٍّ، مِنْ بَنِي عَامِرِ بْنِ لُؤَىٍّ عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ فُلَيْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "لُؤَىٍّ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5645": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5645\nIn-book reference  : Book 75, Hadith 5\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 548\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ، أَنَّهُ قَالَ سَمِعْتُ سَعِيدَ بْنَ يَسَارٍ أَبَا الْحُبَابِ، يَقُولُ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5647": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5647\nIn-book reference  : Book 75, Hadith 7\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 550\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنِ الْحَارِثِ بْنِ سُوَيْدٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فِي مَرَضِهِ وَهْوَ يُوعَكُ وَعْكًا شَدِيدًا، وَقُلْتُ إِنَّكَ لَتُوعَكُ وَعْكًا شَدِيدًا. قُلْتُ إِنَّ ذَاكَ بِأَنَّ لَكَ أَجْرَيْنِ. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنِ الْحَارِثِ بْنِ سُوَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فِي مَرَضِهِ وَهْوَ يُوع",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5649": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5649\nIn-book reference  : Book 75, Hadith 9\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 552\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى الأَشْعَرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5652": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5652\nIn-book reference  : Book 75, Hadith 12\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 555\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عِمْرَانَ أَبِي بَكْرٍ، قَالَ حَدَّثَنِي عَطَاءُ بْنُ أَبِي رَبَاحٍ، قَالَ قَالَ لِي ابْنُ عَبَّاسٍ أَلاَ أُرِيكَ امْرَأَةً مِنْ أَهْلِ الْجَنَّةِ قُلْتُ بَلَى. قَالَ هَذِهِ الْمَرْأَةُ السَّوْدَاءُ أَتَتِ النَّبِيَّ صلى الله عليه وسلم فَقَالَتْ إِنِّي أُصْرَعُ، وَإِنِّي أَتَكَشَّفُ فَادْعُ اللَّهَ لِي. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عِمْرَانَ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي عَطَاءُ بْنُ أَبِي رَبَاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لِي ابْنُ عَبَّاسٍ أَلاَ أُرِيكَ امْرَأَةً مِنْ أَهْلِ الْجَنَّةِ قُلْتُ بَلَى.",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ هَذِهِ الْمَرْأَةُ السَّوْدَاءُ أَتَتِ النَّبِيَّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَتْ إِنِّي أُصْرَعُ، وَإِنِّي أَتَكَشَّفُ فَادْعُ اللَّهَ لِي.",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5653": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5653\nIn-book reference  : Book 75, Hadith 13\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 557\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، حَدَّثَنَا اللَّيْثُ، قَالَ حَدَّثَنِي ابْنُ الْهَادِ، عَنْ عَمْرٍو، مَوْلَى الْمُطَّلِبِ عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي ابْنُ الْهَادِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْمُطَّلِبِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5654": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5654\nIn-book reference  : Book 75, Hadith 14\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 558\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ لَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ وُعِكَ أَبُو بَكْرٍ وَبِلاَلٌ ـ رضى الله عنهما ـ قَالَتْ فَدَخَلْتُ عَلَيْهِمَا قُلْتُ يَا أَبَتِ كَيْفَ تَجِدُكَ وَيَا بِلاَلُ كَيْفَ تَجِدُكَ قَالَتْ وَكَانَ أَبُو بَكْرٍ إِذَا أَخَذَتْهُ الْحُمَّى يَقُولُ كُلُّ امْرِئٍ مُصَبَّحٌ فِي أَهْلِهِ وَالْمَوْتُ أَدْنَى مِنْ شِرَاكِ نَعْلِهِ وَكَانَ بِلاَلٌ إِذَا أَقْلَعَتْ عَنْهُ يَقُولُ أَلاَ لَيْتَ شِعْرِي هَلْ أَبِيتَنَّ لَيْلَةً بَوَادٍ وَحَوْلِي إِذْخِرٌ وَجَلِيلُ وَهَلْ أَرِدَنْ يَوْمًا مِيَاهَ مِجَنَّةٍ وَهَلْ تَبْدُوَنْ لِي شَامَةٌ وَطَفِيلُ قَالَتْ عَائِشَةُ فَجِئْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ لَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ وُعِكَ أَبُو بَكْرٍ وَبِلاَلٌ ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "تَجِدُكَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أَقْلَعَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "وَطَفِيلُ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَتْ عَائِشَةُ فَجِئْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5657": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5657\nIn-book reference  : Book 75, Hadith 17\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 561\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّ غُلاَمًا، لِيَهُودَ كَانَ يَخْدُمُ النَّبِيَّ صلى الله عليه وسلم فَمَرِضَ. فَأَتَاهُ النَّبِيُّ صلى الله عليه وسلم يَعُودُهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّ غُلاَمًا، لِيَهُودَ كَانَ يَخْدُمُ النَّبِيَّ صلى الله عليه وسلم ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5658": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5658\nIn-book reference  : Book 75, Hadith 18\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 562\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، حَدَّثَنَا هِشَامٌ، قَالَ أَخْبَرَنِي أَبِي، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ عَلَيْهِ نَاسٌ يَعُودُونَهُ فِي مَرَضِهِ فَصَلَّى بِهِمْ جَالِسًا فَجَعَلُوا يُصَلُّونَ قِيَامًا، فَأَشَارَ إِلَيْهِمِ اجْلِسُوا، فَلَمَّا فَرَغَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فَرَغَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5661": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5661\nIn-book reference  : Book 75, Hadith 21\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 565\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنِ الْحَارِثِ بْنِ سُوَيْدٍ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فِي مَرَضِهِ فَمَسِسْتُهُ وَهْوَ يُوعَكُ وَعْكًا شَدِيدًا فَقُلْتُ إِنَّكَ لَتُوعَكُ وَعْكًا شَدِيدًا، وَذَلِكَ أَنَّ لَكَ أَجْرَيْنِ. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قَبِيصَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنِ الْحَارِثِ بْنِ سُوَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فِي مَرَضِهِ فَمَسِسْتُهُ وَهْوَ يُوعَكُ وَعْكًا شَدِيد",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5663": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5663\nIn-book reference  : Book 75, Hadith 23\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 567\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنِي يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ أُسَامَةَ بْنَ زَيْدٍ، أَخْبَرَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم رَكِبَ عَلَى حِمَارٍ عَلَى إِكَافٍ عَلَى قَطِيفَةٍ فَدَكِيَّةٍ، وَأَرْدَفَ أُسَامَةَ وَرَاءَهُ يَعُودُ سَعْدَ بْنَ عُبَادَةَ قَبْلَ وَقْعَةِ بَدْرٍ فَسَارَ حَتَّى مَرَّ بِمَجْلِسٍ فِيهِ عَبْدُ اللَّهِ بْنُ أُبَىٍّ ابْنُ سَلُولَ وَذَلِكَ قَبْلَ أَنْ يُسْلِمَ عَبْدُ اللَّهِ، وَفِي الْمَجْلِسِ أَخْلاَطٌ مِنَ الْمُسْلِمِينَ وَالْمُشْرِكِينَ عَبَدَةِ الأَوْثَانِ وَالْيَهُودِ، وَفِي الْمَجْلِسِ عَبْدُ اللَّهِ بْنُ رَوَاحَةَ، فَلَمَّا غَشِيَتِ الْمَجْلِسَ عَجَاجَةُ الدَّابَّةِ خَمَّرَ عَبْدُ اللَّهِ بْنُ أُبَىٍّ أَنْفَهُ بِرِدَائِهِ، قَالَ لاَ تُغَيِّرُوا عَلَيْنَا فَسَلَّمَ النَّبِيُّ صلى الله عليه وسلم وَوَقَفَ وَنَزَلَ فَدَعَاهُمْ إِلَى اللَّهِ فَقَرَأَ عَلَيْهِمُ الْقُرْآنَ، فَقَالَ لَهُ عَبْدُ اللَّهِ بْنُ أُبَىٍّ يَا أَيُّهَا الْمَرْءُ إِنَّهُ لاَ أَحْسَنَ مِمَّا تَقُولُ إِنْ كَانَ حَقًّا، فَلاَ تُؤْذِنَا بِهِ فِي مَجْلِسِنَا، وَارْجِعْ إِلَى رَحْلِكَ فَمَنْ جَاءَكَ فَاقْصُصْ عَلَيْهِ. قَالَ ابْنُ رَوَاحَةَ بَلَى يَا رَسُولَ اللَّهِ فَاغْشَنَا بِهِ فِي مَجَالِسِنَا فَإِنَّا نُحِبُّ ذَلِكَ فَاسْتَبَّ الْمُسْلِمُونَ وَالْمُشْرِكُونَ وَالْيَهُودُ حَتَّى كَادُوا يَتَثَاوَرُونَ فَلَمْ يَزَلِ النَّبِيُّ صلى الله عليه وسلم حَتَّى سَكَتُوا فَرَكِبَ النَّبِيُّ صلى الله عليه وسلم دَابَّتَهُ حَتَّى دَخَلَ عَلَى سَعْدِ بْنِ عُبَادَةَ فَقَالَ لَهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ، أَنَّ أُسَامَةَ بْنَ زَيْدٍ، أَخْبَرَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم رَكِبَ عَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ لاَ تُغَيِّرُوا عَلَيْنَا فَسَلَّمَ النَّبِيُّ صلى الله عليه وسلم وَوَقَفَ وَنَزَلَ فَدَعَاهُم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لَهُ عَبْدُ اللَّهِ بْنُ أُبَىٍّ يَا أَيُّهَا الْمَرْءُ إِنَّهُ لاَ أَحْسَنَ مِمَّا تَقُولُ إِ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ ابْنُ رَوَاحَةَ بَلَى يَا رَسُولَ اللَّهِ فَاغْشَنَا بِهِ فِي مَجَالِسِنَا فَإِنَّا نُحِبُّ ذَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "5665": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5665\nIn-book reference  : Book 75, Hadith 25\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 569\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، وَأَيُّوبَ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ كَعْبِ بْنِ عُجْرَةَ ـ رضى الله عنه. مَرَّ بِيَ النَّبِيُّ صلى الله عليه وسلم وَأَنَا أُوقِدُ تَحْتَ الْقِدْرِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قَبِيصَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، وَأَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ كَعْبِ بْنِ عُجْرَةَ ـ رضى الله عنه. مَرَّ بِيَ النَّبِيُّ صلى الله عليه وسلم وَأَنَا أُوقِدُ ت",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5671": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5671\nIn-book reference  : Book 75, Hadith 31\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 575\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا آدَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5674": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5674\nIn-book reference  : Book 75, Hadith 34\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 578\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ عَبَّادِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، قَالَ سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم وَهْوَ مُسْتَنِدٌ إِلَىَّ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبَّادِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ عَائِشَةَ ـ رضى الله عنها ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5675": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5675\nIn-book reference  : Book 75, Hadith 35\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 579\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ ـ رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا أَتَى مَرِيضًا ـ أَوْ أُتِيَ بِهِ ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا أَتَى مَرِيضًا ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "5677": {
+    "collection": "Sahih Bukhari",
+    "book": "Patients",
+    "book_num": "75",
+    "reference": "Reference  : Sahih al-Bukhari 5677\nIn-book reference  : Book 75, Hadith 37\nUSC-MSA web (English) reference  : Vol. 7, Book 70, Hadith 581\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/75",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ أَنَّهَا قَالَتْ لَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم وُعِكَ أَبُو بَكْرٍ وَبِلاَلٌ قَالَتْ فَدَخَلْتُ عَلَيْهِمَا فَقُلْتُ يَا أَبَتِ كَيْفَ تَجِدُكَ وَيَا بِلاَلُ كَيْفَ تَجِدُكَ قَالَتْ وَكَانَ أَبُو بَكْرٍ إِذَا أَخَذَتْهُ الْحُمَّى يَقُولُ كُلُّ امْرِئٍ مُصَبَّحٌ فِي أَهْلِهِ وَالْمَوْتُ أَدْنَى مِنْ شِرَاكِ نَعْلِهِ وَكَانَ بِلاَلٌ إِذَا أُقْلِعَ عَنْهُ يَرْفَعُ عَقِيرَتَهُ فَيَقُولُ أَلاَ لَيْتَ شِعْرِي هَلْ أَبِيتَنَّ لَيْلَةً بِوَادٍ وَحَوْلِي إِذْخِرٌ وَجَلِيلُ وَهَلْ أَرِدَنْ يَوْمًا مِيَاهَ مِجَنَّةٍ وَهَلْ تَبْدُوَنْ لِي شَامَةٌ وَطَفِيلُ قَالَ قَالَتْ عَائِشَةُ فَجِئْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "وَبِلاَلٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "تَجِدُكَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أُقْلِعَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "وَطَفِيلُ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَتْ عَائِشَةُ فَجِئْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

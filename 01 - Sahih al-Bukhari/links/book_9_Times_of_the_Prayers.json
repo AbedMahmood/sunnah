@@ -1,0 +1,1101 @@
+{
+  "521": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 521, 522\nIn-book reference  : Book 9, Hadith 1\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 500\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ، أَخَّرَ الصَّلاَةَ يَوْمًا، فَدَخَلَ عَلَيْهِ عُرْوَةُ بْنُ الزُّبَيْرِ، فَأَخْبَرَهُ أَنَّ الْمُغِيرَةَ بْنَ شُعْبَةَ أَخَّرَ الصَّلاَةَ يَوْمًا وَهْوَ بِالْعِرَاقِ، فَدَخَلَ عَلَيْهِ أَبُو مَسْعُودٍ الأَنْصَارِيُّ فَقَالَ مَا هَذَا يَا مُغِيرَةُ أَلَيْسَ قَدْ عَلِمْتَ أَنَّ جِبْرِيلَ نَزَلَ فَصَلَّى، فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ صَلَّى فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ صَلَّى فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ صَلَّى فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ صَلَّى فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ، أَخَّرَ الصَّل",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "523": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 523\nIn-book reference  : Book 9, Hadith 2\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 501\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا عَبَّادٌ ـ هُوَ ابْنُ عَبَّادٍ ـ عَنْ أَبِي جَمْرَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَدِمَ وَفْدُ عَبْدِ الْقَيْسِ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالُوا إِنَّا مِنْ هَذَا الْحَىِّ مِنْ رَبِيعَةَ، وَلَسْنَا نَصِلُ إِلَيْكَ إِلاَّ فِي الشَّهْرِ الْحَرَامِ، فَمُرْنَا بِشَىْءٍ نَأْخُذْهُ عَنْكَ، وَنَدْعُو إِلَيْهِ مَنْ وَرَاءَنَا. فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبَّادٌ ـ هُوَ ابْنُ عَبَّادٍ ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي جَمْرَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "نَأْخُذْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْكَ، وَنَدْعُو إِلَيْهِ مَنْ وَرَاءَنَا. فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "525": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 525\nIn-book reference  : Book 9, Hadith 4\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 503\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنِ الأَعْمَشِ، قَالَ حَدَّثَنِي شَقِيقٌ، قَالَ سَمِعْتُ حُذَيْفَةَ، قَالَ كُنَّا جُلُوسًا عِنْدَ عُمَرَ ـ رضى الله عنه ـ فَقَالَ أَيُّكُمْ يَحْفَظُ قَوْلَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْفِتْنَةِ قُلْتُ أَنَا، كَمَا قَالَهُ. قَالَ إِنَّكَ عَلَيْهِ ـ أَوْ عَلَيْهَا ـ لَجَرِيءٌ. قُلْتُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي شَقِيقٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ حُذَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كُنَّا جُلُوسًا عِنْدَ عُمَرَ ـ رضى الله عنه ـ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "كَمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَهُ.",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قُلْتُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "532": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 532\nIn-book reference  : Book 9, Hadith 11\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 509\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "533": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 533, 534\nIn-book reference  : Book 9, Hadith 12\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 510\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا أَيُّوبُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبُو بَكْرٍ، عَنْ سُلَيْمَانَ، قَالَ صَالِحُ بْنُ كَيْسَانَ حَدَّثَنَا الأَعْرَجُ عَبْدُ الرَّحْمَنِ، وَغَيْرُهُ، عَنْ أَبِي هُرَيْرَةَ.وَنَافِعٌ مَوْلَى عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّهُمَا حَدَّثَاهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَيُّوبُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "كَيْسَانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا الأَعْرَجُ عَبْدُ الرَّحْمَنِ، وَغَيْرُهُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عُمَرَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَاهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "538": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 538\nIn-book reference  : Book 9, Hadith 15\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 513\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنَا أَبُو صَالِحٍ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "552": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 552\nIn-book reference  : Book 9, Hadith 29\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 527\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "553": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 553\nIn-book reference  : Book 9, Hadith 30\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 528\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا هِشَامٌ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الْمَلِيحِ، قَالَ كُنَّا مَعَ بُرَيْدَةَ فِي غَزْوَةٍ فِي يَوْمٍ ذِي غَيْمٍ فَقَالَ بَكِّرُوا بِصَلاَةِ الْعَصْرِ فَإِنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي الْمَلِيحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ كُنَّا مَعَ بُرَيْدَةَ فِي غَزْوَةٍ فِي يَوْمٍ ذِي غَيْمٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ بَكِّرُوا بِصَلاَةِ الْعَصْرِ فَإِنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "555": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 555\nIn-book reference  : Book 9, Hadith 32\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 530\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "556": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 556\nIn-book reference  : Book 9, Hadith 33\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 531\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شَيْبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "557": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 557\nIn-book reference  : Book 9, Hadith 34\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 532\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، أَنَّهُ أَخْبَرَهُ أَنَّهُ، سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "558": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 558\nIn-book reference  : Book 9, Hadith 35\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 533\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بُرَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "563": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 563\nIn-book reference  : Book 9, Hadith 40\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 538\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا أَبُو مَعْمَرٍ ـ هُوَ عَبْدُ اللَّهِ بْنُ عَمْرٍو ـ قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنِ الْحُسَيْنِ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ الْمُزَنِيُّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مَعْمَرٍ ـ هُوَ عَبْدُ اللَّهِ بْنُ عَمْرٍو ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنِ الْحُسَيْنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ الْمُزَنِيُّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "564": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 564\nIn-book reference  : Book 9, Hadith 41\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 539\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدَانُ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، قَالَ سَالِمٌ أَخْبَرَنِي عَبْدُ اللَّهِ، قَالَ صَلَّى لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم لَيْلَةً صَلاَةَ الْعِشَاءِ ـ وَهْىَ الَّتِي يَدْعُو النَّاسُ الْعَتَمَةَ ـ ثُمَّ انْصَرَفَ فَأَقْبَلَ عَلَيْنَا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَالِمٌ أَخْبَرَنِي عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ صَلَّى لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم لَيْلَةً صَلاَةَ الْعِشَاءِ ـ وَهْىَ الَّتِي ي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "566": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 566\nIn-book reference  : Book 9, Hadith 43\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 541\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، أَخْبَرَتْهُ قَالَتْ، أَعْتَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم لَيْلَةً بِالْعِشَاءِ، وَذَلِكَ قَبْلَ أَنْ يَفْشُوَ الإِسْلاَمُ، فَلَمْ يَخْرُجْ حَتَّى قَالَ عُمَرُ نَامَ النِّسَاءُ وَالصِّبْيَانُ. فَخَرَجَ فَقَالَ لأَهْلِ الْمَسْجِدِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَتْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَتَّى",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ عُمَرُ نَامَ النِّسَاءُ وَالصِّبْيَانُ. فَخَرَجَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الْمَسْجِدِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "569": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 569\nIn-book reference  : Book 9, Hadith 46\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 544\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا أَيُّوبُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنِي أَبُو بَكْرٍ، عَنْ سُلَيْمَانَ، قَالَ صَالِحُ بْنُ كَيْسَانَ أَخْبَرَنِي ابْنُ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، قَالَتْ أَعْتَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْعِشَاءِ حَتَّى نَادَاهُ عُمَرُ الصَّلاَةَ، نَامَ النِّسَاءُ وَالصِّبْيَانُ. فَخَرَجَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَيُّوبُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي أَبُو بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ صَالِحُ بْنُ كَيْسَانَ أَخْبَرَنِي ابْنُ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ أَعْتَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْعِشَاءِ حَتَّى نَادَاهُ عُمَرُ الصَّلاَةَ، ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "572": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 572\nIn-book reference  : Book 9, Hadith 48\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 546\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الرَّحِيمِ الْمُحَارِبِيُّ، قَالَ حَدَّثَنَا زَائِدَةُ، عَنْ حُمَيْدٍ الطَّوِيلِ، عَنْ أَنَسٍ، قَالَ أَخَّرَ النَّبِيُّ صلى الله عليه وسلم صَلاَةَ الْعِشَاءِ إِلَى نِصْفِ اللَّيْلِ، ثُمَّ صَلَّى ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحِيمِ الْمُحَارِبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَائِدَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُمَيْدٍ الطَّوِيلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "574": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 574\nIn-book reference  : Book 9, Hadith 50\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 548\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا هُدْبَةُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا هَمَّامٌ، حَدَّثَنِي أَبُو جَمْرَةَ، عَنْ أَبِي بَكْرِ بْنِ أَبِي مُوسَى، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هُدْبَةُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبُو جَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بَكْرِ بْنِ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "579": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 579\nIn-book reference  : Book 9, Hadith 55\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 553\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، وَعَنْ بُسْرِ بْنِ سَعِيدٍ، وَعَنِ الأَعْرَجِ، يُحَدِّثُونَهُ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زَيْدِ بْنِ أَسْلَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يُحَدِّثُونَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "580": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 580\nIn-book reference  : Book 9, Hadith 56\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 554\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "585": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 585\nIn-book reference  : Book 9, Hadith 60\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 559\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "586": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 586\nIn-book reference  : Book 9, Hadith 61\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 560\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عَطَاءُ بْنُ يَزِيدَ الْجُنْدَعِيُّ، أَنَّهُ سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "594": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 594\nIn-book reference  : Book 9, Hadith 69\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 568\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، قَالَ حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى ـ هُوَ ابْنُ أَبِي كَثِيرٍ ـ عَنْ أَبِي قِلاَبَةَ، أَنَّ أَبَا الْمَلِيحِ، حَدَّثَهُ قَالَ كُنَّا مَعَ بُرَيْدَةَ فِي يَوْمٍ ذِي غَيْمٍ فَقَالَ بَكِّرُوا بِالصَّلاَةِ فَإِنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى ـ هُوَ ابْنُ أَبِي كَثِيرٍ ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كُنَّا مَعَ بُرَيْدَةَ فِي يَوْمٍ ذِي غَيْمٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ بَكِّرُوا بِالصَّلاَةِ فَإِنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "596": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 596\nIn-book reference  : Book 9, Hadith 71\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 570\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، قَالَ حَدَّثَنَا هِشَامٌ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، جَاءَ يَوْمَ الْخَنْدَقِ بَعْدَ مَا غَرَبَتِ الشَّمْسُ، فَجَعَلَ يَسُبُّ كُفَّارَ قُرَيْشٍ قَالَ يَا رَسُولَ اللَّهِ مَا كِدْتُ أُصَلِّي الْعَصْرَ حَتَّى كَادَتِ الشَّمْسُ تَغْرُبُ. قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قُرَيْشٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ مَا كِدْتُ أُصَلِّي الْعَصْرَ حَتَّى كَادَتِ الشَّمْسُ تَغْرُبُ.",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "600": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 600\nIn-book reference  : Book 9, Hadith 75\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 574\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الصَّبَّاحِ، قَالَ حَدَّثَنَا أَبُو عَلِيٍّ الْحَنَفِيُّ، حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ، قَالَ انْتَظَرْنَا الْحَسَنَ وَرَاثَ عَلَيْنَا حَتَّى قَرُبْنَا مِنْ وَقْتِ قِيَامِهِ، فَجَاءَ فَقَالَ دَعَانَا جِيرَانُنَا هَؤُلاَءِ. ثُمَّ قَالَ قَالَ أَنَسٌ نَظَرْنَا النَّبِيَّ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ حَتَّى كَانَ شَطْرُ اللَّيْلِ يَبْلُغُهُ، فَجَاءَ فَصَلَّى لَنَا، ثُمَّ خَطَبَنَا فَقَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الصَّبَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قَالَ حَدَّثَنَا أَبُو عَلِيٍّ الْحَنَفِيُّ، حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ انْتَظَرْنَا الْحَسَنَ وَرَاثَ عَلَيْنَا حَتَّى قَرُبْنَا مِنْ وَقْتِ قِيَامِهِ، فَجَاءَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَنَسٌ نَظَرْنَا النَّبِيَّ صلى الله عليه وسلم ذَاتَ لَيْلَةٍ حَتَّى كَانَ شَطْرُ اللَّيْلِ يَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ"
+    ]
+  },
+  "602": {
+    "collection": "Sahih Bukhari",
+    "book": "Times of the Prayers",
+    "book_num": "9",
+    "reference": "Reference  : Sahih al-Bukhari 602\nIn-book reference  : Book 9, Hadith 77\nUSC-MSA web (English) reference  : Vol. 1, Book 10, Hadith 576\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/9",
+    "sanad_full": "حَدَّثَنَا أَبُو النُّعْمَانِ، قَالَ حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبِي، حَدَّثَنَا أَبُو عُثْمَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ، أَنَّ أَصْحَابَ الصُّفَّةِ، كَانُوا أُنَاسًا فُقَرَاءَ، وَأَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو النُّعْمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ، أَنَّ أَصْحَابَ الصُّفَّةِ، كَانُوا أُنَاسًا فُقَرَاءَ، و",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "254": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 254\nIn-book reference  : Book 5, Hadith 7\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 254\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا زُهَيْرٌ، عَنْ أَبِي إِسْحَاقَ، قَالَ حَدَّثَنِي سُلَيْمَانُ بْنُ صُرَدٍ، قَالَ حَدَّثَنِي جُبَيْرُ بْنُ مُطْعِمٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زُهَيْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي سُلَيْمَانُ بْنُ صُرَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنِي جُبَيْرُ بْنُ مُطْعِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "269": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 269\nIn-book reference  : Book 5, Hadith 22\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 269\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا أَبُو الْوَلِيدِ، قَالَ حَدَّثَنَا زَائِدَةُ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَلِيٍّ، قَالَ كُنْتُ رَجُلاً مَذَّاءً فَأَمَرْتُ رَجُلاً أَنْ يَسْأَلَ النَّبِيَّ صلى الله عليه وسلم لِمَكَانِ ابْنَتِهِ فَسَأَلَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْوَلِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَائِدَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي حَصِينٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كُنْتُ رَجُلاً مَذَّاءً فَأَمَرْتُ رَجُلاً أَنْ يَسْأَلَ النَّبِيَّ صلى الله عليه وسلم لِمَكَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "275": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 275\nIn-book reference  : Book 5, Hadith 27\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 274\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، قَالَ أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أُقِيمَتِ الصَّلاَةُ، وَعُدِّلَتِ الصُّفُوفُ قِيَامًا، فَخَرَجَ إِلَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَلَمَّا قَامَ فِي مُصَلاَّهُ ذَكَرَ أَنَّهُ جُنُبٌ فَقَالَ لَنَا :",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ أُقِيمَتِ الصَّلاَةُ، وَعُدِّلَتِ الصُّفُوفُ قِيَامًا، فَخَرَجَ إِلَيْنَا رَسُولُ اللَّهِ صلى ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ لَنَا :",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "278": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 278\nIn-book reference  : Book 5, Hadith 30\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 277\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "280": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 280\nIn-book reference  : Book 5, Hadith 32\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 278\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ أَنَّ أَبَا مُرَّةَ، مَوْلَى أُمِّ هَانِئٍ بِنْتِ أَبِي طَالِبٍ أَخْبَرَهُ أَنَّهُ، سَمِعَ أُمَّ هَانِئٍ بِنْتَ أَبِي طَالِبٍ، تَقُولُ ذَهَبْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم عَامَ الْفَتْحِ، فَوَجَدْتُهُ يَغْتَسِلُ وَفَاطِمَةُ تَسْتُرُهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ أَنَّ أَبَا مُرَّةَ، مَوْلَى أُمِّ هَانِئ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "282": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 282\nIn-book reference  : Book 5, Hadith 34\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 280\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ، عَنْ أُمِّ سَلَمَةَ أُمِّ الْمُؤْمِنِينَ، أَنَّهَا قَالَتْ جَاءَتْ أُمُّ سُلَيْمٍ امْرَأَةُ أَبِي طَلْحَةَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ، إِنَّ اللَّهَ لاَ يَسْتَحْيِي مِنَ الْحَقِّ، هَلْ عَلَى الْمَرْأَةِ مِنْ غُسْلٍ إِذَا هِيَ احْتَلَمَتْ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَنَّهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ جَاءَتْ أُمُّ سُلَيْمٍ امْرَأَةُ أَبِي طَلْحَةَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَتْ يَا رَسُولَ اللَّهِ، إِنَّ اللَّهَ لاَ يَسْتَحْيِي مِنَ الْحَقِّ، هَلْ عَلَى الْمَرْأَةِ مِن",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "287": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 287\nIn-book reference  : Book 5, Hadith 39\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 285\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم أَيَرْقُدُ أَحَدُنَا وَهْوَ جُنُبٌ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "جُنُبٌ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "289": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 289\nIn-book reference  : Book 5, Hadith 41\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 287\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا جُوَيْرِيَةُ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، قَالَ اسْتَفْتَى عُمَرُ النَّبِيَّ صلى الله عليه وسلم أَيَنَامُ أَحَدُنَا وَهْوَ جُنُبٌ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا جُوَيْرِيَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "جُنُبٌ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "290": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 290\nIn-book reference  : Book 5, Hadith 42\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 288\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّهُ قَالَ ذَكَرَ عُمَرُ بْنُ الْخَطَّابِ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ تُصِيبُهُ الْجَنَابَةُ مِنَ اللَّيْلِ، فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ ذَكَرَ عُمَرُ بْنُ الْخَطَّابِ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ تُصِيبُهُ الْجَنَا",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "291": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 291\nIn-book reference  : Book 5, Hadith 43\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 289\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ، قَالَ حَدَّثَنَا هِشَامٌ، ح وَحَدَّثَنَا أَبُو نُعَيْمٍ، عَنْ هِشَامٍ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ أَبِي رَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُعَاذُ بْنُ فَضَالَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "293": {
+    "collection": "Sahih Bukhari",
+    "book": "Bathing (Ghusl)",
+    "book_num": "5",
+    "reference": "Reference  : Sahih al-Bukhari 293\nIn-book reference  : Book 5, Hadith 45\nUSC-MSA web (English) reference  : Vol. 1, Book 5, Hadith 292\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/5",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ هِشَامِ بْنِ عُرْوَةَ، قَالَ أَخْبَرَنِي أَبِي قَالَ، أَخْبَرَنِي أَبُو أَيُّوبَ، قَالَ أَخْبَرَنِي أُبَىُّ بْنُ كَعْبٍ، أَنَّهُ قَالَ يَا رَسُولَ اللَّهِ إِذَا جَامَعَ الرَّجُلُ الْمَرْأَةَ فَلَمْ يُنْزِلْ قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ، أَخْبَرَنِي أَبُو أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يُنْزِلْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

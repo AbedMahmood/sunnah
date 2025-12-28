@@ -1,0 +1,104 @@
+{
+  "2239": {
+    "collection": "Sahih Bukhari",
+    "book": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+    "book_num": "35",
+    "reference": "Reference  : Sahih al-Bukhari 2239b\nIn-book reference  : Book 35, Hadith 2\nUSC-MSA web (English) reference  : Vol. 3, Book 35, Hadith 442\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/35",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدٌ، أَخْبَرَنَا إِسْمَاعِيلُ، عَنِ ابْنِ أَبِي نَجِيحٍ، بِهَذَا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "بِهَذَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا"
+    ]
+  },
+  "2240": {
+    "collection": "Sahih Bukhari",
+    "book": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+    "book_num": "35",
+    "reference": "Reference  : Sahih al-Bukhari 2240b\nIn-book reference  : Book 35, Hadith 4\nUSC-MSA web (English) reference  : Vol. 3, Book 35, Hadith 444\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/35",
+    "sanad_full": "حَدَّثَنَا عَلِيٌّ، حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي ابْنُ أَبِي نَجِيحٍ، وَقَالَ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيٌّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي ابْنُ أَبِي نَجِيحٍ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2241": {
+    "collection": "Sahih Bukhari",
+    "book": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+    "book_num": "35",
+    "reference": "Reference  : Sahih al-Bukhari 2241\nIn-book reference  : Book 35, Hadith 5\nUSC-MSA web (English) reference  : Vol. 3, Book 35, Hadith 445\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/35",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ عَبْدِ اللَّهِ بْنِ كَثِيرٍ، عَنْ أَبِي الْمِنْهَالِ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ يَقُولُ قَدِمَ النَّبِيُّ صلى الله عليه وسلم وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الْمِنْهَالِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ ـ رضى الله عنهما ـ يَقُولُ قَدِمَ النَّبِيُّ صلى الله عليه وسلم وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

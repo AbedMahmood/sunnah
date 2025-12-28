@@ -1,0 +1,130 @@
+{
+  "1402": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+    "book_num": "7",
+    "reference": "Reference  : Sunan Abi Dawud 1402\nIn-book reference  : Book 7, Hadith 2\nEnglish translation  : Book 7, Hadith 1397",
+    "url": "https://sunnah.com/abudawud/7",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي ابْنُ لَهِيعَةَ، أَنَّ مِشْرَحَ بْنَ هَاعَانَ أَبَا الْمُصْعَبِ، حَدَّثَهُ أَنَّ عُقْبَةَ بْنَ عَامِرٍ حَدَّثَهُ قَالَ قُلْتُ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَفِي سُورَةِ الْحَجِّ سَجْدَتَانِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سَجْدَتَانِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "1410": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+    "book_num": "7",
+    "reference": "Reference  : Sunan Abi Dawud 1410\nIn-book reference  : Book 7, Hadith 10\nEnglish translation  : Book 7, Hadith 1405",
+    "url": "https://sunnah.com/abudawud/7",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، - يَعْنِي ابْنَ الْحَارِثِ - عَنِ ابْنِ أَبِي هِلاَلٍ، عَنْ عِيَاضِ بْنِ عَبْدِ اللَّهِ بْنِ سَعْدِ بْنِ أَبِي سَرْحٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ قَالَ قَرَأَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهُوَ عَلَى الْمِنْبَرِ { ص } فَلَمَّا بَلَغَ السَّجْدَةَ نَزَلَ فَسَجَدَ وَسَجَدَ النَّاسُ مَعَهُ فَلَمَّا كَانَ يَوْمٌ آخَرُ قَرَأَهَا فَلَمَّا بَلَغَ السَّجْدَةَ تَشَزَّنَ النَّاسُ لِلسُّجُودِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، - يَعْنِي ابْنَ الْحَارِثِ - عَنِ ابْنِ أَبِي هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عِيَاضِ بْنِ عَبْدِ اللَّهِ بْنِ سَعْدِ بْنِ أَبِي سَرْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ قَرَأَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَهُوَ عَلَى الْمِنْبَرِ { ص } فَلَمَّا بَلَغَ السَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1414": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+    "book_num": "7",
+    "reference": "Reference  : Sunan Abi Dawud 1414\nIn-book reference  : Book 7, Hadith 14\nEnglish translation  : Book 7, Hadith 1409",
+    "url": "https://sunnah.com/abudawud/7",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنْ رَجُلٍ، عَنْ أَبِي الْعَالِيَةِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ فِي سُجُودِ الْقُرْآنِ بِاللَّيْلِ يَقُولُ فِي السَّجْدَةِ مِرَارًا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ الْحَذَّاءُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ رَجُلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الْعَالِيَةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ، - رضى الله عنها -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "مِرَارًا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

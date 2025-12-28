@@ -1,0 +1,700 @@
+{
+  "325": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 325\nIn-book reference  : Book 2, Hadith 1\nEnglish translation  : Vol. 1, Book 2, Hadith 326",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ سُفْيَانَ، عَنْ سِمَاكٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ بَعْضَ، أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم اغْتَسَلَتْ مِنَ الْجَنَابَةِ فَتَوَضَّأَ النَّبِيُّ صلى الله عليه وسلم بِفَضْلِهَا فَذَكَرَتْ ذَلِكَ لَهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سِمَاكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ بَعْضَ، أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم اغْتَسَل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "326": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 326\nIn-book reference  : Book 2, Hadith 2\nEnglish translation  : Vol. 1, Book 2, Hadith 327",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنَا الْوَلِيدُ بْنُ كَثِيرٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ كَعْبٍ الْقُرَظِيُّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ رَافِعٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قِيلَ يَا رَسُولَ اللَّهِ أَتَتَوَضَّأُ مِنْ بِئْرِ بُضَاعَةَ وَهِيَ بِئْرٌ يُطْرَحُ فِيهَا لُحُومُ الْكِلاَبِ وَالْحِيَضُ وَالنَّتَنُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَعْبٍ الْقُرَظِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ قِيلَ يَا رَسُولَ اللَّهِ أَتَتَوَضَّأُ مِنْ بِئْرِ بُضَاعَةَ وَهِيَ بِئْرٌ يُطْرَحُ فِيهَا لُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "327": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 327\nIn-book reference  : Book 2, Hadith 3\nEnglish translation  : Vol. 1, Book 2, Hadith 328",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ، قَالَ حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، - وَكَانَ مِنَ الْعَابِدِينَ - عَنْ مُطَرِّفِ بْنِ طَرِيفٍ، عَنْ خَالِدِ بْنِ أَبِي نَوْفٍ، عَنْ سَلِيطٍ، عَنِ ابْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنْ أَبِيهِ، قَالَ مَرَرْتُ بِالنَّبِيِّ صلى الله عليه وسلم وَهُوَ يَتَوَضَّأُ مِنْ بِئْرِ بُضَاعَةَ فَقُلْتُ أَتَتَوَضَّأُ مِنْهَا وَهِيَ يُطْرَحُ فِيهَا مَا يُكْرَهُ مِنَ النَّتْنِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْعَبَّاسُ بْنُ عَبْدِ الْعَظِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، - وَكَانَ مِنَ الْعَابِدِينَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُطَرِّفِ بْنِ طَرِيفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ خَالِدِ بْنِ أَبِي نَوْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سَلِيطٍ، عَنِ ابْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ مَرَرْتُ بِالنَّبِيِّ صلى الله عليه وسلم وَهُوَ يَتَوَضَّأُ مِنْ بِئْرِ بُضَاعَةَ فَقُلْتُ أَت",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "328": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 328\nIn-book reference  : Book 2, Hadith 4\nEnglish translation  : Vol. 1, Book 2, Hadith 329",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ الْمَرْوَزِيُّ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ بْنِ كَثِيرٍ، عَنْ مُحَمَّدِ بْنِ جَعْفَرِ بْنِ الزُّبَيْرِ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ أَبِيهِ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمَاءِ وَمَا يَنُوبُهُ مِنَ الدَّوَابِّ وَالسِّبَاعِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ الْمَرْوَزِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ بْنِ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ جَعْفَرِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمَاءِ وَمَا يَنُوبُهُ مِنَ الدَّوَابِّ وَالس",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "329": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 329\nIn-book reference  : Book 2, Hadith 5\nEnglish translation  : Vol. 1, Book 2, Hadith 330",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ أَعْرَابِيًّا، بَالَ فِي الْمَسْجِدِ فَقَامَ إِلَيْهِ بَعْضُ الْقَوْمِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ أَعْرَابِيًّا، بَالَ فِي الْمَسْجِدِ فَقَامَ إِلَيْهِ بَعْضُ الْقَوْمِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "330": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 330\nIn-book reference  : Book 2, Hadith 6\nEnglish translation  : Vol. 1, Book 2, Hadith 331",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، عَنْ عُمَرَ بْنِ عَبْدِ الْوَاحِدِ، عَنِ الأَوْزَاعِيِّ، عَنْ مُحَمَّدِ بْنِ الْوَلِيدِ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَامَ أَعْرَابِيٌّ فَبَالَ فِي الْمَسْجِدِ فَتَنَاوَلَهُ النَّاسُ فَقَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عُمَرَ بْنِ عَبْدِ الْوَاحِدِ، عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْوَلِيدِ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قَامَ أَعْرَابِيٌّ فَبَالَ فِي الْمَسْجِدِ فَتَنَاوَلَهُ النَّاسُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "331": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 331\nIn-book reference  : Book 2, Hadith 7\nEnglish translation  : Vol. 1, Book 2, Hadith 332",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا الْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، عَنْ عَمْرٍو، - وَهُوَ ابْنُ الْحَارِثِ - عَنْ بُكَيْرٍ، أَنَّ أَبَا السَّائِبِ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَمْرٍو، - وَهُوَ ابْنُ الْحَارِثِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "332": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 332\nIn-book reference  : Book 2, Hadith 8\nEnglish translation  : Vol. 1, Book 2, Hadith 333",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ سَعِيدِ بْنِ سَلَمَةَ، أَنَّ الْمُغِيرَةَ بْنَ أَبِي بُرْدَةَ، أَخْبَرَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ سَأَلَ رَجُلٌ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّا نَرْكَبُ الْبَحْرَ وَنَحْمِلُ مَعَنَا الْقَلِيلَ مِنَ الْمَاءِ فَإِنْ تَوَضَّأْنَا بِهِ عَطِشْنَا أَفَنَتَوَضَّأُ مِنْ مَاءِ الْبَحْرِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ سُلَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ سَلَمَةَ، أَنَّ الْمُغِيرَةَ بْنَ أَبِي بُرْدَةَ، أَخْبَرَهُ أَنَّهُ، سَمِعَ أَبَا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ إِنَّا نَرْكَبُ الْبَحْرَ وَنَحْمِلُ مَعَنَا الْقَلِيلَ مِنَ الْمَاءِ فَإِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "333": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 333\nIn-book reference  : Book 2, Hadith 9\nEnglish translation  : Vol. 1, Book 2, Hadith 334",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "334": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 334\nIn-book reference  : Book 2, Hadith 10\nEnglish translation  : Vol. 1, Book 2, Hadith 335",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ، عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُمَارَةَ بْنِ الْقَعْقَاعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي زُرْعَةَ بْنِ عَمْرِو بْنِ جَرِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "335": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 335\nIn-book reference  : Book 2, Hadith 11\nEnglish translation  : Vol. 1, Book 2, Hadith 336",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الأَعْمَشِ، عَنْ أَبِي رَزِينٍ، وَأَبِي، صَالِحٍ عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "صَالِحٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "336": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 336\nIn-book reference  : Book 2, Hadith 12\nEnglish translation  : Vol. 1, Book 2, Hadith 337",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، - يَعْنِي ابْنَ الْحَارِثِ - عَنْ شُعْبَةَ، عَنْ أَبِي التَّيَّاحِ، قَالَ سَمِعْتُ مُطَرِّفًا، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَ بِقَتْلِ الْكِلاَبِ وَرَخَّصَ فِي كَلْبِ الصَّيْدِ وَالْغَنَمِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ، - يَعْنِي ابْنَ الْحَارِثِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ مُطَرِّفًا،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَ بِقَتْلِ الْكِلا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "338": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 338\nIn-book reference  : Book 2, Hadith 14\nEnglish translation  : Vol. 1, Book 2, Hadith 339",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ خِلاَسٍ، عَنْ أَبِي رَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا مُعَاذُ بْنُ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ خِلاَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "339": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 339\nIn-book reference  : Book 2, Hadith 15\nEnglish translation  : Vol. 1, Book 2, Hadith 340",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنِ ابْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنِ ابْنِ أَبِي عَرُوبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ ابْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "340": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Water",
+    "book_num": "2",
+    "reference": "Reference  : Sunan an-Nasa'i 340\nIn-book reference  : Book 2, Hadith 16\nEnglish translation  : Vol. 1, Book 2, Hadith 341",
+    "url": "https://sunnah.com/nasai/2",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ حُمَيْدَةَ بِنْتِ عُبَيْدِ بْنِ رِفَاعَةَ، عَنْ كَبْشَةَ بِنْتِ كَعْبِ بْنِ مَالِكٍ، أَنَّ أَبَا قَتَادَةَ، دَخَلَ عَلَيْهَا ثُمَّ ذَكَرَ كَلِمَةً مَعْنَاهَا فَسَكَبْتُ لَهُ وَضُوءًا فَجَاءَتْ هِرَّةٌ فَشَرِبَتْ مِنْهُ فَأَصْغَى لَهَا الإِنَاءَ حَتَّى شَرِبَتْ قَالَتْ كَبْشَةُ فَرَآنِي أَنْظُرُ إِلَيْهِ فَقَالَ أَتَعْجَبِينَ يَا ابْنَةَ أَخِي قُلْتُ نَعَمْ . قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُمَيْدَةَ بِنْتِ عُبَيْدِ بْنِ رِفَاعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "شَرِبَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ كَبْشَةُ فَرَآنِي أَنْظُرُ إِلَيْهِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَتَعْجَبِينَ يَا ابْنَةَ أَخِي قُلْتُ نَعَمْ .",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

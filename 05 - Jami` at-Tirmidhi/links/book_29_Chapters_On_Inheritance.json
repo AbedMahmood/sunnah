@@ -1,0 +1,448 @@
+{
+  "2090": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Inheritance",
+    "book_num": "29",
+    "reference": "Reference  : Jami` at-Tirmidhi 2090\nIn-book reference  : Book 29, Hadith 1\nEnglish translation  : Vol. 4, Book 3, Hadith 2090",
+    "url": "https://sunnah.com/tirmidhi/29",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ يَحْيَى بْنِ سَعِيدٍ الأُمَوِيُّ، قال حَدَّثَنَا أَبِي، قال حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو، قال حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ يَحْيَى بْنِ سَعِيدٍ الأُمَوِيُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2091": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Inheritance",
+    "book_num": "29",
+    "reference": "Reference  : Jami` at-Tirmidhi 2091\nIn-book reference  : Book 29, Hadith 2\nEnglish translation  : Vol. 4, Book 3, Hadith 2091",
+    "url": "https://sunnah.com/tirmidhi/29",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ وَاصِلٍ، قال حَدَّثَنَا مُحَمَّدُ بْنُ الْقَاسِمِ الأَسَدِيُّ، قال حَدَّثَنَا الْفَضْلُ بْنُ دَلْهَمٍ، قال حَدَّثَنَا عَوْفٌ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ وَاصِلٍ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْقَاسِمِ الأَسَدِيُّ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْفَضْلُ بْنُ دَلْهَمٍ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَوْفٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ شَهْرِ بْنِ حَوْشَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2098": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Inheritance",
+    "book_num": "29",
+    "reference": "Reference  : Jami` at-Tirmidhi 2098\nIn-book reference  : Book 29, Hadith 9\nEnglish translation  : Vol. 4, Book 3, Hadith 2098",
+    "url": "https://sunnah.com/tirmidhi/29",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ، أَخْبَرَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا ابْنُ طَاوُسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2103": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Inheritance",
+    "book_num": "29",
+    "reference": "Reference  : Jami` at-Tirmidhi 2103\nIn-book reference  : Book 29, Hadith 14\nEnglish translation  : Vol. 4, Book 3, Hadith 2103",
+    "url": "https://sunnah.com/tirmidhi/29",
+    "sanad_full": "حَدَّثَنَا بُنْدَارٌ، قال: حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، قال: حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ، عَنْ حَكِيمِ بْنِ حَكِيمِ بْنِ عَبَّادِ بْنِ حُنَيْفٍ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ، قَالَ كَتَبَ عُمَرُ بْنُ الْخَطَّابِ إِلَى أَبِي عُبَيْدَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا بُنْدَارٌ، قال:",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، قال:",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حَكِيمِ بْنِ حَكِيمِ بْنِ عَبَّادِ بْنِ حُنَيْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كَتَبَ عُمَرُ بْنُ الْخَطَّابِ إِلَى أَبِي عُبَيْدَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2104": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Inheritance",
+    "book_num": "29",
+    "reference": "Reference  : Jami` at-Tirmidhi 2104\nIn-book reference  : Book 29, Hadith 15\nEnglish translation  : Vol. 4, Book 3, Hadith 2104",
+    "url": "https://sunnah.com/tirmidhi/29",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قال: أَخْبَرَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَمْرِو بْنِ مُسْلِمٍ، عَنْ طَاوُسٍ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قال:",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ طَاوُسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2108": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Inheritance",
+    "book_num": "29",
+    "reference": "Reference  : Jami` at-Tirmidhi 2108\nIn-book reference  : Book 29, Hadith 19\nEnglish translation  : Vol. 4, Book 3, Hadith 2108",
+    "url": "https://sunnah.com/tirmidhi/29",
+    "sanad_full": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قال: حَدَّثَنَا حُصَيْنُ بْنُ نُمَيْرٍ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قال:",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حُصَيْنُ بْنُ نُمَيْرٍ، عَنِ ابْنِ أَبِي لَيْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2109": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Inheritance",
+    "book_num": "29",
+    "reference": "Reference  : Jami` at-Tirmidhi 2109\nIn-book reference  : Book 29, Hadith 20\nEnglish translation  : Vol. 4, Book 3, Hadith 2109",
+    "url": "https://sunnah.com/tirmidhi/29",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، قال: حَدَّثَنَا اللَّيْثُ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ، عَنِ الزُّهْرِيِّ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ، قال:",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2113": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Inheritance",
+    "book_num": "29",
+    "reference": "Reference  : Jami` at-Tirmidhi 2113\nIn-book reference  : Book 29, Hadith 24\nEnglish translation  : Vol. 4, Book 3, Hadith 2113",
+    "url": "https://sunnah.com/tirmidhi/29",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، قال حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ، قال",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ لَهِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2114": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Inheritance",
+    "book_num": "29",
+    "reference": "Reference  : Jami` at-Tirmidhi 2114\nIn-book reference  : Book 29, Hadith 25\nEnglish translation  : Vol. 4, Book 3, Hadith 2114",
+    "url": "https://sunnah.com/tirmidhi/29",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، قال: حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ، قال:",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ لَهِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2115": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Inheritance",
+    "book_num": "29",
+    "reference": "Reference  : Jami` at-Tirmidhi 2115\nIn-book reference  : Book 29, Hadith 26\nEnglish translation  : Vol. 4, Book 3, Hadith 2115",
+    "url": "https://sunnah.com/tirmidhi/29",
+    "sanad_full": "حَدَّثَنَا هَارُونُ أَبُو مُوسَى الْمُسْتَمْلِيُّ الْبَغْدَادِيُّ، قال: حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، قال: حَدَّثَنَا عُمَرُ بْنُ رُؤْبَةَ التَّغْلِبِيُّ، عَنْ عَبْدِ الْوَاحِدِ بْنِ عَبْدِ اللَّهِ أَبِي بُسْرٍ النَّصْرِيِّ، عَنْ وَاثِلَةَ بْنِ الأَسْقَعِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَارُونُ أَبُو مُوسَى الْمُسْتَمْلِيُّ الْبَغْدَادِيُّ، قال:",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، قال:",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ رُؤْبَةَ التَّغْلِبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الْوَاحِدِ بْنِ عَبْدِ اللَّهِ أَبِي بُسْرٍ النَّصْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ وَاثِلَةَ بْنِ الأَسْقَعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

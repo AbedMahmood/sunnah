@@ -1,0 +1,59 @@
+{
+  "1901270": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Sitting Of Rasoolullah",
+    "book_num": "20",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901270\nIn-book reference  : Book 20, Hadith 001\nEnglish translation  : Vol. 1, Book 20, Hadith 001",
+    "url": "https://sunnah.com/shamail/20",
+    "sanad_full": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "1901280": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Sitting Of Rasoolullah",
+    "book_num": "20",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901280\nIn-book reference  : Book 20, Hadith 002\nEnglish translation  : Vol. 1, Book 20, Hadith 002",
+    "url": "https://sunnah.com/shamail/20",
+    "sanad_full": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "1901290": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Sitting Of Rasoolullah",
+    "book_num": "20",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901290\nIn-book reference  : Book 20, Hadith 003\nEnglish translation  : Vol. 1, Book 20, Hadith 003",
+    "url": "https://sunnah.com/shamail/20",
+    "sanad_full": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  }
+}

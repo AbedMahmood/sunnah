@@ -1,0 +1,308 @@
+{
+  "2260": {
+    "collection": "Sahih Bukhari",
+    "book": "Hiring",
+    "book_num": "37",
+    "reference": "Reference  : Sahih al-Bukhari 2260\nIn-book reference  : Book 37, Hadith 1\nUSC-MSA web (English) reference  : Vol. 3, Book 36, Hadith 461\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/37",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي بُرْدَةَ، قَالَ أَخْبَرَنِي جَدِّي أَبُو بُرْدَةَ، عَنْ أَبِيهِ أَبِي مُوسَى الأَشْعَرِيِّ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيَّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي جَدِّي أَبُو بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ أَبِي مُوسَى الأَشْعَرِيِّ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2261": {
+    "collection": "Sahih Bukhari",
+    "book": "Hiring",
+    "book_num": "37",
+    "reference": "Reference  : Sahih al-Bukhari 2261\nIn-book reference  : Book 37, Hadith 2\nUSC-MSA web (English) reference  : Vol. 3, Book 36, Hadith 462\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/37",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ قُرَّةَ بْنِ خَالِدٍ، قَالَ حَدَّثَنِي حُمَيْدُ بْنُ هِلاَلٍ، حَدَّثَنَا أَبُو بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ أَقْبَلْتُ إِلَى النَّبِيِّ صلى الله عليه وسلم وَمَعِي رَجُلاَنِ مِنَ الأَشْعَرِيِّينَ، فَقُلْتُ مَا عَلِمْتُ أَنَّهُمَا يَطْلُبَانِ الْعَمَلَ. فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ قُرَّةَ بْنِ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي حُمَيْدُ بْنُ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ أَقْبَلْتُ إِلَى النَّبِيِّ صلى الله عليه وسلم وَمَعِي رَجُلاَنِ مِنَ الأَشْعَرِيِّينَ، فَقُلْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2265": {
+    "collection": "Sahih Bukhari",
+    "book": "Hiring",
+    "book_num": "37",
+    "reference": "Reference  : Sahih al-Bukhari 2265, 2266\nIn-book reference  : Book 37, Hadith 6\nUSC-MSA web (English) reference  : Vol. 3, Book 36, Hadith 466\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/37",
+    "sanad_full": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَطَاءٌ، عَنْ صَفْوَانَ بْنِ يَعْلَى، عَنْ يَعْلَى بْنِ أُمَيَّةَ ـ رضى الله عنه ـ قَالَ غَزَوْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم جَيْشَ الْعُسْرَةِ فَكَانَ مِنْ أَوْثَقِ أَعْمَالِي فِي نَفْسِي، فَكَانَ لِي أَجِيرٌ، فَقَاتَلَ إِنْسَانًا، فَعَضَّ أَحَدُهُمَا إِصْبَعَ صَاحِبِهِ، فَانْتَزَعَ إِصْبَعَهُ، فَأَنْدَرَ ثَنِيَّتَهُ فَسَقَطَتْ، فَانْطَلَقَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَهْدَرَ ثَنِيَّتَهُ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَطَاءٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ يَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَعْلَى بْنِ أُمَيَّةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ غَزَوْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم جَيْشَ الْعُسْرَةِ فَكَانَ مِنْ أَوْثَقِ أَعْمَالِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2268": {
+    "collection": "Sahih Bukhari",
+    "book": "Hiring",
+    "book_num": "37",
+    "reference": "Reference  : Sahih al-Bukhari 2268\nIn-book reference  : Book 37, Hadith 8\nUSC-MSA web (English) reference  : Vol. 3, Book 36, Hadith 468\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/37",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2269": {
+    "collection": "Sahih Bukhari",
+    "book": "Hiring",
+    "book_num": "37",
+    "reference": "Reference  : Sahih al-Bukhari 2269\nIn-book reference  : Book 37, Hadith 9\nUSC-MSA web (English) reference  : Vol. 3, Book 36, Hadith 469\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/37",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، مَوْلَى عَبْدِ اللَّهِ بْنِ عُمَرَ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عُمَرَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله ع",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2270": {
+    "collection": "Sahih Bukhari",
+    "book": "Hiring",
+    "book_num": "37",
+    "reference": "Reference  : Sahih al-Bukhari 2270\nIn-book reference  : Book 37, Hadith 10\nUSC-MSA web (English) reference  : Vol. 3, Book 36, Hadith 470\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/37",
+    "sanad_full": "حَدَّثَنَا يُوسُفُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنِي يَحْيَى بْنُ سُلَيْمٍ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يُوسُفُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ سُلَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2271": {
+    "collection": "Sahih Bukhari",
+    "book": "Hiring",
+    "book_num": "37",
+    "reference": "Reference  : Sahih al-Bukhari 2271\nIn-book reference  : Book 37, Hadith 11\nUSC-MSA web (English) reference  : Vol. 3, Book 36, Hadith 471\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/37",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُرَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

@@ -1,0 +1,1362 @@
+{
+  "7270": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7270\nIn-book reference  : Book 96, Hadith 3\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 375\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، عَنْ خَالِدٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ ضَمَّنِي إِلَيْهِ النَّبِيُّ صلى الله عليه وسلم وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ ضَمَّنِي إِلَيْهِ النَّبِيُّ صلى الله عليه وسلم وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7273": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7273\nIn-book reference  : Book 96, Hadith 6\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 378\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7274": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7274\nIn-book reference  : Book 96, Hadith 7\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 379\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا اللَّيْثُ، عَنْ سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7276": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7276\nIn-book reference  : Book 96, Hadith 9\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 381\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، قَالَ سَأَلْتُ الأَعْمَشَ فَقَالَ عَنْ زَيْدِ بْنِ وَهْبٍ، سَمِعْتُ حُذَيْفَةَ، يَقُولُ حَدَّثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ سَأَلْتُ الأَعْمَشَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7278": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7278, 7279\nIn-book reference  : Book 96, Hadith 11\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 383\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الزُّهْرِيُّ، عَنْ عُبَيْدِ اللَّهِ، عَنْ أَبِي هُرَيْرَةَ، وَزَيْدِ بْنِ خَالِدٍ، قَالاَ كُنَّا عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، وَزَيْدِ بْنِ خَالِدٍ، قَالاَ كُنَّا عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7283": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7283\nIn-book reference  : Book 96, Hadith 15\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 387\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُرَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7284": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7284, 7285\nIn-book reference  : Book 96, Hadith 16\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 388\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ لَمَّا تُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَاسْتُخْلِفَ أَبُو بَكْرٍ بَعْدَهُ، وَكَفَرَ مَنْ كَفَرَ مِنَ الْعَرَبِ قَالَ عُمَرُ لأَبِي بَكْرٍ كَيْفَ تُقَاتِلُ النَّاسَ، وَقَدْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا لَيْثٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْعَرَبِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "وَقَدْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7287": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7287\nIn-book reference  : Book 96, Hadith 18\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 390\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ، عَنْ أَسْمَاءَ ابْنَةِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ أَنَّهَا قَالَتْ أَتَيْتُ عَائِشَةَ حِينَ خَسَفَتِ الشَّمْسُ، وَالنَّاسُ قِيَامٌ وَهْىَ قَائِمَةٌ تُصَلِّي فَقُلْتُ مَا لِلنَّاسِ فَأَشَارَتْ بِيَدِهَا نَحْوَ السَّمَاءِ فَقَالَتْ سُبْحَانَ اللَّهِ. فَقُلْتُ آيَةٌ. قَالَتْ بِرَأْسِهَا أَنْ نَعَمْ. فَلَمَّا انْصَرَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم حَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ أَتَيْتُ عَائِشَةَ حِينَ خَسَفَتِ الشَّمْسُ، وَالنَّاسُ قِيَامٌ وَهْىَ قَائِمَةٌ تُصَلِّي فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ سُبْحَانَ اللَّهِ. فَقُلْتُ آيَةٌ.",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7288": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7288\nIn-book reference  : Book 96, Hadith 19\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 391\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7289": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7289\nIn-book reference  : Book 96, Hadith 20\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 392\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ، حَدَّثَنَا سَعِيدٌ، حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ الْمُقْرِئُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7290": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7290\nIn-book reference  : Book 96, Hadith 21\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 393\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا عَفَّانُ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا مُوسَى بْنُ عُقْبَةَ، سَمِعْتُ أَبَا النَّضْرِ، يُحَدِّثُ عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اتَّخَذَ حُجْرَةً فِي الْمَسْجِدِ مِنْ حَصِيرٍ، فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم فِيهَا لَيَالِيَ، حَتَّى اجْتَمَعَ إِلَيْهِ نَاسٌ، ثُمَّ فَقَدُوا صَوْتَهُ لَيْلَةً فَظَنُّوا أَنَّهُ قَدْ نَامَ، فَجَعَلَ بَعْضُهُمْ يَتَنَحْنَحُ لِيَخْرُجَ إِلَيْهِمْ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَفَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ زَيْدِ بْنِ ثَابِتٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اتَّخَذَ حُجْرَةً فِي الْمَسْجِدِ مِنْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7292": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7292\nIn-book reference  : Book 96, Hadith 23\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 395\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا مُوسَى، حَدَّثَنَا أَبُو عَوَانَةَ، حَدَّثَنَا عَبْدُ الْمَلِكِ، عَنْ وَرَّادٍ، كَاتِبِ الْمُغِيرَةِ قَالَ كَتَبَ مُعَاوِيَةُ إِلَى الْمُغِيرَةِ اكْتُبْ إِلَىَّ مَا سَمِعْتَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم. فَكَتَبَ إِلَيْهِ إِنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ فِي دُبُرِ كُلِّ صَلاَةٍ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْمَلِكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الْمُغِيرَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "صَلاَةٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7296": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7296\nIn-book reference  : Book 96, Hadith 27\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 399\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ صَبَّاحٍ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا وَرْقَاءُ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ، سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ صَبَّاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شَبَابَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وَرْقَاءُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7301": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7301\nIn-book reference  : Book 96, Hadith 32\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 404\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الأَعْمَشُ، حَدَّثَنَا مُسْلِمٌ، عَنْ مَسْرُوقٍ، قَالَ قَالَتْ عَائِشَةُ ـ رَضِيَ الله عنها ـ صَنَعَ النَّبِيُّ صلى الله عليه وسلم شَيْئًا تَرَخَّصَ وَتَنَزَّهَ عَنْهُ قَوْمٌ، فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَحَمِدَ اللَّهَ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُسْلِمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "وَتَنَزَّهَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7307": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7307\nIn-book reference  : Book 96, Hadith 38\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 410\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ تَلِيدٍ، حَدَّثَنِي ابْنُ وَهْبٍ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ شُرَيْحٍ، وَغَيْرُهُ، عَنْ أَبِي الأَسْوَدِ، عَنْ عُرْوَةَ، قَالَ حَجَّ عَلَيْنَا عَبْدُ اللَّهِ بْنُ عَمْرٍو فَسَمِعْتُهُ يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ تَلِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ شُرَيْحٍ، وَغَيْرُهُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7311": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7311\nIn-book reference  : Book 96, Hadith 42\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 414\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ قَيْسٍ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7312": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7312\nIn-book reference  : Book 96, Hadith 43\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 415\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي حُمَيْدٌ، قَالَ سَمِعْتُ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ، يَخْطُبُ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي حُمَيْدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَخْطُبُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7316": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7316\nIn-book reference  : Book 96, Hadith 47\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 419\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا شِهَابُ بْنُ عَبَّادٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ حُمَيْدٍ، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا شِهَابُ بْنُ عَبَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7321": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7321\nIn-book reference  : Book 96, Hadith 51\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 423\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا الأَعْمَشُ، عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحُمَيْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7322": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7322\nIn-book reference  : Book 96, Hadith 52\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 424\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ السَّلَمِيِّ، أَنَّ أَعْرَابِيًّا، بَايَعَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى الإِسْلاَمِ، فَأَصَابَ الأَعْرَابِيَّ وَعْكٌ بِالْمَدِينَةِ، فَجَاءَ الأَعْرَابِيُّ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ أَقِلْنِي بَيْعَتِي. فَأَبَى رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ جَاءَهُ فَقَالَ أَقِلْنِي بَيْعَتِي. فَأَبَى ثُمَّ جَاءَهُ فَقَالَ أَقِلْنِي بَيْعَتِي. فَأَبَى فَخَرَجَ الأَعْرَابِيُّ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ السَّلَمِيِّ، أَنَّ أَعْرَابِيًّا، بَايَعَ رَسُولَ اللَّهِ صلى الله",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ أَقِلْنِي بَيْعَتِي. فَأَبَى رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ جَاء",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَقِلْنِي بَيْعَتِي. فَأَبَى ثُمَّ جَاءَهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَقِلْنِي بَيْعَتِي. فَأَبَى فَخَرَجَ الأَعْرَابِيُّ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7331": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7331\nIn-book reference  : Book 96, Hadith 60\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 431\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7333": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7333\nIn-book reference  : Book 96, Hadith 62\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 433\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنِي مَالِكٌ، عَنْ عَمْرٍو، مَوْلَى الْمُطَّلِبِ عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم طَلَعَ لَهُ أُحُدٌ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "الْمُطَّلِبِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم طَلَعَ لَهُ أُحُد",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7335": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7335\nIn-book reference  : Book 96, Hadith 64\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 435\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا مَالِكٌ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حَفْصِ بْنِ عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7343": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7343\nIn-book reference  : Book 96, Hadith 71\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 442\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ الرَّبِيعِ، حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، حَدَّثَنِي عِكْرِمَةُ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ عُمَرَ ـ رضى الله عنه ـ حَدَّثَهُ قَالَ حَدَّثَنِي النَّبِيُّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ الرَّبِيعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7344": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7344\nIn-book reference  : Book 96, Hadith 72\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 443\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، وَقَّتَ النَّبِيُّ صلى الله عليه وسلم قَرْنًا لأَهْلِ نَجْدٍ، وَالْجُحْفَةَ لأَهْلِ الشَّأْمِ، وَذَا الْحُلَيْفَةِ لأَهْلِ الْمَدِينَةِ. قَالَ سَمِعْتُ هَذَا مِنَ النَّبِيِّ صلى الله عليه وسلم وَبَلَغَنِي أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، وَقَّتَ النَّبِيُّ صلى الله عليه وسلم قَرْنًا ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ هَذَا مِنَ النَّبِيِّ صلى الله عليه وسلم وَبَلَغَنِي أَنَّ النَّبِيَّ صلى الله عليه و",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7352": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7352\nIn-book reference  : Book 96, Hadith 79\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 450\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا حَيْوَةُ، حَدَّثَنِي يَزِيدُ بْنُ عَبْدِ اللَّهِ بْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ، عَنْ بُسْرِ بْنِ سَعِيدٍ، عَنْ أَبِي قَيْسٍ، مَوْلَى عَمْرِو بْنِ الْعَاصِ عَنْ عَمْرِو بْنِ الْعَاصِ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ، حَدَّثَنَا حَيْوَةُ، حَدَّثَنِي يَزِيدُ بْنُ عَبْدِ اللَّهِ ",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "الْعَاصِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "عَنْ"
+    ]
+  },
+  "7354": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7354\nIn-book reference  : Book 96, Hadith 81\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 452\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا عَلِيٌّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي الزُّهْرِيُّ، أَنَّهُ سَمِعَهُ مِنَ الأَعْرَجِ، يَقُولُ أَخْبَرَنِي أَبُو هُرَيْرَةَ، قَالَ إِنَّكُمْ تَزْعُمُونَ أَنَّ أَبَا هُرَيْرَةَ، يُكْثِرُ الْحَدِيثَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَاللَّهُ الْمَوْعِدُ، إِنِّي كُنْتُ امْرَأً مِسْكِينًا أَلْزَمُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى مِلْءِ بَطْنِي، وَكَانَ الْمُهَاجِرُونَ يَشْغَلُهُمُ الصَّفْقُ بِالأَسْوَاقِ، وَكَانَتِ الأَنْصَارُ يَشْغَلُهُمُ الْقِيَامُ عَلَى أَمْوَالِهِمْ، فَشَهِدْتُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ذَاتَ يَوْمٍ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيٌّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي الزُّهْرِيُّ، أَنَّهُ سَمِعَهُ مِنَ الأَعْرَجِ، يَقُولُ أَخْبَرَنِي أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ إِنَّكُمْ تَزْعُمُونَ أَنَّ أَبَا هُرَيْرَةَ، يُكْثِرُ الْحَدِيثَ عَلَى رَسُولِ اللَّهِ صلى ال",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7360": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7360\nIn-book reference  : Book 96, Hadith 87\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 459\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ سَعْدِ بْنِ إِبْرَاهِيمَ، حَدَّثَنَا أَبِي وَعَمِّي، قَالاَ حَدَّثَنَا أَبِي، عَنْ أَبِيهِ، أَخْبَرَنِي مُحَمَّدُ بْنُ جُبَيْرٍ، أَنَّ أَبَاهُ، جُبَيْرَ بْنَ مُطْعِمٍ أَخْبَرَهُ أَنَّ امْرَأَةً أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَكَلَّمَتْهُ فِي شَىْءٍ، فَأَمَرَهَا بِأَمْرٍ فَقَالَتْ أَرَأَيْتَ يَا رَسُولَ اللَّهِ إِنْ لَمْ أَجِدْكَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ سَعْدِ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، أَخْبَرَنِي مُحَمَّدُ بْنُ جُبَيْرٍ، أَنَّ أَبَاهُ، جُبَيْرَ بْنَ مُطْعِمٍ أَخْبَرَهُ ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَجِدْكَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7364": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7364\nIn-book reference  : Book 96, Hadith 91\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 466\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ سَلاَّمِ بْنِ أَبِي مُطِيعٍ، عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ، عَنْ جُنْدَبِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سَلاَّمِ بْنِ أَبِي مُطِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جُنْدَبِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7365": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7365\nIn-book reference  : Book 96, Hadith 92\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 467\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا أَبُو عِمْرَانَ الْجَوْنِيُّ، عَنْ جُنْدَبِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الصَّمَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو عِمْرَانَ الْجَوْنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جُنْدَبِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "7368": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7368\nIn-book reference  : Book 96, Hadith 95\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 465\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنِ الْحُسَيْنِ، عَنِ ابْنِ بُرَيْدَةَ، حَدَّثَنِي عَبْدُ اللَّهِ الْمُزَنِيُّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنِ الْحُسَيْنِ، عَنِ ابْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ الْمُزَنِيُّ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "7370": {
+    "collection": "Sahih Bukhari",
+    "book": "Holding Fast to the Qur'an and Sunnah",
+    "book_num": "96",
+    "reference": "Reference  : Sahih al-Bukhari 7370\nIn-book reference  : Book 96, Hadith 97\nUSC-MSA web (English) reference  : Vol. 9, Book 92, Hadith 463\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/96",
+    "sanad_full": "حَدَّثَنِي مُحَمَّدُ بْنُ حَرْبٍ، حَدَّثَنَا يَحْيَى بْنُ أَبِي زَكَرِيَّاءَ الْغَسَّانِيُّ، عَنْ هِشَامٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَطَبَ النَّاسَ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ أَبِي زَكَرِيَّاءَ الْغَسَّانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَطَبَ النَّاسَ فَحَمِدَ اللَّهَ وَأَثْنَى ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

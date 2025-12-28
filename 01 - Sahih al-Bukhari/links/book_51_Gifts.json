@@ -1,0 +1,1364 @@
+{
+  "2566": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2566\nIn-book reference  : Book 51, Hadith 1\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 740\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الْمَقْبُرِيِّ، {عَنْ أَبِيهِ،} عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الْمَقْبُرِيِّ، {",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،}",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2568": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2568\nIn-book reference  : Book 51, Hadith 3\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 742\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2570": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2570\nIn-book reference  : Book 51, Hadith 5\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 744\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ أَبِي حَازِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ السَّلَمِيِّ، عَنْ أَبِيهِ ـ رضى الله عنه ـ قَالَ كُنْتُ يَوْمًا جَالِسًا مَعَ رِجَالٍ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم فِي مَنْزِلٍ فِي طَرِيقِ مَكَّةَ وَرَسُولُ اللَّهِ صلى الله عليه وسلم نَازِلٌ أَمَامَنَا وَالْقَوْمُ مُحْرِمُونَ، وَأَنَا غَيْرُ مُحْرِمٍ، فَأَبْصَرُوا حِمَارًا وَحْشِيًّا، وَأَنَا مَشْغُولٌ أَخْصِفُ نَعْلِي، فَلَمْ يُؤْذِنُونِي بِهِ، وَأَحَبُّوا لَوْ أَنِّي أَبْصَرْتُهُ، وَالْتَفَتُّ فَأَبْصَرْتُهُ، فَقُمْتُ إِلَى الْفَرَسِ فَأَسْرَجْتُهُ ثُمَّ رَكِبْتُ وَنَسِيتُ السَّوْطَ وَالرُّمْحَ فَقُلْتُ لَهُمْ نَاوِلُونِي السَّوْطَ وَالرُّمْحَ. فَقَالُوا لاَ وَاللَّهِ، لاَ نُعِينُكَ عَلَيْهِ بِشَىْءٍ. فَغَضِبْتُ فَنَزَلْتُ فَأَخَذْتُهُمَا، ثُمَّ رَكِبْتُ، فَشَدَدْتُ عَلَى الْحِمَارِ فَعَقَرْتُهُ، ثُمَّ جِئْتُ بِهِ وَقَدْ مَاتَ، فَوَقَعُوا فِيهِ يَأْكُلُونَهُ، ثُمَّ إِنَّهُمْ شَكُّوا فِي أَكْلِهِمْ إِيَّاهُ، وَهُمْ حُرُمٌ، فَرُحْنَا وَخَبَأْتُ الْعَضُدَ مَعِي، فَأَدْرَكْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم فَسَأَلْنَاهُ عَنْ ذَلِكَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ السَّلَمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فَسَأَلْنَاهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ ذَلِكَ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2571": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2571\nIn-book reference  : Book 51, Hadith 6\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 745\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، قَالَ حَدَّثَنِي أَبُو طَوَالَةَ ـ اسْمُهُ عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ ـ قَالَ سَمِعْتُ أَنَسًا ـ رضى الله عنه ـ يَقُولُ أَتَانَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي دَارِنَا هَذِهِ، فَاسْتَسْقَى، فَحَلَبْنَا لَهُ شَاةً لَنَا، ثُمَّ شُبْتُهُ مِنْ مَاءِ بِئْرِنَا هَذِهِ، فَأَعْطَيْتُهُ وَأَبُو بَكْرٍ عَنْ يَسَارِهِ، وَعُمَرُ تُجَاهَهُ وَأَعْرَابِيٌّ عَنْ يَمِينِهِ فَلَمَّا فَرَغَ قَالَ عُمَرُ هَذَا أَبُو بَكْرٍ. فَأَعْطَى الأَعْرَابِيَّ، ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبُو طَوَالَةَ ـ اسْمُهُ عَبْدُ اللَّهِ بْنُ عَبْدِ الرَّحْمَنِ ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "بَكْرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "وَأَعْرَابِيٌّ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "فَرَغَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2573": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2573\nIn-book reference  : Book 51, Hadith 8\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 747\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، عَنِ الصَّعْبِ بْنِ جَثَّامَةَ ـ رضى الله عنهم ـ أَنَّهُ أَهْدَى لِرَسُولِ اللَّهِ صلى الله عليه وسلم حِمَارًا وَحْشِيًّا وَهْوَ بِالأَبْوَاءِ أَوْ بِوَدَّانَ فَرَدَّ عَلَيْهِ، فَلَمَّا رَأَى مَا فِي وَجْهِهِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "وَجْهِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2576": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2576\nIn-book reference  : Book 51, Hadith 11\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 750\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ، حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَعْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2577": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2577\nIn-book reference  : Book 51, Hadith 12\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 751\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِلَحْمٍ فَقِيلَ تُصُدِّقَ عَلَى بَرِيرَةَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا غُنْدَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "بَرِيرَةَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2583": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2583, 2584\nIn-book reference  : Book 51, Hadith 18\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 757\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ، حَدَّثَنَا اللَّيْثُ، قَالَ حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، قَالَ ذَكَرَ عُرْوَةُ أَنَّ الْمِسْوَرَ بْنَ مَخْرَمَةَ، رضى الله عنهما وَمَرْوَانَ أَخْبَرَاهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم حِينَ جَاءَهُ وَفْدُ هَوَازِنَ قَامَ فِي النَّاسِ، فَأَثْنَى عَلَى اللَّهِ بِمَا هُوَ أَهْلُهُ، ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2589": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2589\nIn-book reference  : Book 51, Hadith 23\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 762\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ طَاوُسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2590": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2590\nIn-book reference  : Book 51, Hadith 24\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 763\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عَبَّادِ بْنِ عَبْدِ اللَّهِ، عَنْ أَسْمَاءَ ـ رضى الله عنها ـ قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ مَا لِي مَالٌ إِلاَّ مَا أَدْخَلَ عَلَىَّ الزُّبَيْرُ فَأَتَصَدَّقُ. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ أَبِي مُلَيْكَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَبَّادِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَسْمَاءَ ـ رضى الله عنها ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ مَا لِي مَالٌ إِلاَّ مَا أَدْخَلَ عَلَىَّ الزُّبَيْرُ فَأَتَصَدَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2591": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2591\nIn-book reference  : Book 51, Hadith 25\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 764\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ فَاطِمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَسْمَاءَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2594": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2594\nIn-book reference  : Book 51, Hadith 28\nUSC-MSA web (English) reference  : Vol. 1, Book 47, Hadith 767\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "وَقَالَ بَكْرٌ عَنْ عَمْرٍو، عَنْ بُكَيْرٍ، عَنْ كُرَيْبٍ، مَوْلَى ابْنِ عَبَّاسٍ إِنَّ مَيْمُونَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَعْتَقَتْ وَلِيدَةً لَهَا فَقَالَ لَهَا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "بَكْرٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ كُرَيْبٍ، مَوْلَى ابْنِ عَبَّاسٍ إِنَّ مَيْمُونَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَعْتَق",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "لَهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2595": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2595\nIn-book reference  : Book 51, Hadith 29\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 767\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ، عَنْ طَلْحَةَ بْنِ عَبْدِ اللَّهِ ـ رَجُلٍ مِنْ بَنِي تَيْمِ بْنِ مُرَّةَ ـ عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ، إِنَّ لِي جَارَيْنِ فَإِلَى أَيِّهِمَا أُهْدِي قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ طَلْحَةَ بْنِ عَبْدِ اللَّهِ ـ رَجُلٍ مِنْ بَنِي تَيْمِ بْنِ مُرَّةَ ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله عنها ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أُهْدِي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2596": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2596\nIn-book reference  : Book 51, Hadith 30\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 768\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ ـ رضى الله عنهما ـ أَخْبَرَهُ أَنَّهُ، سَمِعَ الصَّعْبَ بْنَ جَثَّامَةَ اللَّيْثِيَّ،، وَكَانَ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم يُخْبِرُ أَنَّهُ أَهْدَى لِرَسُولِ اللَّهِ صلى الله عليه وسلم حِمَارَ وَحْشٍ وَهْوَ بِالأَبْوَاءِ ـ أَوْ بِوَدَّانَ ـ وَهْوَ مُحْرِمٌ فَرَدَّهُ، قَالَ صَعْبٌ فَلَمَّا عَرَفَ فِي وَجْهِي رَدَّهُ هَدِيَّتِي قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَبْدَ اللَّهِ بْنَ عَبّ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "هَدِيَّتِي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "2597": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2597\nIn-book reference  : Book 51, Hadith 31\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 769\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ ـ رضى الله عنه ـ قَالَ اسْتَعْمَلَ النَّبِيُّ صلى الله عليه وسلم رَجُلاً مِنَ الأَزْدِ يُقَالُ لَهُ ابْنُ اللُّتْبِيَّةِ عَلَى الصَّدَقَةِ، فَلَمَّا قَدِمَ قَالَ هَذَا لَكُمْ، وَهَذَا أُهْدِيَ لِي. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَدِمَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ هَذَا لَكُمْ، وَهَذَا أُهْدِيَ لِي.",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2598": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2598\nIn-book reference  : Book 51, Hadith 32\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 770\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا ابْنُ الْمُنْكَدِرِ، سَمِعْتُ جَابِرًا ـ رضى الله عنه ـ قَالَ قَالَ لِي النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ الْمُنْكَدِرِ، سَمِعْتُ جَابِرًا ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ لِي النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "2599": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2599\nIn-book reference  : Book 51, Hadith 33\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 771\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ ـ رضى الله عنهما ـ قَالَ قَسَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَقْبِيَةً، وَلَمْ يُعْطِ مَخْرَمَةَ مِنْهَا شَيْئًا، فَقَالَ مَخْرَمَةُ يَا بُنَىَّ انْطَلِقْ بِنَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم. فَانْطَلَقْتُ مَعَهُ، فَقَالَ ادْخُلْ فَادْعُهُ لِي. قَالَ فَدَعَوْتُهُ لَهُ فَخَرَجَ إِلَيْهِ، وَعَلَيْهِ قَبَاءٌ مِنْهَا، فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ ـ رضى الله عنهما",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ قَسَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَقْبِيَةً، وَلَمْ يُعْطِ مَخْرَمَةَ مِنْهَا شَيْئًا",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ مَخْرَمَةُ يَا بُنَىَّ انْطَلِقْ بِنَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم. فَانْطَلَقْتُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ ادْخُلْ فَادْعُهُ لِي.",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ فَدَعَوْتُهُ لَهُ فَخَرَجَ إِلَيْهِ، وَعَلَيْهِ قَبَاءٌ مِنْهَا، فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "2602": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2602\nIn-book reference  : Book 51, Hadith 36\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 774\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ قَزَعَةَ، حَدَّثَنَا مَالِكٌ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم أُتِيَ بِشَرَابٍ فَشَرِبَ، وَعَنْ يَمِينِهِ غُلاَمٌ وَعَنْ يَسَارِهِ الأَشْيَاخُ فَقَالَ لِلْغُلاَمِ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ قَزَعَةَ، حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم أُتِيَ بِشَرَابٍ فَشَرِ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَمِينِهِ غُلاَمٌ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَسَارِهِ الأَشْيَاخُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "لِلْغُلاَمِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2604": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2604\nIn-book reference  : Book 51, Hadith 38\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 775\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ مُحَارِبٍ، سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ يَقُولُ بِعْتُ مِنَ النَّبِيِّ صلى الله عليه وسلم بَعِيرًا فِي سَفَرٍ، فَلَمَّا أَتَيْنَا الْمَدِينَةَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا غُنْدَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الْمَدِينَةَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2605": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2605\nIn-book reference  : Book 51, Hadith 39\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 776\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُتِيَ بِشَرَابٍ، وَعَنْ يَمِينِهِ غُلاَمٌ وَعَنْ يَسَارِهِ أَشْيَاخٌ، فَقَالَ لِلْغُلاَمِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُتِيَ بِشَرَابٍ، ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَمِينِهِ غُلاَمٌ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَسَارِهِ أَشْيَاخٌ، فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "لِلْغُلاَمِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2615": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2615, 2616\nIn-book reference  : Book 51, Hadith 48\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 785\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا شَيْبَانُ، عَنْ قَتَادَةَ، حَدَّثَنَا أَنَسٌ ـ رضى الله عنه ـ قَالَ أُهْدِيَ لِلنَّبِيِّ صلى الله عليه وسلم جُبَّةُ سُنْدُسٍ، وَكَانَ يَنْهَى عَنِ الْحَرِيرِ، فَعَجِبَ النَّاسُ مِنْهَا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شَيْبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَنَسٌ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أُهْدِيَ لِلنَّبِيِّ صلى الله عليه وسلم جُبَّةُ سُنْدُسٍ، وَكَانَ يَنْهَى عَنِ الْحَرِيرِ، فَع",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2617": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2617\nIn-book reference  : Book 51, Hadith 49\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 786\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الْوَهَّابِ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا شُعْبَةُ، عَنْ هِشَامِ بْنِ زَيْدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّ يَهُودِيَّةً، أَتَتِ النَّبِيَّ صلى الله عليه وسلم بِشَاةٍ مَسْمُومَةٍ، فَأَكَلَ مِنْهَا فَجِيءَ بِهَا فَقِيلَ أَلاَ نَقْتُلُهَا. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الْوَهَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِشَامِ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ أَنَّ يَهُودِيَّةً، أَتَتِ النَّبِيَّ صلى الله عليه وسلم ب",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2620": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2620\nIn-book reference  : Book 51, Hadith 52\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 789\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ قَالَتْ قَدِمَتْ عَلَىَّ أُمِّي وَهْىَ مُشْرِكَةٌ، فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم، فَاسْتَفْتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قُلْتُ {إِنَّ أُمِّي قَدِمَتْ} وَهْىَ رَاغِبَةٌ، أَفَأَصِلُ أُمِّي قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أُمِّي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2621": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2621\nIn-book reference  : Book 51, Hadith 53\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 790\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، وَشُعْبَةُ، قَالاَ حَدَّثَنَا قَتَادَةُ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2622": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2622\nIn-book reference  : Book 51, Hadith 54\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 791\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَيُّوبُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2623": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2623\nIn-book reference  : Book 51, Hadith 55\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 792\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ قَزَعَةَ، حَدَّثَنَا مَالِكٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ يَقُولُ حَمَلْتُ عَلَى فَرَسٍ فِي سَبِيلِ اللَّهِ، فَأَضَاعَهُ الَّذِي كَانَ عِنْدَهُ، فَأَرَدْتُ أَنْ أَشْتَرِيَهُ مِنْهُ، وَظَنَنْتُ أَنَّهُ بَائِعُهُ بِرُخْصٍ، فَسَأَلْتُ عَنْ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ قَزَعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زَيْدِ بْنِ أَسْلَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "فَسَأَلْتُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2626": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2626\nIn-book reference  : Book 51, Hadith 58\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 794\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، قَالَ حَدَّثَنِي النَّضْرُ بْنُ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي النَّضْرُ بْنُ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ بَشِيرِ بْنِ نَهِيكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2627": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2627\nIn-book reference  : Book 51, Hadith 59\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 795\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ سَمِعْتُ أَنَسًا، يَقُولُ كَانَ فَزَعٌ بِالْمَدِينَةِ فَاسْتَعَارَ النَّبِيُّ صلى الله عليه وسلم فَرَسًا مِنْ أَبِي طَلْحَةَ يُقَالُ لَهُ الْمَنْدُوبُ، فَرَكِبَ فَلَمَّا رَجَعَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا آدَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "رَجَعَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2629": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2629\nIn-book reference  : Book 51, Hadith 61\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 797\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2631": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2631\nIn-book reference  : Book 51, Hadith 63\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 800\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ حَسَّانَ بْنِ عَطِيَّةَ، عَنْ أَبِي كَبْشَةَ السَّلُولِيِّ، سَمِعْتُ عَبْدَ اللَّهِ بْنَ عَمْرٍو ـ رضى الله عنهما ـ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عِيسَى بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَسَّانَ بْنِ عَطِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2632": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2632\nIn-book reference  : Book 51, Hadith 64\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 801\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي عَطَاءٌ، عَنْ جَابِرٍ ـ رضى الله عنه ـ قَالَ كَانَتْ لِرِجَالٍ مِنَّا فُضُولُ أَرَضِينَ فَقَالُوا نُؤَاجِرُهَا بِالثُّلُثِ وَالرُّبُعِ وَالنِّصْفِ. فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عَطَاءٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كَانَتْ لِرِجَالٍ مِنَّا فُضُولُ أَرَضِينَ فَقَالُوا نُؤَاجِرُهَا بِالثُّلُثِ وَالرُّبُعِ وَال",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2636": {
+    "collection": "Sahih Bukhari",
+    "book": "Gifts",
+    "book_num": "51",
+    "reference": "Reference  : Sahih al-Bukhari 2636\nIn-book reference  : Book 51, Hadith 68\nUSC-MSA web (English) reference  : Vol. 3, Book 47, Hadith 804\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/51",
+    "sanad_full": "حَدَّثَنَا الْحُمَيْدِيُّ، أَخْبَرَنَا سُفْيَانُ، قَالَ سَمِعْتُ مَالِكًا، يَسْأَلُ زَيْدَ بْنَ أَسْلَمَ قَالَ سَمِعْتُ أَبِي يَقُولُ، قَالَ عُمَرُ ـ رضى الله عنه ـ حَمَلْتُ عَلَى فَرَسٍ فِي سَبِيلِ اللَّهِ، فَرَأَيْتُهُ يُبَاعُ، فَسَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحُمَيْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَسْلَمَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ أَبِي يَقُولُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ عُمَرُ ـ رضى الله عنه ـ حَمَلْتُ عَلَى فَرَسٍ فِي سَبِيلِ اللَّهِ، فَرَأَيْتُهُ يُبَاعُ، فَسَأ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  }
+}

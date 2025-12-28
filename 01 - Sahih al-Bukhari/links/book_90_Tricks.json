@@ -1,0 +1,564 @@
+{
+  "6953": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6953\nIn-book reference  : Book 90, Hadith 1\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 85\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ بْنِ وَقَّاصٍ، قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ يَخْطُبُ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو النُّعْمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلْقَمَةَ بْنِ وَقَّاصٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَخْطُبُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6954": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6954\nIn-book reference  : Book 90, Hadith 2\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 86\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنِي إِسْحَاقُ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي إِسْحَاقُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هَمَّامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "6955": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6955\nIn-book reference  : Book 90, Hadith 3\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 87\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا ثُمَامَةُ بْنُ عَبْدِ اللَّهِ بْنِ أَنَسٍ، أَنَّ أَنَسًا، حَدَّثَهُ أَنَّ أَبَا بَكْرٍ كَتَبَ لَهُ فَرِيضَةَ الصَّدَقَةِ الَّتِي فَرَضَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ثُمَامَةُ بْنُ عَبْدِ اللَّهِ بْنِ أَنَسٍ، أَنَّ أَنَسًا، حَدَّثَهُ أَنَّ أَبَا بَكْرٍ كَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "6959": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6959\nIn-book reference  : Book 90, Hadith 6\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 90\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ قَالَ اسْتَفْتَى سَعْدُ بْنُ عُبَادَةَ الأَنْصَارِيُّ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي نَذْرٍ كَانَ عَلَى أُمِّهِ، تُوُفِّيَتْ قَبْلَ أَنْ تَقْضِيَهُ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ اسْتَفْتَى سَعْدُ بْنُ عُبَادَةَ الأَنْصَارِيُّ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي نَذْرٍ ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6962": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6962\nIn-book reference  : Book 90, Hadith 9\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 92\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6964": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6964\nIn-book reference  : Book 90, Hadith 11\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 94\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَجُلاً، ذَكَرَ لِلنَّبِيِّ صلى الله عليه وسلم أَنَّهُ يُخْدَعُ فِي الْبُيُوعِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَجُلاً، ذَكَرَ لِلنَّبِيِّ صلى الله عليه و",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6966": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6966\nIn-book reference  : Book 90, Hadith 13\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 96\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "6967": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6967\nIn-book reference  : Book 90, Hadith 14\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 97\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، عَنْ سُفْيَانَ، عَنْ هِشَامٍ، عَنْ عُرْوَةَ، عَنْ زَيْنَبَ ابْنَةِ أُمِّ سَلَمَةَ، عَنْ أُمِّ سَلَمَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زَيْنَبَ ابْنَةِ أُمِّ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6973": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6973\nIn-book reference  : Book 90, Hadith 20\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 103\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ خَرَجَ إِلَى الشَّأْمِ، فَلَمَّا جَاءَ بِسَرْغَ بَلَغَهُ أَنَّ الْوَبَاءَ وَقَعَ بِالشَّأْمِ فَأَخْبَرَهُ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ خَرَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6974": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6974\nIn-book reference  : Book 90, Hadith 21\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 104\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ، حَدَّثَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، حَدَّثَنَا عَامِرُ بْنُ سَعْدِ بْنِ أَبِي وَقَّاصٍ، أَنَّهُ سَمِعَ أُسَامَةَ بْنَ زَيْدٍ، يُحَدِّثُ سَعْدًا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ذَكَرَ الْوَجَعَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَامِرُ بْنُ سَعْدِ بْنِ أَبِي وَقَّاصٍ، أَنَّهُ سَمِعَ أُسَامَةَ بْنَ زَيْدٍ، يُحَدِّثُ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "6975": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6975\nIn-book reference  : Book 90, Hadith 22\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 105\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ السَّخْتِيَانِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ السَّخْتِيَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6977": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6977\nIn-book reference  : Book 90, Hadith 24\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 107\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، سَمِعْتُ عَمْرَو بْنَ الشَّرِيدِ، قَالَ جَاءَ الْمِسْوَرُ بْنُ مَخْرَمَةَ فَوَضَعَ يَدَهُ عَلَى مَنْكِبِي، فَانْطَلَقْتُ مَعَهُ إِلَى سَعْدٍ فَقَالَ أَبُو رَافِعٍ لِلْمِسْوَرِ أَلاَ تَأْمُرُ هَذَا أَنْ يَشْتَرِيَ مِنِّي بَيْتِي الَّذِي فِي دَارِي. فَقَالَ لاَ أَزِيدُهُ عَلَى أَرْبَعِمِائَةٍ، إِمَّا مُقَطَّعَةٍ وَإِمَّا مُنَجَّمَةٍ. قَالَ أُعْطِيتُ خَمْسَمِائَةٍ نَقْدًا، فَمَنَعْتُهُ، وَلَوْلاَ أَنِّي سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، سَمِعْتُ عَمْرَو بْنَ الشَّرِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ جَاءَ الْمِسْوَرُ بْنُ مَخْرَمَةَ فَوَضَعَ يَدَهُ عَلَى مَنْكِبِي، فَانْطَلَقْتُ مَعَهُ إِلَى ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَبُو رَافِعٍ لِلْمِسْوَرِ أَلاَ تَأْمُرُ هَذَا أَنْ يَشْتَرِيَ مِنِّي بَيْتِي الَّذِي فِي دَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لاَ أَزِيدُهُ عَلَى أَرْبَعِمِائَةٍ، إِمَّا مُقَطَّعَةٍ وَإِمَّا مُنَجَّمَةٍ.",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6978": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6978\nIn-book reference  : Book 90, Hadith 25\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 107\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، حَدَّثَنَا سُفْيَانُ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، عَنْ أَبِي رَافِعٍ، أَنَّ سَعْدًا، سَاوَمَهُ بَيْتًا بِأَرْبَعِمِائَةِ مِثْقَالٍ فَقَالَ لَوْلاَ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ الشَّرِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي رَافِعٍ، أَنَّ سَعْدًا، سَاوَمَهُ بَيْتًا بِأَرْبَعِمِائَةِ مِثْقَالٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6981": {
+    "collection": "Sahih Bukhari",
+    "book": "Tricks",
+    "book_num": "90",
+    "reference": "Reference  : Sahih al-Bukhari 6981\nIn-book reference  : Book 90, Hadith 28\nUSC-MSA web (English) reference  : Vol. 9, Book 86, Hadith 110\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/90",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي إِبْرَاهِيمُ بْنُ مَيْسَرَةَ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، أَنَّ أَبَا رَافِعٍ، سَاوَمَ سَعْدَ بْنَ مَالِكٍ بَيْتًا بِأَرْبَعِمِائَةِ مِثْقَالٍ وَقَالَ لَوْلاَ أَنِّي سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ الشَّرِيدِ، أَنَّ أَبَا رَافِعٍ، سَاوَمَ سَعْدَ بْنَ مَالِكٍ بَيْتًا بِأَرْبَعِمِا",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

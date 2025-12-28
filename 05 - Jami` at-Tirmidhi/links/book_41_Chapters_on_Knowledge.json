@@ -1,0 +1,1549 @@
+{
+  "2645": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2645\nIn-book reference  : Book 41, Hadith 1\nEnglish translation  : Vol. 5, Book 39, Hadith 2645",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ سَعِيدِ بْنِ أَبِي هِنْدٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ سَعِيدِ بْنِ أَبِي هِنْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2646": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2646\nIn-book reference  : Book 41, Hadith 2\nEnglish translation  : Vol. 5, Book 39, Hadith 2646",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2647": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2647\nIn-book reference  : Book 41, Hadith 3\nEnglish translation  : Vol. 5, Book 39, Hadith 2647",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا خَالِدُ بْنُ يَزِيدَ الْعَتَكِيُّ، عَنْ أَبِي جَعْفَرٍ الرَّازِيِّ، عَنِ الرَّبِيعِ بْنِ أَنَسٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ يَزِيدَ الْعَتَكِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي جَعْفَرٍ الرَّازِيِّ، عَنِ الرَّبِيعِ بْنِ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2648": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2648\nIn-book reference  : Book 41, Hadith 4\nEnglish translation  : Vol. 5, Book 39, Hadith 2648",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ حُمَيْدٍ الرَّازِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ الْمُعَلَّى، حَدَّثَنَا زِيَادُ بْنُ خَيْثَمَةَ، عَنْ أَبِي دَاوُدَ، عَنْ عَبْدِ اللَّهِ بْنِ سَخْبَرَةَ، عَنْ سَخْبَرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حُمَيْدٍ الرَّازِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُعَلَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زِيَادُ بْنُ خَيْثَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ سَخْبَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَخْبَرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2649": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2649\nIn-book reference  : Book 41, Hadith 5\nEnglish translation  : Vol. 5, Book 39, Hadith 2649",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ بُدَيْلِ بْنِ قُرَيْشٍ الْيَامِيُّ الْكُوفِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ عُمَارَةَ بْنِ زَاذَانَ، عَنْ عَلِيِّ بْنِ الْحَكَمِ، عَنْ عَطَاءٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ بُدَيْلِ بْنِ قُرَيْشٍ الْيَامِيُّ الْكُوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُمَارَةَ بْنِ زَاذَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2650": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2650\nIn-book reference  : Book 41, Hadith 6\nEnglish translation  : Vol. 5, Book 39, Hadith 2650",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا أَبُو دَاوُدَ الْحَفَرِيُّ، عَنْ سُفْيَانَ، عَنْ أَبِي هَارُونَ الْعَبْدِيِّ، قَالَ كُنَّا نَأْتِي أَبَا سَعِيدٍ فَيَقُولُ مَرْحَبًا بِوَصِيَّةِ رَسُولِ اللَّهِ صلى الله عليه وسلم إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ الْحَفَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هَارُونَ الْعَبْدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كُنَّا نَأْتِي أَبَا سَعِيدٍ فَيَقُولُ مَرْحَبًا بِوَصِيَّةِ رَسُولِ اللَّهِ صلى الله عليه وسل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2651": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2651\nIn-book reference  : Book 41, Hadith 7\nEnglish translation  : Vol. 5, Book 39, Hadith 2651",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا نُوحُ بْنُ قَيْسٍ، عَنْ أَبِي هَارُونَ الْعَبْدِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا نُوحُ بْنُ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي هَارُونَ الْعَبْدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2652": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2652\nIn-book reference  : Book 41, Hadith 8\nEnglish translation  : Vol. 5, Book 39, Hadith 2652",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ، حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2654": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2654\nIn-book reference  : Book 41, Hadith 10\nEnglish translation  : Vol. 5, Book 39, Hadith 2654",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا أَبُو الأَشْعَثِ، أَحْمَدُ بْنُ الْمِقْدَامِ الْعِجْلِيُّ الْبَصْرِيُّ حَدَّثَنَا أُمَيَّةُ بْنُ خَالِدٍ، حَدَّثَنَا إِسْحَاقُ بْنُ يَحْيَى بْنِ طَلْحَةَ، حَدَّثَنِي ابْنُ كَعْبِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْبَصْرِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أُمَيَّةُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ يَحْيَى بْنِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي ابْنُ كَعْبِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2655": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2655\nIn-book reference  : Book 41, Hadith 11\nEnglish translation  : Vol. 5, Book 39, Hadith 2655",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ نَصْرِ بْنِ عَلِيٍّ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ الْهُنَائِيُّ، حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ، عَنْ أَيُّوبَ السِّخْتِيَانِيِّ، عَنْ خَالِدِ بْنِ دُرَيْكٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ نَصْرِ بْنِ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ الْهُنَائِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ السِّخْتِيَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خَالِدِ بْنِ دُرَيْكٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2656": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2656\nIn-book reference  : Book 41, Hadith 12\nEnglish translation  : Vol. 5, Book 39, Hadith 2656",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، أَخْبَرَنَا شُعْبَةُ، أَخْبَرَنَا عُمَرُ بْنُ سُلَيْمَانَ، مِنْ وَلَدِ عُمَرَ بْنِ الْخَطَّابِ قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ أَبَانَ بْنِ عُثْمَانَ، يُحَدِّثُ عَنْ أَبِيهِ، قَالَ خَرَجَ زَيْدُ بْنُ ثَابِتٍ مِنْ عِنْدِ مَرْوَانَ نِصْفَ النَّهَارِ قُلْنَا مَا بَعَثَ إِلَيْهِ فِي هَذِهِ السَّاعَةِ إِلاَّ لِشَيْءٍ سَأَلَهُ عَنْهُ فَقُمْنَا فَسَأَلْنَاهُ فَقَالَ نَعَمْ سَأَلَنَا عَنْ أَشْيَاءَ سَمِعْنَاهَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الْخَطَّابِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "سَأَلَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْهُ فَقُمْنَا فَسَأَلْنَاهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "سَأَلَنَا",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2657": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2657\nIn-book reference  : Book 41, Hadith 13\nEnglish translation  : Vol. 5, Book 39, Hadith 2657",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، أَنْبَأَنَا شُعْبَةُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، يُحَدِّثُ عَنْ أَبِيهِ، قَالَ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ، أَنْبَأَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سِمَاكِ بْنِ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2658": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2658\nIn-book reference  : Book 41, Hadith 14\nEnglish translation  : Vol. 5, Book 39, Hadith 2658",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، يُحَدِّثُ عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2659": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2659\nIn-book reference  : Book 41, Hadith 15\nEnglish translation  : Vol. 5, Book 39, Hadith 2659",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا أَبُو هِشَامٍ الرِّفَاعِيُّ، حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، حَدَّثَنَا عَاصِمٌ، عَنْ زِرٍّ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو هِشَامٍ الرِّفَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَاصِمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زِرٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2660": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2660\nIn-book reference  : Book 41, Hadith 16\nEnglish translation  : Vol. 5, Book 39, Hadith 2660",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى الْفَزَارِيُّ ابْنُ بِنْتِ السُّدِّيِّ، حَدَّثَنَا شَرِيكُ بْنُ عَبْدِ اللَّهِ، عَنْ مَنْصُورِ بْنِ الْمُعْتَمِرِ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى الْفَزَارِيُّ ابْنُ بِنْتِ السُّدِّيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شَرِيكُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورِ بْنِ الْمُعْتَمِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ رِبْعِيِّ بْنِ حِرَاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2661": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2661\nIn-book reference  : Book 41, Hadith 17\nEnglish translation  : Vol. 5, Book 39, Hadith 2661",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2663": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2663\nIn-book reference  : Book 41, Hadith 19\nEnglish translation  : Vol. 5, Book 39, Hadith 2663",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، وَسَالِمٍ أَبِي النَّضْرِ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ، عَنْ أَبِي رَافِعٍ، وَغَيْرُهُ، رَفَعَهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، وَسَالِمٍ أَبِي النَّضْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "رَفَعَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2664": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2664\nIn-book reference  : Book 41, Hadith 20\nEnglish translation  : Vol. 5, Book 39, Hadith 2664",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، عَنِ الْحَسَنِ بْنِ جَابِرٍ اللَّخْمِيِّ، عَنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُعَاوِيَةُ بْنُ صَالِحٍ، عَنِ الْحَسَنِ بْنِ جَابِرٍ اللَّخْمِيِّ، عَنِ الْمِقْدَامِ بْن",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "2666": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2666\nIn-book reference  : Book 41, Hadith 22\nEnglish translation  : Vol. 5, Book 39, Hadith 2666",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنِ الْخَلِيلِ بْنِ مُرَّةَ، عَنْ يَحْيَى بْنِ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ كَانَ رَجُلٌ مِنَ الأَنْصَارِ يَجْلِسُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَيَسْمَعُ مِنَ النَّبِيِّ صلى الله عليه وسلم الْحَدِيثَ فَيُعْجِبُهُ وَلاَ يَحْفَظُهُ فَشَكَا ذَلِكَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي أَسْمَعُ مِنْكَ الْحَدِيثَ فَيُعْجِبُنِي وَلاَ أَحْفَظُهُ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ الْخَلِيلِ بْنِ مُرَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كَانَ رَجُلٌ مِنَ الأَنْصَارِ يَجْلِسُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَيَسْمَعُ مِنَ الن",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ إِنِّي أَسْمَعُ مِنْكَ الْحَدِيثَ فَيُعْجِبُنِي وَلاَ أَحْفَظُهُ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2667": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2667\nIn-book reference  : Book 41, Hadith 23\nEnglish translation  : Vol. 5, Book 39, Hadith 2667",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى، وَمَحْمُودُ بْنُ غَيْلاَنَ، قَالاَ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَ فَذَكَرَ الْقِصَّةَ فِي الْحَدِيثِ . قَالَ أَبُو شَاهٍ اكْتُبُوا لِي يَا رَسُولَ اللَّهِ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَ فَذَكَرَ الْقِصَّةَ فِي الْحَدِيثِ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَبُو شَاهٍ اكْتُبُوا لِي يَا رَسُولَ اللَّهِ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2669": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2669\nIn-book reference  : Book 41, Hadith 25\nEnglish translation  : Vol. 5, Book 39, Hadith 2669",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، عَنِ ابْنِ ثَوْبَانَ، هُوَ عَبْدُ الرَّحْمَنِ بْنُ ثَابِتِ بْنِ ثَوْبَانَ عَنْ حَسَّانَ بْنِ عَطِيَّةَ، عَنْ أَبِي كَبْشَةَ السَّلُولِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "ثَوْبَانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ حَسَّانَ بْنِ عَطِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي كَبْشَةَ السَّلُولِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2670": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2670\nIn-book reference  : Book 41, Hadith 26\nEnglish translation  : Vol. 5, Book 39, Hadith 2670",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا نَصْرُ بْنُ عَبْدِ الرَّحْمَنِ الْكُوفِيُّ، حَدَّثَنَا أَحْمَدُ بْنُ بَشِيرٍ، عَنْ شَبِيبِ بْنِ بِشْرٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أَتَى النَّبِيَّ صلى الله عليه وسلم رَجُلٌ يَسْتَحْمِلُهُ فَلَمْ يَجِدْ عِنْدَهُ مَا يَتَحَمَّلُهُ فَدَلَّهُ عَلَى آخَرَ فَحَمَلَهُ . فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَأَخْبَرَهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا نَصْرُ بْنُ عَبْدِ الرَّحْمَنِ الْكُوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ بَشِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شَبِيبِ بْنِ بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَتَى النَّبِيَّ صلى الله عليه وسلم رَجُلٌ يَسْتَحْمِلُهُ فَلَمْ يَجِدْ عِنْدَهُ مَا يَتَحَمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2672": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2672\nIn-book reference  : Book 41, Hadith 28\nEnglish translation  : Vol. 5, Book 39, Hadith 2672",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، وَالْحَسَنُ بْنُ عَلِيٍّ، وَغَيْرُ، وَاحِدٍ، قَالُوا حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي بُرْدَةَ، عَنْ جَدِّهِ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَدِّهِ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2674": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2674\nIn-book reference  : Book 41, Hadith 30\nEnglish translation  : Vol. 5, Book 39, Hadith 2674",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2675": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2675\nIn-book reference  : Book 41, Hadith 31\nEnglish translation  : Vol. 5, Book 39, Hadith 2675",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا الْمَسْعُودِيُّ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنِ ابْنِ جَرِيرِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا الْمَسْعُودِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنِ ابْنِ جَرِيرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2676": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2676\nIn-book reference  : Book 41, Hadith 32\nEnglish translation  : Vol. 5, Book 39, Hadith 2676",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا بَقِيَّةُ بْنُ الْوَلِيدِ، عَنْ بَحِيرِ بْنِ سَعْدٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَمْرٍو السُّلَمِيِّ، عَنِ الْعِرْبَاضِ بْنِ سَارِيَةَ، قَالَ وَعَظَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمًا بَعْدَ صَلاَةِ الْغَدَاةِ مَوْعِظَةً بَلِيغَةً ذَرَفَتْ مِنْهَا الْعُيُونُ وَوَجِلَتْ مِنْهَا الْقُلُوبُ فَقَالَ رَجُلٌ إِنَّ هَذِهِ مَوْعِظَةُ مُوَدِّعٍ فَمَاذَا تَعْهَدُ إِلَيْنَا يَا رَسُولَ اللَّهِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بَقِيَّةُ بْنُ الْوَلِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بَحِيرِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خَالِدِ بْنِ مَعْدَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَمْرٍو السُّلَمِيِّ، عَنِ الْعِرْبَاضِ بْنِ سَارِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ وَعَظَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمًا بَعْدَ صَلاَةِ الْغَدَاةِ مَوْعِظَةً بَلِ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2679": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2679\nIn-book reference  : Book 41, Hadith 35\nEnglish translation  : Vol. 5, Book 39, Hadith 2679",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2680": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2680\nIn-book reference  : Book 41, Hadith 36\nEnglish translation  : Vol. 5, Book 39, Hadith 2680",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ الصَّبَّاحِ الْبَزَّارُ، وَإِسْحَاقُ بْنُ مُوسَى الأَنْصَارِيُّ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، رِوَايَةً",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "رِوَايَةً",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2681": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2681\nIn-book reference  : Book 41, Hadith 37\nEnglish translation  : Vol. 5, Book 39, Hadith 2681",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا رَوْحُ بْنُ جَنَاحٍ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا رَوْحُ بْنُ جَنَاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2682": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2682\nIn-book reference  : Book 41, Hadith 38\nEnglish translation  : Vol. 5, Book 39, Hadith 2682",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ خِدَاشٍ الْبَغْدَادِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ يَزِيدَ الْوَاسِطِيُّ، حَدَّثَنَا عَاصِمُ بْنُ رَجَاءِ بْنِ حَيْوَةَ، عَنْ قَيْسِ بْنِ كَثِيرٍ، قَالَ قَدِمَ رَجُلٌ مِنَ الْمَدِينَةِ عَلَى أَبِي الدَّرْدَاءِ وَهُوَ بِدِمَشْقَ فَقَالَ مَا أَقْدَمَكَ يَا أَخِي فَقَالَ حَدِيثٌ بَلَغَنِي أَنَّكَ تُحَدِّثُهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ أَمَا جِئْتَ لِحَاجَةٍ قَالَ لاَ . قَالَ أَمَا قَدِمْتَ لِتِجَارَةٍ قَالَ لاَ . قَالَ مَا جِئْتَ إِلاَّ فِي طَلَبِ هَذَا الْحَدِيثِ قَالَ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ خِدَاشٍ الْبَغْدَادِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَزِيدَ الْوَاسِطِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَاصِمُ بْنُ رَجَاءِ بْنِ حَيْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَيْسِ بْنِ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ قَدِمَ رَجُلٌ مِنَ الْمَدِينَةِ عَلَى أَبِي الدَّرْدَاءِ وَهُوَ بِدِمَشْقَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ مَا أَقْدَمَكَ يَا أَخِي فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "تُحَدِّثُهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "لِحَاجَةٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ لاَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "لِتِجَارَةٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ لاَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "الْحَدِيثِ",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 14,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2683": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2683\nIn-book reference  : Book 41, Hadith 39\nEnglish translation  : Vol. 5, Book 39, Hadith 2683",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنِ ابْنِ أَشْوَعَ، عَنْ يَزِيدَ بْنِ سَلَمَةَ الْجُعْفِيِّ، قَالَ قَالَ يَزِيدُ بْنُ سَلَمَةَ يَا رَسُولَ اللَّهِ إِنِّي قَدْ سَمِعْتُ مِنْكَ، حَدِيثًا كَثِيرًا أَخَافُ أَنْ يُنْسِيَنِي، أَوَّلَهُ آخِرُهُ فَحَدِّثْنِي بِكَلِمَةٍ تَكُونُ جِمَاعًا . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنِ ابْنِ أَشْوَعَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ سَلَمَةَ الْجُعْفِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ يَزِيدُ بْنُ سَلَمَةَ يَا رَسُولَ اللَّهِ إِنِّي قَدْ سَمِعْتُ مِنْكَ، حَدِيثًا كَثِيرًا أَخَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2684": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2684\nIn-book reference  : Book 41, Hadith 40\nEnglish translation  : Vol. 5, Book 39, Hadith 2684",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا خَلَفُ بْنُ أَيُّوبَ الْعَامِرِيُّ، عَنْ عَوْفٍ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَلَفُ بْنُ أَيُّوبَ الْعَامِرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَوْفٍ، عَنِ ابْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2686": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2686\nIn-book reference  : Book 41, Hadith 42\nEnglish translation  : Vol. 5, Book 39, Hadith 2686",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ الشَّيْبَانِيُّ الْبَصْرِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنْ دَرَّاجٍ، عَنْ أَبِي الْهَيْثَمِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ حَفْصٍ الشَّيْبَانِيُّ الْبَصْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ دَرَّاجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الْهَيْثَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2687": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Knowledge",
+    "book_num": "41",
+    "reference": "Reference  : Jami` at-Tirmidhi 2687\nIn-book reference  : Book 41, Hadith 43\nEnglish translation  : Vol. 5, Book 39, Hadith 2687",
+    "url": "https://sunnah.com/tirmidhi/41",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عُمَرَ بْنِ الْوَلِيدِ الْكِنْدِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ إِبْرَاهِيمَ بْنِ الْفَضْلِ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُمَرَ بْنِ الْوَلِيدِ الْكِنْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ الْفَضْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

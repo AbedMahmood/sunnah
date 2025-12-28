@@ -1,0 +1,3934 @@
+{
+  "3206": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3206\nIn-book reference  : Book 26, Hadith 11\nEnglish translation  : Vol. 4, Book 26, Hadith 3208",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ زُرَارَةَ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنَا يُونُسُ، عَنْ أَبِي مَعْشَرٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، قَالَ كُنْتُ مَعَ ابْنِ مَسْعُودٍ وَهُوَ عِنْدَ عُثْمَانَ رضى الله عنه فَقَالَ عُثْمَانُ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى فِتْيَةٍ - قَالَ أَبُو عَبْدِ الرَّحْمَنِ فَلَمْ أَفْهَمْ فِتْيَةً كَمَا أَرَدْتُ - فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ زُرَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يُونُسُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مَعْشَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَلْقَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ كُنْتُ مَعَ ابْنِ مَسْعُودٍ وَهُوَ عِنْدَ عُثْمَانَ رضى الله عنه فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ عُثْمَانُ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى فِتْيَةٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ أَبُو عَبْدِ الرَّحْمَنِ فَلَمْ أَفْهَمْ فِتْيَةً كَمَا أَرَدْتُ - فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3207": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3207\nIn-book reference  : Book 26, Hadith 12\nEnglish translation  : Vol. 4, Book 26, Hadith 3209",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا بِشْرُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، أَنَّ عُثْمَانَ، قَالَ لاِبْنِ مَسْعُودٍ هَلْ لَكَ فِي فَتَاةٍ أُزَوِّجُكَهَا . فَدَعَا عَبْدُ اللَّهِ عَلْقَمَةَ فَحَدَّثَ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا بِشْرُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَلْقَمَةَ، أَنَّ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لاِبْنِ مَسْعُودٍ هَلْ لَكَ فِي فَتَاةٍ أُزَوِّجُكَهَا . فَدَعَا عَبْدُ اللَّهِ عَلْقَمَةَ فَح",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3208": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3208\nIn-book reference  : Book 26, Hadith 13\nEnglish translation  : Vol. 4, Book 26, Hadith 3210",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنِي هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ الْكُوفِيُّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدٍ الْمُحَارِبِيُّ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، وَالأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ الْكُوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدٍ الْمُحَارِبِيُّ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلْقَمَةَ، وَالأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3209": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3209\nIn-book reference  : Book 26, Hadith 14\nEnglish translation  : Vol. 4, Book 26, Hadith 3211",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ عُمَارَةَ بْنِ عُمَيْرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُمَارَةَ بْنِ عُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3210": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3210\nIn-book reference  : Book 26, Hadith 15\nEnglish translation  : Vol. 4, Book 26, Hadith 3212",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ عُمَارَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُمَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3211": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3211\nIn-book reference  : Book 26, Hadith 16\nEnglish translation  : Vol. 4, Book 26, Hadith 3213",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، قَالَ كُنْتُ أَمْشِي مَعَ عَبْدِ اللَّهِ بِمِنًى فَلَقِيَهُ عُثْمَانُ فَقَامَ مَعَهُ يُحَدِّثُهُ فَقَالَ يَا أَبَا عَبْدِ الرَّحْمَنِ أَلاَ أُزَوِّجُكَ جَارِيَةً شَابَّةً فَلَعَلَّهَا أَنْ تُذَكِّرَكَ بَعْضَ مَا مَضَى مِنْكَ فَقَالَ عَبْدُ اللَّهِ أَمَا لَئِنْ قُلْتَ ذَاكَ لَقَدْ قَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلْقَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كُنْتُ أَمْشِي مَعَ عَبْدِ اللَّهِ بِمِنًى فَلَقِيَهُ عُثْمَانُ فَقَامَ مَعَهُ يُحَدِّثُهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ يَا أَبَا عَبْدِ الرَّحْمَنِ أَلاَ أُزَوِّجُكَ جَارِيَةً شَابَّةً فَلَعَلَّهَا أَنْ تُذَكِّرَك",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "لَقَدْ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ لَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3215": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3215\nIn-book reference  : Book 26, Hadith 20\nEnglish translation  : Vol. 4, Book 26, Hadith 3217",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا يَحْيَى بْنُ مُوسَى، قَالَ حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ إِنِّي رَجُلٌ شَابٌّ قَدْ خَشِيتُ عَلَى نَفْسِي الْعَنَتَ وَلاَ أَجِدُ طَوْلاً أَتَزَوَّجُ النِّسَاءَ أَفَأَخْتَصِي فَأَعْرَضَ عَنْهُ النَّبِيُّ صلى الله عليه وسلم حَتَّى قَالَ ثَلاَثًا فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَحْيَى بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ، أَنَّ أَبَا هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "فَأَعْرَضَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَتَّى",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ ثَلاَثًا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3217": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3217\nIn-book reference  : Book 26, Hadith 22\nEnglish translation  : Vol. 4, Book 26, Hadith 3219",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَفَّانُ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ نَفَرًا، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالَ بَعْضُهُمْ لاَ أَتَزَوَّجُ النِّسَاءَ . وَقَالَ بَعْضُهُمْ لاَ آكُلُ اللَّحْمَ . وَقَالَ بَعْضُهُمْ لاَ أَنَامُ عَلَى فِرَاشٍ . وَقَالَ بَعْضُهُمْ أَصُومُ فَلاَ أُفْطِرُ . فَبَلَغَ ذَلِكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَفَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ نَفَرًا، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ بَعْضُهُمْ لاَ أَتَزَوَّجُ النِّسَاءَ . وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ بَعْضُهُمْ لاَ آكُلُ اللَّحْمَ . وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ بَعْضُهُمْ لاَ أَنَامُ عَلَى فِرَاشٍ . وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3218": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3218\nIn-book reference  : Book 26, Hadith 23\nEnglish translation  : Vol. 4, Book 26, Hadith 3220",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3221": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3221\nIn-book reference  : Book 26, Hadith 26\nEnglish translation  : Vol. 4, Book 26, Hadith 3223",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنِ الْحُسَيْنِ بْنِ وَاقِدٍ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ خَطَبَ أَبُو بَكْرٍ وَعُمَرُ رضى الله عنهما فَاطِمَةَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنِ الْحُسَيْنِ بْنِ وَاقِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ خَطَبَ أَبُو بَكْرٍ وَعُمَرُ رضى الله عنهما فَاطِمَةَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3222": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3222\nIn-book reference  : Book 26, Hadith 27\nEnglish translation  : Vol. 4, Book 26, Hadith 3224",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا كَثِيرُ بْنُ عُبَيْدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنِ الزُّبَيْدِيِّ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ عُثْمَانَ، طَلَّقَ وَهُوَ غُلاَمٌ شَابٌّ فِي إِمَارَةِ مَرْوَانَ ابْنَةَ سَعِيدِ بْنِ زَيْدٍ وَأُمُّهَا بِنْتُ قَيْسٍ الْبَتَّةَ فَأَرْسَلَتْ إِلِيْهَا خَالَتُهَا فَاطِمَةُ بِنْتُ قَيْسٍ تَأْمُرُهَا بِالاِنْتِقَالِ مِنْ بَيْتِ عَبْدِ اللَّهِ بْنِ عَمْرٍو وَسَمِعَ بِذَلِكَ مَرْوَانُ فَأَرْسَلَ إِلَى ابْنَةِ سَعِيدٍ فَأَمَرَهَا أَنْ تَرْجِعَ إِلَى مَسْكَنِهَا وَسَأَلَهَا مَا حَمَلَهَا عَلَى الاِنْتِقَالِ مِنْ قَبْلِ أَنْ تَعْتَدَّ فِي مَسْكَنِهَا حَتَّى تَنْقَضِيَ عِدَّتُهَا فَأَرْسَلَتْ إِلَيْهِ تُخْبِرُهُ أَنَّ خَالَتَهَا أَمَرَتْهَا بِذَلِكَ فَزَعَمَتْ فَاطِمَةُ بِنْتُ قَيْسٍ أَنَّهَا كَانَتْ تَحْتَ أَبِي عَمْرِو بْنِ حَفْصٍ فَلَمَّا أَمَّرَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلِيَّ بْنَ أَبِي طَالِبٍ عَلَى الْيَمَنِ خَرَجَ مَعَهُ وَأَرْسَلَ إِلَيْهَا بِتَطْلِيقَةٍ هِيَ بَقِيَّةُ طَلاَقِهَا وَأَمَرَ لَهَا الْحَارِثَ بْنَ هِشَامٍ وَعَيَّاشَ بْنَ أَبِي رَبِيعَةَ بِنَفَقَتِهَا فَأَرْسَلَتْ - زَعَمَتْ - إِلَى الْحَارِثِ وَعَيَّاشٍ تَسْأَلُهُمَا الَّذِي أَمَرَ لَهَا بِهِ زَوْجُهَا فَقَالاَ وَاللَّهِ مَا لَهَا عِنْدَنَا نَفَقَةٌ إِلاَّ أَنْ تَكُونَ حَامِلاً وَمَا لَهَا أَنْ تَكُونَ فِي مَسْكَنِنَا إِلاَّ بِإِذْنِنَا فَزَعَمَتْ أَنَّهَا أَتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَذَكَرَتْ ذَلِكَ لَهُ فَصَدَّقَهُمَا . قَالَتْ فَاطِمَةُ فَأَيْنَ أَنْتَقِلُ يَا رَسُولَ اللَّهِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا كَثِيرُ بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَرْبٍ، عَنِ الزُّبَيْدِيِّ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ عُثْ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3225": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3225\nIn-book reference  : Book 26, Hadith 30\nEnglish translation  : Vol. 4, Book 26, Hadith 3227",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَبُو تُمَيْلَةَ، عَنْ حُسَيْنِ بْنِ وَاقِدٍ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو تُمَيْلَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُسَيْنِ بْنِ وَاقِدٍ، عَنِ ابْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3227": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3227\nIn-book reference  : Book 26, Hadith 32\nEnglish translation  : Vol. 4, Book 26, Hadith 3229",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ أَنْبَأَنَا الْمُسْتَلِمُ بْنُ سَعِيدٍ، عَنْ مَنْصُورِ بْنِ زَاذَانَ، عَنْ مُعَاوِيَةَ بْنِ قُرَّةَ، عَنْ مَعْقِلِ بْنِ يَسَارٍ، قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنِّي أَصَبْتُ امْرَأَةً ذَاتَ حَسَبٍ وَمَنْصِبٍ إِلاَّ أَنَّهَا لاَ تَلِدُ أَفَأَتَزَوَّجُهَا فَنَهَاهُ ثُمَّ أَتَاهُ الثَّانِيَةَ فَنَهَاهُ ثُمَّ أَتَاهُ الثَّالِثَةَ فَنَهَاهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا الْمُسْتَلِمُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَنْصُورِ بْنِ زَاذَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُعَاوِيَةَ بْنِ قُرَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مَعْقِلِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ إِنِّي أَصَبْتُ امْرَأَةً ذَاتَ حَسَبٍ وَمَنْصِبٍ إِلاَّ أَنَّهَا لاَ تَلِدُ أَفَأَتَزَوَّجُهَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3230": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3230\nIn-book reference  : Book 26, Hadith 35\nEnglish translation  : Vol. 4, Book 26, Hadith 3232",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3231": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3231\nIn-book reference  : Book 26, Hadith 36\nEnglish translation  : Vol. 4, Book 26, Hadith 3233",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قِيلَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم أَىُّ النِّسَاءِ خَيْرٌ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "خَيْرٌ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3232": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3232\nIn-book reference  : Book 26, Hadith 37\nEnglish translation  : Vol. 4, Book 26, Hadith 3234",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا حَيْوَةُ، وَذَكَرَ، آخَرَ أَنْبَأَنَا شُرَحْبِيلُ بْنُ شَرِيكٍ، أَنَّهُ سَمِعَ أَبَا عَبْدِ الرَّحْمَنِ الْحُبُلِيَّ، يُحَدِّثُ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3233": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3233\nIn-book reference  : Book 26, Hadith 38\nEnglish translation  : Vol. 4, Book 26, Hadith 3235",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَنْبَأَنَا النَّضْرُ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ، عَنْ أَنَسٍ، قَالُوا يَا رَسُولَ اللَّهِ أَلاَ تَتَزَوَّجُ مِنْ نِسَاءِ الأَنْصَارِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَنْبَأَنَا النَّضْرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الأَنْصَارِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3234": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3234\nIn-book reference  : Book 26, Hadith 39\nEnglish translation  : Vol. 4, Book 26, Hadith 3236",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا مَرْوَانُ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ كَيْسَانَ - عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ خَطَبَ رَجُلٌ امْرَأَةً مِنَ الأَنْصَارِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَرْوَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ كَيْسَانَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ خَطَبَ رَجُلٌ امْرَأَةً مِنَ الأَنْصَارِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3238": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3238\nIn-book reference  : Book 26, Hadith 43\nEnglish translation  : Vol. 4, Book 26, Hadith 3240",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3239": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3239\nIn-book reference  : Book 26, Hadith 44\nEnglish translation  : Vol. 4, Book 26, Hadith 3241",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، وَسَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ مُحَمَّدٌ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ مُحَمَّدٌ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3240": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3240\nIn-book reference  : Book 26, Hadith 45\nEnglish translation  : Vol. 4, Book 26, Hadith 3242",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنَا مَالِكٌ، ح وَالْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَعْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ، ح وَالْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ ال",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3241": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3241\nIn-book reference  : Book 26, Hadith 46\nEnglish translation  : Vol. 4, Book 26, Hadith 3243",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنِي يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي يُونُسُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي سَعِيدُ بْنُ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3242": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3242\nIn-book reference  : Book 26, Hadith 47\nEnglish translation  : Vol. 4, Book 26, Hadith 3244",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا غُنْدَرٌ، عَنْ هِشَامٍ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا غُنْدَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3246": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3246\nIn-book reference  : Book 26, Hadith 51\nEnglish translation  : Vol. 4, Book 26, Hadith 3248",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ آدَمَ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ هَاشِمِ بْنِ الْبَرِيدِ، عَنْ يَزِيدَ بْنِ كَيْسَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ رَجُلٌ مِنَ الأَنْصَارِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنِّي تَزَوَّجْتُ امْرَأَةً . فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ آدَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ هَاشِمِ بْنِ الْبَرِيدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ كَيْسَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ جَاءَ رَجُلٌ مِنَ الأَنْصَارِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ إِنِّي تَزَوَّجْتُ امْرَأَةً . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3247": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3247\nIn-book reference  : Book 26, Hadith 52\nEnglish translation  : Vol. 4, Book 26, Hadith 3249",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ يَزِيدَ بْنِ كَيْسَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً، أَرَادَ أَنْ يَتَزَوَّجَ، امْرَأَةً فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ كَيْسَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً، أَرَادَ أَنْ يَتَزَوَّجَ، امْرَأَةً فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3251": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3251\nIn-book reference  : Book 26, Hadith 56\nEnglish translation  : Vol. 4, Book 26, Hadith 3253",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ لَمَّا انْقَضَتْ عِدَّةُ زَيْنَبَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِزَيْدٍ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "زَيْنَبَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "لِزَيْدٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3253": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3253\nIn-book reference  : Book 26, Hadith 58\nEnglish translation  : Vol. 4, Book 26, Hadith 3255",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا ابْنُ أَبِي الْمَوَالِ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُعَلِّمُنَا الاِسْتِخَارَةَ فِي الأُمُورِ كُلِّهَا كَمَا يُعَلِّمُنَا السُّورَةَ مِنَ الْقُرْآنِ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي الْمَوَالِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3254": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3254\nIn-book reference  : Book 26, Hadith 59\nEnglish translation  : Vol. 4, Book 26, Hadith 3256",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَزِيدُ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ ثَابِتٍ الْبُنَانِيِّ، حَدَّثَنِي ابْنُ عُمَرَ بْنِ أَبِي سَلَمَةَ، عَنْ أَبِيهِ، عَنْ أُمِّ سَلَمَةَ، لَمَّا انْقَضَتْ عِدَّتُهَا بَعَثَ إِلَيْهَا أَبُو بَكْرٍ يَخْطُبُهَا عَلَيْهِ فَلَمْ تَزَوَّجْهُ فَبَعَثَ إِلَيْهَا رَسُولُ اللَّهِ صلى الله عليه وسلم عُمَرَ بْنَ الْخَطَّابِ يَخْطُبُهَا عَلَيْهِ فَقَالَتْ أَخْبِرْ رَسُولَ اللَّهِ صلى الله عليه وسلم أَنِّي امْرَأَةٌ غَيْرَى وَأَنِّي امْرَأَةٌ مُصْبِيَةٌ وَلَيْسَ أَحَدٌ مِنْ أَوْلِيَائِي شَاهِدٌ . فَأَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَذَكَرَ ذَلِكَ لَهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَمَّادِ بْنِ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ ثَابِتٍ الْبُنَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي ابْنُ عُمَرَ بْنِ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ، لَمَّا انْقَضَتْ عِدَّتُهَا بَعَثَ إِلَيْهَا أَبُو بَكْرٍ يَخْطُبُهَا عَلَيْهِ ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَتْ أَخْبِرْ رَسُولَ اللَّهِ صلى الله عليه وسلم أَنِّي امْرَأَةٌ غَيْرَى وَأَنِّي امْرَأَةٌ مُصْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3260": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3260\nIn-book reference  : Book 26, Hadith 65\nEnglish translation  : Vol. 4, Book 26, Hadith 3262",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ، عَنْ نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه و",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3261": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3261\nIn-book reference  : Book 26, Hadith 66\nEnglish translation  : Vol. 4, Book 26, Hadith 3263",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ مَالِكِ بْنِ أَنَسٍ، قَالَ سَمِعْتُهُ مِنْهُ، بَعْدَ مَوْتِ نَافِعٍ بِسَنَةٍ وَلَهُ يَوْمَئِذٍ حَلْقَةٌ قَالَ أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ الْفَضْلِ عَنْ نَافِعِ بْنِ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَالِكِ بْنِ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَلْقَةٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الْفَضْلِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ نَافِعِ بْنِ جُبَيْرٍ عَنِ ابْنِ عَبَّاسٍ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3262": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3262\nIn-book reference  : Book 26, Hadith 67\nEnglish translation  : Vol. 4, Book 26, Hadith 3264",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنِي أَحْمَدُ بْنُ سَعِيدٍ الرِّبَاطِيُّ، قَالَ حَدَّثَنَا يَعْقُوبُ، قَالَ حَدَّثَنِي أَبِي، عَنِ ابْنِ إِسْحَاقَ، قَالَ حَدَّثَنِي صَالِحُ بْنُ كَيْسَانَ، عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ بْنِ عَبَّاسِ بْنِ رَبِيعَةَ، عَنْ نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي أَحْمَدُ بْنُ سَعِيدٍ الرِّبَاطِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبِي، عَنِ ابْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي صَالِحُ بْنُ كَيْسَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ بْنِ عَبَّاسِ بْنِ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه و",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3263": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3263\nIn-book reference  : Book 26, Hadith 68\nEnglish translation  : Vol. 4, Book 26, Hadith 3265",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ صَالِحِ بْنِ كَيْسَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3264": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3264\nIn-book reference  : Book 26, Hadith 69\nEnglish translation  : Vol. 4, Book 26, Hadith 3266",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ زِيَادِ بْنِ سَعْدٍ، عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ، عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زِيَادِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3270": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3270\nIn-book reference  : Book 26, Hadith 75\nEnglish translation  : Vol. 4, Book 26, Hadith 3272",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو، قَالَ حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا أَبُو سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3275": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3275\nIn-book reference  : Book 26, Hadith 80\nEnglish translation  : Vol. 4, Book 26, Hadith 3277",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنَا مَالِكٌ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنْ نُبَيْهِ بْنِ وَهْبٍ، أَنَّ أَبَانَ بْنَ عُثْمَانَ، قَالَ سَمِعْتُ عُثْمَانَ بْنَ عَفَّانَ، رضى الله عنه يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَعْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ نُبَيْهِ بْنِ وَهْبٍ، أَنَّ أَبَانَ بْنَ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3276": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3276\nIn-book reference  : Book 26, Hadith 81\nEnglish translation  : Vol. 4, Book 26, Hadith 3278",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "حَدَّثَنَا أَبُو الأَشْعَثِ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ مَطَرٍ، وَيَعْلَى بْنِ حَكِيمٍ، عَنْ نُبَيْهِ بْنِ وَهْبٍ، عَنْ أَبَانَ بْنِ عُثْمَانَ، أَنَّ عُثْمَانَ بْنَ عَفَّانَ، رضى الله عنه حَدَّثَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَشْعَثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَطَرٍ، وَيَعْلَى بْنِ حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ نُبَيْهِ بْنِ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3277": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3277\nIn-book reference  : Book 26, Hadith 82\nEnglish translation  : Vol. 4, Book 26, Hadith 3279",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا عَبْثَرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، قَالَ عَلَّمَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم التَّشَهُّدَ فِي الصَّلاَةِ وَالتَّشَهُّدَ فِي الْحَاجَةِ قَالَ التَّشَهُّدُ فِي الْحَاجَةِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْثَرٌ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْحَاجَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الْحَاجَةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3278": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3278\nIn-book reference  : Book 26, Hadith 83\nEnglish translation  : Vol. 4, Book 26, Hadith 3280",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، قَالَ حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ دَاوُدَ، عَنْ عَمْرِو بْنِ سَعِيدٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، كَلَّمَ النَّبِيَّ صلى الله عليه وسلم فِي شَىْءٍ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَمْرِو بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، كَلَّمَ النَّبِيَّ صلى الله عليه وسل",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3279": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3279\nIn-book reference  : Book 26, Hadith 84\nEnglish translation  : Vol. 4, Book 26, Hadith 3281",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ أَنْبَأَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَبْدِ الْعَزِيزِ، عَنْ تَمِيمِ بْنِ طَرَفَةَ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، قَالَ تَشَهَّدَ رَجُلاَنِ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَقَالَ أَحَدُهُمَا مَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ رَشَدَ وَمَنْ يَعْصِهِمَا فَقَدْ غَوَى . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ تَمِيمِ بْنِ طَرَفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ تَشَهَّدَ رَجُلاَنِ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ أَحَدُهُمَا مَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ رَشَدَ وَمَنْ يَعْصِهِمَا فَقَدْ غَوَى . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3281": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3281\nIn-book reference  : Book 26, Hadith 86\nEnglish translation  : Vol. 4, Book 26, Hadith 3283",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ، قَالَ أَنْبَأَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الْخَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3282": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3282\nIn-book reference  : Book 26, Hadith 87\nEnglish translation  : Vol. 4, Book 26, Hadith 3284",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ تَمِيمٍ، قَالَ سَمِعْتُ حَجَّاجًا، يَقُولُ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي سَعِيدُ بْنُ أَبِي أَيُّوبَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، أَنَّ أَبَا الْخَيْرِ، حَدَّثَهُ عَنْ عُقْبَةَ بْنِ عَامِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ تَمِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي سَعِيدُ بْنُ أَبِي أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَامِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3283": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3283\nIn-book reference  : Book 26, Hadith 88\nEnglish translation  : Vol. 4, Book 26, Hadith 3285",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ جَاءَتِ امْرَأَةُ رِفَاعَةَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ إِنَّ رِفَاعَةَ طَلَّقَنِي فَأَبَتَّ طَلاَقِي وَإِنِّي تَزَوَّجْتُ بَعْدَهُ عَبْدَ الرَّحْمَنِ بْنَ الزَّبِيرِ وَمَا مَعَهُ إِلاَّ مِثْلُ هُدْبَةِ الثَّوْبِ . فَضَحِكَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ جَاءَتِ امْرَأَةُ رِفَاعَةَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ إِنَّ رِفَاعَةَ طَلَّقَنِي فَأَبَتَّ طَلاَقِي وَإِنِّي تَزَوَّجْتُ بَعْدَهُ عَبْدَ الرَّحْمَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3286": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3286\nIn-book reference  : Book 26, Hadith 91\nEnglish translation  : Vol. 4, Book 26, Hadith 3288",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عِرَاكِ بْنِ مَالِكٍ، أَنَّ زَيْنَبَ بِنْتَ أَبِي سَلَمَةَ، أَخْبَرَتْهُ أَنَّ أُمَّ حَبِيبَةَ قَالَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم إِنَّا قَدْ تَحَدَّثْنَا أَنَّكَ نَاكِحٌ دُرَّةَ بِنْتَ أَبِي سَلَمَةَ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَبِيبَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم إِنَّا قَدْ تَحَدَّثْنَا أَنَّكَ نَاكِحٌ دُرَّةَ بِنْتَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3288": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3288\nIn-book reference  : Book 26, Hadith 93\nEnglish translation  : Vol. 4, Book 26, Hadith 3290",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا مَعْنٌ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَعْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3292": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3292\nIn-book reference  : Book 26, Hadith 97\nEnglish translation  : Vol. 4, Book 26, Hadith 3294",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا اللَّيْثُ، قَالَ أَخْبَرَنِي أَيُّوبُ بْنُ مُوسَى، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عَبْدِ الْمَلِكِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَخْبَرَنِي أَيُّوبُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3294": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3294\nIn-book reference  : Book 26, Hadith 99\nEnglish translation  : Vol. 4, Book 26, Hadith 3296",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا يَحْيَى بْنُ دُرُسْتَ، قَالَ حَدَّثَنَا أَبُو إِسْمَاعِيلَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، أَنَّ أَبَا سَلَمَةَ، حَدَّثَهُ عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَحْيَى بْنُ دُرُسْتَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3295": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3295\nIn-book reference  : Book 26, Hadith 100\nEnglish translation  : Vol. 4, Book 26, Hadith 3297",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا هِشَامٌ، قَالَ حَدَّثَنَا مُحَمَّدٌ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3297": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3297\nIn-book reference  : Book 26, Hadith 102\nEnglish translation  : Vol. 4, Book 26, Hadith 3299",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي عَاصِمٌ، قَالَ قَرَأْتُ عَلَى الشَّعْبِيِّ كِتَابًا فِيهِ عَنْ جَابِرٍ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَاصِمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ جَابِرٍ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3300": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3300\nIn-book reference  : Book 26, Hadith 105\nEnglish translation  : Vol. 4, Book 26, Hadith 3302",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ أَنْبَأَنَا مَالِكٌ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ دِينَارٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3301": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3301\nIn-book reference  : Book 26, Hadith 106\nEnglish translation  : Vol. 4, Book 26, Hadith 3303",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عِرَاكٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّهَا أَخْبَرَتْهُ أَنَّ عَمَّهَا مِنَ الرَّضَاعَةِ يُسَمَّى أَفْلَحَ اسْتَأْذَنَ عَلَيْهَا فَحَجَبَتْهُ فَأُخْبِرَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِرَاكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّهَا أَخْبَرَتْهُ أَنَّ عَمَّهَا مِنَ الرَّضَاعَةِ يُسَمَّى أَفْلَحَ اسْتَأْذَنَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3302": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3302\nIn-book reference  : Book 26, Hadith 107\nEnglish translation  : Vol. 4, Book 26, Hadith 3304",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3303": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3303\nIn-book reference  : Book 26, Hadith 108\nEnglish translation  : Vol. 4, Book 26, Hadith 3305",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ هَاشِمٍ، { عَنْ هِشَامِ بْنِ عُرْوَةَ، } عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ أَبِيهِ، عَنْ عَمْرَةَ، قَالَتْ سَمِعْتُ عَائِشَةَ، تَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ هَاشِمٍ، {",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ، }",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "تَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3305": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3305\nIn-book reference  : Book 26, Hadith 110\nEnglish translation  : Vol. 4, Book 26, Hadith 3307",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ ذُكِرَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم بِنْتُ حَمْزَةَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ ذُكِرَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم بِنْتُ حَمْزَةَ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3306": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3306\nIn-book reference  : Book 26, Hadith 111\nEnglish translation  : Vol. 4, Book 26, Hadith 3308",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الصَّبَّاحِ بْنِ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سَوَاءٍ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُرِيدَ عَلَى بِنْتِ حَمْزَةَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الصَّبَّاحِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سَوَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُرِيدَ عَلَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3309": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3309\nIn-book reference  : Book 26, Hadith 114\nEnglish translation  : Vol. 4, Book 26, Hadith 3311",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا شُعَيْبُ بْنُ يُوسُفَ، عَنْ يَحْيَى، عَنْ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3310": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3310\nIn-book reference  : Book 26, Hadith 115\nEnglish translation  : Vol. 4, Book 26, Hadith 3312",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا زِيَادُ بْنُ أَيُّوبَ، قَالَ حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا زِيَادُ بْنُ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ عُلَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3311": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3311\nIn-book reference  : Book 26, Hadith 116\nEnglish translation  : Vol. 4, Book 26, Hadith 3313",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، قَالَ حَدَّثَنَا يَزِيدُ، - يَعْنِي ابْنَ زُرَيْعٍ - قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، قَالَ كَتَبْنَا إِلَى إِبْرَاهِيمَ بْنِ يَزِيدَ النَّخَعِيِّ نَسْأَلُهُ عَنِ الرَّضَاعِ، فَكَتَبَ أَنَّ شُرَيْحًا، حَدَّثَنَا أَنَّ عَلِيًّا وَابْنَ مَسْعُودٍ كَانَا يَقُولاَنِ يُحَرِّمُ مِنَ الرَّضَاعِ قَلِيلُهُ وَكَثِيرُهُ . وَكَانَ فِي كِتَابِهِ أَنَّ أَبَا الشَّعْثَاءِ الْمُحَارِبِيَّ حَدَّثَنَا أَنَّ عَائِشَةَ حَدَّثَتْهُ أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ، - يَعْنِي ابْنَ زُرَيْعٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كَتَبْنَا إِلَى إِبْرَاهِيمَ بْنِ يَزِيدَ النَّخَعِيِّ نَسْأَلُهُ عَنِ الرَّضَاعِ، فَكَتَبَ أَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الْمُحَارِبِيَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3312": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3312\nIn-book reference  : Book 26, Hadith 117\nEnglish translation  : Vol. 4, Book 26, Hadith 3314",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، فِي حَدِيثِهِ عَنْ أَبِي الأَحْوَصِ، عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ، عَنْ أَبِيهِ، عَنْ مَسْرُوقٍ، قَالَ قَالَتْ عَائِشَةُ دَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَعِنْدِي رَجُلٌ قَاعِدٌ فَاشْتَدَّ ذَلِكَ عَلَيْهِ وَرَأَيْتُ الْغَضَبَ فِي وَجْهِهِ فَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّهُ أَخِي مِنَ الرَّضَاعَةِ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدِيثِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ عَائِشَةُ دَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَعِنْدِي رَجُلٌ قَاعِدٌ فَاشْتَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3314": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3314\nIn-book reference  : Book 26, Hadith 119\nEnglish translation  : Vol. 4, Book 26, Hadith 3316",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنِي إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَطَاءٌ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، قَالَتْ جَاءَ عَمِّي أَبُو الْجَعْدِ مِنَ الرَّضَاعَةِ فَرَدَدْتُهُ - قَالَ وَقَالَ هِشَامٌ هُوَ أَبُو الْقُعَيْسِ - فَجَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَطَاءٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ جَاءَ عَمِّي أَبُو الْجَعْدِ مِنَ الرَّضَاعَةِ فَرَدَدْتُهُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ هِشَامٌ هُوَ أَبُو الْقُعَيْسِ - فَجَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3316": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3316\nIn-book reference  : Book 26, Hadith 121\nEnglish translation  : Vol. 4, Book 26, Hadith 3318",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، أَنْبَأَنَا مَعْنٌ، قَالَ حَدَّثَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ أَفْلَحُ أَخُو أَبِي الْقُعَيْسِ يَسْتَأْذِنُ عَلَىَّ وَهُوَ عَمِّي مِنَ الرَّضَاعَةِ فَأَبَيْتُ أَنْ آذَنَ لَهُ حَتَّى جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، أَنْبَأَنَا مَعْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ كَانَ أَفْلَحُ أَخُو أَبِي الْقُعَيْسِ يَسْتَأْذِنُ عَلَىَّ وَهُوَ عَمِّي مِنَ الرَّضَاعَةِ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3322": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3322\nIn-book reference  : Book 26, Hadith 127\nEnglish translation  : Vol. 4, Book 26, Hadith 3324",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، عَنْ سُفْيَانَ، - وَهُوَ ابْنُ حَبِيبٍ - عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ، قَالَتْ جَاءَتْ سَهْلَةُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ سَالِمًا يَدْخُلُ عَلَيْنَا وَقَدْ عَقَلَ مَا يَعْقِلُ الرِّجَالُ وَعَلِمَ مَا يَعْلَمُ الرِّجَالُ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُفْيَانَ، - وَهُوَ ابْنُ حَبِيبٍ - عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ الْق",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَتْ جَاءَتْ سَهْلَةُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ يَا رَسُولَ اللَّهِ إِنَّ سَالِمًا يَدْخُلُ عَلَيْنَا وَقَدْ عَقَلَ مَا يَعْقِلُ الرِّجَالُ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3323": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3323\nIn-book reference  : Book 26, Hadith 128\nEnglish translation  : Vol. 4, Book 26, Hadith 3325",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، عَنْ عَبْدِ الْوَهَّابِ، قَالَ أَنْبَأَنَا أَيُّوبُ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، أَنَّ سَالِمًا، مَوْلَى أَبِي حُذَيْفَةَ كَانَ مَعَ أَبِي حُذَيْفَةَ وَأَهْلِهِ فِي بَيْتِهِمْ فَأَتَتْ بِنْتُ سُهَيْلٍ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَتْ إِنَّ سَالِمًا قَدْ بَلَغَ مَا يَبْلُغُ الرِّجَالُ وَعَقَلَ مَا عَقَلُوهُ وَإِنَّهُ يَدْخُلُ عَلَيْنَا وَإِنِّي أَظُنُّ فِي نَفْسِ أَبِي حُذَيْفَةَ مِنْ ذَلِكَ شَيْئًا . فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَبْدِ الْوَهَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَنْبَأَنَا أَيُّوبُ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنِ الْقَاسِمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ سَالِمًا، مَوْلَى أَبِي حُذَيْفَةَ كَانَ مَعَ أَبِي حُذَيْفَةَ وَأَهْلِهِ فِي ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ إِنَّ سَالِمًا قَدْ بَلَغَ مَا يَبْلُغُ الرِّجَالُ وَعَقَلَ مَا عَقَلُوهُ وَإِنَّهُ يَدْخُلُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3328": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3328\nIn-book reference  : Book 26, Hadith 133\nEnglish translation  : Vol. 4, Book 26, Hadith 3330",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، عَنْ مُحَمَّدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي الْفَيْضِ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مُرَّةَ الزُّرَقِيَّ، عَنْ أَبِي سَعِيدٍ الزُّرَقِيِّ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْعَزْلِ فَقَالَ إِنَّ امْرَأَتِي تُرْضِعُ وَأَنَا أَكْرَهُ أَنْ تَحْمِلَ . فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الْفَيْضِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مُرَّةَ الزُّرَقِيَّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الزُّرَقِيِّ، أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الْعَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ إِنَّ امْرَأَتِي تُرْضِعُ وَأَنَا أَكْرَهُ أَنْ تَحْمِلَ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3329": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3329\nIn-book reference  : Book 26, Hadith 134\nEnglish translation  : Vol. 4, Book 26, Hadith 3331",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ وَحَدَّثَنِي أَبِي، عَنْ حَجَّاجِ بْنِ حَجَّاجٍ، عَنْ أَبِيهِ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ مَا يُذْهِبُ عَنِّي مَذَمَّةَ الرَّضَاعِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ حَجَّاجِ بْنِ حَجَّاجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "الرَّضَاعِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3330": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3330\nIn-book reference  : Book 26, Hadith 135\nEnglish translation  : Vol. 4, Book 26, Hadith 3332",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، قَالَ حَدَّثَنِي عُبَيْدُ بْنُ أَبِي مَرْيَمَ، عَنْ عُقْبَةَ بْنِ الْحَارِثِ، قَالَ وَقَدْ سَمِعْتُهُ مِنْ، عُقْبَةَ وَلَكِنِّي لِحَدِيثِ عُبَيْدٍ أَحْفَظُ قَالَ تَزَوَّجْتُ امْرَأَةً فَجَاءَتْنَا امْرَأَةٌ سَوْدَاءُ فَقَالَتْ إِنِّي قَدْ أَرْضَعْتُكُمَا . فَأَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَقُلْتُ إِنِّي تَزَوَّجْتُ فُلاَنَةَ بِنْتَ فُلاَنٍ فَجَاءَتْنِي امْرَأَةٌ سَوْدَاءُ فَقَالَتْ إِنِّي قَدْ أَرْضَعْتُكُمَا . فَأَعْرَضَ عَنِّي فَأَتَيْتُهُ مِنْ قِبَلِ وَجْهِهِ فَقُلْتُ إِنَّهَا كَاذِبَةٌ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي عُبَيْدُ بْنُ أَبِي مَرْيَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَحْفَظُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ تَزَوَّجْتُ امْرَأَةً فَجَاءَتْنَا امْرَأَةٌ سَوْدَاءُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَتْ إِنِّي قَدْ أَرْضَعْتُكُمَا . فَأَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَأَخْبَرْتُهُ فَقُلْ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَتْ إِنِّي قَدْ أَرْضَعْتُكُمَا . فَأَعْرَضَ عَنِّي فَأَتَيْتُهُ مِنْ قِبَلِ وَجْهِهِ فَقُلْتُ إ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3335": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3335\nIn-book reference  : Book 26, Hadith 140\nEnglish translation  : Vol. 4, Book 26, Hadith 3337",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا بِشْرٌ، قَالَ حَدَّثَنَا حُمَيْدٌ، عَنِ الْحَسَنِ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بِشْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حُمَيْدٌ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3336": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3336\nIn-book reference  : Book 26, Hadith 141\nEnglish translation  : Vol. 4, Book 26, Hadith 3338",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ مُحَمَّدِ بْنِ عَلِيٍّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، عَنِ الْفَزَارِيِّ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ مُحَمَّدِ بْنِ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، عَنِ الْفَزَارِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3344": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3344\nIn-book reference  : Book 26, Hadith 149\nEnglish translation  : Vol. 4, Book 26, Hadith 3346",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، قَالَ حَدَّثَنِي صَالِحُ بْنُ صَالِحٍ، عَنْ عَامِرٍ، عَنْ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى، عَنْ أَبِي مُوسَى، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي صَالِحُ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ بْنِ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3345": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3345\nIn-book reference  : Book 26, Hadith 150\nEnglish translation  : Vol. 4, Book 26, Hadith 3347",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي زُبَيْدٍ، عَبْثَرِ بْنِ الْقَاسِمِ عَنْ مُطَرِّفٍ، عَنْ عَامِرٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "الْقَاسِمِ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُطَرِّفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3349": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3349\nIn-book reference  : Book 26, Hadith 154\nEnglish translation  : Vol. 4, Book 26, Hadith 3351",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرِ بْنِ إِيَاسِ بْنِ مُقَاتِلِ بْنِ مُشَمْرِخِ بْنِ خَالِدٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، وَابْنِ، عَوْنٍ وَسَلَمَةَ بْنِ عَلْقَمَةَ وَهِشَامِ بْنِ حَسَّانَ - دَخَلَ حَدِيثُ بَعْضِهِمْ فِي بَعْضٍ - عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ سَلَمَةُ عَنِ ابْنِ سِيرِينَ، نُبِّئْتُ عَنْ أَبِي الْعَجْفَاءِ، - وَقَالَ الآخَرُونَ عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي الْعَجْفَاءِ، - قَالَ قَالَ عُمَرُ بْنُ الْخَطَّابِ أَلاَ لاَ تَغْلُوا صُدُقَ النِّسَاءِ فَإِنَّهُ لَوْ كَانَ مَكْرُمَةً فِي الدُّنْيَا أَوْ تَقْوَى عِنْدَ اللَّهِ عَزَّ وَجَلَّ كَانَ أَوْلاَكُمْ بِهِ النَّبِيُّ صلى الله عليه وسلم مَا أَصْدَقَ رَسُولُ اللَّهِ صلى الله عليه وسلم امْرَأَةً مِنْ نِسَائِهِ وَلاَ أُصْدِقَتِ امْرَأَةٌ مِنْ بَنَاتِهِ أَكْثَرَ مِنْ ثِنْتَىْ عَشْرَةَ أُوقِيَّةً وَإِنَّ الرَّجُلَ لَيُغْلِي بِصَدُقَةِ امْرَأَتِهِ حَتَّى يَكُونَ لَهَا عَدَاوَةٌ فِي نَفْسِهِ وَحَتَّى يَقُولَ كُلِّفْتُ لَكُمْ عَلَقَ الْقِرْبَةِ وَكُنْتُ غُلاَمًا عَرَبِيًّا مُوَلَّدًا فَلَمْ أَدْرِ مَا عَلَقُ الْقِرْبَةِ قَالَ وَأُخْرَى يَقُولُونَهَا لِمَنْ قُتِلَ فِي مَغَازِيكُمْ أَوْ مَاتَ قُتِلَ فُلاَنٌ شَهِيدًا أَوْ مَاتَ فُلاَنٌ شَهِيدًا وَلَعَلَّهُ أَنْ يَكُونَ قَدْ أَوْقَرَ عَجُزَ دَابَّتِهِ أَوْ دَفَّ رَاحِلَتِهِ ذَهَبًا أَوْ وَرِقًا يَطْلُبُ التِّجَارَةَ فَلاَ تَقُولُوا ذَاكُمْ وَلَكِنْ قُولُوا كَمَا قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرِ بْنِ إِيَاسِ بْنِ مُقَاتِلِ بْنِ مُشَمْرِخِ بْنِ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ، وَابْنِ، عَوْنٍ وَسَلَمَةَ بْنِ عَلْقَمَةَ وَهِشَامِ بْنِ حَسَّانَ - دَخَلَ حَدِيثُ ب",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "نُبِّئْتُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي الْعَجْفَاءِ، - وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الآخَرُونَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ أَبِي الْعَجْفَاءِ، -",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "الْقِرْبَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "كَمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 12,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3352": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3352\nIn-book reference  : Book 26, Hadith 157\nEnglish translation  : Vol. 4, Book 26, Hadith 3354",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، قَالَ سَمِعْتُ أَنَسًا، يَقُولُ قَالَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ رَآنِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَعَلَىَّ بَشَاشَةُ الْعُرْسِ فَقُلْتُ تَزَوَّجْتُ امْرَأَةً مِنَ الأَنْصَارِ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ رَآنِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَعَلَىَّ بَشَاشَةُ ا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "3353": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3353\nIn-book reference  : Book 26, Hadith 158\nEnglish translation  : Vol. 4, Book 26, Hadith 3355",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا هِلاَلُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا حَجَّاجٌ، قَالَ ابْنُ جُرَيْجٍ حَدَّثَنِي عَمْرُو بْنُ شُعَيْبٍ، ح وَأَخْبَرَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ تَمِيمٍ، قَالَ سَمِعْتُ حَجَّاجًا، يَقُولُ قَالَ ابْنُ جُرَيْجٍ عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هِلاَلُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَجَّاجٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "جُرَيْجٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي عَمْرُو بْنُ شُعَيْبٍ، ح وَأَخْبَرَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ تَمِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "جُرَيْجٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3360": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3360\nIn-book reference  : Book 26, Hadith 165\nEnglish translation  : Vol. 4, Book 26, Hadith 3362",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارِ، قَالَ حَدَّثَنَا مُحَمَّدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي بِشْرٍ، عَنْ خَالِدِ بْنِ عُرْفُطَةَ، عَنْ حَبِيبِ بْنِ سَالِمٍ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي الرَّجُلِ يَأْتِي جَارِيَةَ امْرَأَتِهِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ خَالِدِ بْنِ عُرْفُطَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "امْرَأَتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3362": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3362\nIn-book reference  : Book 26, Hadith 167\nEnglish translation  : Vol. 4, Book 26, Hadith 3364",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا عَارِمٌ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ حَبِيبِ بْنِ سَالِمٍ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ فِي رَجُلٍ وَقَعَ بِجَارِيَةِ امْرَأَتِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَارِمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ حَبِيبِ بْنِ سَالِمٍ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "امْرَأَتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3363": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3363\nIn-book reference  : Book 26, Hadith 168\nEnglish translation  : Vol. 4, Book 26, Hadith 3365",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ قَبِيصَةَ بْنِ حُرَيْثٍ، عَنْ سَلَمَةَ بْنِ الْمُحَبَّقِ، قَالَ قَضَى النَّبِيُّ صلى الله عليه وسلم فِي رَجُلٍ وَطِئَ جَارِيَةَ امْرَأَتِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ قَبِيصَةَ بْنِ حُرَيْثٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سَلَمَةَ بْنِ الْمُحَبَّقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "امْرَأَتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3364": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3364\nIn-book reference  : Book 26, Hadith 169\nEnglish translation  : Vol. 4, Book 26, Hadith 3366",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَلَمَةَ بْنِ الْمُحَبَّقِ، أَنَّ رَجُلاً، غَشِيَ جَارِيَةً لاِمْرَأَتِهِ فَرُفِعَ ذَلِكَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَلَمَةَ بْنِ الْمُحَبَّقِ، أَنَّ رَجُلاً، غَشِيَ جَارِيَةً لاِمْرَأَتِهِ فَرُفِعَ ذَلِكَ إِلَى",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3368": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3368\nIn-book reference  : Book 26, Hadith 173\nEnglish translation  : Vol. 4, Book 26, Hadith 3370",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ الرَّبِيعِ بْنِ سَبْرَةَ الْجُهَنِيِّ، عَنْ أَبِيهِ، قَالَ أَذِنَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْمُتْعَةِ فَانْطَلَقْتُ أَنَا وَرَجُلٌ إِلَى امْرَأَةٍ مِنْ بَنِي عَامِرٍ فَعَرَضْنَا عَلَيْهَا أَنْفُسَنَا فَقَالَتْ مَا تُعْطِينِي فَقُلْتُ رِدَائِي . وَقَالَ صَاحِبِي رِدَائِي . وَكَانَ رِدَاءُ صَاحِبِي أَجْوَدَ مِنْ رِدَائِي وَكُنْتُ أَشَبَّ مِنْهُ فَإِذَا نَظَرَتْ إِلَى رِدَاءِ صَاحِبِي أَعْجَبَهَا وَإِذَا نَظَرَتْ إِلَىَّ أَعْجَبْتُهَا ثُمَّ قَالَتْ أَنْتَ وَرِدَاؤُكَ يَكْفِينِي . فَمَكَثْتُ مَعَهَا ثَلاَثًا ثُمَّ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ الرَّبِيعِ بْنِ سَبْرَةَ الْجُهَنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَذِنَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِالْمُتْعَةِ فَانْطَلَقْتُ أَنَا وَرَجُلٌ إِلَى امْ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ مَا تُعْطِينِي فَقُلْتُ رِدَائِي . وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ أَنْتَ وَرِدَاؤُكَ يَكْفِينِي . فَمَكَثْتُ مَعَهَا ثَلاَثًا ثُمَّ إِنَّ رَسُولَ اللَّهِ صلى ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3369": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3369\nIn-book reference  : Book 26, Hadith 174\nEnglish translation  : Vol. 4, Book 26, Hadith 3371",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُجَاهِدُ بْنُ مُوسَى، قَالَ حَدَّثَنَا هُشَيْمٌ، عَنْ أَبِي بَلْجٍ، عَنْ مُحَمَّدِ بْنِ حَاطِبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُجَاهِدُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بَلْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ حَاطِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3370": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3370\nIn-book reference  : Book 26, Hadith 175\nEnglish translation  : Vol. 4, Book 26, Hadith 3372",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ شُعْبَةَ، عَنْ أَبِي بَلْجٍ، قَالَ سَمِعْتُ مُحَمَّدَ بْنَ حَاطِبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بَلْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ مُحَمَّدَ بْنَ حَاطِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3371": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3371\nIn-book reference  : Book 26, Hadith 176\nEnglish translation  : Vol. 4, Book 26, Hadith 3373",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، وَمُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالاَ حَدَّثَنَا خَالِدٌ، عَنْ أَشْعَثَ، عَنِ الْحَسَنِ، قَالَ تَزَوَّجَ عَقِيلُ بْنُ أَبِي طَالِبٍ امْرَأَةً مِنْ بَنِي جُشَمٍ فَقِيلَ لَهُ بِالرِّفَاءِ وَالْبَنِينِ . قَالَ قُولُوا كَمَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَشْعَثَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ تَزَوَّجَ عَقِيلُ بْنُ أَبِي طَالِبٍ امْرَأَةً مِنْ بَنِي جُشَمٍ فَقِيلَ لَهُ بِالرِّفَاءِ وَا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "كَمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3385": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Marriage",
+    "book_num": "26",
+    "reference": "Reference  : Sunan an-Nasa'i 3385\nIn-book reference  : Book 26, Hadith 190\nEnglish translation  : Vol. 4, Book 26, Hadith 3387",
+    "url": "https://sunnah.com/nasai/26",
+    "sanad_full": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي أَبُو هَانِئٍ الْخَوْلاَنِيُّ، أَنَّهُ سَمِعَ أَبَا عَبْدِ الرَّحْمَنِ الْحُبُلِيَّ، يَقُولُ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

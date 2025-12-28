@@ -1,0 +1,241 @@
+{
+  "6940": {
+    "collection": "Sahih Bukhari",
+    "book": "(Statements made under) Coercion",
+    "book_num": "89",
+    "reference": "Reference  : Sahih al-Bukhari 6940\nIn-book reference  : Book 89, Hadith 1\nUSC-MSA web (English) reference  : Vol. 9, Book 85, Hadith 73\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/89",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ خَالِدِ بْنِ يَزِيدَ، عَنْ سَعِيدِ بْنِ أَبِي هِلاَلٍ، عَنْ هِلاَلِ بْنِ أُسَامَةَ، أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ، أَخْبَرَهُ عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَدْعُو فِي الصَّلاَةِ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ خَالِدِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الصَّلاَةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "عَنْ"
+    ]
+  },
+  "6941": {
+    "collection": "Sahih Bukhari",
+    "book": "(Statements made under) Coercion",
+    "book_num": "89",
+    "reference": "Reference  : Sahih al-Bukhari 6941\nIn-book reference  : Book 89, Hadith 2\nUSC-MSA web (English) reference  : Vol. 9, Book 85, Hadith 74\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/89",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ حَوْشَبٍ الطَّائِفِيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ حَوْشَبٍ الطَّائِفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَهَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَيُّوبُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6943": {
+    "collection": "Sahih Bukhari",
+    "book": "(Statements made under) Coercion",
+    "book_num": "89",
+    "reference": "Reference  : Sahih al-Bukhari 6943\nIn-book reference  : Book 89, Hadith 4\nUSC-MSA web (English) reference  : Vol. 9, Book 85, Hadith 76\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/89",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، حَدَّثَنَا قَيْسٌ، عَنْ خَبَّابِ بْنِ الأَرَتِّ، قَالَ شَكَوْنَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَهْوَ مُتَوَسِّدٌ بُرْدَةً لَهُ فِي ظِلِّ الْكَعْبَةِ فَقُلْنَا أَلاَ تَسْتَنْصِرُ لَنَا أَلاَ تَدْعُو لَنَا. فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا قَيْسٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خَبَّابِ بْنِ الأَرَتِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ شَكَوْنَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَهْوَ مُتَوَسِّدٌ بُرْدَةً لَهُ فِي ظِلِّ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6947": {
+    "collection": "Sahih Bukhari",
+    "book": "(Statements made under) Coercion",
+    "book_num": "89",
+    "reference": "Reference  : Sahih al-Bukhari 6947\nIn-book reference  : Book 89, Hadith 8\nUSC-MSA web (English) reference  : Vol. 9, Book 85, Hadith 80\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/89",
+    "sanad_full": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ جَابِرٍ ـ رضى الله عنه ـ أَنَّ رَجُلاً، مِنَ الأَنْصَارِ دَبَّرَ مَمْلُوكًا، وَلَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُ، فَبَلَغَ ذَلِكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو النُّعْمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرٍ ـ رضى الله عنه ـ أَنَّ رَجُلاً، مِنَ الأَنْصَارِ دَبَّرَ مَمْلُوكًا، وَلَمْ يَكُنْ لَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6950": {
+    "collection": "Sahih Bukhari",
+    "book": "(Statements made under) Coercion",
+    "book_num": "89",
+    "reference": "Reference  : Sahih al-Bukhari 6950\nIn-book reference  : Book 89, Hadith 11\nUSC-MSA web (English) reference  : Vol. 9, Book 85, Hadith 82\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/89",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ، حَدَّثَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "6951": {
+    "collection": "Sahih Bukhari",
+    "book": "(Statements made under) Coercion",
+    "book_num": "89",
+    "reference": "Reference  : Sahih al-Bukhari 6951\nIn-book reference  : Book 89, Hadith 12\nUSC-MSA web (English) reference  : Vol. 9, Book 85, Hadith 83\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/89",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرِ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ سَالِمًا، أَخْبَرَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى الله عنهما ـ أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ سَالِمًا، أَخْبَرَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ـ رضى",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

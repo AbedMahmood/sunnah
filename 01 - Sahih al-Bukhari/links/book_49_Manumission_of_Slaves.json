@@ -1,0 +1,1167 @@
+{
+  "2517": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2517\nIn-book reference  : Book 49, Hadith 1\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 693\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا عَاصِمُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنِي وَاقِدُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنِي سَعِيدٌ ابْنُ مَرْجَانَةَ، صَاحِبُ عَلِيِّ بْنِ حُسَيْنٍ قَالَ لِي أَبُو هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَاصِمُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي وَاقِدُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حُسَيْنٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لِي أَبُو هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2521": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2521\nIn-book reference  : Book 49, Hadith 5\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 697\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ سَالِمٍ، عَنْ أَبِيهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2522": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2522\nIn-book reference  : Book 49, Hadith 6\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 698\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2523": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2523\nIn-book reference  : Book 49, Hadith 7\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 699\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، عَنْ أَبِي أُسَامَةَ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2524": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2524\nIn-book reference  : Book 49, Hadith 8\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 701\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو النُّعْمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2527": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2527\nIn-book reference  : Book 49, Hadith 11\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 704\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ بَشِيرِ بْنِ نَهِيكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2528": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2528\nIn-book reference  : Book 49, Hadith 12\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 705\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنَا مِسْعَرٌ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ بْنِ أَوْفَى، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحُمَيْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مِسْعَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زُرَارَةَ بْنِ أَوْفَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2529": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2529\nIn-book reference  : Book 49, Hadith 13\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 706\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، عَنْ سُفْيَانَ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ عَلْقَمَةَ بْنِ وَقَّاصٍ اللَّيْثِيِّ، قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ التَّيْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلْقَمَةَ بْنِ وَقَّاصٍ اللَّيْثِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2530": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2530\nIn-book reference  : Book 49, Hadith 14\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 707\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، عَنْ مُحَمَّدِ بْنِ بِشْرٍ، عَنْ إِسْمَاعِيلَ، عَنْ قَيْسٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّهُ لَمَّا أَقْبَلَ يُرِيدُ الإِسْلاَمَ وَمَعَهُ غُلاَمُهُ، ضَلَّ كُلُّ وَاحِدٍ مِنْهُمَا مِنْ صَاحِبِهِ، فَأَقْبَلَ بَعْدَ ذَلِكَ وَأَبُو هُرَيْرَةَ جَالِسٌ مَعَ النَّبِيِّ صلى الله عليه وسلم فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّهُ لَمَّا أَقْبَلَ يُرِيدُ الإِسْلاَمَ وَمَعَهُ غُلاَمُه",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2531": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2531\nIn-book reference  : Book 49, Hadith 15\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 708\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ قَيْسٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ لَمَّا قَدِمْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم قُلْتُ فِي الطَّرِيقِ يَا لَيْلَةً مِنْ طُولِهَا وَعَنَائِهَا عَلَى أَنَّهَا مِنْ دَارَةِ الْكُفْرِ نَجَّتِ قَالَ وَأَبَقَ مِنِّي غُلاَمٌ لِي فِي الطَّرِيقِ ـ قَالَ ـ فَلَمَّا قَدِمْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم بَايَعْتُهُ، فَبَيْنَا أَنَا عِنْدَهُ إِذْ طَلَعَ الْغُلاَمُ، فَقَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "نَجَّتِ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ وَأَبَقَ مِنِّي غُلاَمٌ لِي فِي الطَّرِيقِ ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ ـ فَلَمَّا قَدِمْتُ عَلَى النَّبِيِّ صلى الله عليه وسلم بَايَعْتُهُ، فَبَيْنَا أَنَا عِنْدَهُ ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2536": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2536\nIn-book reference  : Book 49, Hadith 20\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 713\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ قَالَتِ اشْتَرَيْتُ بَرِيرَةَ فَاشْتَرَطَ أَهْلُهَا وَلاَءَهَا، فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ ـ رضى الله عنها ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتِ اشْتَرَيْتُ بَرِيرَةَ فَاشْتَرَطَ أَهْلُهَا وَلاَءَهَا، فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صلى ال",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2537": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2537\nIn-book reference  : Book 49, Hadith 21\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 714\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ بْنِ عُقْبَةَ، عَنْ مُوسَى، عَنِ ابْنِ شِهَابٍ، قَالَ حَدَّثَنِي أَنَسٌ ـ رضى الله عنه ـ أَنَّ رِجَالاً، مِنَ الأَنْصَارِ اسْتَأْذَنُوا رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالُوا ائْذَنْ فَلْنَتْرُكْ لاِبْنِ أُخْتِنَا عَبَّاسٍ فِدَاءَهُ، فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ بْنِ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُوسَى، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَنَسٌ ـ رضى الله عنه ـ أَنَّ رِجَالاً، مِنَ الأَنْصَارِ اسْتَأْذَنُوا رَسُولَ اللَّهِ صل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2538": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2538\nIn-book reference  : Book 49, Hadith 22\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 715\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ هِشَامٍ، أَخْبَرَنِي أَبِي أَنَّ حَكِيمَ بْنَ حِزَامٍ ـ رضى الله عنه ـ أَعْتَقَ فِي الْجَاهِلِيَّةِ مِائَةَ رَقَبَةٍ، وَحَمَلَ عَلَى مِائَةِ بَعِيرٍ، فَلَمَّا أَسْلَمَ حَمَلَ عَلَى مِائَةِ بَعِيرٍ وَأَعْتَقَ مِائَةَ رَقَبَةٍ، قَالَ فَسَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ، أَرَأَيْتَ أَشْيَاءَ كُنْتُ أَصْنَعُهَا فِي الْجَاهِلِيَّةِ، كُنْتُ أَتَحَنَّثُ بِهَا، يَعْنِي أَتَبَرَّرُ بِهَا، قَالَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ، أَخْبَرَنِي أَبِي أَنَّ حَكِيمَ بْنَ حِزَامٍ ـ رضى الله عنه ـ أَعْتَقَ فِي الْجَاهِلِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ فَسَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ، أَرَأَيْتَ أَشْيَا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2542": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2542\nIn-book reference  : Book 49, Hadith 25\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 718\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنِ ابْنِ مُحَيْرِيزٍ، قَالَ رَأَيْتُ أَبَا سَعِيدٍ ـ رضى الله عنه ـ فَسَأَلْتُهُ فَقَالَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي غَزْوَةِ بَنِي الْمُصْطَلِقِ فَأَصَبْنَا سَبْيًا مِنْ سَبْىِ الْعَرَبِ، فَاشْتَهَيْنَا النِّسَاءَ فَاشْتَدَّتْ عَلَيْنَا الْعُزْبَةُ وَأَحْبَبْنَا الْعَزْلَ، فَسَأَلْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنِ ابْنِ مُحَيْرِيزٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَأَيْتُ أَبَا سَعِيدٍ ـ رضى الله عنه ـ فَسَأَلْتُهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي غَزْوَةِ بَنِي الْمُصْطَلِقِ فَأَصَبْنَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2544": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2544\nIn-book reference  : Book 49, Hadith 27\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 720\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، سَمِعَ مُحَمَّدَ بْنَ فُضَيْلٍ، عَنْ مُطَرِّفٍ، عَنِ الشَّعْبِيِّ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، سَمِعَ مُحَمَّدَ بْنَ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مُطَرِّفٍ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2546": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2546\nIn-book reference  : Book 49, Hadith 29\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 722\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2547": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2547\nIn-book reference  : Book 49, Hadith 30\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 723\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ صَالِحٍ، عَنِ الشَّعْبِيِّ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ ـ رضى الله عنه ـ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ صَالِحٍ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى الأَشْعَرِيِّ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2548": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2548\nIn-book reference  : Book 49, Hadith 31\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 724\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، سَمِعْتُ سَعِيدَ بْنَ الْمُسَيَّبِ، يَقُولُ قَالَ أَبُو هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَبُو هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "2549": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2549\nIn-book reference  : Book 49, Hadith 32\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 725\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الأَعْمَشِ، حَدَّثَنَا أَبُو صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2550": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2550\nIn-book reference  : Book 49, Hadith 33\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 726\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، حَدَّثَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي نَافِعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2551": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2551\nIn-book reference  : Book 49, Hadith 34\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 727\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُرَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2552": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2552\nIn-book reference  : Book 49, Hadith 35\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 728\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدٌ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ يُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2553": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2553\nIn-book reference  : Book 49, Hadith 36\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 729\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو النُّعْمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2554": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2554\nIn-book reference  : Book 49, Hadith 37\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 730\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنِي نَافِعٌ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي نَافِعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2555": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2555, 2556\nIn-book reference  : Book 49, Hadith 38\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 731\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، حَدَّثَنِي عُبَيْدُ اللَّهِ، سَمِعْتُ أَبَا هُرَيْرَةَ، وَزَيْدَ بْنَ خَالِدٍ، رضى الله عنهما عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي عُبَيْدُ اللَّهِ، سَمِعْتُ أَبَا هُرَيْرَةَ، وَزَيْدَ بْنَ خَالِدٍ، رضى الله عنهما عَنِ ا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2557": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2557\nIn-book reference  : Book 49, Hadith 39\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 732\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ، حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ زِيَادٍ، سَمِعْتُ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ زِيَادٍ، سَمِعْتُ أَبَا هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "2559": {
+    "collection": "Sahih Bukhari",
+    "book": "Manumission of Slaves",
+    "book_num": "49",
+    "reference": "Reference  : Sahih al-Bukhari 2559\nIn-book reference  : Book 49, Hadith 41\nUSC-MSA web (English) reference  : Vol. 3, Book 46, Hadith 734\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/49",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدِ اللَّهِ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ حَدَّثَنِي مَالِكُ بْنُ أَنَسٍ، قَالَ وَأَخْبَرَنِي ابْنُ فُلاَنٍ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي مَالِكُ بْنُ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ وَأَخْبَرَنِي ابْنُ فُلاَنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "عَنْ هَمَّامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 12,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

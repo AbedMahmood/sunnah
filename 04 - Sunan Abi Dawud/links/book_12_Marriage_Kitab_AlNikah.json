@@ -1,0 +1,2301 @@
+{
+  "2046": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2046\nIn-book reference  : Book 12, Hadith 1\nEnglish translation  : Book 11, Hadith 2041",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، قَالَ إِنِّي لأَمْشِي مَعَ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ بِمِنًى إِذْ لَقِيَهُ عُثْمَانُ فَاسْتَخْلاَهُ فَلَمَّا رَأَى عَبْدُ اللَّهِ أَنْ لَيْسَتْ لَهُ حَاجَةٌ قَالَ لِي تَعَالَ يَا عَلْقَمَةُ فَجِئْتُ فَقَالَ لَهُ عُثْمَانُ أَلاَ نُزَوِّجُكَ يَا أَبَا عَبْدِ الرَّحْمَنِ بِجَارِيَةٍ بِكْرٍ لَعَلَّهُ يَرْجِعُ إِلَيْكَ مِنْ نَفْسِكَ مَا كُنْتَ تَعْهَدُ فَقَالَ عَبْدُ اللَّهِ لَئِنْ قُلْتَ ذَاكَ لَقَدْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلْقَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَاجَةٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لِي تَعَالَ يَا عَلْقَمَةُ فَجِئْتُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَهُ عُثْمَانُ أَلاَ نُزَوِّجُكَ يَا أَبَا عَبْدِ الرَّحْمَنِ بِجَارِيَةٍ بِكْرٍ لَعَلَّهُ يَر",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2047": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2047\nIn-book reference  : Book 12, Hadith 2\nEnglish translation  : Book 11, Hadith 2042",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، - يَعْنِي ابْنَ سَعِيدٍ - حَدَّثَنِي عُبَيْدُ اللَّهِ، حَدَّثَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، - يَعْنِي ابْنَ سَعِيدٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي عُبَيْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2052": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2052\nIn-book reference  : Book 12, Hadith 7\nEnglish translation  : Book 11, Hadith 2047",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، وَأَبُو مَعْمَرٍ قَالاَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ حَبِيبٍ، حَدَّثَنِي عَمْرُو بْنُ شُعَيْبٍ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عَمْرُو بْنُ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2053": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2053\nIn-book reference  : Book 12, Hadith 8\nEnglish translation  : Book 11, Hadith 2048",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا عَبْثَرٌ، عَنْ مُطَرِّفٍ، عَنْ عَامِرٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْثَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُطَرِّفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2055": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2055\nIn-book reference  : Book 12, Hadith 10\nEnglish translation  : Book 11, Hadith 2050",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2057": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2057\nIn-book reference  : Book 12, Hadith 12\nEnglish translation  : Book 11, Hadith 2052",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ الْعَبْدِيُّ، أَخْبَرَنَا سُفْيَانُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ دَخَلَ عَلَىَّ أَفْلَحُ بْنُ أَبِي الْقُعَيْسِ فَاسْتَتَرْتُ مِنْهُ . قَالَ تَسْتَتِرِينَ مِنِّي وَأَنَا عَمُّكِ قَالَتْ قُلْتُ مِنْ أَيْنَ قَالَ أَرْضَعَتْكِ امْرَأَةُ أَخِي . قَالَتْ إِنَّمَا أَرْضَعَتْنِي الْمَرْأَةُ وَلَمْ يُرْضِعْنِي الرَّجُلُ . فَدَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم فَحَدَّثْتُهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ الْعَبْدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، - رضى الله عنها -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ دَخَلَ عَلَىَّ أَفْلَحُ بْنُ أَبِي الْقُعَيْسِ فَاسْتَتَرْتُ مِنْهُ .",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَمُّكِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أَيْنَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ أَرْضَعَتْكِ امْرَأَةُ أَخِي .",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَتْ إِنَّمَا أَرْضَعَتْنِي الْمَرْأَةُ وَلَمْ يُرْضِعْنِي الرَّجُلُ . فَدَخَلَ عَلَىَّ رَسُولُ ا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2058": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2058\nIn-book reference  : Book 12, Hadith 13\nEnglish translation  : Book 11, Hadith 2053",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَشْعَثَ بْنِ سُلَيْمٍ، عَنْ أَبِيهِ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ الْمَعْنَى، وَاحِدٌ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم دَخَلَ عَلَيْهَا وَعِنْدَهَا رَجُلٌ قَالَ حَفْصٌ فَشَقَّ ذَلِكَ عَلَيْهِ وَتَغَيَّرَ وَجْهُهُ - ثُمَّ اتَّفَقَا - قَالَتْ يَا رَسُولَ اللَّهِ إِنَّهُ أَخِي مِنَ الرَّضَاعَةِ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَشْعَثَ بْنِ سُلَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "رَجُلٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ حَفْصٌ فَشَقَّ ذَلِكَ عَلَيْهِ وَتَغَيَّرَ وَجْهُهُ - ثُمَّ اتَّفَقَا -",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَتْ يَا رَسُولَ اللَّهِ إِنَّهُ أَخِي مِنَ الرَّضَاعَةِ . فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2063": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2063\nIn-book reference  : Book 12, Hadith 18\nEnglish translation  : Book 11, Hadith 2058",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، - رضى الله عنها -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2064": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2064\nIn-book reference  : Book 12, Hadith 19\nEnglish translation  : Book 11, Hadith 2059",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، ح وَحَدَّثَنَا ابْنُ الْعَلاَءِ، حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ حَجَّاجِ بْنِ حَجَّاجٍ، عَنْ أَبِيهِ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ مَا يُذْهِبُ عَنِّي مَذَمَّةَ الرَّضَاعَةِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا ابْنُ إِدْرِيسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ حَجَّاجِ بْنِ حَجَّاجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "الرَّضَاعَةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2065": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2065\nIn-book reference  : Book 12, Hadith 20\nEnglish translation  : Book 11, Hadith 2060",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ، عَنْ عَامِرٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زُهَيْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2071": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2071\nIn-book reference  : Book 12, Hadith 26\nEnglish translation  : Book 11, Hadith 2066",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، - الْمَعْنَى - قَالَ أَحْمَدُ حَدَّثَنَا اللَّيْثُ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عُبَيْدِ اللَّهِ بْنِ أَبِي مُلَيْكَةَ الْقُرَشِيُّ التَّيْمِيُّ، أَنَّ الْمِسْوَرَ بْنَ مَخْرَمَةَ، حَدَّثَهُ أَنَّهُ، سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى الْمِنْبَرِ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، - الْمَعْنَى -",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَحْمَدُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2076": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2076\nIn-book reference  : Book 12, Hadith 31\nEnglish translation  : Book 11, Hadith 2071",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنِي إِسْمَاعِيلُ، عَنْ عَامِرٍ، عَنِ الْحَارِثِ، عَنْ عَلِيٍّ، رضى الله عنه - قَالَ إِسْمَاعِيلُ وَأُرَاهُ قَدْ رَفَعَهُ إِلَى النَّبِيِّ صلى الله عليه وسلم - أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زُهَيْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرٍ، عَنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلِيٍّ، رضى الله عنه -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ إِسْمَاعِيلُ وَأُرَاهُ قَدْ رَفَعَهُ إِلَى النَّبِيِّ صلى الله عليه وسلم - أَنَّ النَّبِيَّ صل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2078": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2078\nIn-book reference  : Book 12, Hadith 33\nEnglish translation  : Book 11, Hadith 2073",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، - وَهَذَا لَفْظُ إِسْنَادِهِ - وَكِلاَهُمَا عَنْ وَكِيعٍ، حَدَّثَنَا الْحَسَنُ بْنُ صَالِحٍ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "وَكِلاَهُمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ وَكِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2079": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2079\nIn-book reference  : Book 12, Hadith 34\nEnglish translation  : Book 11, Hadith 2074",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ، حَدَّثَنَا أَبُو قُتَيْبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو قُتَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2080": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2080\nIn-book reference  : Book 12, Hadith 35\nEnglish translation  : Book 11, Hadith 2075",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2081": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2081\nIn-book reference  : Book 12, Hadith 36\nEnglish translation  : Book 11, Hadith 2076",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2082": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2082\nIn-book reference  : Book 12, Hadith 37\nEnglish translation  : Book 11, Hadith 2077",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ دَاوُدَ بْنِ حُصَيْنٍ، عَنْ وَاقِدِ بْنِ عَبْدِ الرَّحْمَنِ، - يَعْنِي ابْنَ سَعْدِ بْنِ مُعَاذٍ - عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ دَاوُدَ بْنِ حُصَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ وَاقِدِ بْنِ عَبْدِ الرَّحْمَنِ، - يَعْنِي ابْنَ سَعْدِ بْنِ مُعَاذٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2085": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2085\nIn-book reference  : Book 12, Hadith 40\nEnglish translation  : Book 11, Hadith 2080",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ قُدَامَةَ بْنِ أَعْيَنَ، حَدَّثَنَا أَبُو عُبَيْدَةَ الْحَدَّادُ، عَنْ يُونُسَ، وَإِسْرَائِيلَ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ قُدَامَةَ بْنِ أَعْيَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عُبَيْدَةَ الْحَدَّادُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يُونُسَ، وَإِسْرَائِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُوسَى، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2088": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2088\nIn-book reference  : Book 12, Hadith 43\nEnglish translation  : Book 11, Hadith 2083",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا هَمَّامٌ، ح وَحَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، - الْمَعْنَى - عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا هَمَّامٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ، - الْمَعْنَى -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سَمُرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2093": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2093\nIn-book reference  : Book 12, Hadith 48\nEnglish translation  : Book 11, Hadith 2088",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا أَبُو كَامِلٍ، حَدَّثَنَا يَزِيدُ يَعْنِي ابْنَ زُرَيْعٍ، ح وَحَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، - الْمَعْنَى - حَدَّثَنِي مُحَمَّدُ بْنُ عَمْرٍو، حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كَامِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ يَعْنِي ابْنَ زُرَيْعٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ، - الْمَعْنَى -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2095": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2095\nIn-book reference  : Book 12, Hadith 50\nEnglish translation  : Book 11, Hadith 2090",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ، عَنْ سُفْيَانَ، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، حَدَّثَنِي الثِّقَةُ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي الثِّقَةُ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2098": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2098\nIn-book reference  : Book 12, Hadith 53\nEnglish translation  : Book 11, Hadith 2093",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، وَعَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، قَالاَ أَخْبَرَنَا مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ، عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2100": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2100\nIn-book reference  : Book 12, Hadith 55\nEnglish translation  : Book 11, Hadith 2095",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنْ نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ صَالِحِ بْنِ كَيْسَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه و",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2110": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2110\nIn-book reference  : Book 12, Hadith 65\nEnglish translation  : Book 11, Hadith 2105",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ جِبْرِيلَ الْبَغْدَادِيُّ، أَخْبَرَنَا يَزِيدُ، أَخْبَرَنَا مُوسَى بْنُ مُسْلِمِ بْنِ رُومَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ جِبْرِيلَ الْبَغْدَادِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا يَزِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مُوسَى بْنُ مُسْلِمِ بْنِ رُومَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2122": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2122\nIn-book reference  : Book 12, Hadith 77\nEnglish translation  : Book 11, Hadith 2117",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ أَبِي بَكْرٍ، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي بَكْرٍ، عَنْ أَبِيهِ، عَنْ أُمِّ سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمَّا تَزَوَّجَ أُمَّ سَلَمَةَ أَقَامَ عِنْدَهَا ثَلاَثًا ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2126": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2126\nIn-book reference  : Book 12, Hadith 81\nEnglish translation  : Book 11, Hadith 2121",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا كَثِيرُ بْنُ عُبَيْدٍ الْحِمْصِيُّ، حَدَّثَنَا أَبُو حَيْوَةَ، عَنْ شُعَيْبٍ، - يَعْنِي ابْنَ أَبِي حَمْزَةَ - حَدَّثَنِي غَيْلاَنُ بْنُ أَنَسٍ، حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ ثَوْبَانَ، عَنْ رَجُلٍ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَنَّ عَلِيًّا عَلَيْهِ السَّلاَمُ لَمَّا تَزَوَّجَ فَاطِمَةَ بِنْتَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَرَضِيَ اللَّهُ عَنْهَا أَرَادَ أَنْ يَدْخُلَ بِهَا فَمَنَعَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم حَتَّى يُعْطِيَهَا شَيْئًا فَقَالَ يَا رَسُولَ اللَّهِ لَيْسَ لِي شَىْءٌ . فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا كَثِيرُ بْنُ عُبَيْدٍ الْحِمْصِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو حَيْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعَيْبٍ، - يَعْنِي ابْنَ أَبِي حَمْزَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي غَيْلاَنُ بْنُ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ ثَوْبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "اللَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْهَا أَرَادَ أَنْ يَدْخُلَ بِهَا فَمَنَعَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم حَتَّى يُعْطِيَهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ لَيْسَ لِي شَىْءٌ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2129": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2129\nIn-book reference  : Book 12, Hadith 84\nEnglish translation  : Book 11, Hadith 2124",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2130": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2130\nIn-book reference  : Book 12, Hadith 85\nEnglish translation  : Book 11, Hadith 2125",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا رَفَّأَ الإِنْسَانَ إِذَا تَزَوَّجَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُهَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "تَزَوَّجَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2133": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2133\nIn-book reference  : Book 12, Hadith 88\nEnglish translation  : Book 11, Hadith 2128",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا قَتَادَةُ، عَنِ النَّضْرِ بْنِ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بَشِيرِ بْنِ نَهِيكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2134": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2134\nIn-book reference  : Book 12, Hadith 89\nEnglish translation  : Book 11, Hadith 2129",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ الْخَطْمِيِّ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْسِمُ فَيَعْدِلُ وَيَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ الْخَطْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "وَيَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2137": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2137\nIn-book reference  : Book 12, Hadith 92\nEnglish translation  : Book 11, Hadith 2132",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا مَرْحُومُ بْنُ عَبْدِ الْعَزِيزِ الْعَطَّارُ، حَدَّثَنِي أَبُو عِمْرَانَ الْجَوْنِيُّ، عَنْ يَزِيدَ بْنِ بَابَنُوسَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ إِلَى النِّسَاءِ - تَعْنِي فِي مَرَضِهِ - فَاجْتَمَعْنَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَرْحُومُ بْنُ عَبْدِ الْعَزِيزِ الْعَطَّارُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي أَبُو عِمْرَانَ الْجَوْنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ بَابَنُوسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَعَثَ إِلَى النِّسَاءِ - تَعْنِي فِي مَرَض",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2139": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2139\nIn-book reference  : Book 12, Hadith 94\nEnglish translation  : Book 11, Hadith 2134",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا عِيسَى بْنُ حَمَّادٍ، أَخْبَرَنِي اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عِيسَى بْنُ حَمَّادٍ، أَخْبَرَنِي اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الْخَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2141": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2141\nIn-book reference  : Book 12, Hadith 96\nEnglish translation  : Book 11, Hadith 2136",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو الرَّازِيُّ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو الرَّازِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2144": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2144\nIn-book reference  : Book 12, Hadith 99\nEnglish translation  : Book 11, Hadith 2139",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "أَخْبَرَنِي أَحْمَدُ بْنُ يُوسُفَ الْمُهَلَّبِيُّ النَّيْسَابُورِيُّ، حَدَّثَنَا عُمَرُ بْنُ عَبْدِ اللَّهِ بْنِ رَزِينٍ، حَدَّثَنَا سُفْيَانُ بْنُ حُسَيْنٍ، عَنْ دَاوُدَ الْوَرَّاقِ، عَنْ سَعِيدِ بْنِ حَكِيمٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، مُعَاوِيَةَ الْقُشَيْرِيِّ قَالَ أَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ فَقُلْتُ مَا تَقُولُ فِي نِسَائِنَا قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي أَحْمَدُ بْنُ يُوسُفَ الْمُهَلَّبِيُّ النَّيْسَابُورِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ عَبْدِ اللَّهِ بْنِ رَزِينٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ حُسَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ دَاوُدَ الْوَرَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الْقُشَيْرِيِّ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "نِسَائِنَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2145": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2145\nIn-book reference  : Book 12, Hadith 100\nEnglish translation  : Book 11, Hadith 2140",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ عَلِيِّ بْنِ زَيْدٍ، عَنْ أَبِي حُرَّةَ الرَّقَاشِيِّ، عَنْ عَمِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي حُرَّةَ الرَّقَاشِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2147": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2147\nIn-book reference  : Book 12, Hadith 102\nEnglish translation  : Book 11, Hadith 2142",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ دَاوُدَ بْنِ عَبْدِ اللَّهِ الأَوْدِيِّ، عَنْ عَبْدِ الرَّحْمَنِ الْمُسْلِيِّ، عَنِ الأَشْعَثِ بْنِ قَيْسٍ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ دَاوُدَ بْنِ عَبْدِ اللَّهِ الأَوْدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ الْمُسْلِيِّ، عَنِ الأَشْعَثِ بْنِ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُمَرَ بْنِ الْخَطَّابِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2148": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2148\nIn-book reference  : Book 12, Hadith 103\nEnglish translation  : Book 11, Hadith 2143",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، حَدَّثَنِي يُونُسُ بْنُ عُبَيْدٍ، عَنْ عَمْرِو بْنِ سَعِيدٍ، عَنْ أَبِي زُرْعَةَ، عَنْ جَرِيرٍ، قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ نَظْرَةِ الْفَجْأَةِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي يُونُسُ بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي زُرْعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَرِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ نَظْرَةِ الْفَجْأَةِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2149": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2149\nIn-book reference  : Book 12, Hadith 104\nEnglish translation  : Book 11, Hadith 2144",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى الْفَزَارِيُّ، أَخْبَرَنَا شَرِيكٌ، عَنْ أَبِي رَبِيعَةَ الإِيَادِيِّ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِعَلِيٍّ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ مُوسَى الْفَزَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شَرِيكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي رَبِيعَةَ الإِيَادِيِّ، عَنِ ابْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "لِعَلِيٍّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2150": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2150\nIn-book reference  : Book 12, Hadith 105\nEnglish translation  : Book 11, Hadith 2145",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنِ ابْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ، عَنِ ابْنِ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2151": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2151\nIn-book reference  : Book 12, Hadith 106\nEnglish translation  : Book 11, Hadith 2146",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى امْرَأَةً فَدَخَلَ عَلَى زَيْنَبَ بِنْتِ جَحْشٍ فَقَضَى حَاجَتَهُ مِنْهَا ثُمَّ خَرَجَ إِلَى أَصْحَابِهِ فَقَالَ لَهُمْ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم رَأَى امْرَأَةً فَدَخَلَ عَلَى زَيْنَبَ بِنْتِ جَح",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "لَهُمْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2152": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2152\nIn-book reference  : Book 12, Hadith 107\nEnglish translation  : Book 11, Hadith 2147",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا ابْنُ ثَوْرٍ، عَنْ مَعْمَرٍ، أَخْبَرَنَا ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ مَا رَأَيْتُ شَيْئًا أَشْبَهَ بِاللَّمَمِ مِمَّا قَالَ أَبُو هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ ثَوْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا ابْنُ طَاوُسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "مِمَّا",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَبُو هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2154": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2154\nIn-book reference  : Book 12, Hadith 109\nEnglish translation  : Book 11, Hadith 2149",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنِ الْقَعْقَاعِ بْنِ حَكِيمٍ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذِهِ الْقِصَّةِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنِ الْقَعْقَاعِ بْنِ حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الْقِصَّةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2157": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2157\nIn-book reference  : Book 12, Hadith 112\nEnglish translation  : Book 11, Hadith 2152",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، أَخْبَرَنَا شَرِيكٌ، عَنْ قَيْسِ بْنِ وَهْبٍ، عَنْ أَبِي الْوَدَّاكِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، وَرَفَعَهُ، أَنَّهُ قَالَ فِي سَبَايَا أَوْطَاسٍ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شَرِيكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ قَيْسِ بْنِ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الْوَدَّاكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَوْطَاسٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2161": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2161\nIn-book reference  : Book 12, Hadith 116\nEnglish translation  : Book 11, Hadith 2156",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2162": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2162\nIn-book reference  : Book 12, Hadith 117\nEnglish translation  : Book 11, Hadith 2157",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، عَنْ وَكِيعٍ، عَنْ سُفْيَانَ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنِ الْحَارِثِ بْنِ مُخَلَّدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ وَكِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنِ الْحَارِثِ بْنِ مُخَلَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2168": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2168\nIn-book reference  : Book 12, Hadith 123\nEnglish translation  : Book 11, Hadith 2163",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، - غَيْرُهُ عَنْ سَعِيدٍ، - حَدَّثَنِي الْحَكَمُ، عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ مِقْسَمٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي الَّذِي يَأْتِي امْرَأَتَهُ وَهِيَ حَائِضٌ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "غَيْرُهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ، -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي الْحَكَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَائِضٌ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2171": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2171\nIn-book reference  : Book 12, Hadith 126\nEnglish translation  : Book 11, Hadith 2166",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبَانُ، حَدَّثَنَا يَحْيَى، أَنَّ مُحَمَّدَ بْنَ عَبْدِ الرَّحْمَنِ بْنِ ثَوْبَانَ، حَدَّثَهُ أَنَّ رِفَاعَةَ حَدَّثَهُ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ إِنَّ لِي جَارِيَةً وَأَنَا أَعْزِلُ عَنْهَا وَأَنَا أَكْرَهُ أَنْ تَحْمِلَ وَأَنَا أُرِيدُ مَا يُرِيدُ الرِّجَالُ وَإِنَّ الْيَهُودَ تُحَدِّثُ أَنَّ الْعَزْلَ مَوْءُودَةُ الصُّغْرَى . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَجُلاً،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَعْزِلُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْهَا وَأَنَا أَكْرَهُ أَنْ تَحْمِلَ وَأَنَا أُرِيدُ مَا يُرِيدُ الرِّجَالُ وَإِنَّ الْيَهُودَ تُح",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2172": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Marriage (Kitab Al-Nikah)",
+    "book_num": "12",
+    "reference": "Reference  : Sunan Abi Dawud 2172\nIn-book reference  : Book 12, Hadith 127\nEnglish translation  : Book 11, Hadith 2167",
+    "url": "https://sunnah.com/abudawud/12",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنِ ابْنِ مُحَيْرِيزٍ، قَالَ دَخَلْتُ الْمَسْجِدَ فَرَأَيْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ فَجَلَسْتُ إِلَيْهِ فَسَأَلْتُهُ عَنِ الْعَزْلِ، فَقَالَ أَبُو سَعِيدٍ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي غَزْوَةِ بَنِي الْمُصْطَلِقِ فَأَصَبْنَا سَبْيًا مِنْ سَبْىِ الْعَرَبِ فَاشْتَهَيْنَا النِّسَاءَ وَاشْتَدَّتْ عَلَيْنَا الْعُزْبَةُ وَأَحْبَبْنَا الْفِدَاءَ فَأَرَدْنَا أَنْ نَعْزِلَ ثُمَّ قُلْنَا نَعْزِلُ وَرَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ أَظْهُرِنَا قَبْلَ أَنْ نَسْأَلَهُ عَنْ ذَلِكَ فَسَأَلْنَاهُ عَنْ ذَلِكَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنِ ابْنِ مُحَيْرِيزٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ دَخَلْتُ الْمَسْجِدَ فَرَأَيْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ فَجَلَسْتُ إِلَيْهِ فَسَأَلْتُهُ عَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "نَسْأَلَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "فَسَأَلْنَاهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ ذَلِكَ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

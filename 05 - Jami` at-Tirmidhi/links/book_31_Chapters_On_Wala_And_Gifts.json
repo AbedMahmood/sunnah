@@ -1,0 +1,244 @@
+{
+  "2125": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Wala' And Gifts",
+    "book_num": "31",
+    "reference": "Reference  : Jami` at-Tirmidhi 2125\nIn-book reference  : Book 31, Hadith 1\nEnglish translation  : Vol. 4, Book 5, Hadith 2125",
+    "url": "https://sunnah.com/tirmidhi/31",
+    "sanad_full": "حَدَّثَنَا بُنْدَارٌ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، أَنَّهَا أَرَادَتْ أَنْ تَشْتَرِيَ، بَرِيرَةَ فَاشْتَرَطُوا الْوَلاَءَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا بُنْدَارٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّهَا أَرَادَتْ أَنْ تَشْتَرِيَ، بَرِيرَةَ فَاشْتَرَطُوا الْوَلاَءَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2127": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Wala' And Gifts",
+    "book_num": "31",
+    "reference": "Reference  : Jami` at-Tirmidhi 2127\nIn-book reference  : Book 31, Hadith 3\nEnglish translation  : Vol. 4, Book 5, Hadith 2127",
+    "url": "https://sunnah.com/tirmidhi/31",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ أَبِيهِ، قَالَ خَطَبَنَا عَلِيٌّ فَقَالَ مَنْ زَعَمَ أَنَّ عِنْدَنَا شَيْئًا نَقْرَؤُهُ إِلاَّ كِتَابَ اللَّهِ وَهَذِهِ الصَّحِيفَةَ صَحِيفَةٌ فِيهَا أَسْنَانُ الإِبِلِ وَأَشْيَاءُ مِنَ الْجِرَاحَاتِ فَقَدْ كَذَبَ وَقَالَ فِيهَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ التَّيْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ خَطَبَنَا عَلِيٌّ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ مَنْ زَعَمَ أَنَّ عِنْدَنَا شَيْئًا نَقْرَؤُهُ إِلاَّ كِتَابَ اللَّهِ وَهَذِهِ الصَّحِيفَةَ صَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فِيهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2129": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Wala' And Gifts",
+    "book_num": "31",
+    "reference": "Reference  : Jami` at-Tirmidhi 2129 b\nIn-book reference  : Book 31, Hadith 6\nEnglish translation  : Vol. 1, Book 5, Hadith 2129",
+    "url": "https://sunnah.com/tirmidhi/31",
+    "sanad_full": "وَقَدْ رَوَى ابْنُ عُيَيْنَةَ، هَذَا الْحَدِيثَ عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، وَزَادَ، فِيهِ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "وَقَدْ رَوَى ابْنُ عُيَيْنَةَ، هَذَا الْحَدِيثَ عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "عَنْ"
+    ]
+  },
+  "2130": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Wala' And Gifts",
+    "book_num": "31",
+    "reference": "Reference  : Jami` at-Tirmidhi 2130\nIn-book reference  : Book 31, Hadith 7\nEnglish translation  : Vol. 4, Book 5, Hadith 2130",
+    "url": "https://sunnah.com/tirmidhi/31",
+    "sanad_full": "حَدَّثَنَا أَزْهَرُ بْنُ مَرْوَانَ الْبَصْرِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ سَوَاءٍ، حَدَّثَنَا أَبُو مَعْشَرٍ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَزْهَرُ بْنُ مَرْوَانَ الْبَصْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سَوَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مَعْشَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2131": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Wala' And Gifts",
+    "book_num": "31",
+    "reference": "Reference  : Jami` at-Tirmidhi 2131\nIn-book reference  : Book 31, Hadith 8\nEnglish translation  : Vol. 4, Book 5, Hadith 2131",
+    "url": "https://sunnah.com/tirmidhi/31",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ الأَزْرَقُ، حَدَّثَنَا حُسَيْنٌ الْمُكْتِبُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ الأَزْرَقُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حُسَيْنٌ الْمُكْتِبُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ طَاوُسٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2132": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters On Wala' And Gifts",
+    "book_num": "31",
+    "reference": "Reference  : Jami` at-Tirmidhi 2132\nIn-book reference  : Book 31, Hadith 9\nEnglish translation  : Vol. 4, Book 5, Hadith 2132",
+    "url": "https://sunnah.com/tirmidhi/31",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، حَدَّثَنِي طَاوُسٌ، عَنِ ابْنِ عُمَرَ، وَابْنِ، عَبَّاسٍ يَرْفَعَانِ الْحَدِيثَ قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ حُسَيْنٍ الْمُعَلِّمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "الْحَدِيثَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

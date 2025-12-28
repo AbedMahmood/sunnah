@@ -1,0 +1,1047 @@
+{
+  "3326": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3326\nIn-book reference  : Book 23, Hadith 1\nEnglish translation  : Book 22, Hadith 3320",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ قَيْسِ بْنِ أَبِي غَرَزَةَ، قَالَ كُنَّا فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم نُسَمَّى السَّمَاسِرَةَ فَمَرَّ بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَسَمَّانَا بِاسْمٍ هُوَ أَحْسَنُ مِنْهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَيْسِ بْنِ أَبِي غَرَزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كُنَّا فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم نُسَمَّى السَّمَاسِرَةَ فَمَرَّ بِنَا رَس",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3330": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3330\nIn-book reference  : Book 23, Hadith 5\nEnglish translation  : Book 22, Hadith 3324",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا عِيسَى، حَدَّثَنَا زَكَرِيَّا، عَنْ عَامِرٍ الشَّعْبِيِّ، قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ بِهَذَا الْحَدِيثِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَكَرِيَّا،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرٍ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الْحَدِيثِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3336": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3336\nIn-book reference  : Book 23, Hadith 11\nEnglish translation  : Book 22, Hadith 3330",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سُفْيَانُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، حَدَّثَنِي سُوَيْدُ بْنُ قَيْسٍ، قَالَ جَلَبْتُ أَنَا وَمَخْرَمَةُ الْعَبْدِيُّ، بَزًّا مِنْ هَجَرَ فَأَتَيْنَا بِهِ مَكَّةَ فَجَاءَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَمْشِي فَسَاوَمَنَا بِسَرَاوِيلَ فَبِعْنَاهُ وَثَمَّ رَجُلٌ يَزِنُ بِالأَجْرِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سِمَاكِ بْنِ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي سُوَيْدُ بْنُ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ جَلَبْتُ أَنَا وَمَخْرَمَةُ الْعَبْدِيُّ، بَزًّا مِنْ هَجَرَ فَأَتَيْنَا بِهِ مَكَّةَ فَجَاءَن",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3342": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3342\nIn-book reference  : Book 23, Hadith 17\nEnglish translation  : Book 22, Hadith 3336",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي سَعِيدُ بْنُ أَبِي أَيُّوبَ، أَنَّهُ سَمِعَ أَبَا عَبْدِ اللَّهِ الْقُرَشِيَّ، يَقُولُ سَمِعْتُ أَبَا بُرْدَةَ بْنَ أَبِي مُوسَى الأَشْعَرِيَّ، يَقُولُ عَنْ أَبِيهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3345": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3345\nIn-book reference  : Book 23, Hadith 20\nEnglish translation  : Book 22, Hadith 3339",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3346": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3346\nIn-book reference  : Book 23, Hadith 21\nEnglish translation  : Book 22, Hadith 3340",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي رَافِعٍ، قَالَ اسْتَسْلَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَكْرًا فَجَاءَتْهُ إِبِلٌ مِنَ الصَّدَقَةِ فَأَمَرَنِي أَنْ أَقْضِيَ الرَّجُلَ بَكْرَهُ فَقُلْتُ لَمْ أَجِدْ فِي الإِبِلِ إِلاَّ جَمَلاً خِيَارًا رَبَاعِيًّا . فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زَيْدِ بْنِ أَسْلَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ اسْتَسْلَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَكْرًا فَجَاءَتْهُ إِبِلٌ مِنَ الصَّدَقَةِ فَأ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3348": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3348\nIn-book reference  : Book 23, Hadith 23\nEnglish translation  : Book 22, Hadith 3342",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، عَنْ مَالِكٍ، وَعَنِ ابْنِ شِهَابٍ، عَنْ مَالِكِ بْنِ أَوْسٍ، عَنْ عُمَرَ، - رضى الله عنه - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، وَعَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَالِكِ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُمَرَ، - رضى الله عنه -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3349": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3349\nIn-book reference  : Book 23, Hadith 24\nEnglish translation  : Book 22, Hadith 3343",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا بِشْرُ بْنُ عُمَرَ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَبِي الْخَلِيلِ، عَنْ مُسْلِمٍ الْمَكِّيِّ، عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الْخَلِيلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُسْلِمٍ الْمَكِّيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُبَادَةَ بْنِ الصَّامِتِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3352": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3352\nIn-book reference  : Book 23, Hadith 27\nEnglish translation  : Book 22, Hadith 3346",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ أَبِي شُجَاعٍ، سَعِيدِ بْنِ يَزِيدَ عَنْ خَالِدِ بْنِ أَبِي عِمْرَانَ، عَنْ حَنَشٍ الصَّنْعَانِيِّ، عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، قَالَ اشْتَرَيْتُ يَوْمَ خَيْبَرَ قِلاَدَةً بِاثْنَىْ عَشَرَ دِينَارًا فِيهَا ذَهَبٌ وَخَرَزٌ فَفَصَّلْتُهَا فَوَجَدْتُ فِيهَا أَكْثَرَ مِنَ اثْنَىْ عَشَرَ دِينَارًا فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَزِيدَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خَالِدِ بْنِ أَبِي عِمْرَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حَنَشٍ الصَّنْعَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ فَضَالَةَ بْنِ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ اشْتَرَيْتُ يَوْمَ خَيْبَرَ قِلاَدَةً بِاثْنَىْ عَشَرَ دِينَارًا فِيهَا ذَهَبٌ وَخَرَزٌ فَفَصّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3353": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3353\nIn-book reference  : Book 23, Hadith 28\nEnglish translation  : Book 22, Hadith 3347",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي جَعْفَرٍ، عَنِ الْجُلاَحِ أَبِي كَثِيرٍ، حَدَّثَنِي حَنَشٌ الصَّنْعَانِيُّ، عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمَ خَيْبَرَ نُبَايِعُ الْيَهُودَ الأُوقِيَّةَ مِنَ الذَّهَبِ بِالدِّينَارِ . قَالَ غَيْرُ قُتَيْبَةَ بِالدِّينَارَيْنِ وَالثَّلاَثَةِ . ثُمَّ اتَّفَقَا فَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ أَبِي جَعْفَرٍ، عَنِ الْجُلاَحِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي حَنَشٌ الصَّنْعَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ فَضَالَةَ بْنِ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمَ خَيْبَرَ نُبَايِعُ الْيَهُودَ الأُوقِيَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ غَيْرُ قُتَيْبَةَ بِالدِّينَارَيْنِ وَالثَّلاَثَةِ . ثُمَّ اتَّفَقَا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3354": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3354\nIn-book reference  : Book 23, Hadith 29\nEnglish translation  : Book 22, Hadith 3348",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، وَمُحَمَّدُ بْنُ مَحْبُوبٍ، - الْمَعْنَى وَاحِدٌ - قَالاَ حَدَّثَنَا حَمَّادٌ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ، قَالَ كُنْتُ أَبِيعُ الإِبِلَ بِالْبَقِيعِ فَأَبِيعُ بِالدَّنَانِيرِ وَآخُذُ الدَّرَاهِمَ وَأَبِيعُ بِالدَّرَاهِمِ وَآخُذُ الدَّنَانِيرَ آخُذُ هَذِهِ مِنْ هَذِهِ وَأُعْطِي هَذِهِ مِنْ هَذِهِ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُوَ فِي بَيْتِ حَفْصَةَ فَقُلْتُ يَا رَسُولَ اللَّهِ رُوَيْدَكَ أَسْأَلُكَ إِنِّي أَبِيعُ الإِبِلَ بِالْبَقِيعِ فَأَبِيعُ بِالدَّنَانِيرِ وَآخُذُ الدَّرَاهِمَ وَأَبِيعُ بِالدَّرَاهِمِ وَآخُذُ الدَّنَانِيرَ آخُذُ هَذِهِ مِنْ هَذِهِ وَأُعْطِي هَذِهِ مِنْ هَذِهِ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سِمَاكِ بْنِ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كُنْتُ أَبِيعُ الإِبِلَ بِالْبَقِيعِ فَأَبِيعُ بِالدَّنَانِيرِ وَآخُذُ الدَّرَاهِمَ وَأَبِيعُ ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3355": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3355\nIn-book reference  : Book 23, Hadith 30\nEnglish translation  : Book 22, Hadith 3349",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا حُسَيْنُ بْنُ الأَسْوَدِ، حَدَّثَنَا عُبَيْدُ اللَّهِ، أَخْبَرَنَا إِسْرَائِيلُ، عَنْ سِمَاكٍ، بِإِسْنَادِهِ وَمَعْنَاهُ وَالأَوَّلُ أَتَمُّ لَمْ يَذْكُرْ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حُسَيْنُ بْنُ الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا إِسْرَائِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَذْكُرْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ"
+    ]
+  },
+  "3359": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3359\nIn-book reference  : Book 23, Hadith 34\nEnglish translation  : Book 22, Hadith 3353",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، أَنَّ زَيْدًا أَبَا عَيَّاشٍ، أَخْبَرَهُ أَنَّهُ، سَأَلَ سَعْدَ بْنَ أَبِي وَقَّاصٍ عَنِ الْبَيْضَاءِ، بِالسُّلْتِ فَقَالَ لَهُ سَعْدٌ أَيُّهُمَا أَفْضَلُ قَالَ الْبَيْضَاءُ . فَنَهَاهُ عَنْ ذَلِكَ وَقَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُسْأَلُ عَنْ شِرَاءِ التَّمْرِ بِالرُّطَبِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ، أَنَّ زَيْدًا أَبَا عَيَّاشٍ، أَخْبَرَهُ أَنَّهُ، سَأَلَ سَعْدَ بْ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَفْضَلُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فَنَهَاهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ ذَلِكَ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يُسْأَلُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ شِرَاءِ التَّمْرِ بِالرُّطَبِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3372": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3372\nIn-book reference  : Book 23, Hadith 47\nEnglish translation  : Book 22, Hadith 3366",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَنْبَسَةُ بْنُ خَالِدٍ، حَدَّثَنِي يُونُسُ، قَالَ سَأَلْتُ أَبَا الزِّنَادِ عَنْ بَيْعِ الثَّمَرِ، قَبْلَ أَنْ يَبْدُوَ، صَلاَحُهُ وَمَا ذُكِرَ فِي ذَلِكَ فَقَالَ كَانَ عُرْوَةُ بْنُ الزُّبَيْرِ يُحَدِّثُ عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ عَنْ زَيْدِ بْنِ ثَابِتٍ قَالَ كَانَ النَّاسُ يَتَبَايَعُونَ الثِّمَارَ قَبْلَ أَنْ يَبْدُوَ صَلاَحُهَا فَإِذَا جَدَّ النَّاسُ وَحَضَرَ تَقَاضِيهِمْ قَالَ الْمُبْتَاعُ قَدْ أَصَابَ الثَّمَرَ الدُّمَانُ وَأَصَابَهُ قُشَامٌ وَأَصَابَهُ مُرَاضٌ عَاهَاتٌ يَحْتَجُّونَ بِهَا فَلَمَّا كَثُرَتْ خُصُومَتُهُمْ عِنْدَ النَّبِيِّ صلى الله عليه وسلم قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم كَالْمَشُورَةِ يُشِيرُ بِهَا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْبَسَةُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي يُونُسُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الزِّنَادِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ بَيْعِ الثَّمَرِ، قَبْلَ أَنْ يَبْدُوَ، صَلاَحُهُ وَمَا ذُكِرَ فِي ذَلِكَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَثْمَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "ثَابِتٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "تَقَاضِيهِمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ الْمُبْتَاعُ قَدْ أَصَابَ الثَّمَرَ الدُّمَانُ وَأَصَابَهُ قُشَامٌ وَأَصَابَهُ مُرَاضٌ عَاهَات",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "بِهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 12,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3383": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3383\nIn-book reference  : Book 23, Hadith 58\nEnglish translation  : Book 22, Hadith 3377",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الْمِصِّيصِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ الزِّبْرِقَانِ، عَنْ أَبِي حَيَّانَ التَّيْمِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، رَفَعَهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الْمِصِّيصِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الزِّبْرِقَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَيَّانَ التَّيْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "رَفَعَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3389": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3389\nIn-book reference  : Book 23, Hadith 64\nEnglish translation  : Book 22, Hadith 3383",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ دِينَارٍ، قَالَ سَمِعْتُ ابْنَ عُمَرَ، يَقُولُ مَا كُنَّا نَرَى بِالْمُزَارَعَةِ بَأْسًا حَتَّى سَمِعْتُ رَافِعَ بْنَ خَدِيجٍ يَقُولُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْهَا . فَذَكَرْتُهُ لِطَاوُسٍ فَقَالَ قَالَ لِي ابْنُ عَبَّاسٍ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمْ يَنْهَ عَنْهَا وَلَكِنْ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "نَهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْهَا . فَذَكَرْتُهُ لِطَاوُسٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَنْهَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "وَلَكِنْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3395": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3395\nIn-book reference  : Book 23, Hadith 70\nEnglish translation  : Book 22, Hadith 3389",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا سَعِيدٌ، عَنْ يَعْلَى بْنِ حَكِيمٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، أَنَّ رَافِعَ بْنَ خَدِيجٍ، قَالَ كُنَّا نُخَابِرُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَنَّ بَعْضَ عُمُومَتِهِ أَتَاهُ فَقَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ أَمْرٍ كَانَ لَنَا نَافِعًا وَطَوَاعِيَةُ اللَّهِ وَرَسُولِهِ أَنْفَعُ لَنَا وَأَنْفَعُ . قَالَ قُلْنَا وَمَا ذَاكَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَعْلَى بْنِ حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، أَنَّ رَافِعَ بْنَ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كُنَّا نُخَابِرُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَنَّ بَعْضَ عُمُومَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَمْرٍ كَانَ لَنَا نَافِعًا وَطَوَاعِيَةُ اللَّهِ وَرَسُولِهِ أَنْفَعُ لَنَا وَأَنْفَعُ .",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "ذَاكَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3398": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3398\nIn-book reference  : Book 23, Hadith 73\nEnglish translation  : Book 22, Hadith 3392",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، أَنَّ أُسَيْدَ بْنَ ظُهَيْرٍ، قَالَ جَاءَنَا رَافِعُ بْنُ خَدِيجٍ فَقَالَ إِنَّ رَسُولَ اللَّهِ يَنْهَاكُمْ عَنْ أَمْرٍ، كَانَ لَكُمْ نَافِعًا وَطَاعَةُ اللَّهِ وَطَاعَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنْفَعُ لَكُمْ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم يَنْهَاكُمْ عَنِ الْحَقْلِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُجَاهِدٍ، أَنَّ أُسَيْدَ بْنَ ظُهَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ جَاءَنَا رَافِعُ بْنُ خَدِيجٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَنْهَاكُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَمْرٍ، كَانَ لَكُمْ نَافِعًا وَطَاعَةُ اللَّهِ وَطَاعَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم أَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3400": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3400\nIn-book reference  : Book 23, Hadith 75\nEnglish translation  : Book 22, Hadith 3394",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو الأَحْوَصِ، حَدَّثَنَا طَارِقُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمُحَاقَلَةِ وَالْمُزَابَنَةِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا طَارِقُ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمُحَاقَلَةِ وَالْمُزَابَنَةِ وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3403": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3403\nIn-book reference  : Book 23, Hadith 78\nEnglish translation  : Book 22, Hadith 3396",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَطَاءٍ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شَرِيكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3406": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Commercial Transactions (Kitab Al-Buyu)",
+    "book_num": "23",
+    "reference": "Reference  : Sunan Abi Dawud 3406\nIn-book reference  : Book 23, Hadith 81\nEnglish translation  : Book 22, Hadith 3399",
+    "url": "https://sunnah.com/abudawud/23",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ، حَدَّثَنَا ابْنُ رَجَاءٍ، - يَعْنِي الْمَكِّيَّ - قَالَ ابْنُ خُثَيْمٍ حَدَّثَنِي عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ رَجَاءٍ، - يَعْنِي الْمَكِّيَّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "خُثَيْمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

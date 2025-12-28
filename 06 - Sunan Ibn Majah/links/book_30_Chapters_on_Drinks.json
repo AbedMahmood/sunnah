@@ -1,0 +1,1681 @@
+{
+  "3371": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3371\nIn-book reference  : Book 30, Hadith 1\nEnglish translation  : Vol. 4, Book 30, Hadith 3371",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا الْحُسَيْنُ بْنُ الْحَسَنِ الْمَرْوَزِيُّ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، ح وَحَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، جَمِيعًا عَنْ رَاشِدٍ أَبِي مُحَمَّدٍ الْحِمَّانِيِّ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أُمِّ الدَّرْدَاءِ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ أَوْصَانِي خَلِيلِي ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحُسَيْنُ بْنُ الْحَسَنِ الْمَرْوَزِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "جَمِيعًا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَاشِدٍ أَبِي مُحَمَّدٍ الْحِمَّانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ شَهْرِ بْنِ حَوْشَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أُمِّ الدَّرْدَاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي الدَّرْدَاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ أَوْصَانِي خَلِيلِي ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3372": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3372\nIn-book reference  : Book 30, Hadith 2\nEnglish translation  : Vol. 4, Book 30, Hadith 3372",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا الْعَبَّاسُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا مُنِيرُ بْنُ الزُّبَيْرِ، أَنَّهُ سَمِعَ عُبَادَةَ بْنَ نُسَىٍّ، يَقُولُ سَمِعْتُ خَبَّابَ بْنَ الأَرَتِّ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْعَبَّاسُ بْنُ عُثْمَانَ الدِّمَشْقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُنِيرُ بْنُ الزُّبَيْرِ، أَنَّهُ سَمِعَ عُبَادَةَ بْنَ نُسَىٍّ، يَقُولُ سَمِعْتُ خَبَّاب",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3373": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3373\nIn-book reference  : Book 30, Hadith 3\nEnglish translation  : Vol. 4, Book 30, Hadith 3373",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3374": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3374\nIn-book reference  : Book 30, Hadith 4\nEnglish translation  : Vol. 4, Book 30, Hadith 3374",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، حَدَّثَنِي زَيْدُ بْنُ وَاقِدٍ، أَنَّ خَالِدَ بْنَ عَبْدِ اللَّهِ بْنِ حُسَيْنٍ، حَدَّثَهُ قَالَ حَدَّثَنِي أَبُو هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبُو هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3375": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3375\nIn-book reference  : Book 30, Hadith 5\nEnglish translation  : Vol. 4, Book 30, Hadith 3375",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الصَّبَّاحِ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ بْنِ الأَصْبَهَانِيِّ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ بْنِ الأَصْبَهَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُهَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3376": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3376\nIn-book reference  : Book 30, Hadith 6\nEnglish translation  : Vol. 4, Book 30, Hadith 3376",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُلَيْمَانُ بْنُ عُتْبَةَ، حَدَّثَنِي يُونُسُ بْنُ مَيْسَرَةَ بْنِ حَلْبَسٍ، عَنْ أَبِي إِدْرِيسَ، عَنْ أَبِي الدَّرْدَاءِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ عُتْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي يُونُسُ بْنُ مَيْسَرَةَ بْنِ حَلْبَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِدْرِيسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الدَّرْدَاءِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3378": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3378\nIn-book reference  : Book 30, Hadith 8\nEnglish translation  : Vol. 4, Book 30, Hadith 3378",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا يَزِيدُ بْنُ عَبْدِ اللَّهِ الْيَمَامِيُّ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، حَدَّثَنَا أَبُو كَثِيرٍ السُّحَيْمِيُّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ عَبْدِ اللَّهِ الْيَمَامِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو كَثِيرٍ السُّحَيْمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3379": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3379\nIn-book reference  : Book 30, Hadith 9\nEnglish translation  : Vol. 4, Book 30, Hadith 3379",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، أَنَّ خَالِدَ بْنَ كَثِيرٍ الْهَمْدَانِيَّ، حَدَّثَهُ أَنَّ السَّرِيَّ بْنَ إِسْمَاعِيلَ حَدَّثَهُ أَنَّ الشَّعْبِيَّ حَدَّثَهُ أَنَّهُ، سَمِعَ النُّعْمَانَ بْنَ بَشِيرٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3380": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3380\nIn-book reference  : Book 30, Hadith 10\nEnglish translation  : Vol. 4, Book 30, Hadith 3380",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، وَمُحَمَّدُ بْنُ إِسْمَاعِيلَ، قَالاَ حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ الْغَافِقِيِّ، وَأَبِي، طُعْمَةَ مَوْلاَهُمْ أَنَّهُمَا سَمِعَا ابْنَ عُمَرَ، يَقُولُ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3383": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3383\nIn-book reference  : Book 30, Hadith 13\nEnglish translation  : Vol. 4, Book 30, Hadith 3383",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ بَلَغَ عُمَرَ أَنَّ سَمُرَةَ، بَاعَ خَمْرًا فَقَالَ قَاتَلَ اللَّهُ سَمُرَةَ أَلَمْ يَعْلَمْ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ بَلَغَ عُمَرَ أَنَّ سَمُرَةَ، بَاعَ خَمْرًا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قَاتَلَ اللَّهُ سَمُرَةَ أَلَمْ يَعْلَمْ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3384": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3384\nIn-book reference  : Book 30, Hadith 14\nEnglish translation  : Vol. 4, Book 30, Hadith 3384",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ الدِّمَشْقِيُّ، حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ عَبْدِ الْقُدُّوسِ، حَدَّثَنَا ثَوْرُ بْنُ يَزِيدَ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ الدِّمَشْقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ السَّلاَمِ بْنُ عَبْدِ الْقُدُّوسِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ثَوْرُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خَالِدِ بْنِ مَعْدَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ الْبَاهِلِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3385": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3385\nIn-book reference  : Book 30, Hadith 15\nEnglish translation  : Vol. 4, Book 30, Hadith 3385",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا الْحُسَيْنُ بْنُ أَبِي السَّرِيِّ، حَدَّثَنَا عُبَيْدُ اللَّهِ، حَدَّثَنَا سَعْدُ بْنُ أَوْسٍ الْعَبْسِيُّ، عَنْ بِلاَلِ بْنِ يَحْيَى الْعَبْسِيِّ، عَنْ أَبِي بَكْرِ بْنِ حَفْصٍ، عَنِ ابْنِ مُحَيْرِيزٍ، عَنْ ثَابِتِ بْنِ السِّمْطِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحُسَيْنُ بْنُ أَبِي السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعْدُ بْنُ أَوْسٍ الْعَبْسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بِلاَلِ بْنِ يَحْيَى الْعَبْسِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بَكْرِ بْنِ حَفْصٍ، عَنِ ابْنِ مُحَيْرِيزٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ ثَابِتِ بْنِ السِّمْطِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُبَادَةَ بْنِ الصَّامِتِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3386": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3386\nIn-book reference  : Book 30, Hadith 16\nEnglish translation  : Vol. 4, Book 30, Hadith 3386",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، تَبْلُغُ بِهِ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَائِشَةَ، تَبْلُغُ بِهِ النَّبِيَّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3387": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3387\nIn-book reference  : Book 30, Hadith 17\nEnglish translation  : Vol. 4, Book 30, Hadith 3387",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا صَدَقَةُ بْنُ خَالِدٍ، حَدَّثَنَا يَحْيَى بْنُ الْحَارِثِ الذِّمَارِيُّ، سَمِعْتُ سَالِمَ بْنَ عَبْدِ اللَّهِ بْنِ عُمَرَ، يُحَدِّثُ عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا صَدَقَةُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3388": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3388\nIn-book reference  : Book 30, Hadith 18\nEnglish translation  : Vol. 4, Book 30, Hadith 3388",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنْ أَيُّوبَ بْنِ هَانِئٍ، عَنْ مَسْرُوقٍ، عَنِ ابْنِ مَسْعُودٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ بْنِ هَانِئٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَسْرُوقٍ، عَنِ ابْنِ مَسْعُودٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3389": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3389\nIn-book reference  : Book 30, Hadith 19\nEnglish translation  : Vol. 4, Book 30, Hadith 3389",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ مَيْمُونٍ الرَّقِّيُّ، حَدَّثَنَا خَالِدُ بْنُ حَيَّانَ، عَنْ سُلَيْمَانَ بْنِ عَبْدِ اللَّهِ بْنِ الزِّبْرِقَانِ، عَنْ يَعْلَى بْنِ شَدَّادِ بْنِ أَوْسٍ، سَمِعْتُ مُعَاوِيَةَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مَيْمُونٍ الرَّقِّيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ حَيَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ عَبْدِ اللَّهِ بْنِ الزِّبْرِقَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "3390": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3390\nIn-book reference  : Book 30, Hadith 20\nEnglish translation  : Vol. 4, Book 30, Hadith 3390",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا سَهْلٌ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَلْقَمَةَ، عَنْ أَبِي سَلَمَةَ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَهْلٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَلْقَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3391": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3391\nIn-book reference  : Book 30, Hadith 21\nEnglish translation  : Vol. 4, Book 30, Hadith 3391",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، عَنْ سَعِيدِ بْنِ أَبِي بُرْدَةَ، عَنْ أَبِيهِ، عَنْ أَبِي مُوسَى، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3392": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3392\nIn-book reference  : Book 30, Hadith 22\nEnglish translation  : Vol. 4, Book 30, Hadith 3392",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ، حَدَّثَنَا أَبُو يَحْيَى، زَكَرِيَّا بْنُ مَنْظُورٍ عَنْ أَبِي حَازِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْمُنْذِرِ الْحِزَامِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "مَنْظُورٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3393": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3393\nIn-book reference  : Book 30, Hadith 23\nEnglish translation  : Vol. 4, Book 30, Hadith 3393",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، حَدَّثَنِي دَاوُدُ بْنُ بَكْرٍ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي دَاوُدُ بْنُ بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3394": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3394\nIn-book reference  : Book 30, Hadith 24\nEnglish translation  : Vol. 4, Book 30, Hadith 3394",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3396": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3396\nIn-book reference  : Book 30, Hadith 26\nEnglish translation  : Vol. 4, Book 30, Hadith 3396",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا يَزِيدُ بْنُ عَبْدِ اللَّهِ الْيَمَامِيُّ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، عَنْ أَبِي كَثِيرٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ عَبْدِ اللَّهِ الْيَمَامِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3397": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3397\nIn-book reference  : Book 30, Hadith 27\nEnglish translation  : Vol. 4, Book 30, Hadith 3397",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، عَنْ أَبِيهِ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "3401": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3401\nIn-book reference  : Book 30, Hadith 31\nEnglish translation  : Vol. 4, Book 30, Hadith 3401",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، حَدَّثَنَا أَبُو سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُنْبَذَ فِي النَّقِيرِ وَالْمُزَفَّتِ وَالدُّبَّاءِ وَالْحَنْتَمَةِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ يُنْبَذَ فِي النَّقِيرِ وَالْمُزَفَّتِ وَالد",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3405": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3405\nIn-book reference  : Book 30, Hadith 35\nEnglish translation  : Vol. 4, Book 30, Hadith 3405",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ بَيَانٍ الْوَاسِطِيُّ، حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ، عَنْ شَرِيكٍ، عَنْ سِمَاكٍ، عَنِ الْقَاسِمِ بْنِ مُخَيْمِرَةَ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ بَيَانٍ الْوَاسِطِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شَرِيكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سِمَاكٍ، عَنِ الْقَاسِمِ بْنِ مُخَيْمِرَةَ، عَنِ ابْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3406": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3406\nIn-book reference  : Book 30, Hadith 36\nEnglish translation  : Vol. 4, Book 30, Hadith 3406",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَنْبَأَنَا ابْنُ جُرَيْجٍ، عَنْ أَيُّوبَ بْنِ هَانِئٍ، عَنْ مَسْرُوقِ بْنِ الأَجْدَعِ، عَنِ ابْنِ مَسْعُودٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَنْبَأَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ بْنِ هَانِئٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَسْرُوقِ بْنِ الأَجْدَعِ، عَنِ ابْنِ مَسْعُودٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3409": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3409\nIn-book reference  : Book 30, Hadith 39\nEnglish translation  : Vol. 4, Book 30, Hadith 3409",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا مُجَاهِدُ بْنُ مُوسَى، حَدَّثَنَا الْوَلِيدُ، عَنْ صَدَقَةَ أَبِي مُعَاوِيَةَ، عَنْ زَيْدِ بْنِ وَاقِدٍ، عَنْ خَالِدِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أُتِيَ النَّبِيُّ ـ صلى الله عليه وسلم ـ بِنَبِيذِ جَرٍّ يَنِشُّ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُجَاهِدُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ صَدَقَةَ أَبِي مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زَيْدِ بْنِ وَاقِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خَالِدِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أُتِيَ النَّبِيُّ ـ صلى الله عليه وسلم ـ بِنَبِيذِ جَرٍّ يَنِشُّ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3410": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3410\nIn-book reference  : Book 30, Hadith 40\nEnglish translation  : Vol. 4, Book 30, Hadith 3410",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3413": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3413\nIn-book reference  : Book 30, Hadith 43\nEnglish translation  : Vol. 4, Book 30, Hadith 3413",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ نَافِعٍ، عَنْ زَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ، عَنْ أُمِّ سَلَمَةَ، أَنَّهَا أَخْبَرَتْهُ عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَتْهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3414": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3414\nIn-book reference  : Book 30, Hadith 44\nEnglish translation  : Vol. 4, Book 30, Hadith 3414",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ حُذَيْفَةَ، قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ الشُّرْبِ فِي آنِيَةِ الذَّهَبِ وَالْفِضَّةِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ حُذَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ نَهَى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَنِ الشُّرْبِ فِي آنِيَةِ الذَّهَبِ وَالْفِضَّةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3415": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3415\nIn-book reference  : Book 30, Hadith 45\nEnglish translation  : Vol. 4, Book 30, Hadith 3415",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا غُنْدَرٌ، عَنْ شُعْبَةَ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، عَنْ نَافِعٍ، عَنِ امْرَأَةِ ابْنِ عُمَرَ، عَنْ عَائِشَةَ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا غُنْدَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ امْرَأَةِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3425": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3425\nIn-book reference  : Book 30, Hadith 55\nEnglish translation  : Vol. 4, Book 30, Hadith 3425",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أُتِيَ بِلَبَنٍ قَدْ شِيبَ بِمَاءٍ وَعَنْ يَمِينِهِ أَعْرَابِيٌّ وَعَنْ يَسَارِهِ أَبُو بَكْرٍ فَشَرِبَ ثُمَّ أَعْطَى الأَعْرَابِيَّ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أُتِيَ بِلَبَنٍ قَدْ شِيبَ بِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَمِينِهِ أَعْرَابِيٌّ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَسَارِهِ أَبُو بَكْرٍ فَشَرِبَ ثُمَّ أَعْطَى الأَعْرَابِيَّ وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3426": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3426\nIn-book reference  : Book 30, Hadith 56\nEnglish translation  : Vol. 4, Book 30, Hadith 3426",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أُتِيَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِلَبَنٍ وَعَنْ يَمِينِهِ ابْنُ عَبَّاسٍ وَعَنْ يَسَارِهِ خَالِدُ بْنُ الْوَلِيدِ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ لاِبْنِ عَبَّاسٍ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أُتِيَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ بِلَبَنٍ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَمِينِهِ ابْنُ عَبَّاسٍ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ يَسَارِهِ خَالِدُ بْنُ الْوَلِيدِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَبَّاسٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3427": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3427\nIn-book reference  : Book 30, Hadith 57\nEnglish translation  : Vol. 4, Book 30, Hadith 3427",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا دَاوُدُ بْنُ عَبْدِ اللَّهِ، عَنْ عَبْدِ الْعَزِيزِ بْنِ مُحَمَّدٍ، عَنِ الْحَارِثِ بْنِ أَبِي ذُبَابٍ، عَنْ عَمِّهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ بْنِ مُحَمَّدٍ، عَنِ الْحَارِثِ بْنِ أَبِي ذُبَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3431": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3431\nIn-book reference  : Book 30, Hadith 61\nEnglish translation  : Vol. 4, Book 30, Hadith 3431",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ، حَدَّثَنَا بَقِيَّةُ، عَنْ مُسْلِمِ بْنِ عَبْدِ اللَّهِ، عَنْ زِيَادِ بْنِ عَبْدِ اللَّهِ، عَنْ عَاصِمِ بْنِ مُحَمَّدِ بْنِ زَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ نَهَانَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ نَشْرَبَ عَلَى بُطُونِنَا وَهُوَ الْكَرْعُ وَنَهَانَا أَنْ نَغْتَرِفَ بِالْيَدِ الْوَاحِدَةِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بَقِيَّةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُسْلِمِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زِيَادِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ مُحَمَّدِ بْنِ زَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ نَهَانَا رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ أَنْ نَشْرَبَ عَلَى بُطُونِنَا وَهُوَ الْكَرْع",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3432": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3432\nIn-book reference  : Book 30, Hadith 62\nEnglish translation  : Vol. 4, Book 30, Hadith 3432",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنْصُورٍ أَبُو بَكْرٍ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ، عَنْ سَعِيدِ بْنِ الْحَارِثِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ دَخَلَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَلَى رَجُلٍ مِنَ الأَنْصَارِ وَهُوَ يُحَوِّلُ الْمَاءَ فِي حَائِطِهِ فَقَالَ لَهُ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنْصُورٍ أَبُو بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ دَخَلَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَلَى رَجُلٍ مِنَ الأَنْصَارِ وَهُوَ يُحَوِّلُ ا",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3433": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3433\nIn-book reference  : Book 30, Hadith 63\nEnglish translation  : Vol. 4, Book 30, Hadith 3433",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنْ لَيْثٍ، عَنْ سَعِيدِ بْنِ عَامِرٍ، عَنِ ابْنِ عُمَرَ، قَالَ مَرَرْنَا عَلَى بِرْكَةٍ فَجَعَلْنَا نَكْرَعُ فِيهَا فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ لَيْثٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ عَامِرٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ مَرَرْنَا عَلَى بِرْكَةٍ فَجَعَلْنَا نَكْرَعُ فِيهَا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3434": {
+    "collection": "Sunan Ibn Majah",
+    "book": "Chapters on Drinks",
+    "book_num": "30",
+    "reference": "Reference  : Sunan Ibn Majah 3434\nIn-book reference  : Book 30, Hadith 64\nEnglish translation  : Vol. 4, Book 30, Hadith 3434",
+    "url": "https://sunnah.com/ibnmajah/30",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، وَسُوَيْدُ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ رَبَاحٍ، عَنْ أَبِي قَتَادَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ ثَابِتٍ الْبُنَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ رَبَاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

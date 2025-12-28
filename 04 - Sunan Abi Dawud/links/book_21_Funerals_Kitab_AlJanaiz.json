@@ -1,0 +1,2902 @@
+{
+  "3091": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3091\nIn-book reference  : Book 21, Hadith 3\nEnglish translation  : Book 20, Hadith 3085",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، وَمُسَدَّدٌ، - الْمَعْنَى - قَالاَ حَدَّثَنَا هُشَيْمٌ، عَنِ الْعَوَّامِ بْنِ حَوْشَبٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ الرَّحْمَنِ السَّكْسَكِيِّ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم غَيْرَ مَرَّةٍ وَلاَ مَرَّتَيْنِ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ، عَنِ الْعَوَّامِ بْنِ حَوْشَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ الرَّحْمَنِ السَّكْسَكِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3092": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3092\nIn-book reference  : Book 21, Hadith 4\nEnglish translation  : Book 20, Hadith 3086",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا سَهْلُ بْنُ بَكَّارٍ، عَنْ أَبِي عَوَانَةَ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ أُمِّ الْعَلاَءِ، قَالَتْ عَادَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنَا مَرِيضَةٌ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَهْلُ بْنُ بَكَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أُمِّ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ عَادَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنَا مَرِيضَةٌ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3094": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3094\nIn-book reference  : Book 21, Hadith 6\nEnglish translation  : Book 20, Hadith 3088",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ يَحْيَى، حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَعُودُ عَبْدَ اللَّهِ بْنَ أُبَىٍّ فِي مَرَضِهِ الَّذِي مَاتَ فِيهِ فَلَمَّا دَخَلَ عَلَيْهِ عَرَفَ فِيهِ الْمَوْتَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُسَامَةَ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الْمَوْتَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3097": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3097\nIn-book reference  : Book 21, Hadith 9\nEnglish translation  : Book 20, Hadith 3091",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ الطَّائِيُّ، حَدَّثَنَا الرَّبِيعُ بْنُ رَوْحِ بْنِ خُلَيْدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ، حَدَّثَنَا الْفَضْلُ بْنُ دَلْهَمٍ الْوَاسِطِيُّ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ الطَّائِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الرَّبِيعُ بْنُ رَوْحِ بْنِ خُلَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا الْفَضْلُ بْنُ دَلْهَمٍ الْوَاسِطِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ ثَابِتٍ الْبُنَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3103": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3103\nIn-book reference  : Book 21, Hadith 15\nEnglish translation  : Book 20, Hadith 3097",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ زَيْدِ بْنِ الْخَطَّابِ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ الْحَارِثِ بْنِ نَوْفَلٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، قَالَ قَالَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ زَيْدِ بْنِ الْخَطَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ الْحَارِثِ بْنِ نَوْفَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3104": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3104\nIn-book reference  : Book 21, Hadith 16\nEnglish translation  : Book 20, Hadith 3098",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا مَكِّيُّ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا الْجُعَيْدُ، عَنْ عَائِشَةَ بِنْتِ سَعْدٍ، أَنَّ أَبَاهَا، قَالَ اشْتَكَيْتُ بِمَكَّةَ فَجَاءَنِي النَّبِيُّ صلى الله عليه وسلم يَعُودُنِي وَوَضَعَ يَدَهُ عَلَى جَبْهَتِي ثُمَّ مَسَحَ صَدْرِي وَبَطْنِي ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَكِّيُّ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْجُعَيْدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَائِشَةَ بِنْتِ سَعْدٍ، أَنَّ أَبَاهَا،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3105": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3105\nIn-book reference  : Book 21, Hadith 17\nEnglish translation  : Book 20, Hadith 3099",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا ابْنُ كَثِيرٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُوسَى الأَشْعَرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3106": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3106\nIn-book reference  : Book 21, Hadith 18\nEnglish translation  : Book 20, Hadith 3100",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا الرَّبِيعُ بْنُ يَحْيَى، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا يَزِيدُ أَبُو خَالِدٍ، عَنِ الْمِنْهَالِ بْنِ عَمْرٍو، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الرَّبِيعُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ أَبُو خَالِدٍ، عَنِ الْمِنْهَالِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3108": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3108\nIn-book reference  : Book 21, Hadith 20\nEnglish translation  : Book 20, Hadith 3102",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3109": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3109\nIn-book reference  : Book 21, Hadith 21\nEnglish translation  : Book 20, Hadith 3103",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3110": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3110\nIn-book reference  : Book 21, Hadith 22\nEnglish translation  : Book 20, Hadith 3104",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنْ مَنْصُورٍ، عَنْ تَمِيمِ بْنِ سَلَمَةَ، أَوْ سَعْدِ بْنِ عُبَيْدَةَ عَنْ عُبَيْدِ بْنِ خَالِدٍ السُّلَمِيِّ، - رَجُلٍ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالَ مَرَّةً عَنِ النَّبِيِّ صلى الله عليه وسلم ثُمَّ قَالَ مَرَّةً عَنْ عُبَيْدٍ - قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عُبَيْدَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ خَالِدٍ السُّلَمِيِّ، - رَجُلٍ مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "مَرَّةً",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عُبَيْدٍ -",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3113": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3113\nIn-book reference  : Book 21, Hadith 25\nEnglish translation  : Book 20, Hadith 3107",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ قَبْلَ مَوْتِهِ بِثَلاَثٍ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عِيسَى بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "بِثَلاَثٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3114": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3114\nIn-book reference  : Book 21, Hadith 26\nEnglish translation  : Book 20, Hadith 3108",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، أَخْبَرَنَا يَحْيَى بْنُ أَيُّوبَ، عَنِ ابْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ لَمَّا حَضَرَهُ الْمَوْتُ دَعَا بِثِيَابٍ جُدُدٍ فَلَبِسَهَا ثُمَّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا يَحْيَى بْنُ أَيُّوبَ، عَنِ ابْنِ الْهَادِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3116": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3116\nIn-book reference  : Book 21, Hadith 28\nEnglish translation  : Book 20, Hadith 3110",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مَالِكُ بْنُ عَبْدِ الْوَاحِدِ الْمِسْمَعِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ، حَدَّثَنِي صَالِحُ بْنُ أَبِي عَرِيبٍ، عَنْ كَثِيرِ بْنِ مُرَّةَ، عَنْ مُعَاذِ بْنِ جَبَلٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَالِكُ بْنُ عَبْدِ الْوَاحِدِ الْمِسْمَعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي صَالِحُ بْنُ أَبِي عَرِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ كَثِيرِ بْنِ مُرَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُعَاذِ بْنِ جَبَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3117": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3117\nIn-book reference  : Book 21, Hadith 29\nEnglish translation  : Book 20, Hadith 3111",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرٌ، حَدَّثَنَا عُمَارَةُ بْنُ غَزِيَّةَ، حَدَّثَنَا يَحْيَى بْنُ عُمَارَةَ، قَالَ سَمِعْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بِشْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عُمَارَةُ بْنُ غَزِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ عُمَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "3121": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3121\nIn-book reference  : Book 21, Hadith 33\nEnglish translation  : Book 20, Hadith 3115",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، وَمُحَمَّدُ بْنُ مَكِّيٍّ الْمَرْوَزِيُّ، - الْمَعْنَى - قَالاَ حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ، - وَلَيْسَ بِالنَّهْدِيِّ - عَنْ أَبِيهِ، عَنْ مَعْقِلِ بْنِ يَسَارٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُلَيْمَانَ التَّيْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي عُثْمَانَ، - وَلَيْسَ بِالنَّهْدِيِّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَعْقِلِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3130": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3130\nIn-book reference  : Book 21, Hadith 42\nEnglish translation  : Book 20, Hadith 3124",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ يَزِيدَ بْنِ أَوْسٍ، قَالَ دَخَلْتُ عَلَى أَبِي مُوسَى وَهُوَ ثَقِيلٌ فَذَهَبَتِ امْرَأَتُهُ لِتَبْكِي أَوْ تَهُمَّ بِهِ فَقَالَ لَهَا أَبُو مُوسَى أَمَا سَمِعْتِ مَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَتْ بَلَى . قَالَ فَسَكَتَتْ فَلَمَّا مَاتَ أَبُو مُوسَى - قَالَ يَزِيدُ - لَقِيتُ الْمَرْأَةَ فَقُلْتُ لَهَا مَا قَوْلُ أَبِي مُوسَى لَكِ أَمَا سَمِعْتِ مَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ سَكَتِّ قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ دَخَلْتُ عَلَى أَبِي مُوسَى وَهُوَ ثَقِيلٌ فَذَهَبَتِ امْرَأَتُهُ لِتَبْكِي أَوْ تَهُمَّ بِهِ ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَهَا أَبُو مُوسَى أَمَا سَمِعْتِ مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَتْ بَلَى .",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ فَسَكَتَتْ فَلَمَّا مَاتَ أَبُو مُوسَى -",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ يَزِيدُ - لَقِيتُ الْمَرْأَةَ فَقُلْتُ لَهَا مَا قَوْلُ أَبِي مُوسَى لَكِ أَمَا سَمِعْتِ مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "سَكَتِّ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 14,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3132": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3132\nIn-book reference  : Book 21, Hadith 44\nEnglish translation  : Book 20, Hadith 3126",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي جَعْفَرُ بْنُ خَالِدٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي جَعْفَرُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3140": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3140\nIn-book reference  : Book 21, Hadith 52\nEnglish translation  : Book 20, Hadith 3134",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ سَهْلٍ الرَّمْلِيُّ، حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، قَالَ أُخْبِرْتُ عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ سَهْلٍ الرَّمْلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أُخْبِرْتُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَاصِمِ بْنِ ضَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَلِيٍّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3145": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3145\nIn-book reference  : Book 21, Hadith 57\nEnglish translation  : Book 20, Hadith 3139",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا أَبُو كَامِلٍ، وَحَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا خَالِدٌ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لَهُنَّ فِي غُسْلِ ابْنَتِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كَامِلٍ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَفْصَةَ بِنْتِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُمِّ عَطِيَّةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "ابْنَتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3146": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3146\nIn-book reference  : Book 21, Hadith 58\nEnglish translation  : Book 20, Hadith 3140",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، بِمَعْنَى حَدِيثِ مَالِكٍ زَادَ فِي حَدِيثِ حَفْصَةَ عَنْ أُمِّ عَطِيَّةَ بِنَحْوِ هَذَا وَزَادَتْ فِيهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَفْصَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "3148": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3148\nIn-book reference  : Book 21, Hadith 60\nEnglish translation  : Book 20, Hadith 3142",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ خَطَبَ يَوْمًا فَذَكَرَ رَجُلاً مِنْ أَصْحَابِهِ قُبِضَ فَكُفِّنَ فِي كَفَنٍ غَيْرِ طَائِلٍ وَقُبِرَ لَيْلاً فَزَجَرَ النَّبِيُّ صلى الله عليه وسلم أَنْ يُقْبَرَ الرَّجُلُ بِاللَّيْلِ حَتَّى يُصَلَّى عَلَيْهِ إِلاَّ أَنْ يُضْطَرَّ إِنْسَانٌ إِلَى ذَلِكَ وَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يُحَدِّثُ عَنِ النَّبِيِّ صلى ال",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3150": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3150\nIn-book reference  : Book 21, Hadith 62\nEnglish translation  : Book 20, Hadith 3144",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ الصَّبَّاحِ الْبَزَّارُ، حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنِي ابْنَ عَبْدِ الْكَرِيمِ - حَدَّثَنِي إِبْرَاهِيمُ بْنُ عَقِيلِ بْنِ مَعْقِلٍ، عَنْ أَبِيهِ، عَنْ وَهْبٍ، - يَعْنِي ابْنَ مُنَبِّهٍ - عَنْ جَابِرٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ الصَّبَّاحِ الْبَزَّارُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنِي ابْنَ عَبْدِ الْكَرِيمِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ عَقِيلِ بْنِ مَعْقِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ وَهْبٍ، - يَعْنِي ابْنَ مُنَبِّهٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3154": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3154\nIn-book reference  : Book 21, Hadith 66\nEnglish translation  : Book 20, Hadith 3148",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْمُحَارِبِيُّ، حَدَّثَنَا عَمْرُو بْنُ هَاشِمٍ أَبُو مَالِكٍ الْجَنْبِيُّ، عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ، عَنْ عَامِرٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ لاَ تَغَالِ لِي فِي كَفَنٍ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْمُحَارِبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ هَاشِمٍ أَبُو مَالِكٍ الْجَنْبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3155": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3155\nIn-book reference  : Book 21, Hadith 67\nEnglish translation  : Book 20, Hadith 3149",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ خَبَّابٍ، قَالَ إِنَّ مُصْعَبَ بْنَ عُمَيْرٍ قُتِلَ يَوْمَ أُحُدٍ وَلَمْ يَكُنْ لَهُ إِلاَّ نَمِرَةٌ كُنَّا إِذَا غَطَّيْنَا بِهَا رَأْسَهُ خَرَجَ رِجْلاَهُ وَإِذَا غَطَّيْنَا رِجْلَيْهِ خَرَجَ رَأْسُهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خَبَّابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ إِنَّ مُصْعَبَ بْنَ عُمَيْرٍ قُتِلَ يَوْمَ أُحُدٍ وَلَمْ يَكُنْ لَهُ إِلاَّ نَمِرَةٌ كُنَّا إِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3156": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3156\nIn-book reference  : Book 21, Hadith 68\nEnglish translation  : Book 20, Hadith 3150",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنِي ابْنُ وَهْبٍ، حَدَّثَنِي هِشَامُ بْنُ سَعْدٍ، عَنْ حَاتِمِ بْنِ أَبِي نَصْرٍ، عَنْ عُبَادَةَ بْنِ نُسَىٍّ، عَنْ أَبِيهِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي هِشَامُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَاتِمِ بْنِ أَبِي نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَادَةَ بْنِ نُسَىٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُبَادَةَ بْنِ الصَّامِتِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3158": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3158\nIn-book reference  : Book 21, Hadith 70\nEnglish translation  : Book 20, Hadith 3152",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا الْمُسْتَمِرُّ بْنُ الرَّيَّانِ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْمُسْتَمِرُّ بْنُ الرَّيَّانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي نَضْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3159": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3159\nIn-book reference  : Book 21, Hadith 71\nEnglish translation  : Book 20, Hadith 3153",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الرَّحِيمِ بْنُ مُطَرِّفٍ الرُّؤَاسِيُّ أَبُو سُفْيَانَ، وَأَحْمَدُ بْنُ جَنَابٍ، قَالاَ حَدَّثَنَا عِيسَى، - قَالَ أَبُو دَاوُدَ هُوَ ابْنُ يُونُسَ - عَنْ سَعِيدِ بْنِ عُثْمَانَ الْبَلَوِيِّ، عَنْ عَزْرَةَ، - وَقَالَ عَبْدُ الرَّحِيمِ عُرْوَةُ بْنُ سَعِيدٍ الأَنْصَارِيُّ - عَنْ أَبِيهِ، عَنِ الْحُصَيْنِ بْنِ وَحْوَحٍ، أَنَّ طَلْحَةَ بْنَ الْبَرَاءِ، مَرِضَ فَأَتَاهُ النَّبِيُّ صلى الله عليه وسلم يَعُودُهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عِيسَى، -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَبُو دَاوُدَ هُوَ ابْنُ يُونُسَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ عُثْمَانَ الْبَلَوِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَزْرَةَ، - وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ عَبْدُ الرَّحِيمِ عُرْوَةُ بْنُ سَعِيدٍ الأَنْصَارِيُّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ الْحُصَيْنِ بْنِ وَحْوَحٍ، أَنَّ طَلْحَةَ بْنَ الْبَرَاءِ، مَرِضَ فَأَتَاهُ النَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3161": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3161\nIn-book reference  : Book 21, Hadith 73\nEnglish translation  : Book 20, Hadith 3155",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، حَدَّثَنِي ابْنُ أَبِي ذِئْبٍ، عَنِ الْقَاسِمِ بْنِ عَبَّاسٍ، عَنْ عَمْرِو بْنِ عُمَيْرٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي ابْنُ أَبِي ذِئْبٍ، عَنِ الْقَاسِمِ بْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ عُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3164": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3164\nIn-book reference  : Book 21, Hadith 76\nEnglish translation  : Book 20, Hadith 3158",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ، حَدَّثَنَا أَبُو نُعَيْمٍ، عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، أَخْبَرَنِي جَابِرُ بْنُ عَبْدِ اللَّهِ، - أَوْ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ، - قَالَ رَأَى نَاسٌ نَارًا فِي الْمَقْبَرَةِ فَأَتَوْهَا فَإِذَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الْقَبْرِ وَإِذَا هُوَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ، أَخْبَرَنِي جَابِرُ بْنُ عَبْدِ اللَّهِ، - أَوْ سَمِعْتُ جَابِرَ بْنَ عَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3166": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3166\nIn-book reference  : Book 21, Hadith 78\nEnglish translation  : Book 20, Hadith 3160",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادٌ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ مَرْثَدٍ الْيَزَنِيِّ، عَنْ مَالِكِ بْنِ هُبَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَرْثَدٍ الْيَزَنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَالِكِ بْنِ هُبَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3169": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3169\nIn-book reference  : Book 21, Hadith 81\nEnglish translation  : Book 20, Hadith 3163",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، وَعَبْدُ الرَّحْمَنِ بْنُ حُسَيْنٍ الْهَرَوِيُّ، قَالاَ حَدَّثَنَا الْمُقْرِئُ، حَدَّثَنَا حَيْوَةُ، حَدَّثَنِي أَبُو صَخْرٍ، - وَهُوَ حُمَيْدُ بْنُ زِيَادٍ - أَنَّ يَزِيدَ بْنَ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ، حَدَّثَهُ أَنَّ دَاوُدَ بْنَ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ حَدَّثَهُ عَنْ أَبِيهِ، أَنَّهُ كَانَ عِنْدَ ابْنِ عُمَرَ بْنِ الْخَطَّابِ إِذْ طَلَعَ خَبَّابٌ صَاحِبُ الْمَقْصُورَةِ فَقَالَ يَا عَبْدَ اللَّهِ بْنَ عُمَرَ أَلاَ تَسْمَعُ مَا يَقُولُ أَبُو هُرَيْرَةَ إِنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْمُقْرِئُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَيْوَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّهُ كَانَ عِنْدَ ابْنِ عُمَرَ بْنِ الْخَطَّابِ إِذْ طَلَعَ خَبَّابٌ صَاحِبُ الْمَق",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3170": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3170\nIn-book reference  : Book 21, Hadith 82\nEnglish translation  : Book 20, Hadith 3164",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا الْوَلِيدُ بْنُ شُجَاعٍ السَّكُونِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي أَبُو صَخْرٍ، عَنْ شَرِيكِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي نَمِرٍ، عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ شُجَاعٍ السَّكُونِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي أَبُو صَخْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شَرِيكِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي نَمِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ كُرَيْبٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3172": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3172\nIn-book reference  : Book 21, Hadith 84\nEnglish translation  : Book 20, Hadith 3166",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنْ عَامِرِ بْنِ رَبِيعَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَامِرِ بْنِ رَبِيعَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "3173": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3173\nIn-book reference  : Book 21, Hadith 85\nEnglish translation  : Book 20, Hadith 3167",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا سُهَيْلُ بْنُ أَبِي صَالِحٍ، عَنِ ابْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زُهَيْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُهَيْلُ بْنُ أَبِي صَالِحٍ، عَنِ ابْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3174": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3174\nIn-book reference  : Book 21, Hadith 86\nEnglish translation  : Book 20, Hadith 3168",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ الْحَرَّانِيُّ، حَدَّثَنَا الْوَلِيدُ، حَدَّثَنَا أَبُو عَمْرٍو، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ مِقْسَمٍ، حَدَّثَنِي جَابِرٌ، قَالَ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم إِذْ مَرَّتْ بِنَا جَنَازَةٌ فَقَامَ لَهَا فَلَمَّا ذَهَبْنَا لِنَحْمِلَ إِذَا هِيَ جَنَازَةُ يَهُودِيٍّ فَقُلْنَا يَا رَسُولَ اللَّهِ إِنَّمَا هِيَ جَنَازَةُ يَهُودِيٍّ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ الْحَرَّانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ مِقْسَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي جَابِرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم إِذْ مَرَّتْ بِنَا جَنَازَةٌ فَقَامَ لَهَا فَلَمَّا ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3176": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3176\nIn-book reference  : Book 21, Hadith 88\nEnglish translation  : Book 20, Hadith 3170",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ بَهْرَامَ الْمَدَائِنِيُّ، أَخْبَرَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبُو الأَسْبَاطِ الْحَارِثِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ سُلَيْمَانَ بْنِ جُنَادَةَ بْنِ أَبِي أُمَيَّةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُومُ فِي الْجَنَازَةِ حَتَّى تُوضَعَ فِي اللَّحْدِ فَمَرَّ بِهِ حَبْرٌ مِنَ الْيَهُودِ فَقَالَ هَكَذَا نَفْعَلُ . فَجَلَسَ النَّبِيُّ صلى الله عليه وسلم وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ بَهْرَامَ الْمَدَائِنِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَسْبَاطِ الْحَارِثِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ سُلَيْمَانَ بْنِ جُنَادَةَ بْنِ أَبِي أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُبَادَةَ بْنِ الصَّامِتِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُومُ فِي الْجَنَازَةِ حَتَّى تُوضَعَ فِي اللَّحْدِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ هَكَذَا نَفْعَلُ . فَجَلَسَ النَّبِيُّ صلى الله عليه وسلم وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3177": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3177\nIn-book reference  : Book 21, Hadith 89\nEnglish translation  : Book 20, Hadith 3171",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى الْبَلْخِيُّ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ ثَوْبَانَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُتِيَ بِدَابَّةٍ وَهُوَ مَعَ الْجَنَازَةِ فَأَبَى أَنْ يَرْكَبَهَا فَلَمَّا انْصَرَفَ أُتِيَ بِدَابَّةٍ فَرَكِبَ فَقِيلَ لَهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى الْبَلْخِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ ثَوْبَانَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أُتِيَ بِدَابَّةٍ وَهُوَ مَعَ الْجَنَازَةِ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3180": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3180\nIn-book reference  : Book 21, Hadith 92\nEnglish translation  : Book 20, Hadith 3174",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، عَنْ خَالِدٍ، عَنْ يُونُسَ، عَنْ زِيَادِ بْنِ جُبَيْرٍ، عَنْ أَبِيهِ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، - وَأَحْسَبُ أَنَّ أَهْلَ، زِيَادٍ أَخْبَرُونِي أَنَّهُ، رَفَعَهُ إِلَى النَّبِيِّ صلى الله عليه وسلم - قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زِيَادِ بْنِ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، - وَأَحْسَبُ أَنَّ أَهْلَ، زِيَادٍ أَخْبَرُونِي أَنَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3181": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3181\nIn-book reference  : Book 21, Hadith 93\nEnglish translation  : Book 20, Hadith 3175",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، يَبْلُغُ بِهِ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3184": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3184\nIn-book reference  : Book 21, Hadith 96\nEnglish translation  : Book 20, Hadith 3178",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ يَحْيَى الْمُجَبِّرِ، - قَالَ أَبُو دَاوُدَ وَهُوَ يَحْيَى بْنُ عَبْدِ اللَّهِ التَّيْمِيُّ - عَنْ أَبِي مَاجِدَةَ، عَنِ ابْنِ مَسْعُودٍ، قَالَ سَأَلْنَا نَبِيَّنَا صلى الله عليه وسلم عَنِ الْمَشْىِ مَعَ الْجَنَازَةِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى الْمُجَبِّرِ، -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَبُو دَاوُدَ وَهُوَ يَحْيَى بْنُ عَبْدِ اللَّهِ التَّيْمِيُّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مَاجِدَةَ، عَنِ ابْنِ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَأَلْنَا نَبِيَّنَا صلى الله عليه وسلم عَنِ الْمَشْىِ مَعَ الْجَنَازَةِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3191": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3191\nIn-book reference  : Book 21, Hadith 103\nEnglish translation  : Book 20, Hadith 3185",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ أَبِي ذِئْبٍ، حَدَّثَنِي صَالِحٌ، مَوْلَى التَّوْأَمَةِ عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، عَنِ ابْنِ أَبِي ذِئْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "التَّوْأَمَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3199": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3199\nIn-book reference  : Book 21, Hadith 111\nEnglish translation  : Book 20, Hadith 3193",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ يَحْيَى الْحَرَّانِيُّ، حَدَّثَنِي مُحَمَّدٌ، - يَعْنِي ابْنَ سَلَمَةَ - عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ يَحْيَى الْحَرَّانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدٌ، - يَعْنِي ابْنَ سَلَمَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3200": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3200\nIn-book reference  : Book 21, Hadith 112\nEnglish translation  : Book 20, Hadith 3194",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا أَبُو مَعْمَرٍ عَبْدُ اللَّهِ بْنُ عَمْرٍو، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَبُو الْجُلاَسِ، عُقْبَةُ بْنُ سَيَّارٍ حَدَّثَنِي عَلِيُّ بْنُ شَمَّاخٍ، قَالَ شَهِدْتُ مَرْوَانَ سَأَلَ أَبَا هُرَيْرَةَ كَيْفَ سَمِعْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم يُصَلِّي عَلَى الْجَنَازَةِ قَالَ أَمَعَ الَّذِي قُلْتَ قَالَ نَعَمْ . قَالَ كَلاَمٌ كَانَ بَيْنَهُمَا قَبْلَ ذَلِكَ . قَالَ أَبُو هُرَيْرَةَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مَعْمَرٍ عَبْدُ اللَّهِ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سَيَّارٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عَلِيُّ بْنُ شَمَّاخٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْجَنَازَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قُلْتَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ نَعَمْ .",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ كَلاَمٌ كَانَ بَيْنَهُمَا قَبْلَ ذَلِكَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "هُرَيْرَةَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3201": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3201\nIn-book reference  : Book 21, Hadith 113\nEnglish translation  : Book 20, Hadith 3195",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ مَرْوَانَ الرَّقِّيُّ، حَدَّثَنَا شُعَيْبٌ، - يَعْنِي ابْنَ إِسْحَاقَ - عَنِ الأَوْزَاعِيِّ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى جَنَازَةٍ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ مَرْوَانَ الرَّقِّيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شُعَيْبٌ، - يَعْنِي ابْنَ إِسْحَاقَ - عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى جَنَازَةٍ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3206": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3206\nIn-book reference  : Book 21, Hadith 118\nEnglish translation  : Book 20, Hadith 3200",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ نَجْدَةَ، حَدَّثَنَا سَعِيدُ بْنُ سَالِمٍ، ح وَحَدَّثَنَا يَحْيَى بْنُ الْفَضْلِ السِّجِسْتَانِيُّ، حَدَّثَنَا حَاتِمٌ، - يَعْنِي ابْنَ إِسْمَاعِيلَ - بِمَعْنَاهُ عَنْ كَثِيرِ بْنِ زَيْدٍ الْمَدَنِيِّ، عَنِ الْمُطَّلِبِ، قَالَ لَمَّا مَاتَ عُثْمَانُ بْنُ مَظْعُونٍ أُخْرِجَ بِجَنَازَتِهِ فَدُفِنَ أَمَرَ النَّبِيُّ صلى الله عليه وسلم رَجُلاً أَنْ يَأْتِيَهُ بِحَجَرٍ فَلَمْ يَسْتَطِعْ حَمْلَهُ فَقَامَ إِلَيْهَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَحَسَرَ عَنْ ذِرَاعَيْهِ - قَالَ كَثِيرٌ قَالَ الْمُطَّلِبُ قَالَ الَّذِي يُخْبِرُنِي ذَلِكَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ - كَأَنِّي أَنْظُرُ إِلَى بَيَاضِ ذِرَاعَىْ رَسُولِ اللَّهِ صلى الله عليه وسلم حِينَ حَسَرَ عَنْهُمَا ثُمَّ حَمَلَهَا فَوَضَعَهَا عِنْدَ رَأْسِهِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ نَجْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ سَالِمٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ الْفَضْلِ السِّجِسْتَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "بِمَعْنَاهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ كَثِيرِ بْنِ زَيْدٍ الْمَدَنِيِّ، عَنِ الْمُطَّلِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "وَحَسَرَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ ذِرَاعَيْهِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "كَثِيرٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "الْمُطَّلِبُ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "ذَلِكَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "حَسَرَ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "عَنْهُمَا ثُمَّ حَمَلَهَا فَوَضَعَهَا عِنْدَ رَأْسِهِ وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 13,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3207": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3207\nIn-book reference  : Book 21, Hadith 119\nEnglish translation  : Book 20, Hadith 3201",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ سَعْدٍ، - يَعْنِي ابْنَ سَعِيدٍ - عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعْدٍ، - يَعْنِي ابْنَ سَعِيدٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3208": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3208\nIn-book reference  : Book 21, Hadith 120\nEnglish translation  : Book 20, Hadith 3202",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَكَّامُ بْنُ سَلْمٍ، عَنْ عَلِيِّ بْنِ عَبْدِ الأَعْلَى، عَنْ أَبِيهِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَكَّامُ بْنُ سَلْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3213": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3213\nIn-book reference  : Book 21, Hadith 125\nEnglish translation  : Book 20, Hadith 3207",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، ح وَحَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَبِي الصِّدِّيقِ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا وَضَعَ الْمَيِّتَ فِي الْقَبْرِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْقَبْرِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3214": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3214\nIn-book reference  : Book 21, Hadith 126\nEnglish translation  : Book 20, Hadith 3208",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، حَدَّثَنِي أَبُو إِسْحَاقَ، عَنْ نَاجِيَةَ بْنِ كَعْبٍ، عَنْ عَلِيٍّ، عَلَيْهِ السَّلاَمُ قَالَ قُلْتُ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ عَمَّكَ الشَّيْخَ الضَّالَّ قَدْ مَاتَ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبُو إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَاجِيَةَ بْنِ كَعْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "السَّلاَمُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ قُلْتُ لِلنَّبِيِّ صلى الله عليه وسلم إِنَّ عَمَّكَ الشَّيْخَ الضَّالَّ قَدْ مَاتَ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3216": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3216\nIn-book reference  : Book 21, Hadith 128\nEnglish translation  : Book 20, Hadith 3210",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا أَبُو صَالِحٍ، - يَعْنِي الأَنْطَاكِيَّ - أَخْبَرَنَا أَبُو إِسْحَاقَ، - يَعْنِي الْفَزَارِيَّ - عَنِ الثَّوْرِيِّ، عَنْ أَيُّوبَ، عَنْ حُمَيْدِ بْنِ هِلاَلٍ، بِإِسْنَادِهِ وَمَعْنَاهُ زَادَ فِيهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو صَالِحٍ، - يَعْنِي الأَنْطَاكِيَّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا أَبُو إِسْحَاقَ، - يَعْنِي الْفَزَارِيَّ - عَنِ الثَّوْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ"
+    ]
+  },
+  "3221": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3221\nIn-book reference  : Book 21, Hadith 133\nEnglish translation  : Book 20, Hadith 3215",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، حَدَّثَنَا هِشَامٌ، عَنْ عَبْدِ اللَّهِ بْنِ بَحِيرٍ، عَنْ هَانِئٍ، مَوْلَى عُثْمَانَ عَنْ عُثْمَانَ بْنِ عَفَّانَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا فَرَغَ مِنْ دَفْنِ الْمَيِّتِ وَقَفَ عَلَيْهِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بَحِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عُثْمَانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُثْمَانَ بْنِ عَفَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا فَرَغَ مِنْ دَفْنِ الْمَيِّتِ وَقَفَ عَلَيْهِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3222": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3222\nIn-book reference  : Book 21, Hadith 134\nEnglish translation  : Book 20, Hadith 3216",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى الْبَلْخِيُّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ مُوسَى الْبَلْخِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3227": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3227\nIn-book reference  : Book 21, Hadith 139\nEnglish translation  : Book 20, Hadith 3221",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3228": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3228\nIn-book reference  : Book 21, Hadith 140\nEnglish translation  : Book 20, Hadith 3222",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا خَالِدٌ، حَدَّثَنَا سُهَيْلُ بْنُ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُهَيْلُ بْنُ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3229": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3229\nIn-book reference  : Book 21, Hadith 141\nEnglish translation  : Book 20, Hadith 3223",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا عِيسَى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، - يَعْنِي ابْنَ يَزِيدَ بْنِ جَابِرٍ - عَنْ بُسْرِ بْنِ عُبَيْدِ اللَّهِ، قَالَ سَمِعْتُ وَاثِلَةَ بْنَ الأَسْقَعِ، يَقُولُ سَمِعْتُ أَبَا مَرْثَدٍ الْغَنَوِيَّ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، - يَعْنِي ابْنَ يَزِيدَ بْنِ جَابِرٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ بُسْرِ بْنِ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3231": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3231\nIn-book reference  : Book 21, Hadith 143\nEnglish translation  : Book 20, Hadith 3225",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، - يَعْنِي ابْنَ عَطَاءٍ - عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَهَّابِ، - يَعْنِي ابْنَ عَطَاءٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3234": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3234\nIn-book reference  : Book 21, Hadith 146\nEnglish translation  : Book 20, Hadith 3228",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، عَنْ يَزِيدَ بْنِ كَيْسَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أَتَى رَسُولُ اللَّهِ صلى الله عليه وسلم قَبْرَ أُمِّهِ فَبَكَى وَأَبْكَى مَنْ حَوْلَهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ كَيْسَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَتَى رَسُولُ اللَّهِ صلى الله عليه وسلم قَبْرَ أُمِّهِ فَبَكَى وَأَبْكَى مَنْ حَوْلَهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3235": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3235\nIn-book reference  : Book 21, Hadith 147\nEnglish translation  : Book 20, Hadith 3229",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا مُعَرِّفُ بْنُ وَاصِلٍ، عَنْ مُحَارِبِ بْنِ دِثَارٍ، عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعَرِّفُ بْنُ وَاصِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَارِبِ بْنِ دِثَارٍ، عَنِ ابْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3237": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3237\nIn-book reference  : Book 21, Hadith 149\nEnglish translation  : Book 20, Hadith 3231",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ إِلَى الْمَقْبَرَةِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ إِلَى الْمَقْبَرَةِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "3240": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3240\nIn-book reference  : Book 21, Hadith 152\nEnglish translation  : Book 20, Hadith 3234",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، نَحْوَهُ بِمَعْنَى سُلَيْمَانَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "سُلَيْمَانَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "3241": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Funerals (Kitab Al-Jana'iz)",
+    "book_num": "21",
+    "reference": "Reference  : Sunan Abi Dawud 3241\nIn-book reference  : Book 21, Hadith 153\nEnglish translation  : Book 20, Hadith 3235",
+    "url": "https://sunnah.com/abudawud/21",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنِ الْحَكَمِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ وَقَصَتْ بِرَجُلٍ مُحْرِمٍ نَاقَتُهُ فَقَتَلَتْهُ فَأُتِيَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ، عَنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ وَقَصَتْ بِرَجُلٍ مُحْرِمٍ نَاقَتُهُ فَقَتَلَتْهُ فَأُتِيَ بِهِ رَسُولُ اللَّهِ صلى الله عليه ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

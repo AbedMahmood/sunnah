@@ -1,0 +1,4416 @@
+{
+  "4721": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4721\nIn-book reference  : Book 45, Hadith 16\nEnglish translation  : Vol. 5, Book 45, Hadith 4725",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا بِشْرُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مُرَّةَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا بِشْرُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ مُرَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4722": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4722\nIn-book reference  : Book 45, Hadith 17\nEnglish translation  : Vol. 5, Book 45, Hadith 4726",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، وَأَحْمَدُ بْنُ حَرْبٍ، - وَاللَّفْظُ لأَحْمَدَ - قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قُتِلَ رَجُلٌ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَرُفِعَ الْقَاتِلُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَدَفَعَهُ إِلَى وَلِيِّ الْمَقْتُولِ فَقَالَ الْقَاتِلُ يَا رَسُولَ اللَّهِ لاَ وَاللَّهِ مَا أَرَدْتُ قَتْلَهُ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِوَلِيِّ الْمَقْتُولِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ قُتِلَ رَجُلٌ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَرُفِعَ الْقَاتِلُ إِلَى النَّب",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ الْقَاتِلُ يَا رَسُولَ اللَّهِ لاَ وَاللَّهِ مَا أَرَدْتُ قَتْلَهُ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْمَقْتُولِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4729": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4729\nIn-book reference  : Book 45, Hadith 24\nEnglish translation  : Vol. 5, Book 45, Hadith 4733",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ، عَنْ أَبِي عَوَانَةَ، عَنْ إِسْمَاعِيلَ بْنِ سَالِمٍ، عَنْ عَلْقَمَةَ بْنِ وَائِلٍ، أَنَّ أَبَاهُ، حَدَّثَهُمْ أَنَّ النَّبِيَّ صلى الله عليه وسلم أُتِيَ بِرَجُلٍ قَدْ قَتَلَ رَجُلاً فَدَفَعَهُ إِلَى وَلِيِّ الْمَقْتُولِ يَقْتُلُهُ فَقَالَ النَّبِيُّ صلى الله عليه وسلم لِجُلَسَائِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَلْقَمَةَ بْنِ وَائِلٍ، أَنَّ أَبَاهُ، حَدَّثَهُمْ أَنَّ النَّبِيَّ صلى الله عليه وسلم أُتِيَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "لِجُلَسَائِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4734": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4734\nIn-book reference  : Book 45, Hadith 29\nEnglish translation  : Vol. 5, Book 45, Hadith 4738",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ قَيْسِ بْنِ عُبَادٍ، قَالَ انْطَلَقْتُ أَنَا وَالأَشْتَرُ، إِلَى عَلِيٍّ رضى الله عنه فَقُلْنَا هَلْ عَهِدَ إِلَيْكَ نَبِيُّ اللَّهِ صلى الله عليه وسلم شَيْئًا لَمْ يَعْهَدْهُ إِلَى النَّاسِ عَامَّةً قَالَ لاَ إِلاَّ مَا كَانَ فِي كِتَابِي هَذَا . فَأَخْرَجَ كِتَابًا مِنْ قِرَابِ سَيْفِهِ فَإِذَا فِيهِ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَيْسِ بْنِ عُبَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَامَّةً",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4735": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4735\nIn-book reference  : Book 45, Hadith 30\nEnglish translation  : Vol. 5, Book 45, Hadith 4739",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنِي أَبُو بَكْرِ بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا الْقَوَارِيرِيُّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْوَاحِدِ، قَالَ حَدَّثَنَا عُمَرُ بْنُ عَامِرٍ، عَنْ قَتَادَةَ، عَنْ أَبِي حَسَّانَ، عَنْ عَلِيٍّ، رضى الله عنه أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي أَبُو بَكْرِ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْقَوَارِيرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْوَاحِدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي حَسَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَلِيٍّ، رضى الله عنه أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4736": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4736\nIn-book reference  : Book 45, Hadith 31\nEnglish translation  : Vol. 5, Book 45, Hadith 7440",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، - هُوَ الْمَرْوَزِيُّ - قَالَ حَدَّثَنَا أَبُو دَاوُدَ الطَّيَالِسِيُّ، قَالَ حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، - هُوَ الْمَرْوَزِيُّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ الطَّيَالِسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَمُرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4737": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4737\nIn-book reference  : Book 45, Hadith 32\nEnglish translation  : Vol. 5, Book 45, Hadith 4741",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا نَصْرُ بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا نَصْرُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَمُرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4738": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4738\nIn-book reference  : Book 45, Hadith 33\nEnglish translation  : Vol. 5, Book 45, Hadith 4742",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَمُرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4743": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4743\nIn-book reference  : Book 45, Hadith 38\nEnglish translation  : Vol. 5, Book 45, Hadith 4747",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصِ بْنِ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنِي إِبْرَاهِيمُ، عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ، عَنْ عُبَيْدِ بْنِ عُمَيْرٍ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ عُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4744": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4744\nIn-book reference  : Book 45, Hadith 39\nEnglish translation  : Vol. 5, Book 45, Hadith 4748",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مُطَرِّفِ بْنِ طَرِيفٍ، عَنِ الشَّعْبِيِّ، قَالَ سَمِعْتُ أَبَا جُحَيْفَةَ، يَقُولُ سَأَلْنَا عَلِيًّا فَقُلْنَا هَلْ عِنْدَكُمْ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم شَىْءٌ سِوَى الْقُرْآنِ فَقَالَ لاَ وَالَّذِي فَلَقَ الْحَبَّةَ وَبَرَأَ النَّسَمَةَ إِلاَّ أَنْ يُعْطِيَ اللَّهُ عَزَّ وَجَلَّ عَبْدًا فَهْمًا فِي كِتَابِهِ أَوْ مَا فِي هَذِهِ الصَّحِيفَةِ . قُلْتُ وَمَا فِي الصَّحِيفَةِ قَالَ فِيهَا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُطَرِّفِ بْنِ طَرِيفٍ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ أَبَا جُحَيْفَةَ، يَقُولُ سَأَلْنَا عَلِيًّا فَقُلْنَا هَلْ عِنْدَكُمْ مِنْ رَسُولِ ا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الصَّحِيفَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "فِيهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4745": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4745\nIn-book reference  : Book 45, Hadith 40\nEnglish translation  : Vol. 5, Book 45, Hadith 4749",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا الْحَجَّاجُ بْنُ مِنْهَالٍ، قَالَ حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ أَبِي حَسَّانَ، قَالَ قَالَ عَلِيٌّ مَا عَهِدَ إِلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بِشَىْءٍ دُونَ النَّاسِ إِلاَّ فِي صَحِيفَةٍ فِي قِرَابِ سَيْفِي . فَلَمْ يَزَالُوا بِهِ حَتَّى أَخْرَجَ الصَّحِيفَةَ فَإِذَا فِيهَا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْحَجَّاجُ بْنُ مِنْهَالٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي حَسَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "فِيهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4746": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4746\nIn-book reference  : Book 45, Hadith 41\nEnglish translation  : Vol. 5, Book 45, Hadith 4750",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصٍ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنِ الْحَجَّاجِ بْنِ الْحَجَّاجِ، عَنْ قَتَادَةَ، عَنْ أَبِي حَسَّانَ الأَعْرَجِ، عَنِ الأَشْتَرِ، أَنَّهُ قَالَ لِعَلِيٍّ إِنَّ النَّاسَ قَدْ تَفَشَّغَ بِهِمْ مَا يَسْمَعُونَ فَإِنْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَهِدَ إِلَيْكَ عَهْدًا فَحَدِّثْنَا بِهِ . قَالَ مَا عَهِدَ إِلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم عَهْدًا لَمْ يَعْهَدْهُ إِلَى النَّاسِ غَيْرَ أَنَّ فِي قِرَابِ سَيْفِي صَحِيفَةً فَإِذَا فِيهَا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ حَفْصٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنِ الْحَجَّاجِ بْنِ الْحَجَّاجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لِعَلِيٍّ إِنَّ النَّاسَ قَدْ تَفَشَّغَ بِهِمْ مَا يَسْمَعُونَ فَإِنْ كَانَ رَسُولُ اللَّهِ صل",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "فِيهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4747": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4747\nIn-book reference  : Book 45, Hadith 42\nEnglish translation  : Vol. 5, Book 45, Hadith 4751",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ عُيَيْنَةَ، قَالَ أَخْبَرَنِي أَبِي قَالَ، قَالَ أَبُو بَكْرَةَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "بَكْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4748": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4748\nIn-book reference  : Book 45, Hadith 43\nEnglish translation  : Vol. 5, Book 45, Hadith 4752",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ يُونُسَ، عَنِ الْحَكَمِ بْنِ الأَعْرَجِ، عَنِ الأَشْعَثِ بْنِ ثُرْمُلَةَ، عَنْ أَبِي بَكْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ الْحَكَمِ بْنِ الأَعْرَجِ، عَنِ الأَشْعَثِ بْنِ ثُرْمُلَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بَكْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4749": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4749\nIn-book reference  : Book 45, Hadith 44\nEnglish translation  : Vol. 5, Book 45, Hadith 4753",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا النَّضْرُ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ هِلاَلِ بْنِ يِسَافٍ، عَنِ الْقَاسِمِ بْنِ مُخَيْمِرَةَ، عَنْ رَجُلٍ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا النَّضْرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ هِلاَلِ بْنِ يِسَافٍ، عَنِ الْقَاسِمِ بْنِ مُخَيْمِرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ رَجُلٍ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4750": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4750\nIn-book reference  : Book 45, Hadith 45\nEnglish translation  : Vol. 5, Book 45, Hadith 4754",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ، دُحَيْمٌ قَالَ حَدَّثَنَا مَرْوَانُ، قَالَ حَدَّثَنَا الْحَسَنُ، - وَهُوَ ابْنُ عَمْرٍو - عَنْ مُجَاهِدٍ، عَنْ جُنَادَةَ بْنِ أَبِي أُمَيَّةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "دُحَيْمٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَرْوَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ، - وَهُوَ ابْنُ عَمْرٍو -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جُنَادَةَ بْنِ أَبِي أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4752": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4752\nIn-book reference  : Book 45, Hadith 47\nEnglish translation  : Vol. 5, Book 45, Hadith 4756",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا أَبُو خَالِدٍ، سُلَيْمَانُ بْنُ حَيَّانَ قَالَ حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى بِالْقِصَاصِ فِي السِّنِّ وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَيَّانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا حُمَيْدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى بِالْقِصَاصِ فِي السِّنِّ وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4753": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4753\nIn-book reference  : Book 45, Hadith 48\nEnglish translation  : Vol. 5, Book 45, Hadith 4757",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَمُرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4754": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4754\nIn-book reference  : Book 45, Hadith 49\nEnglish translation  : Vol. 5, Book 45, Hadith 4758",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالاَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَمُرَةَ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4756": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4756\nIn-book reference  : Book 45, Hadith 51\nEnglish translation  : Vol. 5, Book 45, Hadith 4760",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، وَإِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالاَ حَدَّثَنَا بِشْرٌ، عَنْ حُمَيْدٍ، قَالَ ذَكَرَ أَنَسٌ أَنَّ عَمَّتَهُ، كَسَرَتْ ثَنِيَّةَ جَارِيَةٍ فَقَضَى نَبِيُّ اللَّهِ صلى الله عليه وسلم بِالْقِصَاصِ فَقَالَ أَخُوهَا أَنَسُ بْنُ النَّضْرِ أَتُكْسَرُ ثَنِيَّةُ فُلاَنَةَ لاَ وَالَّذِي بَعَثَكَ بِالْحَقِّ لاَ تُكْسَرُ ثَنِيَّةُ فُلاَنَةَ . قَالَ وَكَانُوا قَبْلَ ذَلِكَ سَأَلُوا أَهْلَهَا الْعَفْوَ وَالأَرْشَ فَلَمَّا حَلَفَ أَخُوهَا - وَهُوَ عَمُّ أَنَسٍ وَهُوَ الشَّهِيدُ يَوْمَ أُحُدٍ - رَضِيَ الْقَوْمُ بِالْعَفْوِ . فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بِشْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ ذَكَرَ أَنَسٌ أَنَّ عَمَّتَهُ، كَسَرَتْ ثَنِيَّةَ جَارِيَةٍ فَقَضَى نَبِيُّ اللَّهِ صلى الله ع",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَخُوهَا أَنَسُ بْنُ النَّضْرِ أَتُكْسَرُ ثَنِيَّةُ فُلاَنَةَ لاَ وَالَّذِي بَعَثَكَ بِالْحَقّ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ وَكَانُوا قَبْلَ ذَلِكَ سَأَلُوا أَهْلَهَا الْعَفْوَ وَالأَرْشَ فَلَمَّا حَلَفَ أَخُوهَا - وَه",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4758": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4758\nIn-book reference  : Book 45, Hadith 53\nEnglish translation  : Vol. 5, Book 45, Hadith 4762",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ عُثْمَانَ أَبُو الْجَوْزَاءِ، قَالَ أَنْبَأَنَا قُرَيْشُ بْنُ أَنَسٍ، عَنِ ابْنِ عَوْنٍ، عَنِ ابْنِ سِيرِينَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَجُلاً، عَضَّ يَدَ رَجُلٍ فَانْتَزَعَ يَدَهُ فَسَقَطَتْ ثَنِيَّتُهُ أَوْ قَالَ ثَنَايَاهُ فَاسْتَعْدَى عَلَيْهِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ عُثْمَانَ أَبُو الْجَوْزَاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا قُرَيْشُ بْنُ أَنَسٍ، عَنِ ابْنِ عَوْنٍ، عَنِ ابْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَجُلاً، عَضَّ يَدَ رَجُلٍ فَانْتَزَعَ يَدَهُ فَسَقَطَتْ ثَنِيَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ ثَنَايَاهُ فَاسْتَعْدَى عَلَيْهِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4759": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4759\nIn-book reference  : Book 45, Hadith 54\nEnglish translation  : Vol. 5, Book 45, Hadith 4763",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ بْنِ أَوْفَى، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَجُلاً، عَضَّ آخَرَ عَلَى ذِرَاعِهِ فَاجْتَذَبَهَا فَانْتَزَعَتْ ثَنِيَّتَهُ فَرُفِعَ ذَلِكَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَبْطَلَهَا وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ زُرَارَةَ بْنِ أَوْفَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَجُلاً، عَضَّ آخَرَ عَلَى ذِرَاعِهِ فَاجْتَذَبَهَا فَانْتَزَعَت",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4760": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4760\nIn-book reference  : Book 45, Hadith 55\nEnglish translation  : Vol. 5, Book 45, Hadith 4764",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، قَالَ قَاتَلَ يَعْلَى رَجُلاً فَعَضَّ أَحَدُهُمَا صَاحِبَهُ فَانْتَزَعَ يَدَهُ مِنْ فِيهِ فَنَدَرَتْ ثَنِيَّتُهُ فَاخْتَصَمَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ زُرَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ قَاتَلَ يَعْلَى رَجُلاً فَعَضَّ أَحَدُهُمَا صَاحِبَهُ فَانْتَزَعَ يَدَهُ مِنْ فِيهِ فَنَدَرَتْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4761": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4761\nIn-book reference  : Book 45, Hadith 56\nEnglish translation  : Vol. 5, Book 45, Hadith 4765",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ يَعْلَى، قَالَ فِي الَّذِي عَضَّ فَنَدَرَتْ ثَنِيَّتُهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زُرَارَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ يَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ فِي الَّذِي عَضَّ فَنَدَرَتْ ثَنِيَّتُهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4762": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4762\nIn-book reference  : Book 45, Hadith 57\nEnglish translation  : Vol. 5, Book 45, Hadith 4766",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، قَالَ حَدَّثَنَا أَبُو هِشَامٍ، قَالَ حَدَّثَنَا أَبَانُ، قَالَ حَدَّثَنَا قَتَادَةُ، قَالَ حَدَّثَنَا زُرَارَةُ بْنُ أَوْفَى، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَجُلاً، عَضَّ ذِرَاعَ رَجُلٍ فَانْتَزَعَ ثَنِيَّتَهُ فَانْطَلَقَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَذَكَرَ ذَلِكَ لَهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنَا زُرَارَةُ بْنُ أَوْفَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَجُلاً، عَضَّ ذِرَاعَ رَجُلٍ فَانْتَزَعَ ثَنِيَّتَهُ فَانْطَلَق",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4763": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4763\nIn-book reference  : Book 45, Hadith 58\nEnglish translation  : Vol. 5, Book 45, Hadith 4767",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مَالِكُ بْنُ الْخَلِيلِ، قَالَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنِ الْحَكَمِ، عَنْ مُجَاهِدٍ، عَنْ يَعْلَى ابْنِ مُنْيَةَ، أَنَّهُ قَاتَلَ رَجُلاً فَعَضَّ أَحَدُهُمَا صَاحِبَهُ فَانْتَزَعَ يَدَهُ مِنْ فِيهِ فَقَلَعَ ثَنِيَّتَهُ فَرُفِعَ ذَلِكَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَالِكُ بْنُ الْخَلِيلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ، عَنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَعْلَى ابْنِ مُنْيَةَ، أَنَّهُ قَاتَلَ رَجُلاً فَعَضَّ أَحَدُهُمَا صَاحِبَهُ فَانْتَزَعَ يَدَه",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4764": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4764\nIn-book reference  : Book 45, Hadith 59\nEnglish translation  : Vol. 5, Book 45, Hadith 4768",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عَقِيلٍ، قَالَ حَدَّثَنَا جَدِّي، قَالَ حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنْ مُجَاهِدٍ، عَنْ يَعْلَى ابْنِ مُنْيَةَ، أَنَّ رَجُلاً، مِنْ بَنِي تَمِيمٍ قَاتَلَ رَجُلاً فَعَضَّ يَدَهُ فَانْتَزَعَهَا فَأَلْقَى ثَنِيَّتَهُ فَاخْتَصَمَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عُبَيْدِ بْنِ عَقِيلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا جَدِّي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ يَعْلَى ابْنِ مُنْيَةَ، أَنَّ رَجُلاً، مِنْ بَنِي تَمِيمٍ قَاتَلَ رَجُلاً فَعَضَّ يَدَهُ فَانْت",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4765": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4765\nIn-book reference  : Book 45, Hadith 60\nEnglish translation  : Vol. 5, Book 45, Hadith 4769",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عِمْرَانُ بْنُ بَكَّارٍ، قَالَ أَنْبَأَنَا أَحْمَدُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا مُحَمَّدٌ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، عَنْ صَفْوَانَ بْنِ عَبْدِ اللَّهِ، عَنْ عَمَّيْهِ، سَلَمَةَ وَيَعْلَى ابْنَىْ أُمَيَّةَ قَالاَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي غَزْوَةِ تَبُوكَ وَمَعَنَا صَاحِبٌ لَنَا فَقَاتَلَ رَجُلاً مِنَ الْمُسْلِمِينَ فَعَضَّ الرَّجُلُ ذِرَاعَهُ فَجَذَبَهَا مِنْ فِيهِ فَطَرَحَ ثَنِيَّتَهُ فَأَتَى الرَّجُلُ النَّبِيَّ صلى الله عليه وسلم يَلْتَمِسُ الْعَقْلَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عِمْرَانُ بْنُ بَكَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا أَحْمَدُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَمَّيْهِ، سَلَمَةَ وَيَعْلَى ابْنَىْ أُمَيَّةَ قَالاَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4767": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4767\nIn-book reference  : Book 45, Hadith 62\nEnglish translation  : Vol. 5, Book 45, Hadith 4771",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الْجَبَّارِ، مَرَّةً أُخْرَى عَنْ سُفْيَانَ، عَنْ عَمْرٍو، عَنْ عَطَاءٍ، عَنْ صَفْوَانَ بْنِ يَعْلَى، عَنْ يَعْلَى، وَابْنِ، جُرَيْجٍ عَنْ عَطَاءٍ، عَنْ صَفْوَانَ بْنِ يَعْلَى، عَنْ يَعْلَى، أَنَّهُ اسْتَأْجَرَ أَجِيرًا فَقَاتَلَ رَجُلاً فَعَضَّ يَدَهُ فَانْتُزِعَتْ ثَنِيَّتُهُ فَخَاصَمَهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أُخْرَى",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ يَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "جُرَيْجٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ يَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ يَعْلَى، أَنَّهُ اسْتَأْجَرَ أَجِيرًا فَقَاتَلَ رَجُلاً فَعَضَّ يَدَهُ فَانْتُزِعَتْ ثَنِيَّتُه",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4769": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4769\nIn-book reference  : Book 45, Hadith 64\nEnglish translation  : Vol. 5, Book 45, Hadith 4773",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ عُلَيَّةَ، قَالَ أَنْبَأَنَا ابْنُ جُرَيْجٍ، قَالَ أَخْبَرَنِي عَطَاءٌ، عَنْ صَفْوَانَ بْنِ يَعْلَى، عَنْ يَعْلَى بْنِ أُمَيَّةَ، قَالَ غَزَوْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم جَيْشَ الْعُسْرَةِ - وَكَانَ أَوْثَقَ عَمَلٍ لِي فِي نَفْسِي - وَكَانَ لِي أَجِيرٌ فَقَاتَلَ إِنْسَانًا فَعَضَّ أَحَدُهُمَا أُصْبَعَ صَاحِبِهِ فَانْتَزَعَ إِصْبَعَهُ فَأَنْدَرَ ثَنِيَّتَهُ فَسَقَطَتْ فَانْطَلَقَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَهْدَرَ ثَنِيَّتَهُ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ عُلَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَطَاءٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ يَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ يَعْلَى بْنِ أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ غَزَوْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم جَيْشَ الْعُسْرَةِ - وَكَانَ أَوْثَقَ عَمَلٍ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4770": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4770\nIn-book reference  : Book 45, Hadith 65\nEnglish translation  : Vol. 5, Book 45, Hadith 4774",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، فِي حَدِيثِ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ عَطَاءٍ، عَنِ ابْنِ يَعْلَى، عَنْ أَبِيهِ، بِمِثْلِ الَّذِي عَضَّ فَنَدَرَتْ ثَنِيَّتُهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْمُبَارَكِ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءٍ، عَنِ ابْنِ يَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، بِمِثْلِ الَّذِي عَضَّ فَنَدَرَتْ ثَنِيَّتُهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4771": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4771\nIn-book reference  : Book 45, Hadith 66\nEnglish translation  : Vol. 5, Book 45, Hadith 4775",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ، عَنْ عَطَاءٍ، عَنْ صَفْوَانَ بْنِ يَعْلَى ابْنِ مُنْيَةَ، أَنَّ أَجِيرًا، لِيَعْلَى ابْنِ مُنْيَةَ عَضَّ آخَرُ ذِرَاعَهُ فَانْتَزَعَهَا مِنْ فِيهِ فَرَفَعَ ذَلِكَ إِلَى النَّبِيِّ صلى الله عليه وسلم وَقَدْ سَقَطَتْ ثَنِيَّتُهُ فَأَبْطَلَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا مُعَاذُ بْنُ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ بُدَيْلِ بْنِ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ يَعْلَى ابْنِ مُنْيَةَ، أَنَّ أَجِيرًا، لِيَعْلَى ابْنِ مُنْيَةَ عَضَّ آخَرُ ذِر",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4772": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4772\nIn-book reference  : Book 45, Hadith 67\nEnglish translation  : Vol. 5, Book 45, Hadith 4776",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنِي أَبُو بَكْرِ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا أَبُو الْجَوَّابِ، قَالَ حَدَّثَنَا عَمَّارٌ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنِ الْحَكَمِ، عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ، عَنْ صَفْوَانَ بْنِ يَعْلَى، أَنَّ أَبَاهُ، غَزَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي غَزْوَةِ تَبُوكَ فَاسْتَأْجَرَ أَجِيرًا فَقَاتَلَ رَجُلاً فَعَضَّ الرَّجُلُ ذِرَاعَهُ فَلَمَّا أَوْجَعَهُ نَتَرَهَا فَأَنْدَرَ ثَنِيَّتَهُ فَرُفِعَ ذَلِكَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي أَبُو بَكْرِ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الْجَوَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَمَّارٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ يَعْلَى، أَنَّ أَبَاهُ، غَزَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي غَزْوَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4773": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4773\nIn-book reference  : Book 45, Hadith 68\nEnglish translation  : Vol. 5, Book 45, Hadith 4777",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ، عَنْ عَبِيدَةَ بْنِ مُسَافِعٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ بَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْسِمُ شَيْئًا أَقْبَلَ رَجُلٌ فَأَكَبَّ عَلَيْهِ فَطَعَنَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم بِعُرْجُونٍ كَانَ مَعَهُ فَخَرَجَ الرَّجُلُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبِيدَةَ بْنِ مُسَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ بَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْسِمُ شَيْئًا أَقْبَلَ رَجُلٌ فَأَكَبَّ عَلَيْهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4774": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4774\nIn-book reference  : Book 45, Hadith 69\nEnglish translation  : Vol. 5, Book 45, Hadith 4778",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ سَعِيدٍ الرِّبَاطِيُّ، قَالَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، أَنْبَأَنَا أَبِي قَالَ، سَمِعْتُ يَحْيَى، يُحَدِّثُ عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ، عَنْ عَبِيدَةَ بْنِ مُسَافِعٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ بَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْسِمُ شَيْئًا إِذْ أَكَبَّ عَلَيْهِ رَجُلٌ فَطَعَنَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم بِعُرْجُونٍ كَانَ مَعَهُ فَصَاحَ الرَّجُلُ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ سَعِيدٍ الرِّبَاطِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبِيدَةَ بْنِ مُسَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ بَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْسِمُ شَيْئًا إِذْ أَكَبَّ عَلَيْهِ رَجُلٌ فَطَع",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4785": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4785\nIn-book reference  : Book 45, Hadith 80\nEnglish translation  : Vol. 5, Book 45, Hadith 4789",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَشْعَثَ، قَالَ حَدَّثَنَا أَبُو مُسْهِرٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ عَبْدِ اللَّهِ بْنِ سَمَاعَةَ - قَالَ أَنْبَأَنَا الأَوْزَاعِيُّ، قَالَ أَخْبَرَنِي يَحْيَى، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ، قَالَ حَدَّثَنِي أَبُو هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَشْعَثَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مُسْهِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ عَبْدِ اللَّهِ بْنِ سَمَاعَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَنْبَأَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَخْبَرَنِي يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "حَدَّثَنِي أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4786": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4786\nIn-book reference  : Book 45, Hadith 81\nEnglish translation  : Vol. 5, Book 45, Hadith 4790",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ بْنِ مَزْيَدَ، قَالَ أَخْبَرَنِي أَبِي قَالَ، حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ، قَالَ حَدَّثَنَا أَبُو هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ بْنِ مَزْيَدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "حَدَّثَنَا أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4787": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4787\nIn-book reference  : Book 45, Hadith 82\nEnglish translation  : Vol. 5, Book 45, Hadith 4791",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا { أَحْمَدُ بْنُ، } إِبْرَاهِيمَ بْنِ مُحَمَّدٍ قَالَ أَنْبَأَنَا ابْنُ عَائِذٍ، قَالَ حَدَّثَنَا يَحْيَى، - هُوَ ابْنُ حَمْزَةَ - قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "مُحَمَّدٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ عَائِذٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، - هُوَ ابْنُ حَمْزَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4788": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4788\nIn-book reference  : Book 45, Hadith 83\nEnglish translation  : Vol. 5, Book 45, Hadith 4792",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا الْوَلِيدُ، عَنِ الأَوْزَاعِيِّ، قَالَ حَدَّثَنِي حِصْنٌ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ، ح وَأَنْبَأَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ حَدَّثَنَا الْوَلِيدُ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي حِصْنٌ، أَنَّهُ سَمِعَ أَبَا سَلَمَةَ، يُحَدِّثُ عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ، عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي حِصْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ، ح وَأَنْبَأَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4789": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4789\nIn-book reference  : Book 45, Hadith 84\nEnglish translation  : Vol. 5, Book 45, Hadith 4793",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا هِلاَلُ بْنُ الْعَلاَءِ بْنِ هِلاَلٍ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ سُلَيْمَانَ، قَالَ أَنْبَأَنَا سُلَيْمَانُ بْنُ كَثِيرٍ، قَالَ حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هِلاَلُ بْنُ الْعَلاَءِ بْنِ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا سُلَيْمَانُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4790": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4790\nIn-book reference  : Book 45, Hadith 85\nEnglish translation  : Vol. 5, Book 45, Hadith 4794",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ كَثِيرٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، يَرْفَعُهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَرْفَعُهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4791": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4791\nIn-book reference  : Book 45, Hadith 86\nEnglish translation  : Vol. 5, Book 45, Hadith 4795",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَيُّوبَ السَّخْتِيَانِيِّ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَيُّوبَ السَّخْتِيَانِيِّ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4793": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4793\nIn-book reference  : Book 45, Hadith 88\nEnglish translation  : Vol. 5, Book 45, Hadith 4797",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنِي يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، قَالَ أَنْبَأَنَا حَمَّادٌ، عَنْ خَالِدٍ، - يَعْنِي الْحَذَّاءَ - عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ، عَنْ عُقْبَةَ بْنِ أَوْسٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قَالَ أَنْبَأَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ خَالِدٍ، - يَعْنِي الْحَذَّاءَ - عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4794": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4794\nIn-book reference  : Book 45, Hadith 89\nEnglish translation  : Vol. 5, Book 45, Hadith 4798",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ كَامِلٍ، قَالَ حَدَّثَنَا هُشَيْمٌ، عَنْ خَالِدٍ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ، عَنْ عُقْبَةَ بْنِ أَوْسٍ، عَنْ رَجُلٍ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالَ خَطَبَ النَّبِيُّ صلى الله عليه وسلم يَوْمَ فَتْحِ مَكَّةَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ كَامِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خَالِدٍ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَجُلٍ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ خَطَبَ النَّبِيُّ صلى الله عليه وسلم يَوْمَ فَتْحِ مَكَّةَ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4795": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4795\nIn-book reference  : Book 45, Hadith 90\nEnglish translation  : Vol. 5, Book 45, Hadith 4799",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، عَنِ ابْنِ أَبِي عَدِيٍّ، عَنْ خَالِدٍ، عَنِ الْقَاسِمِ، عَنْ عُقْبَةَ بْنِ أَوْسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، عَنِ ابْنِ أَبِي عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ خَالِدٍ، عَنِ الْقَاسِمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ أَوْسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4796": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4796\nIn-book reference  : Book 45, Hadith 91\nEnglish translation  : Vol. 5, Book 45, Hadith 4800",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ، عَنْ يَعْقُوبَ بْنِ أَوْسٍ، عَنْ رَجُلٍ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمَّا دَخَلَ مَكَّةَ يَوْمَ الْفَتْحِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خَالِدٍ الْحَذَّاءِ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَعْقُوبَ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الْفَتْحِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4797": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4797\nIn-book reference  : Book 45, Hadith 92\nEnglish translation  : Vol. 5, Book 45, Hadith 4801",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ حَدَّثَنَا خَالِدٌ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ، عَنْ يَعْقُوبَ بْنِ أَوْسٍ، أَنَّ رَجُلاً، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم حَدَّثَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمَّا قَدِمَ مَكَّةَ عَامَ الْفَتْحِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الْفَتْحِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4798": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4798\nIn-book reference  : Book 45, Hadith 93\nEnglish translation  : Vol. 5, Book 45, Hadith 4802",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، قَالَ أَنْبَأَنَا يَزِيدُ، عَنْ خَالِدٍ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ، عَنْ يَعْقُوبَ بْنِ أَوْسٍ، أَنَّ رَجُلاً، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم حَدَّثَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم دَخَلَ مَكَّةَ عَامَ الْفَتْحِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا يَزِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ خَالِدٍ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الْفَتْحِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4799": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4799\nIn-book reference  : Book 45, Hadith 94\nEnglish translation  : Vol. 5, Book 45, Hadith 4803",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا ابْنُ جُدْعَانَ، سَمِعَهُ مِنَ الْقَاسِمِ بْنِ رَبِيعَةَ، عَنِ ابْنِ عُمَرَ، قَالَ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ فَتْحِ مَكَّةَ عَلَى دَرَجَةِ الْكَعْبَةِ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ جُدْعَانَ، سَمِعَهُ مِنَ الْقَاسِمِ بْنِ رَبِيعَةَ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ فَتْحِ مَكَّةَ عَلَى دَرَجَةِ الْكَعْبَةِ فَحَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "4800": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4800\nIn-book reference  : Book 45, Hadith 95\nEnglish translation  : Vol. 5, Book 45, Hadith 4804",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا سَهْلُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا حُمَيْدٌ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَهْلُ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حُمَيْدٌ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "4801": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4801\nIn-book reference  : Book 45, Hadith 96\nEnglish translation  : Vol. 5, Book 45, Hadith 4805",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ رَاشِدٍ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا مُحَمَّدُ بْنُ رَاشِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4805": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4805\nIn-book reference  : Book 45, Hadith 100\nEnglish translation  : Vol. 5, Book 45, Hadith 4809",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، قَالَ حَدَّثَنَا ضَمْرَةُ، عَنْ إِسْمَاعِيلَ بْنِ عَيَّاشٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عِيسَى بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ضَمْرَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ عَيَّاشٍ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4806": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4806\nIn-book reference  : Book 45, Hadith 101\nEnglish translation  : Vol. 5, Book 45, Hadith 4810",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ مُحَمَّدِ بْنِ رَاشِدٍ، عَنْ سُلَيْمَانَ بْنِ مُوسَى، وَذَكَرَ، كَلِمَةً مَعْنَاهَا عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ رَاشِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "مَعْنَاهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4807": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4807\nIn-book reference  : Book 45, Hadith 102\nEnglish translation  : Vol. 5, Book 45, Hadith 4811",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي أُسَامَةُ بْنُ زَيْدٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي أُسَامَةُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4811": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4811\nIn-book reference  : Book 45, Hadith 106\nEnglish translation  : Vol. 5, Book 45, Hadith 4815",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عِيسَى بْنِ النَّقَّاشِ، قَالَ حَدَّثَنَا يَزِيدُ، - يَعْنِي ابْنَ هَارُونَ - قَالَ أَنْبَأَنَا حَمَّادٌ، عَنْ قَتَادَةَ، عَنْ خِلاَسٍ، عَنْ عَلِيٍّ، وَعَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عِيسَى بْنِ النَّقَّاشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ، - يَعْنِي ابْنَ هَارُونَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ خِلاَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَلِيٍّ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4818": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4818\nIn-book reference  : Book 45, Hadith 113\nEnglish translation  : Vol. 5, Book 45, Hadith 4822",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ، وَسَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ اقْتَتَلَتِ امْرَأَتَانِ مِنْ هُذَيْلٍ فَرَمَتْ إِحْدَاهُمَا الأُخْرَى بِحَجَرٍ وَذَكَرَ كَلِمَةً مَعْنَاهَا فَقَتَلَتْهَا وَمَا فِي بَطْنِهَا فَاخْتَصَمُوا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنَّ دِيَةَ جَنِينِهَا غُرَّةٌ عَبْدٌ أَوْ وَلِيدَةٌ وَقَضَى بِدِيَةِ الْمَرْأَةِ عَلَى عَاقِلَتِهَا وَوَرَّثَهَا وَلَدَهَا وَمَنْ مَعَهُمْ . فَقَالَ حَمَلُ بْنُ مَالِكِ بْنِ النَّابِغَةِ الْهُذَلِيُّ يَا رَسُولَ اللَّهِ كَيْفَ أُغَرَّمُ مَنْ لاَ شَرِبَ وَلاَ أَكَلْ وَلاَ نَطَقَ وَلاَ اسْتَهَلّ فَمِثْلُ ذَلِكَ يُطَلّ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ، وَسَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ اقْتَتَلَتِ امْرَأَتَانِ مِنْ هُذَيْلٍ فَرَمَتْ إِحْدَاهُمَا الأُخْرَى بِحَجَرٍ وَذَكَرَ كَلِم",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ حَمَلُ بْنُ مَالِكِ بْنِ النَّابِغَةِ الْهُذَلِيُّ يَا رَسُولَ اللَّهِ كَيْفَ أُغَرَّمُ مَنْ ل",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4820": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4820\nIn-book reference  : Book 45, Hadith 115\nEnglish translation  : Vol. 5, Book 45, Hadith 4824",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى فِي الْجَنِينِ يُقْتَلُ فِي بَطْنِ أُمِّهِ بِغُرَّةٍ عَبْدٍ أَوْ وَلِيدَةٍ فَقَالَ الَّذِي قَضَى عَلَيْهِ كَيْفَ أُغَرَّمُ مَنْ لاَ شَرِبَ وَلاَ أَكَلَ وَلاَ اسْتَهَلّ وَلاَ نَطَقَ فَمِثْلُ ذَلِكَ يُطَلّ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى فِي الْجَنِينِ يُقْتَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ الَّذِي قَضَى عَلَيْهِ كَيْفَ أُغَرَّمُ مَنْ لاَ شَرِبَ وَلاَ أَكَلَ وَلاَ اسْتَهَلّ وَلاَ نَط",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4821": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4821\nIn-book reference  : Book 45, Hadith 116\nEnglish translation  : Vol. 5, Book 45, Hadith 4825",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ مُحَمَّدِ بْنِ عَلِيٍّ، قَالَ حَدَّثَنَا خَلَفٌ، - وَهُوَ ابْنُ تَمِيمٍ - قَالَ حَدَّثَنَا زَائِدَةُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عُبَيْدِ بْنِ نُضَيْلَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ امْرَأَةً، ضَرَبَتْ ضَرَّتَهَا بِعَمُودِ فُسْطَاطٍ فَقَتَلَتْهَا وَهِيَ حُبْلَى فَأُتِيَ فِيهَا النَّبِيُّ صلى الله عليه وسلم فَقَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى عَصَبَةِ الْقَاتِلَةِ بِالدِّيَةِ وَفِي الْجَنِينِ غُرَّةً . فَقَالَ عَصَبَتُهَا أَدِي مَنْ لاَ طَعِمَ وَلاَ شَرِبَ وَلاَ صَاحَ فَاسْتَهَلّ فَمِثْلُ هَذَا يُطَلّ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ مُحَمَّدِ بْنِ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَلَفٌ، - وَهُوَ ابْنُ تَمِيمٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا زَائِدَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ نُضَيْلَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ امْرَأَةً، ضَرَبَتْ ضَرَّتَهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ عَصَبَتُهَا أَدِي مَنْ لاَ طَعِمَ وَلاَ شَرِبَ وَلاَ صَاحَ فَاسْتَهَلّ فَمِثْلُ هَذَا يُطَلّ ف",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4822": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4822\nIn-book reference  : Book 45, Hadith 117\nEnglish translation  : Vol. 5, Book 45, Hadith 4826",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عُبَيْدِ بْنِ نُضَيْلَةَ الْخُزَاعِيِّ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ ضَرَبَتِ امْرَأَةٌ ضَرَّتَهَا بِعَمُودِ الْفُسْطَاطِ وَهِيَ حُبْلَى فَقَتَلَتْهَا فَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم دِيَةَ الْمَقْتُولَةِ عَلَى عَصَبَةِ الْقَاتِلَةِ وَغُرَّةً لِمَا فِي بَطْنِهَا . فَقَالَ رَجُلٌ مِنْ عَصَبَةِ الْقَاتِلَةِ أَنَغْرَمُ دِيَةَ مَنْ لاَ أَكَلْ وَلاَ شَرِبَ وَلاَ اسْتَهَلّ فَمِثْلُ ذَلِكَ يُطَلّ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ قُدَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ نُضَيْلَةَ الْخُزَاعِيِّ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ ضَرَبَتِ امْرَأَةٌ ضَرَّتَهَا بِعَمُودِ الْفُسْطَاطِ وَهِيَ حُبْلَى فَقَتَلَتْهَا فَجَعَلَ رَس",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَجُلٌ مِنْ عَصَبَةِ الْقَاتِلَةِ أَنَغْرَمُ دِيَةَ مَنْ لاَ أَكَلْ وَلاَ شَرِبَ وَلاَ اسْتَهَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4823": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4823\nIn-book reference  : Book 45, Hadith 118\nEnglish translation  : Vol. 5, Book 45, Hadith 4827",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عُبَيْدِ بْنِ نُضَيْلَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ ضَرَّتَيْنِ، ضَرَبَتْ إِحْدَاهُمَا الأُخْرَى بِعَمُودِ فُسْطَاطٍ فَقَتَلَتْهَا فَقَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم بِالدِّيَةِ عَلَى عَصَبَةِ الْقَاتِلَةِ وَقَضَى لِمَا فِي بَطْنِهَا بِغُرَّةٍ . فَقَالَ الأَعْرَابِيُّ تُغَرِّمُنِي مَنْ لاَ أَكَلْ وَلاَ شَرِبَ وَلاَ صَاحَ فَاسْتَهَلّ فَمِثْلُ ذَلِكَ يُطَلّ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ نُضَيْلَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ ضَرَّتَيْنِ، ضَرَبَتْ إِحْدَاه",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ الأَعْرَابِيُّ تُغَرِّمُنِي مَنْ لاَ أَكَلْ وَلاَ شَرِبَ وَلاَ صَاحَ فَاسْتَهَلّ فَمِثْلُ ذَلِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4825": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4825\nIn-book reference  : Book 45, Hadith 120\nEnglish translation  : Vol. 5, Book 45, Hadith 4829",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ شُعْبَةَ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عُبَيْدِ بْنِ نُضَيْلَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ امْرَأَتَيْنِ، كَانَتَا تَحْتَ رَجُلٍ مِنْ هُذَيْلٍ فَرَمَتْ إِحْدَاهُمَا الأُخْرَى بِعَمُودِ فُسْطَاطٍ فَأَسْقَطَتْ فَاخْتَصَمَا إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالُوا كَيْفَ نَدِي مَنْ لاَ صَاحَ وَلاَ اسْتَهَلّ وَلاَ شَرِبَ وَلاَ أَكَلْ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ نُضَيْلَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ امْرَأَتَيْنِ، كَانَتَا تَحْتَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4826": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4826\nIn-book reference  : Book 45, Hadith 121\nEnglish translation  : Vol. 5, Book 45, Hadith 4830",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، قَالَ سَمِعْتُ إِبْرَاهِيمَ، عَنْ عُبَيْدِ بْنِ نُضَيْلَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ رَجُلاً، مِنْ هُذَيْلٍ كَانَ لَهُ امْرَأَتَانِ فَرَمَتْ إِحْدَاهُمَا الأُخْرَى بِعَمُودِ الْفُسْطَاطِ فَأَسْقَطَتْ فَقِيلَ أَرَأَيْتَ مَنْ لاَ أَكَلْ وَلاَ شَرِبَ وَلاَ صَاحَ فَاسْتَهَلّ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ سَمِعْتُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ نُضَيْلَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ رَجُلاً، مِنْ هُذَيْلٍ كَانَ ل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4827": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4827\nIn-book reference  : Book 45, Hadith 122\nEnglish translation  : Vol. 5, Book 45, Hadith 4831",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا مُصْعَبٌ، قَالَ حَدَّثَنَا دَاوُدُ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، قَالَ ضَرَبَتِ امْرَأَةٌ ضَرَّتَهَا بِحَجَرٍ وَهِيَ حُبْلَى فَقَتَلَتْهَا فَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَا فِي بَطْنِهَا غُرَّةً وَجَعَلَ عَقْلَهَا عَلَى عَصَبَتِهَا فَقَالُوا نُغَرَّمُ مَنْ لاَ شَرِبَ وَلاَ أَكَلْ وَلاَ اسْتَهَلّ فَمِثْلُ ذَلِكَ يُطَلّ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُصْعَبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ ضَرَبَتِ امْرَأَةٌ ضَرَّتَهَا بِحَجَرٍ وَهِيَ حُبْلَى فَقَتَلَتْهَا فَجَعَلَ رَسُولُ اللَّهِ ص",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4828": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4828\nIn-book reference  : Book 45, Hadith 123\nEnglish translation  : Vol. 5, Book 45, Hadith 4832",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ، قَالَ حَدَّثَنَا عَمْرٌو، عَنْ أَسْبَاطٍ، عَنْ سِمَاكٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَتِ امْرَأَتَانِ جَارَتَانِ كَانَ بَيْنَهُمَا صَخَبٌ فَرَمَتْ إِحْدَاهُمَا الأُخْرَى بِحَجَرٍ فَأَسْقَطَتْ غُلاَمًا قَدْ نَبَتَ شَعْرُهُ مَيْتًا وَمَاتَتِ الْمَرْأَةُ فَقَضَى عَلَى الْعَاقِلَةِ الدِّيَةَ . فَقَالَ عَمُّهَا إِنَّهَا قَدْ أَسْقَطَتْ يَا رَسُولَ اللَّهِ غُلاَمًا قَدْ نَبَتَ شَعْرُهُ . فَقَالَ أَبُو الْقَاتِلَةِ إِنَّهُ كَاذِبٌ إِنَّهُ وَاللَّهِ مَا اسْتَهَلّ وَلاَ شَرِبَ وَلاَ أَكَلْ فَمِثْلُهُ يُطَلّ . قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَمْرٌو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَسْبَاطٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سِمَاكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كَانَتِ امْرَأَتَانِ جَارَتَانِ كَانَ بَيْنَهُمَا صَخَبٌ فَرَمَتْ إِحْدَاهُمَا الأُخْرَى بِحَج",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ عَمُّهَا إِنَّهَا قَدْ أَسْقَطَتْ يَا رَسُولَ اللَّهِ غُلاَمًا قَدْ نَبَتَ شَعْرُهُ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ أَبُو الْقَاتِلَةِ إِنَّهُ كَاذِبٌ إِنَّهُ وَاللَّهِ مَا اسْتَهَلّ وَلاَ شَرِبَ وَلاَ أَكَلْ ف",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4830": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4830\nIn-book reference  : Book 45, Hadith 125\nEnglish translation  : Vol. 5, Book 45, Hadith 4834",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنِي عَمْرُو بْنُ عُثْمَانَ، وَمُحَمَّدُ بْنُ مُصَفًّى، قَالاَ حَدَّثَنَا الْوَلِيدُ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4833": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4833\nIn-book reference  : Book 45, Hadith 128\nEnglish translation  : Vol. 5, Book 45, Hadith 4837",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا بِشْرُ بْنُ السَّرِيِّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَشْعَثَ، عَنِ الأَسْوَدِ بْنِ هِلاَلٍ، عَنْ ثَعْلَبَةَ بْنِ زَهْدَمٍ الْيَرْبُوعِيِّ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ فِي أُنَاسٍ مِنَ الأَنْصَارِ فَقَالُوا يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو ثَعْلَبَةَ بْنِ يَرْبُوعٍ قَتَلُوا فُلاَنًا فِي الْجَاهِلِيَّةِ . فَقَالَ النَّبِيُّ صلى الله عليه وسلم وَهَتَفَ بِصَوْتِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَشْعَثَ، عَنِ الأَسْوَدِ بْنِ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ ثَعْلَبَةَ بْنِ زَهْدَمٍ الْيَرْبُوعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ فِي أُنَاسٍ مِنَ الأَنْصَارِ فَقَالُوا يَا ر",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "بِصَوْتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4834": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4834\nIn-book reference  : Book 45, Hadith 129\nEnglish translation  : Vol. 1, Book 9, Hadith 4838",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ، عَنْ سُفْيَانَ، عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ، عَنِ الأَسْوَدِ بْنِ هِلاَلٍ، عَنْ ثَعْلَبَةَ بْنِ زَهْدَمٍ، قَالَ انْتَهَى قَوْمٌ مِنْ بَنِي ثَعْلَبَةَ إِلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ يَخْطُبُ فَقَالَ رَجُلٌ يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو ثَعْلَبَةَ بْنِ يَرْبُوعٍ قَتَلُوا فُلاَنًا رَجُلاً مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم . فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُعَاوِيَةُ بْنُ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ، عَنِ الأَسْوَدِ بْنِ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ ثَعْلَبَةَ بْنِ زَهْدَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ انْتَهَى قَوْمٌ مِنْ بَنِي ثَعْلَبَةَ إِلَى النَّبِيِّ صلى الله عليه وسلم وَهُوَ يَخْطُبُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَجُلٌ يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو ثَعْلَبَةَ بْنِ يَرْبُوعٍ قَتَلُوا فُلاَنًا رَجُلاً",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4835": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4835\nIn-book reference  : Book 45, Hadith 130\nEnglish translation  : Vol. 5, Book 45, Hadith 4839",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ، قَالَ سَمِعْتُ الأَسْوَدَ بْنَ هِلاَلٍ، يُحَدِّثُ عَنْ رَجُلٍ، مِنْ بَنِي ثَعْلَبَةَ بْنِ يَرْبُوعٍ أَنَّ نَاسًا، مِنْ بَنِي ثَعْلَبَةَ أَتَوُا النَّبِيَّ صلى الله عليه وسلم فَقَالَ رَجُلٌ يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو ثَعْلَبَةَ بْنِ يَرْبُوعٍ قَتَلُوا فُلاَنًا رَجُلاً مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم . فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَنْبَأَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَشْعَثَ بْنِ أَبِي الشَّعْثَاءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَجُلٍ، مِنْ بَنِي ثَعْلَبَةَ بْنِ يَرْبُوعٍ أَنَّ نَاسًا، مِنْ بَنِي ثَعْلَبَةَ أَتَوُا النَّب",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَجُلٌ يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو ثَعْلَبَةَ بْنِ يَرْبُوعٍ قَتَلُوا فُلاَنًا رَجُلاً",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4836": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4836\nIn-book reference  : Book 45, Hadith 131\nEnglish translation  : Vol. 5, Book 45, Hadith 4840",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا أَبُو عَتَّابٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنِ الأَشْعَثِ بْنِ سُلَيْمٍ، عَنِ الأَسْوَدِ بْنِ هِلاَلٍ، - وَكَانَ قَدْ أَدْرَكَ النَّبِيَّ صلى الله عليه وسلم - عَنْ رَجُلٍ مِنْ بَنِي ثَعْلَبَةَ بْنِ يَرْبُوعٍ أَنَّ نَاسًا مِنْ بَنِي ثَعْلَبَةَ أَصَابُوا رَجُلاً مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم فَقَالَ رَجُلٌ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو ثَعْلَبَةَ قَتَلَتْ فُلاَنًا . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَتَّابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ، عَنِ الأَشْعَثِ بْنِ سُلَيْمٍ، عَنِ الأَسْوَدِ بْنِ هِلاَلٍ، - وَكَانَ قَدْ أَد",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَجُلٍ مِنْ بَنِي ثَعْلَبَةَ بْنِ يَرْبُوعٍ أَنَّ نَاسًا مِنْ بَنِي ثَعْلَبَةَ أَصَابُوا رَجُلا",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَجُلٌ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو ث",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4837": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4837\nIn-book reference  : Book 45, Hadith 132\nEnglish translation  : Vol. 5, Book 45, Hadith 4841",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَشْعَثِ بْنِ سُلَيْمٍ، عَنْ أَبِيهِ، عَنْ رَجُلٍ، مِنْ بَنِي ثَعْلَبَةَ بْنِ يَرْبُوعٍ قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَهُوَ يَتَكَلَّمُ فَقَالَ رَجُلٌ يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو ثَعْلَبَةَ بْنِ يَرْبُوعٍ الَّذِينَ أَصَابُوا فُلاَنًا . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ، عَنِ الأَشْعَثِ بْنِ سُلَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَرْبُوعٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَهُوَ يَتَكَلَّمُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَجُلٌ يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو ثَعْلَبَةَ بْنِ يَرْبُوعٍ الَّذِينَ أَصَابُوا فُلاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4838": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4838\nIn-book reference  : Book 45, Hadith 133\nEnglish translation  : Vol. 5, Book 45, Hadith 4842",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، فِي حَدِيثِهِ عَنْ أَبِي الأَحْوَصِ، عَنْ أَشْعَثَ، عَنْ أَبِيهِ، عَنْ رَجُلٍ، مِنْ بَنِي يَرْبُوعٍ قَالَ أَتَيْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُوَ يُكَلِّمُ النَّاسَ فَقَامَ إِلَيْهِ نَاسٌ فَقَالُوا يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو فُلاَنٍ الَّذِينَ قَتَلُوا فُلاَنًا . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدِيثِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَشْعَثَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَرْبُوعٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَتَيْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُوَ يُكَلِّمُ النَّاسَ فَقَامَ إِلَيْهِ نَاسٌ ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4839": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4839\nIn-book reference  : Book 45, Hadith 134\nEnglish translation  : Vol. 5, Book 45, Hadith 4843",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا يُوسُفُ بْنُ عِيسَى، قَالَ أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى، قَالَ أَنْبَأَنَا يَزِيدُ، - وَهُوَ ابْنُ زِيَادِ بْنِ أَبِي الْجَعْدِ - عَنْ جَامِعِ بْنِ شَدَّادٍ، عَنْ طَارِقٍ الْمُحَارِبِيِّ، أَنَّ رَجُلاً، قَالَ يَا رَسُولَ اللَّهِ هَؤُلاَءِ بَنُو ثَعْلَبَةَ الَّذِينَ قَتَلُوا فُلاَنًا فِي الْجَاهِلِيَّةِ . فَخُذْ لَنَا بِثَأْرِنَا . فَرَفَعَ يَدَيْهِ حَتَّى رَأَيْتُ بَيَاضَ إِبْطَيْهِ وَهُوَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يُوسُفُ بْنُ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَنْبَأَنَا يَزِيدُ، - وَهُوَ ابْنُ زِيَادِ بْنِ أَبِي الْجَعْدِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَامِعِ بْنِ شَدَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ طَارِقٍ الْمُحَارِبِيِّ، أَنَّ رَجُلاً،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4841": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4841\nIn-book reference  : Book 45, Hadith 136\nEnglish translation  : Vol. 5, Book 45, Hadith 4845",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُعَاوِيَةَ، قَالَ حَدَّثَنَا عَبَّادٌ، عَنْ حُسَيْنٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُسَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4842": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4842\nIn-book reference  : Book 45, Hadith 137\nEnglish translation  : Vol. 5, Book 45, Hadith 4846",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا الْحُسَيْنُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا حَفْصُ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ مَطَرٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحُسَيْنُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَطَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4843": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4843\nIn-book reference  : Book 45, Hadith 138\nEnglish translation  : Vol. 5, Book 45, Hadith 4847",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا أَبُو الأَشْعَثِ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ مَسْرُوقِ بْنِ أَوْسٍ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو الأَشْعَثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَسْرُوقِ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4844": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4844\nIn-book reference  : Book 45, Hadith 139\nEnglish translation  : Vol. 5, Book 45, Hadith 4848",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ غَالِبٍ التَّمَّارِ، عَنْ مَسْرُوقِ بْنِ أَوْسٍ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ غَالِبٍ التَّمَّارِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مَسْرُوقِ بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4846": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4846\nIn-book reference  : Book 45, Hadith 141\nEnglish translation  : Vol. 5, Book 45, Hadith 4850",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا الْحُسَيْنُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ لَمَّا وُجِدَ الْكِتَابُ الَّذِي عِنْدَ آلِ عَمْرِو بْنِ حَزْمٍ الَّذِي ذَكَرُوا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَتَبَ لَهُمْ وَجَدُوا فِيهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحُسَيْنُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4847": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4847\nIn-book reference  : Book 45, Hadith 142\nEnglish translation  : Vol. 5, Book 45, Hadith 4851",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنِي قَتَادَةُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4850": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4850\nIn-book reference  : Book 45, Hadith 145\nEnglish translation  : Vol. 5, Book 45, Hadith 4854",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، قَالَ حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، أَنَّ أَبَاهُ، حَدَّثَهُ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ لَمَّا افْتَتَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَكَّةَ قَالَ فِي خُطْبَتِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "مَكَّةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "خُطْبَتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4851": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4851\nIn-book reference  : Book 45, Hadith 146\nEnglish translation  : Vol. 5, Book 45, Hadith 4855",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ الْهَيْثَمِ، قَالَ حَدَّثَنَا حَجَّاجٌ، قَالَ حَدَّثَنَا هَمَّامٌ، قَالَ حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، وَابْنُ، جُرَيْجٍ عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ فِي خُطْبَتِهِ وَهُوَ مُسْنِدٌ ظَهْرَهُ إِلَى الْكَعْبَةِ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ الْهَيْثَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَجَّاجٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا هَمَّامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "جُرَيْجٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "الْكَعْبَةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4852": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4852\nIn-book reference  : Book 45, Hadith 147\nEnglish translation  : Vol. 1, Book 9, Hadith 4856",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، قَالَ حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، أَنَّ أَبَاهُ، حَدَّثَهُ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ لَمَّا افْتَتَحَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَكَّةَ قَالَ فِي خُطْبَتِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حُسَيْنٌ الْمُعَلِّمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "مَكَّةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "خُطْبَتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4854": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4854\nIn-book reference  : Book 45, Hadith 149\nEnglish translation  : Vol. 5, Book 45, Hadith 4858",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا الْهَيْثَمُ بْنُ مَرْوَانَ بْنِ الْهَيْثَمِ بْنِ عِمْرَانَ الْعَنْسِيُّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ بَكَّارِ بْنِ بِلاَلٍ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ أَرْقَمَ، قَالَ حَدَّثَنِي الزُّهْرِيُّ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَتَبَ إِلَى أَهْلِ الْيَمَنِ بِكِتَابٍ فِيهِ الْفَرَائِضُ وَالسُّنَنُ وَالدِّيَاتُ وَبَعَثَ بِهِ مَعَ عَمْرِو بْنِ حَزْمٍ فَقُرِئَ عَلَى أَهْلِ الْيَمَنِ هَذِهِ نُسْخَتُهُ فَذَكَرَ مِثْلَهُ إِلاَّ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْهَيْثَمُ بْنُ مَرْوَانَ بْنِ الْهَيْثَمِ بْنِ عِمْرَانَ الْ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَكَّارِ بْنِ بِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ أَرْقَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "حَدَّثَنِي الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4857": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4857\nIn-book reference  : Book 45, Hadith 152\nEnglish translation  : Vol. 5, Book 45, Hadith 4861",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ أَبِيهِ، قَالَ الْكِتَابُ الَّذِي كَتَبَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم لِعَمْرِو بْنِ حَزْمٍ فِي الْعُقُولِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الْعُقُولِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4858": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4858\nIn-book reference  : Book 45, Hadith 153\nEnglish translation  : Vol. 5, Book 45, Hadith 4862",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَبَانُ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ أَعْرَابِيًّا، أَتَى بَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَلْقَمَ عَيْنَهُ خُصَاصَةَ الْبَابِ فَبَصُرَ بِهِ النَّبِيُّ صلى الله عليه وسلم فَتَوَخَّاهُ بِحَدِيدَةٍ أَوْ عُودٍ لِيَفْقَأَ عَيْنَهُ فَلَمَّا أَنْ بَصُرَ انْقَمَعَ فَقَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ أَعْرَابِيًّا، أَتَى بَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَلْ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ لَهُ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4859": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4859\nIn-book reference  : Book 45, Hadith 154\nEnglish translation  : Vol. 5, Book 45, Hadith 4863",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، أَنَّ سَهْلَ بْنَ سَعْدٍ السَّاعِدِيَّ، أَخْبَرَهُ أَنَّ رَجُلاً اطَّلَعَ مِنْ جُحْرٍ فِي بَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَمَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مِدْرَى يَحُكُّ بِهَا رَأْسَهُ فَلَمَّا رَآهُ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، أَنَّ سَهْلَ بْنَ سَعْدٍ السَّاعِدِيَّ، أَخْبَرَهُ أَنَّ ر",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "4860": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4860\nIn-book reference  : Book 45, Hadith 155\nEnglish translation  : Vol. 5, Book 45, Hadith 4864",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ بَشِيرِ بْنِ نَهِيكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4862": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4862\nIn-book reference  : Book 45, Hadith 157\nEnglish translation  : Vol. 5, Book 45, Hadith 4866",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُصْعَبٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ كَانَ يُصَلِّي فَإِذَا بِابْنٍ لِمَرْوَانَ يَمُرُّ بَيْنَ يَدَيْهِ فَدَرَأَهُ فَلَمْ يَرْجِعْ فَضَرَبَهُ فَخَرَجَ الْغُلاَمُ يَبْكِي حَتَّى أَتَى مَرْوَانَ فَأَخْبَرَهُ فَقَالَ مَرْوَانُ لأَبِي سَعِيدٍ لِمَ ضَرَبْتَ ابْنَ أَخِيكَ قَالَ مَا ضَرَبْتُهُ إِنَّمَا ضَرَبْتُ الشَّيْطَانَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مُصْعَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ سُلَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ كَانَ يُصَلِّي فَإِذَا بِابْنٍ لِمَرْوَانَ يَمُرُّ بَيْنَ ي",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "أَخِيكَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4866": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4866\nIn-book reference  : Book 45, Hadith 161\nEnglish translation  : Vol. 5, Book 45, Hadith 4870",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمَّارٍ الدُّهْنِيِّ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، أَنَّ ابْنَ عَبَّاسٍ، سُئِلَ عَمَّنْ قَتَلَ مُؤْمِنًا مُتَعَمِّدًا ثُمَّ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا ثُمَّ اهْتَدَى فَقَالَ ابْنُ عَبَّاسٍ وَأَنَّى لَهُ التَّوْبَةُ سَمِعْتُ نَبِيَّكُمْ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمَّارٍ الدُّهْنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ، أَنَّ ابْنَ عَبَّاسٍ، سُئِلَ عَمَّنْ قَتَلَ مُؤْمِنًا مُتَعَمِّدً",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4867": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4867\nIn-book reference  : Book 45, Hadith 162\nEnglish translation  : Vol. 5, Book 45, Hadith 4871",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا النَّضْرُ بْنُ شُمَيْلٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، قَالَ سَمِعْتُ أَنَسًا، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ح وَأَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى قَالَ حَدَّثَنَا خَالِدٌ قَالَ حَدَّثَنَا شُعْبَةُ عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي بَكْرٍ عَنْ أَنَسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا النَّضْرُ بْنُ شُمَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الأَعْلَى",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "خَالِدٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "شُعْبَةُ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "بَكْرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "عَنْ أَنَسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4868": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4868\nIn-book reference  : Book 45, Hadith 163\nEnglish translation  : Vol. 5, Book 45, Hadith 4872",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عَبْدَةُ بْنُ عَبْدِ الرَّحِيمِ، قَالَ أَنْبَأَنَا ابْنُ شُمَيْلٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَنْبَأَنَا فِرَاسٌ، قَالَ سَمِعْتُ الشَّعْبِيَّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدَةُ بْنُ عَبْدِ الرَّحِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا ابْنُ شُمَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَنْبَأَنَا فِرَاسٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ الشَّعْبِيَّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4869": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Oaths (qasamah), Retaliation and Blood Money",
+    "book_num": "45",
+    "reference": "Reference  : Sunan an-Nasa'i 4869\nIn-book reference  : Book 45, Hadith 164\nEnglish translation  : Vol. 5, Book 45, Hadith 4873",
+    "url": "https://sunnah.com/nasai/45",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ سَلاَّمٍ، قَالَ حَدَّثَنَا إِسْحَاقُ الأَزْرَقُ، عَنِ الْفُضَيْلِ بْنِ غَزْوَانَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ سَلاَّمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ الأَزْرَقُ، عَنِ الْفُضَيْلِ بْنِ غَزْوَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

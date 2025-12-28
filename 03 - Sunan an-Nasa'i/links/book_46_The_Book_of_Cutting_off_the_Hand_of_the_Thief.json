@@ -1,0 +1,2662 @@
+{
+  "4870": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4870\nIn-book reference  : Book 46, Hadith 1\nEnglish translation  : Vol. 5, Book 46, Hadith 4874",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا شُعَيْبُ بْنُ اللَّيْثِ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنِ الْقَعْقَاعِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعَيْبُ بْنُ اللَّيْثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنِ الْقَعْقَاعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4871": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4871\nIn-book reference  : Book 46, Hadith 2\nEnglish translation  : Vol. 5, Book 46, Hadith 4875",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، ح وَأَنْبَأَنَا أَحْمَدُ بْنُ سَيَّارٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُثْمَانَ، عَنْ أَبِي حَمْزَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم وَقَالَ أَحْمَدُ فِي حَدِيثِهِ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ، ح وَأَنْبَأَنَا أَحْمَدُ بْنُ سَيَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي حَمْزَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "حَدِيثِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4873": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4873\nIn-book reference  : Book 46, Hadith 4\nEnglish translation  : Vol. 5, Book 46, Hadith 4877",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ الْمُخَرِّمِيُّ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، قَالَ حَدَّثَنَا الأَعْمَشُ، ح وَأَنْبَأَنَا أَحْمَدُ بْنُ حَرْبٍ، عَنْ أَبِي مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، رضى الله عنه قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ الْمُخَرِّمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ، ح وَأَنْبَأَنَا أَحْمَدُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، رضى الله عنه",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4878": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4878\nIn-book reference  : Book 46, Hadith 9\nEnglish translation  : Vol. 5, Book 46, Hadith 4882",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا هِلاَلُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ عَطَاءٍ، عَنْ صَفْوَانَ بْنِ أُمَيَّةَ، أَنَّ رَجُلاً، سَرَقَ بُرْدَةً لَهُ فَرَفَعَهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَمَرَ بِقَطْعِهِ فَقَالَ يَا رَسُولَ اللَّهِ قَدْ تَجَاوَزْتُ عَنْهُ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا هِلاَلُ بْنُ الْعَلاَءِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ أُمَيَّةَ، أَنَّ رَجُلاً، سَرَقَ بُرْدَةً لَهُ فَرَفَعَهُ إِلَى النَّبِيِّ صلى ا",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "تَجَاوَزْتُ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْهُ . فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4879": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4879\nIn-book reference  : Book 46, Hadith 10\nEnglish translation  : Vol. 5, Book 46, Hadith 4883",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ حَنْبَلٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ عَطَاءٍ، عَنْ طَارِقِ بْنِ مُرَقَّعٍ، عَنْ صَفْوَانَ بْنِ أُمَيَّةَ، أَنَّ رَجُلاً، سَرَقَ بُرْدَةً فَرَفَعَهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَمَرَ بِقَطْعِهِ فَقَالَ يَا رَسُولَ اللَّهِ قَدْ تَجَاوَزْتُ عَنْهُ . قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ أَحْمَدَ بْنِ مُحَمَّدِ بْنِ حَنْبَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا سَعِيدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ طَارِقِ بْنِ مُرَقَّعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ أُمَيَّةَ، أَنَّ رَجُلاً، سَرَقَ بُرْدَةً فَرَفَعَهُ إِلَى النَّبِيِّ صلى الله ع",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "تَجَاوَزْتُ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "عَنْهُ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4880": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4880\nIn-book reference  : Book 46, Hadith 11\nEnglish translation  : Vol. 5, Book 46, Hadith 4884",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ نُعَيْمٍ، قَالَ أَنْبَأَنَا حِبَّانُ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنِ الأَوْزَاعِيِّ، قَالَ حَدَّثَنِي عَطَاءُ بْنُ أَبِي رَبَاحٍ، أَنَّ رَجُلاً، سَرَقَ ثَوْبًا فَأُتِيَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَمَرَ بِقَطْعِهِ فَقَالَ الرَّجُلُ يَا رَسُولَ اللَّهِ هُوَ لَهُ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا حِبَّانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ، عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي عَطَاءُ بْنُ أَبِي رَبَاحٍ، أَنَّ رَجُلاً، سَرَقَ ثَوْبًا فَأُتِيَ بِهِ رَسُولُ اللَّهِ ص",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ الرَّجُلُ يَا رَسُولَ اللَّهِ هُوَ لَهُ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4882": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4882\nIn-book reference  : Book 46, Hadith 13\nEnglish translation  : Vol. 5, Book 46, Hadith 4886",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ هِشَامٍ، - يَعْنِي ابْنَ أَبِي خِيَرَةَ - قَالَ حَدَّثَنَا الْفَضْلُ، - يَعْنِي ابْنَ الْعَلاَءِ الْكُوفِيَّ - قَالَ حَدَّثَنَا أَشْعَثُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ صَفْوَانُ نَائِمًا فِي الْمَسْجِدِ وَرِدَاؤُهُ تَحْتَهُ فَسُرِقَ فَقَامَ وَقَدْ ذَهَبَ الرَّجُلُ فَأَدْرَكَهُ فَأَخَذَهُ فَجَاءَ بِهِ إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَمَرَ بِقَطْعِهِ قَالَ صَفْوَانُ يَا رَسُولَ اللَّهِ مَا بَلَغَ رِدَائِي أَنْ يُقْطَعَ فِيهِ رَجُلٌ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ هِشَامٍ، - يَعْنِي ابْنَ أَبِي خِيَرَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْفَضْلُ، - يَعْنِي ابْنَ الْعَلاَءِ الْكُوفِيَّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَشْعَثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "بِقَطْعِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ صَفْوَانُ يَا رَسُولَ اللَّهِ مَا بَلَغَ رِدَائِي أَنْ يُقْطَعَ فِيهِ رَجُلٌ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4883": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4883\nIn-book reference  : Book 46, Hadith 14\nEnglish translation  : Vol. 5, Book 46, Hadith 4887",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنِي أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ، قَالَ حَدَّثَنَا عَمْرٌو، عَنْ أَسْبَاطٍ، عَنْ سِمَاكٍ، عَنْ حُمَيْدِ بْنِ أُخْتِ، صَفْوَانَ عَنْ صَفْوَانَ بْنِ أُمَيَّةَ، قَالَ كُنْتُ نَائِمًا فِي الْمَسْجِدِ عَلَى خَمِيصَةٍ لِي ثَمَنُهَا ثَلاَثُونَ دِرْهَمًا فَجَاءَ رَجُلٌ فَاخْتَلَسَهَا مِنِّي فَأُخِذَ الرَّجُلُ فَأُتِيَ بِهِ النَّبِيُّ صلى الله عليه وسلم فَأَمَرَ بِهِ لِيُقْطَعَ فَأَتَيْتُهُ فَقُلْتُ أَتَقْطَعُهُ مِنْ أَجْلِ ثَلاَثِينَ دِرْهَمًا أَنَا أَبِيعُهُ وَأُنْسِئُهُ ثَمَنَهَا . قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَمْرٌو،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَسْبَاطٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سِمَاكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "صَفْوَانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كُنْتُ نَائِمًا فِي الْمَسْجِدِ عَلَى خَمِيصَةٍ لِي ثَمَنُهَا ثَلاَثُونَ دِرْهَمًا فَجَاءَ رَج",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4884": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4884\nIn-book reference  : Book 46, Hadith 15\nEnglish translation  : Vol. 5, Book 46, Hadith 4888",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحِيمِ، قَالَ حَدَّثَنَا أَسَدُ بْنُ مُوسَى، قَالَ حَدَّثَنَا - وَذَكَرَ، - حَمَّادُ بْنُ سَلَمَةَ عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنْ صَفْوَانَ بْنِ أُمَيَّةَ، أَنَّهُ سُرِقَتْ خَمِيصَتُهُ مِنْ تَحْتِ رَأْسِهِ وَهُوَ نَائِمٌ فِي مَسْجِدِ النَّبِيِّ صلى الله عليه وسلم فَأَخَذَ اللِّصَّ فَجَاءَ بِهِ إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَمَرَ بِقَطْعِهِ فَقَالَ صَفْوَانُ أَتَقْطَعُهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحِيمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَسَدُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "سَلَمَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ طَاوُسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ صَفْوَانَ بْنِ أُمَيَّةَ، أَنَّهُ سُرِقَتْ خَمِيصَتُهُ مِنْ تَحْتِ رَأْسِهِ وَهُوَ نَائِمٌ فِي ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "أَتَقْطَعُهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4885": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4885\nIn-book reference  : Book 46, Hadith 16\nEnglish translation  : Vol. 5, Book 46, Hadith 4889",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ هَاشِمٍ، قَالَ حَدَّثَنَا الْوَلِيدُ، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ هَاشِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4886": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4886\nIn-book reference  : Book 46, Hadith 17\nEnglish translation  : Vol. 5, Book 46, Hadith 4890",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، قَالَ سَمِعْتُ ابْنَ جُرَيْجٍ، يُحَدِّثُ عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4890": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4890\nIn-book reference  : Book 46, Hadith 21\nEnglish translation  : Vol. 5, Book 46, Hadith 4894",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنِي مُحَمَّدُ بْنُ الْخَلِيلِ، عَنْ شُعَيْبِ بْنِ إِسْحَاقَ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، أَنَّ امْرَأَةً، كَانَتْ تَسْتَعِيرُ الْحُلِيَّ فِي زَمَانِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَاسْتَعَارَتْ مِنْ ذَلِكَ حُلِيًّا فَجَمَعَتْهُ ثُمَّ أَمْسَكَتْهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي مُحَمَّدُ بْنُ الْخَلِيلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ شُعَيْبِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، أَنَّ امْرَأَةً، كَانَتْ تَسْتَعِيرُ الْحُلِيَّ فِي زَمَانِ رَسُولِ اللَّهِ صلى الله ع",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4891": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4891\nIn-book reference  : Book 46, Hadith 22\nEnglish translation  : Vol. 5, Book 46, Hadith 4895",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْدَانَ بْنِ عِيسَى، قَالَ حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، قَالَ حَدَّثَنَا مَعْقِلٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ امْرَأَةً، مِنْ بَنِي مَخْزُومٍ سَرَقَتْ فَأُتِيَ بِهَا النَّبِيُّ صلى الله عليه وسلم فَعَاذَتْ بِأُمِّ سَلَمَةَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْدَانَ بْنِ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَعْقِلٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَابِرٍ، أَنَّ امْرَأَةً، مِنْ بَنِي مَخْزُومٍ سَرَقَتْ فَأُتِيَ بِهَا النَّبِيُّ صلى الله عليه",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4894": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4894\nIn-book reference  : Book 46, Hadith 25\nEnglish translation  : Vol. 5, Book 46, Hadith 4898",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا سُفْيَانُ، قَالَ كَانَتْ مَخْزُومِيَّةٌ تَسْتَعِيرُ مَتَاعًا وَتَجْحَدُهُ فَرُفِعَتْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَكُلِّمَ فِيهَا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ كَانَتْ مَخْزُومِيَّةٌ تَسْتَعِيرُ مَتَاعًا وَتَجْحَدُهُ فَرُفِعَتْ إِلَى رَسُولِ اللَّهِ صلى ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "4895": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4895\nIn-book reference  : Book 46, Hadith 26\nEnglish translation  : Vol. 5, Book 46, Hadith 4899",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ بْنِ مُوسَى، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ امْرَأَةً، سَرَقَتْ فَأُتِيَ بِهَا النَّبِيُّ صلى الله عليه وسلم فَقَالُوا مَنْ يَجْتَرِئُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم إِلاَّ أَنْ يَكُونَ أُسَامَةَ فَكَلَّمُوا أُسَامَةَ فَكَلَّمَهُ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ بْنِ مُوسَى، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ امْرَأَةً، سَرَقَتْ فَأُتِيَ بِهَا النَّبِيُّ صلى الله عليه وسلم فَقَالُوا مَن",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4896": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4896\nIn-book reference  : Book 46, Hadith 27\nEnglish translation  : Vol. 5, Book 46, Hadith 4900",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا رِزْقُ اللَّهِ بْنُ مُوسَى، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَيُّوبَ بْنِ مُوسَى، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِسَارِقٍ فَقَطَعَهُ قَالُوا مَا كُنَّا نُرِيدُ أَنْ يَبْلُغَ مِنْهُ هَذَا . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا رِزْقُ اللَّهِ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ بْنِ مُوسَى، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ أُتِيَ النَّبِيُّ صلى الله عليه وسلم بِسَارِقٍ فَقَطَعَهُ قَالُوا مَا كُنَّا نُرِيدُ أَنْ يَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4897": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4897\nIn-book reference  : Book 46, Hadith 28\nEnglish translation  : Vol. 5, Book 46, Hadith 4901",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ سَعِيدِ بْنِ مَسْرُوقٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ سُفْيَانَ بْنِ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ امْرَأَةً، سَرَقَتْ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالُوا مَا نُكَلِّمُهُ فِيهَا مَا مِنْ أَحَدٍ يُكَلِّمُهُ إِلاَّ حِبُّهُ أُسَامَةُ . فَكَلَّمَهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ سَعِيدِ بْنِ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُفْيَانَ بْنِ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ امْرَأَةً، سَرَقَتْ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالُوا ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4900": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4900\nIn-book reference  : Book 46, Hadith 31\nEnglish translation  : Vol. 5, Book 46, Hadith 4904",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا أَبُو الْجَوَّابِ، قَالَ حَدَّثَنَا عَمَّارُ بْنُ رُزَيْقٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ، عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ سَرَقَتِ امْرَأَةٌ مِنْ قُرَيْشٍ مِنْ بَنِي مَخْزُومٍ فَأُتِيَ بِهَا النَّبِيُّ صلى الله عليه وسلم فَقَالُوا مَنْ يُكَلِّمُهُ فِيهَا قَالُوا أُسَامَةُ بْنُ زَيْدٍ . فَأَتَاهُ فَكَلَّمَهُ فَزَبَرَهُ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَبُو بَكْرِ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو الْجَوَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عَمَّارُ بْنُ رُزَيْقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَتْ سَرَقَتِ امْرَأَةٌ مِنْ قُرَيْشٍ مِنْ بَنِي مَخْزُومٍ فَأُتِيَ بِهَا النَّبِيُّ صلى الله علي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4901": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4901\nIn-book reference  : Book 46, Hadith 32\nEnglish translation  : Vol. 5, Book 46, Hadith 4905",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ جَبَلَةَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى بْنِ أَعْيَنَ، قَالَ حَدَّثَنَا أَبِي، عَنْ إِسْحَاقَ بْنِ رَاشِدٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ قُرَيْشًا، أَهَمَّهُمْ شَأْنُ الْمَخْزُومِيَّةِ الَّتِي سَرَقَتْ فَقَالُوا مَنْ يُكَلِّمُ فِيهَا قَالُوا مَنْ يَجْتَرِئُ عَلَيْهِ إِلاَّ أُسَامَةُ بْنُ زَيْدٍ حِبُّ رَسُولِ اللَّهِ صلى الله عليه وسلم . فَكَلَّمَهُ أُسَامَةُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ جَبَلَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى بْنِ أَعْيَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ إِسْحَاقَ بْنِ رَاشِدٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ قُرَيْشًا، أَهَمَّهُمْ شَأْنُ الْمَخْزُومِيَّةِ الَّتِي سَرَقَتْ فَقَالُوا مَن",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4904": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4904\nIn-book reference  : Book 46, Hadith 35\nEnglish translation  : Vol. 5, Book 46, Hadith 4908",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ عِيسَى بْنِ يَزِيدَ، قَالَ حَدَّثَنِي جَرِيرُ بْنُ يَزِيدَ، أَنَّهُ سَمِعَ أَبَا زُرْعَةَ بْنَ عَمْرِو بْنِ جَرِيرٍ، يُحَدِّثُ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عِيسَى بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4915": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4915\nIn-book reference  : Book 46, Hadith 46\nEnglish translation  : Vol. 5, Book 46, Hadith 4919",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَنْبَأَنَا هَارُونُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنِي خَالِدُ بْنُ نِزَارٍ، قَالَ حَدَّثَنَا الْقَاسِمُ بْنُ مَبْرُورٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُرْوَةُ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَنْبَأَنَا هَارُونُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي خَالِدُ بْنُ نِزَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا الْقَاسِمُ بْنُ مَبْرُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُرْوَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4916": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4916\nIn-book reference  : Book 46, Hadith 47\nEnglish translation  : Vol. 5, Book 46, Hadith 4920",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ أَنْبَأَنَا حِبَّانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، قَالَ قَالَتْ عَمْرَةُ عَنْ عَائِشَةَ، رضى الله عنها عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا حِبَّانُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَمْرَةُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَائِشَةَ، رضى الله عنها",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4917": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4917\nIn-book reference  : Book 46, Hadith 48\nEnglish translation  : Vol. 5, Book 46, Hadith 4921",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، وَعَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُرْوَةَ، وَعَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4918": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4918\nIn-book reference  : Book 46, Hadith 49\nEnglish translation  : Vol. 5, Book 46, Hadith 4922",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا الْحَسَنُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ سَعِيدٍ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحَسَنُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَهَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4919": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4919\nIn-book reference  : Book 46, Hadith 50\nEnglish translation  : Vol. 5, Book 46, Hadith 4923",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4922": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4922\nIn-book reference  : Book 46, Hadith 53\nEnglish translation  : Vol. 5, Book 46, Hadith 4926",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا الْحَسَنُ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ سَعِيدٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحَسَنُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَهَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4923": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4923\nIn-book reference  : Book 46, Hadith 54\nEnglish translation  : Vol. 5, Book 46, Hadith 4927",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنِي يَزِيدُ بْنُ مُحَمَّدِ بْنِ فُضَيْلٍ، قَالَ أَنْبَأَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَبَانُ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي يَزِيدُ بْنُ مُحَمَّدِ بْنِ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قَالَ أَنْبَأَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4928": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4928\nIn-book reference  : Book 46, Hadith 59\nEnglish translation  : Vol. 5, Book 46, Hadith 4932",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا أَبُو صَالِحٍ، مُحَمَّدُ بْنُ زُنْبُورٍ قَالَ حَدَّثَنَا ابْنُ أَبِي حَازِمٍ، عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّهَا سَمِعَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "زُنْبُورٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4931": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4931\nIn-book reference  : Book 46, Hadith 62\nEnglish translation  : Vol. 5, Book 46, Hadith 4935",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي الرِّجَالِ، عَنْ أَبِيهِ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ يَعْقُوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي الرِّجَالِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4933": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4933\nIn-book reference  : Book 46, Hadith 64\nEnglish translation  : Vol. 5, Book 46, Hadith 4937",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا حُسَيْنٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، ثُمَّ ذَكَرَ كَلِمَةً مَعْنَاهَا عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حُسَيْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "مَعْنَاهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ عَائِشَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4934": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4934\nIn-book reference  : Book 46, Hadith 65\nEnglish translation  : Vol. 5, Book 46, Hadith 4938",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا أَبُو بَكْرٍ، مُحَمَّدُ بْنُ إِسْمَاعِيلَ الطَّبَرَانِيُّ قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ بَحْرٍ أَبُو عَلِيٍّ، قَالَ حَدَّثَنَا مُبَارَكُ بْنُ سَعِيدٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي عِكْرِمَةُ، أَنَّ امْرَأَةً، أَخْبَرَتْهُ أَنَّ عَائِشَةَ أُمَّ الْمُؤْمِنِينَ أَخْبَرَتْهَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الطَّبَرَانِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ بَحْرٍ أَبُو عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُبَارَكُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنِي عِكْرِمَةُ، أَنَّ امْرَأَةً، أَخْبَرَتْهُ أَنَّ عَائِشَةَ أُمَّ الْمُؤْمِنِينَ أَخْبَرَتْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4935": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4935\nIn-book reference  : Book 46, Hadith 66\nEnglish translation  : Vol. 5, Book 46, Hadith 4939",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعْدِ بْنِ إِبْرَاهِيمَ بْنِ سَعْدٍ، قَالَ حَدَّثَنَا عَمِّي، قَالَ حَدَّثَنَا أَبِي، عَنِ ابْنِ إِسْحَاقَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، أَنَّ بُكَيْرَ بْنَ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، حَدَّثَهُ أَنَّ سُلَيْمَانَ بْنَ يَسَارٍ حَدَّثَهُ أَنَّ عَمْرَةَ ابْنَةَ عَبْدِ الرَّحْمَنِ حَدَّثَتْهُ أَنَّهَا، سَمِعَتْ عَائِشَةَ، تَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعْدِ بْنِ إِبْرَاهِيمَ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَمِّي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبِي، عَنِ ابْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "تَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4936": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4936\nIn-book reference  : Book 46, Hadith 67\nEnglish translation  : Vol. 5, Book 46, Hadith 4940",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنِي أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي مَخْرَمَةُ، عَنْ أَبِيهِ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّهَا سَمِعَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَخْبَرَنِي مَخْرَمَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4937": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4937\nIn-book reference  : Book 46, Hadith 68\nEnglish translation  : Vol. 5, Book 46, Hadith 4941",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا قُدَامَةُ بْنُ مُحَمَّدٍ، قَالَ أَنْبَأَنَا مَخْرَمَةُ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ عُثْمَانَ بْنَ أَبِي الْوَلِيدِ، مَوْلَى الأَخْنَسِيِّينَ يَقُولُ سَمِعْتُ عُرْوَةَ بْنَ الزُّبَيْرِ، يَقُولُ كَانَتْ عَائِشَةُ تُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا قُدَامَةُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ أَنْبَأَنَا مَخْرَمَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4948": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4948\nIn-book reference  : Book 46, Hadith 78\nEnglish translation  : Vol. 5, Book 46, Hadith 4951",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا شَرِيكٌ، عَنْ مَنْصُورٍ، عَنْ عَطَاءٍ، وَمُجَاهِدٍ، عَنْ أَيْمَنَ بْنِ أُمِّ أَيْمَنَ، يَرْفَعُهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَنْبَأَنَا شَرِيكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءٍ، وَمُجَاهِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَرْفَعُهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4957": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4957\nIn-book reference  : Book 46, Hadith 87\nEnglish translation  : Vol. 5, Book 46, Hadith 4960",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ الأَخْنَسِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي كَمْ تُقْطَعُ الْيَدُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ الأَخْنَسِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الْيَدُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4958": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4958\nIn-book reference  : Book 46, Hadith 88\nEnglish translation  : Vol. 5, Book 46, Hadith 4961",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ سُئِلَ عَنِ الثَّمَرِ الْمُعَلَّقِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ عَبْدِ اللَّهِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ سُئِلَ عَنِ الثَّمَرِ الْمُعَلَّقِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4960": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4960\nIn-book reference  : Book 46, Hadith 90\nEnglish translation  : Vol. 5, Book 46, Hadith 4963",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ خَالِدِ بْنِ خَلِيٍّ، قَالَ حَدَّثَنَا أَبِي قَالَ، حَدَّثَنَا سَلَمَةُ، - يَعْنِي ابْنَ عَبْدِ الْمَلِكِ الْعَوْصِيَّ - عَنِ الْحَسَنِ، - وَهُوَ ابْنُ صَالِحٍ - عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدِ بْنِ أَبِي بَكْرٍ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ خَالِدِ بْنِ خَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَلَمَةُ، - يَعْنِي ابْنَ عَبْدِ الْمَلِكِ الْعَوْصِيَّ - عَنِ الْحَسَنِ، - وَهُوَ ابْنُ ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدِ بْنِ أَبِي بَكْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4961": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4961\nIn-book reference  : Book 46, Hadith 91\nEnglish translation  : Vol. 5, Book 46, Hadith 4964",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ الْقَطَّانَ، يَقُولُ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4962": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4962\nIn-book reference  : Book 46, Hadith 92\nEnglish translation  : Vol. 5, Book 46, Hadith 4965",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنِي يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي يَحْيَى بْنُ حَبِيبِ بْنِ عَرَبِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4963": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4963\nIn-book reference  : Book 46, Hadith 93\nEnglish translation  : Vol. 5, Book 46, Hadith 4966",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ سَلاَّمٍ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ مُحَمَّدِ بْنِ سَلاَّمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4964": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4964\nIn-book reference  : Book 46, Hadith 94\nEnglish translation  : Vol. 5, Book 46, Hadith 4967",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ الْحَمِيدِ بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا مَخْلَدٌ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ يَحْيَى، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الْحَمِيدِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَخْلَدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4965": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4965\nIn-book reference  : Book 46, Hadith 95\nEnglish translation  : Vol. 5, Book 46, Hadith 4968",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَبُو نُعَيْمٍ، عَنْ سُفْيَانَ، عَنْ يَحْيَى، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4966": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4966\nIn-book reference  : Book 46, Hadith 96\nEnglish translation  : Vol. 5, Book 46, Hadith 4969",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ عُبَيْدِ اللَّهِ، - هُوَ ابْنُ أَبِي رَجَاءٍ - قَالَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ عَمِّهِ، وَاسِعٍ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ عُبَيْدِ اللَّهِ، - هُوَ ابْنُ أَبِي رَجَاءٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَمِّهِ، وَاسِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4967": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4967\nIn-book reference  : Book 46, Hadith 97\nEnglish translation  : Vol. 5, Book 46, Hadith 4970",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ عَمِّهِ، أَنَّ رَافِعَ بْنَ خَدِيجٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمِّهِ، أَنَّ رَافِعَ بْنَ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4968": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4968\nIn-book reference  : Book 46, Hadith 98\nEnglish translation  : Vol. 5, Book 46, Hadith 4971",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ مَيْمُونٍ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ أَبِي مَيْمُونٍ، عَنْ رَافِعِ بْنِ خَدِيجٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ مَيْمُونٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي مَيْمُونٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4969": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4969\nIn-book reference  : Book 46, Hadith 99\nEnglish translation  : Vol. 5, Book 46, Hadith 4972",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا الْحُسَيْنُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ رَجُلٍ، مِنْ قَوْمِهِ عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحُسَيْنُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَوْمِهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ رَافِعِ بْنِ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4970": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4970\nIn-book reference  : Book 46, Hadith 100\nEnglish translation  : Vol. 5, Book 46, Hadith 4973",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا بِشْرٌ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، أَنَّ رَجُلاً، مِنْ قَوْمِهِ حَدَّثَهُ عَنْ عَمٍّ، لَهُ أَنَّ رَافِعَ بْنَ خَدِيجٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بِشْرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمٍّ، لَهُ أَنَّ رَافِعَ بْنَ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4971": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4971\nIn-book reference  : Book 46, Hadith 101\nEnglish translation  : Vol. 5, Book 46, Hadith 4974",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الصَّمَدِ بْنِ عَلِيٍّ، عَنْ مَخْلَدٍ، عَنْ سُفْيَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ عَبْدِ الصَّمَدِ بْنِ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَخْلَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4972": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4972\nIn-book reference  : Book 46, Hadith 102\nEnglish translation  : Vol. 5, Book 46, Hadith 4975",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ الْحَفَرِيُّ، عَنْ سُفْيَانَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ الْحَفَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُفْيَانَ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4973": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4973\nIn-book reference  : Book 46, Hadith 103\nEnglish translation  : Vol. 5, Book 46, Hadith 4976",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ الْحَسَنِ، عَنْ حَجَّاجٍ، قَالَ قَالَ ابْنُ جُرَيْجٍ قَالَ أَبُو الزُّبَيْرِ عَنْ جَابِرٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي إِبْرَاهِيمُ بْنُ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ حَجَّاجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "جُرَيْجٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الزُّبَيْرِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4975": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4975\nIn-book reference  : Book 46, Hadith 105\nEnglish translation  : Vol. 5, Book 46, Hadith 4978",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا خَالِدُ بْنُ رَوْحٍ الدِّمَشْقِيُّ، قَالَ حَدَّثَنَا يَزِيدُ، - يَعْنِي ابْنَ خَالِدِ بْنِ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ مَوَهِبٍ - قَالَ حَدَّثَنَا شَبَابَةُ، عَنِ الْمُغِيرَةِ بْنِ مُسْلِمٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا خَالِدُ بْنُ رَوْحٍ الدِّمَشْقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ، - يَعْنِي ابْنَ خَالِدِ بْنِ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ مَوَهِبٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شَبَابَةُ، عَنِ الْمُغِيرَةِ بْنِ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4979": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4979\nIn-book reference  : Book 46, Hadith 109\nEnglish translation  : Vol. 5, Book 46, Hadith 4982",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ، قَالَ حَدَّثَنِي بَقِيَّةُ، قَالَ حَدَّثَنِي نَافِعُ بْنُ يَزِيدَ، قَالَ حَدَّثَنِي حَيْوَةُ بْنُ شُرَيْحٍ، عَنْ عَيَّاشِ بْنِ عَبَّاسٍ، عَنْ جُنَادَةَ بْنِ أَبِي أُمَيَّةَ، قَالَ سَمِعْتُ بُسْرَ بْنَ أَبِي أَرْطَاةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عَمْرُو بْنُ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي بَقِيَّةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي نَافِعُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي حَيْوَةُ بْنُ شُرَيْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَيَّاشِ بْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ جُنَادَةَ بْنِ أَبِي أُمَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ سَمِعْتُ بُسْرَ بْنَ أَبِي أَرْطَاةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "4980": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4980\nIn-book reference  : Book 46, Hadith 110\nEnglish translation  : Vol. 5, Book 46, Hadith 4983",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنَا الْحَسَنُ بْنُ مُدْرِكٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عُمَرَ، - وَهُوَ ابْنُ أَبِي سَلَمَةَ - عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا الْحَسَنُ بْنُ مُدْرِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُمَرَ، - وَهُوَ ابْنُ أَبِي سَلَمَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "4984": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Cutting off the Hand of the Thief",
+    "book_num": "46",
+    "reference": "Reference  : Sunan an-Nasa'i 4984\nIn-book reference  : Book 46, Hadith 114\nEnglish translation  : Vol. 5, Book 46, Hadith 4987",
+    "url": "https://sunnah.com/nasai/46",
+    "sanad_full": "أَخْبَرَنِي عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا حَسَّانُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا الْمُفَضَّلُ بْنُ فَضَالَةَ، عَنْ يُونُسَ بْنِ يَزِيدَ، قَالَ سَمِعْتُ سَعْدَ بْنَ إِبْرَاهِيمَ، يُحَدِّثُ عَنِ الْمِسْوَرِ بْنِ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَخْبَرَنِي عَمْرُو بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَسَّانُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا الْمُفَضَّلُ بْنُ فَضَالَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يُونُسَ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ سَعْدَ بْنَ إِبْرَاهِيمَ، يُحَدِّثُ عَنِ الْمِسْوَرِ بْنِ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

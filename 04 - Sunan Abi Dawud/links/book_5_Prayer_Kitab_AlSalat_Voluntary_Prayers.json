@@ -1,0 +1,1811 @@
+{
+  "1250": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1250\nIn-book reference  : Book 5, Hadith 1\nEnglish translation  : Book 5, Hadith 1245",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا ابْنُ عُلَيَّةَ، حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ، حَدَّثَنِي النُّعْمَانُ بْنُ سَالِمٍ، عَنْ عَمْرِو بْنِ أَوْسٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، عَنْ أُمِّ حَبِيبَةَ، قَالَتْ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ عُلَيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ بْنُ أَبِي هِنْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي النُّعْمَانُ بْنُ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمْرِو بْنِ أَوْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أُمِّ حَبِيبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1258": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1258\nIn-book reference  : Book 5, Hadith 9\nEnglish translation  : Book 5, Hadith 1253",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا خَالِدٌ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، - يَعْنِي ابْنَ إِسْحَاقَ الْمَدَنِيَّ - عَنِ ابْنِ زَيْدٍ، عَنِ ابْنِ سِيْلاَنَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ، - يَعْنِي ابْنَ إِسْحَاقَ الْمَدَنِيَّ - عَنِ ابْنِ زَيْدٍ، عَنِ ابْن",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1261": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1261\nIn-book reference  : Book 5, Hadith 12\nEnglish translation  : Book 5, Hadith 1256",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، وَأَبُو كَامِلٍ وَعُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ قَالُوا حَدَّثَنَا عَبْدُ الْوَاحِدِ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَاحِدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1265": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1265\nIn-book reference  : Book 5, Hadith 16\nEnglish translation  : Book 5, Hadith 1260",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَاصِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ سَرْجِسَ، قَالَ جَاءَ رَجُلٌ وَالنَّبِيُّ صلى الله عليه وسلم يُصَلِّي الصُّبْحَ فَصَلَّى الرَّكْعَتَيْنِ ثُمَّ دَخَلَ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي الصَّلاَةِ فَلَمَّا انْصَرَفَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ سَرْجِسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "انْصَرَفَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1266": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1266\nIn-book reference  : Book 5, Hadith 17\nEnglish translation  : Book 5, Hadith 1261",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ وَرْقَاءَ، ح وَحَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، ح وَحَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ حَمَّادِ بْنِ زَيْدٍ، عَنْ أَيُّوبَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُتَوَكِّلِ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا زَكَرِيَّا بْنُ إِسْحَاقَ، كُلُّهُمْ عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ وَرْقَاءَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ حَمَّادِ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "عَنْ أَيُّوبَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُتَوَكِّلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 16,
+        "arabic_name": "كُلُّهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 17,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 18,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 19,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 21,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 19,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1267": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1267\nIn-book reference  : Book 5, Hadith 18\nEnglish translation  : Book 5, Hadith 1262",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ نُمَيْرٍ، عَنْ سَعْدِ بْنِ سَعِيدٍ، حَدَّثَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ، عَنْ قَيْسِ بْنِ عَمْرٍو، قَالَ رَأَى رَسُولُ اللَّهِ صلى الله عليه وسلم رَجُلاً يُصَلِّي بَعْدَ صَلاَةِ الصُّبْحِ رَكْعَتَيْنِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعْدِ بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ قَيْسِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَأَى رَسُولُ اللَّهِ صلى الله عليه وسلم رَجُلاً يُصَلِّي بَعْدَ صَلاَةِ الصُّبْحِ رَكْعَتَيْن",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1269": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1269\nIn-book reference  : Book 5, Hadith 20\nEnglish translation  : Book 5, Hadith 1264",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ، حَدَّثَنَا مُحَمَّدُ بْنُ شُعَيْبٍ، عَنِ النُّعْمَانِ، عَنْ مَكْحُولٍ، عَنْ عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ، قَالَ قَالَتْ أُمُّ حَبِيبَةَ زَوْجُ النَّبِيِّ صلى الله عليه وسلم قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ شُعَيْبٍ، عَنِ النُّعْمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَكْحُولٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْبَسَةَ بْنِ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ أُمُّ حَبِيبَةَ زَوْجُ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1270": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1270\nIn-book reference  : Book 5, Hadith 21\nEnglish translation  : Book 5, Hadith 1265",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ عُبَيْدَةَ، يُحَدِّثُ عَنْ إِبْرَاهِيمَ، عَنِ ابْنِ مِنْجَابٍ، عَنْ قَرْثَعٍ، عَنْ أَبِي أَيُّوبَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ، عَنِ ابْنِ مِنْجَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَرْثَعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي أَيُّوبَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1271": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1271\nIn-book reference  : Book 5, Hadith 22\nEnglish translation  : Book 5, Hadith 1266",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ الْقُرَشِيُّ، حَدَّثَنِي جَدِّي أَبُو الْمُثَنَّى، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ الْقُرَشِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي جَدِّي أَبُو الْمُثَنَّى، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1273": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1273\nIn-book reference  : Book 5, Hadith 24\nEnglish translation  : Book 5, Hadith 1268",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، عَنْ بُكَيْرِ بْنِ الأَشَجِّ، عَنْ كُرَيْبٍ، مَوْلَى ابْنِ عَبَّاسٍ أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ، وَعَبْدَ الرَّحْمَنِ بْنَ أَزْهَرَ، وَالْمِسْوَرَ بْنَ مَخْرَمَةَ، أَرْسَلُوهُ إِلَى عَائِشَةَ زَوْجِ النَّبِيِّ صلى الله عليه وسلم فَقَالُوا اقْرَأْ عَلَيْهَا السَّلاَمَ مِنَّا جَمِيعًا وَسَلْهَا عَنِ الرَّكْعَتَيْنِ بَعْدَ الْعَصْرِ وَقُلْ إِنَّا أُخْبِرْنَا أَنَّكِ تُصَلِّينَهُمَا وَقَدْ بَلَغَنَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْهُمَا . فَدَخَلْتُ عَلَيْهَا فَبَلَّغْتُهَا مَا أَرْسَلُونِي بِهِ فَقَالَتْ سَلْ أُمَّ سَلَمَةَ . فَخَرَجْتُ إِلَيْهِمْ فَأَخْبَرْتُهُمْ بِقَوْلِهَا فَرَدُّونِي إِلَى أُمِّ سَلَمَةَ بِمِثْلِ مَا أَرْسَلُونِي بِهِ إِلَى عَائِشَةَ فَقَالَتْ أُمُّ سَلَمَةَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَنْهَى عَنْهُمَا ثُمَّ رَأَيْتُهُ يُصَلِّيهِمَا أَمَّا حِينَ صَلاَّهُمَا فَإِنَّهُ صَلَّى الْعَصْرَ ثُمَّ دَخَلَ وَعِنْدِي نِسْوَةٌ مِنْ بَنِي حَرَامٍ مِنَ الأَنْصَارِ فَصَلاَّهُمَا فَأَرْسَلْتُ إِلَيْهِ الْجَارِيَةَ فَقُلْتُ قُومِي بِجَنْبِهِ فَقُولِي لَهُ تَقُولُ أُمُّ سَلَمَةَ يَا رَسُولَ اللَّهِ أَسْمَعُكَ تَنْهَى عَنْ هَاتَيْنِ الرَّكْعَتَيْنِ وَأَرَاكَ تُصَلِّيهِمَا فَإِنْ أَشَارَ بِيَدِهِ فَاسْتَأْخِرِي عَنْهُ . قَالَتْ فَفَعَلَتِ الْجَارِيَةُ فَأَشَارَ بِيَدِهِ فَاسْتَأْخَرَتْ عَنْهُ فَلَمَّا انْصَرَفَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُكَيْرِ بْنِ الأَشَجِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "نَهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْهُمَا . فَدَخَلْتُ عَلَيْهَا فَبَلَّغْتُهَا مَا أَرْسَلُونِي بِهِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ سَلْ أُمَّ سَلَمَةَ . فَخَرَجْتُ إِلَيْهِمْ فَأَخْبَرْتُهُمْ بِقَوْلِهَا فَرَدُّونِي إِلَى أ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَنْهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "تَنْهَى",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "فَاسْتَأْخِرِي",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْهُ .",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "فَاسْتَأْخَرَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "انْصَرَفَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 12,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1276": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1276\nIn-book reference  : Book 5, Hadith 27\nEnglish translation  : Book 5, Hadith 1271",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبَانُ، حَدَّثَنَا قَتَادَةُ، عَنْ أَبِي الْعَالِيَةِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ شَهِدَ عِنْدِي رِجَالٌ مَرْضِيُّونَ فِيهِمْ عُمَرُ بْنُ الْخَطَّابِ وَأَرْضَاهُمْ عِنْدِي عُمَرُ أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الْعَالِيَةِ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ شَهِدَ عِنْدِي رِجَالٌ مَرْضِيُّونَ فِيهِمْ عُمَرُ بْنُ الْخَطَّابِ وَأَرْضَاهُمْ عِنْدِي عُمَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1277": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1277\nIn-book reference  : Book 5, Hadith 28\nEnglish translation  : Book 5, Hadith 1272",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا الرَّبِيعُ بْنُ نَافِعٍ، حَدَّثَنَا مُحَمَّدُ بْنُ الْمُهَاجِرِ، عَنِ الْعَبَّاسِ بْنِ سَالِمٍ، عَنْ أَبِي سَلاَّمٍ، عَنْ أَبِي أُمَامَةَ، عَنْ عَمْرِو بْنِ عَبَسَةَ السُّلَمِيِّ، أَنَّهُ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَىُّ اللَّيْلِ أَسْمَعُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الرَّبِيعُ بْنُ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُهَاجِرِ، عَنِ الْعَبَّاسِ بْنِ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي سَلاَّمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَسْمَعُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1278": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1278\nIn-book reference  : Book 5, Hadith 29\nEnglish translation  : Book 5, Hadith 1273",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا قُدَامَةُ بْنُ مُوسَى، عَنْ أَيُّوبَ بْنِ حُصَيْنٍ، عَنْ أَبِي عَلْقَمَةَ، عَنْ يَسَارٍ، مَوْلَى ابْنِ عُمَرَ قَالَ رَآنِي ابْنُ عُمَرَ وَأَنَا أُصَلِّي، بَعْدَ طُلُوعِ الْفَجْرِ فَقَالَ يَا يَسَارُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ عَلَيْنَا وَنَحْنُ نُصَلِّي هَذِهِ الصَّلاَةَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا قُدَامَةُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ بْنِ حُصَيْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي عَلْقَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عُمَرَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَآنِي ابْنُ عُمَرَ وَأَنَا أُصَلِّي، بَعْدَ طُلُوعِ الْفَجْرِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ يَا يَسَارُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ عَلَيْنَا وَنَحْنُ نُصَلِّي هَذِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1283": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1283\nIn-book reference  : Book 5, Hadith 34\nEnglish translation  : Book 5, Hadith 1278",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنِ الْجُرَيْرِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ عُلَيَّةَ، عَنِ الْجُرَيْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1287": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1287\nIn-book reference  : Book 5, Hadith 38\nEnglish translation  : Book 5, Hadith 1282",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ الْمُرَادِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يَحْيَى بْنِ أَيُّوبَ، عَنْ زَبَّانَ بْنِ فَائِدٍ، عَنْ سَهْلِ بْنِ مُعَاذِ بْنِ أَنَسٍ الْجُهَنِيِّ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ الْمُرَادِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زَبَّانَ بْنِ فَائِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَهْلِ بْنِ مُعَاذِ بْنِ أَنَسٍ الْجُهَنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1288": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1288\nIn-book reference  : Book 5, Hadith 39\nEnglish translation  : Book 5, Hadith 1283",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا أَبُو تَوْبَةَ الرَّبِيعُ بْنُ نَافِعٍ، حَدَّثَنَا الْهَيْثَمُ بْنُ حُمَيْدٍ، عَنْ يَحْيَى بْنِ الْحَارِثِ، عَنِ الْقَاسِمِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي أُمَامَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو تَوْبَةَ الرَّبِيعُ بْنُ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْهَيْثَمُ بْنُ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ الْحَارِثِ، عَنِ الْقَاسِمِ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1289": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1289\nIn-book reference  : Book 5, Hadith 40\nEnglish translation  : Book 5, Hadith 1284",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا دَاوُدُ بْنُ رُشَيْدٍ، حَدَّثَنَا الْوَلِيدُ، عَنْ سَعِيدِ بْنِ عَبْدِ الْعَزِيزِ، عَنْ مَكْحُولٍ، عَنْ كَثِيرِ بْنِ مُرَّةَ أَبِي شَجَرَةَ، عَنْ نُعَيْمِ بْنِ هَمَّارٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ بْنُ رُشَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَكْحُولٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ كَثِيرِ بْنِ مُرَّةَ أَبِي شَجَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ نُعَيْمِ بْنِ هَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1295": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1295\nIn-book reference  : Book 5, Hadith 46\nEnglish translation  : Book 5, Hadith 1290",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا عَمْرُو بْنُ مَرْزُوقٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ يَعْلَى بْنِ عَطَاءٍ، عَنْ عَلِيِّ بْنِ عَبْدِ اللَّهِ الْبَارِقِيِّ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ مَرْزُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَعْلَى بْنِ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ عَبْدِ اللَّهِ الْبَارِقِيِّ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1296": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1296\nIn-book reference  : Book 5, Hadith 47\nEnglish translation  : Book 5, Hadith 1291",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا مُعَاذُ بْنُ مُعَاذٍ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنِي عَبْدُ رَبِّهِ بْنُ سَعِيدٍ، عَنْ أَنَسِ بْنِ أَبِي أَنَسٍ، عَنْ عَبْدِ اللَّهِ بْنِ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنِ الْمُطَّلِبِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعَاذُ بْنُ مُعَاذٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عَبْدُ رَبِّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ أَبِي أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنِ الْمُطَّلِبِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1297": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1297\nIn-book reference  : Book 5, Hadith 48\nEnglish translation  : Book 5, Hadith 1292",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ بِشْرِ بْنِ الْحَكَمِ النَّيْسَابُورِيُّ، حَدَّثَنَا مُوسَى بْنُ عَبْدِ الْعَزِيزِ، حَدَّثَنَا الْحَكَمُ بْنُ أَبَانَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لِلْعَبَّاسِ بْنِ عَبْدِ الْمُطَّلِبِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ بِشْرِ بْنِ الْحَكَمِ النَّيْسَابُورِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ عَبْدِ الْعَزِيزِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْحَكَمُ بْنُ أَبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الْمُطَّلِبِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1300": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1300\nIn-book reference  : Book 5, Hadith 51\nEnglish translation  : Book 5, Hadith 1295",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي الأَسْوَدِ، حَدَّثَنِي أَبُو مُطَرِّفٍ، مُحَمَّدُ بْنُ أَبِي الْوَزِيرِ حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى الْفِطْرِيُّ، عَنْ سَعْدِ بْنِ إِسْحَاقَ بْنِ كَعْبِ بْنِ عُجْرَةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَتَى مَسْجِدَ بَنِي عَبْدِ الأَشْهَلِ فَصَلَّى فِيهِ الْمَغْرِبَ فَلَمَّا قَضَوْا صَلاَتَهُمْ رَآهُمْ يُسَبِّحُونَ بَعْدَهَا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "الْوَزِيرِ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى الْفِطْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعْدِ بْنِ إِسْحَاقَ بْنِ كَعْبِ بْنِ عُجْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَتَى مَسْجِدَ بَنِي عَبْدِ الأَشْهَلِ فَصَلَّى فِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1306": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1306\nIn-book reference  : Book 5, Hadith 57\nEnglish translation  : Book 5, Hadith 1301",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1308": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1308\nIn-book reference  : Book 5, Hadith 59\nEnglish translation  : Book 5, Hadith 1303",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا ابْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا ابْنُ عَجْلاَنَ، عَنِ الْقَعْقَاعِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ عَجْلاَنَ، عَنِ الْقَعْقَاعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1309": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1309\nIn-book reference  : Book 5, Hadith 60\nEnglish translation  : Book 5, Hadith 1304",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا ابْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ مِسْعَرٍ، عَنْ عَلِيِّ بْنِ الأَقْمَرِ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ شَيْبَانَ، عَنِ الأَعْمَشِ، عَنْ عَلِيِّ بْنِ الأَقْمَرِ، - الْمَعْنَى - عَنِ الأَغَرِّ، عَنْ أَبِي سَعِيدٍ، وَأَبِي، هُرَيْرَةَ قَالاَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مِسْعَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ الأَقْمَرِ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ شَيْبَانَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ الأَقْمَرِ، - الْمَعْنَى - عَنِ الأَغَرِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1310": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1310\nIn-book reference  : Book 5, Hadith 61\nEnglish translation  : Book 5, Hadith 1305",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1311": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1311\nIn-book reference  : Book 5, Hadith 62\nEnglish translation  : Book 5, Hadith 1306",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1313": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1313\nIn-book reference  : Book 5, Hadith 64\nEnglish translation  : Book 5, Hadith 1308",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو صَفْوَانَ عَبْدُ اللَّهِ بْنُ سَعِيدِ بْنِ عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ، ح وَحَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ، وَمُحَمَّدُ بْنُ سَلَمَةَ الْمُرَادِيُّ، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، - الْمَعْنَى - عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، أَنَّ السَّائِبَ بْنَ يَزِيدَ، وَعُبَيْدَ اللَّهِ، أَخْبَرَاهُ أَنَّ عَبْدَ الرَّحْمَنِ بْنَ عَبْدٍ قَالاَ عَنِ ابْنِ وَهْبِ بْنِ عَبْدٍ الْقَارِيِّ، قَالَ سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو صَفْوَانَ عَبْدُ اللَّهِ بْنُ سَعِيدِ بْنِ عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ، - الْمَعْنَى -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، أَنَّ السَّائِبَ بْنَ يَزِيدَ، وَعُبَيْدَ اللَّهِ، أَخْبَرَاهُ أَن",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1314": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1314\nIn-book reference  : Book 5, Hadith 65\nEnglish translation  : Book 5, Hadith 1309",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ رَجُلٍ، عِنْدَهُ رَضِيٍّ أَنَّ عَائِشَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَخْبَرَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ رَجُلٍ، عِنْدَهُ رَضِيٍّ أَنَّ عَائِشَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَخْبَرَتْهُ أَن",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1315": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1315\nIn-book reference  : Book 5, Hadith 66\nEnglish translation  : Book 5, Hadith 1310",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، وَعَنْ أَبِي عَبْدِ اللَّهِ الأَغَرِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي عَبْدِ اللَّهِ الأَغَرِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1323": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1323\nIn-book reference  : Book 5, Hadith 74\nEnglish translation  : Book 5, Hadith 1318",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا الرَّبِيعُ بْنُ نَافِعٍ أَبُو تَوْبَةَ، حَدَّثَنَا سُلَيْمَانُ بْنُ حَيَّانَ، عَنْ هِشَامِ بْنِ حَسَّانَ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم :",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الرَّبِيعُ بْنُ نَافِعٍ أَبُو تَوْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَيَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ حَسَّانَ، عَنِ ابْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم :",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1325": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1325\nIn-book reference  : Book 5, Hadith 76\nEnglish translation  : Book 5, Hadith 1320",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا ابْنُ حَنْبَلٍ، - يَعْنِي أَحْمَدَ - حَدَّثَنَا حَجَّاجٌ، قَالَ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي عُثْمَانُ بْنُ أَبِي سُلَيْمَانَ، عَنْ عَلِيٍّ الأَزْدِيِّ، عَنْ عُبَيْدِ بْنِ عُمَيْرٍ، عَنْ عَبْدِ اللَّهِ بْنِ حُبْشِيٍّ الْخَثْعَمِيِّ، : أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سُئِلَ أَىُّ الأَعْمَالِ أَفْضَلُ قَالَ :",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ حَنْبَلٍ، - يَعْنِي أَحْمَدَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَجَّاجٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي عُثْمَانُ بْنُ أَبِي سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلِيٍّ الأَزْدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ عُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَفْضَلُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ :",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1326": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1326\nIn-book reference  : Book 5, Hadith 77\nEnglish translation  : Book 5, Hadith 1321",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، وَعَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، : أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَةِ اللَّيْلِ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم :",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، وَعَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، : أَنَّ رَجُلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ صَلاَةِ اللَّيْلِ، فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم :",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1333": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1333\nIn-book reference  : Book 5, Hadith 84\nEnglish translation  : Book 5, Hadith 1328",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، عَنْ بَحِيرِ بْنِ سَعْدٍ، عَنْ خَالِدِ بْنِ مَعْدَانَ، عَنْ كَثِيرِ بْنِ مُرَّةَ الْحَضْرَمِيِّ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم :",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بَحِيرِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خَالِدِ بْنِ مَعْدَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ كَثِيرِ بْنِ مُرَّةَ الْحَضْرَمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم :",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1341": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1341\nIn-book reference  : Book 5, Hadith 92\nEnglish translation  : Book 5, Hadith 1336",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُ أَخْبَرَهُ : أَنَّهُ، سَأَلَ عَائِشَةَ زَوْجَ النَّبِيِّ صلى الله عليه وسلم كَيْفَ كَانَتْ صَلاَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي رَمَضَانَ فَقَالَتْ : مَا كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَزِيدُ فِي رَمَضَانَ وَلاَ فِي غَيْرِهِ عَلَى إِحْدَى عَشْرَةَ رَكْعَةً : يُصَلِّي أَرْبَعًا فَلاَ تَسْأَلْ عَنْ حُسْنِهِنَّ وَطُولِهِنَّ، ثُمَّ يُصَلِّي أَرْبَعًا فَلاَ تَسْأَلْ عَنْ حُسْنِهِنَّ وَطُولِهِنَّ، ثُمَّ يُصَلِّي ثَلاَثًا، قَالَتْ عَائِشَةُ - رضى الله عنها - فَقُلْتُ : يَا رَسُولَ اللَّهِ أَتَنَامُ قَبْلَ أَنْ تُوتِرَ قَالَ :",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُ أَخْبَرَهُ : أَنَّهُ، سَأَلَ عَائِشَةَ زَوْجَ ا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "تَسْأَلْ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "تَسْأَلْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ حُسْنِهِنَّ وَطُولِهِنَّ، ثُمَّ يُصَلِّي ثَلاَثًا،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "تُوتِرَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ :",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1354": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1354\nIn-book reference  : Book 5, Hadith 105\nEnglish translation  : Book 5, Hadith 1349",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، عَنْ خَالِدٍ، عَنْ حُصَيْنٍ، نَحْوَهُ قَالَ :",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "نَحْوَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ :",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1356": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1356\nIn-book reference  : Book 5, Hadith 107\nEnglish translation  : Book 5, Hadith 1351",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا مُحَمَّدُ بْنُ قَيْسٍ الأَسَدِيُّ، عَنِ الْحَكَمِ بْنِ عُتَيْبَةَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ : بِتُّ عِنْدَ خَالَتِي مَيْمُونَةَ فَجَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَعْدَ مَا أَمْسَى فَقَالَ :",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ قَيْسٍ الأَسَدِيُّ، عَنِ الْحَكَمِ بْنِ عُتَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ : بِتُّ عِنْدَ خَالَتِي مَيْمُونَةَ فَجَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَعْدَ مَا أَمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ :",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1368": {
+    "collection": "Sunan Abi Dawud",
+    "book": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "book_num": "5",
+    "reference": "Reference  : Sunan Abi Dawud 1368\nIn-book reference  : Book 5, Hadith 119\nEnglish translation  : Book 5, Hadith 1363",
+    "url": "https://sunnah.com/abudawud/5",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ :",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، - رضى الله عنها - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ :",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

@@ -1,0 +1,1098 @@
+{
+  "2688": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2688\nIn-book reference  : Book 42, Hadith 1\nEnglish translation  : Vol. 5, Book 40, Hadith 2688",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2690": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2690\nIn-book reference  : Book 42, Hadith 3\nEnglish translation  : Vol. 5, Book 40, Hadith 2690",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، قَالَ اسْتَأْذَنَ أَبُو مُوسَى عَلَى عُمَرَ فَقَالَ السَّلاَمُ عَلَيْكُمْ أَأَدْخُلُ قَالَ عُمَرُ وَاحِدَةٌ . ثُمَّ سَكَتَ سَاعَةً ثُمَّ قَالَ السَّلاَمُ عَلَيْكُمْ أَأَدْخُلُ قَالَ عُمَرُ ثِنْتَانِ . ثُمَّ سَكَتَ سَاعَةً فَقَالَ السَّلاَمُ عَلَيْكُمْ أَأَدْخُلُ فَقَالَ عُمَرُ ثَلاَثٌ . ثُمَّ رَجَعَ فَقَالَ عُمَرُ لِلْبَوَّابِ مَا صَنَعَ قَالَ رَجَعَ . قَالَ عَلَىَّ بِهِ . فَلَمَّا جَاءَهُ قَالَ مَا هَذَا الَّذِي صَنَعْتَ قَالَ السُّنَّةَ . قَالَ السُّنَّةَ وَاللَّهِ لَتَأْتِيَنِّي عَلَى هَذَا بِبُرْهَانٍ أَوْ بِبَيِّنَةٍ أَوْ لأَفْعَلَنَّ بِكَ . قَالَ فَأَتَانَا وَنَحْنُ رُفْقَةٌ مِنَ الأَنْصَارِ فَقَالَ يَا مَعْشَرَ الأَنْصَارِ أَلَسْتُمْ أَعْلَمَ النَّاسِ بِحَدِيثِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَلَمْ يَقُلْ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى، عَنِ الْجُرَيْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي نَضْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ اسْتَأْذَنَ أَبُو مُوسَى عَلَى عُمَرَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَأَدْخُلُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أَأَدْخُلُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ عُمَرُ ثِنْتَانِ . ثُمَّ سَكَتَ سَاعَةً فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ السَّلاَمُ عَلَيْكُمْ أَأَدْخُلُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ عُمَرُ ثَلاَثٌ . ثُمَّ رَجَعَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "صَنَعَ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَ رَجَعَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "جَاءَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 16,
+        "arabic_name": "صَنَعْتَ",
+        "role": "narrator"
+      },
+      {
+        "position": 17,
+        "arabic_name": "قَالَ السُّنَّةَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 18,
+        "arabic_name": "قَالَ السُّنَّةَ وَاللَّهِ لَتَأْتِيَنِّي عَلَى هَذَا بِبُرْهَانٍ أَوْ بِبَيِّنَةٍ أَوْ لأَفْعَلَنَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 19,
+        "arabic_name": "قَالَ فَأَتَانَا وَنَحْنُ رُفْقَةٌ مِنَ الأَنْصَارِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 20,
+        "arabic_name": "قَالَ يَا مَعْشَرَ الأَنْصَارِ أَلَسْتُمْ أَعْلَمَ النَّاسِ بِحَدِيثِ رَسُولِ اللَّهِ صلى الله عليه ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 19,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2691": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2691\nIn-book reference  : Book 42, Hadith 4\nEnglish translation  : Vol. 5, Book 40, Hadith 2691",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا عُمَرُ بْنُ يُونُسَ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، حَدَّثَنِي أَبُو زُمَيْلٍ، حَدَّثَنِي ابْنُ عَبَّاسٍ، حَدَّثَنِي عُمَرُ بْنُ الْخَطَّابِ، قَالَ اسْتَأْذَنْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ثَلاَثًا فَأَذِنَ لِي . قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ وَأَبُو زُمَيْلٍ اسْمُهُ سِمَاكٌ الْحَنَفِيُّ . وَإِنَّمَا أَنْكَرَ عُمَرُ عِنْدَنَا عَلَى أَبِي مُوسَى حَيْثُ رَوَى عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي أَبُو زُمَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي ابْنُ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي عُمَرُ بْنُ الْخَطَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ اسْتَأْذَنْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ثَلاَثًا فَأَذِنَ لِي .",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2693": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2693\nIn-book reference  : Book 42, Hadith 6\nEnglish translation  : Vol. 5, Book 40, Hadith 2693",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ الْمُنْذِرِ الْكُوفِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ، عَنْ عَامِرٍ الشَّعْبِيِّ، حَدَّثَنِي أَبُو سَلَمَةَ، أَنَّ عَائِشَةَ، حَدَّثَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لَهَا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْمُنْذِرِ الْكُوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زَكَرِيَّا بْنِ أَبِي زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرٍ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ، أَنَّ عَائِشَةَ، حَدَّثَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "لَهَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2694": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2694\nIn-book reference  : Book 42, Hadith 7\nEnglish translation  : Vol. 5, Book 40, Hadith 2694",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا قُرَّانُ بْنُ تَمَّامٍ الأَسَدِيُّ، عَنْ أَبِي فَرْوَةَ الرَّهَاوِيِّ، يَزِيدَ بْنِ سِنَانٍ عَنْ سُلَيْمِ بْنِ عَامِرٍ، عَنْ أَبِي أُمَامَةَ، قَالَ قِيلَ يَا رَسُولَ اللَّهِ الرَّجُلاَنِ يَلْتَقِيَانِ أَيُّهُمَا يَبْدَأُ بِالسَّلاَمِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا قُرَّانُ بْنُ تَمَّامٍ الأَسَدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سِنَانٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمِ بْنِ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قِيلَ يَا رَسُولَ اللَّهِ الرَّجُلاَنِ يَلْتَقِيَانِ أَيُّهُمَا يَبْدَأُ بِالسَّلاَمِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2695": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2695\nIn-book reference  : Book 42, Hadith 8\nEnglish translation  : Vol. 5, Book 40, Hadith 2695",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ لَهِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2698": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2698\nIn-book reference  : Book 42, Hadith 11\nEnglish translation  : Vol. 5, Book 40, Hadith 2698",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا أَبُو حَاتِمٍ الْبَصْرِيُّ الأَنْصَارِيُّ، مُسْلِمُ بْنُ حَاتِمٍ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ، عَنْ أَبِيهِ، عَنْ عَلِيِّ بْنِ زَيْدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، قَالَ قَالَ أَنَسُ بْنُ مَالِكٍ قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَاتِمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "مَالِكٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2700": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2700\nIn-book reference  : Book 42, Hadith 13\nEnglish translation  : Vol. 5, Book 40, Hadith 2700",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2704": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2704\nIn-book reference  : Book 42, Hadith 17\nEnglish translation  : Vol. 5, Book 40, Hadith 2704",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَنْبَأَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَنْبَأَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2705": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2705\nIn-book reference  : Book 42, Hadith 18\nEnglish translation  : Vol. 5, Book 40, Hadith 2705",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَنْبَأَنَا عَبْدُ اللَّهِ، أَنْبَأَنَا حَيْوَةُ بْنُ شُرَيْحٍ، أَخْبَرَنِي أَبُو هَانِئٍ، اسْمُهُ حُمَيْدُ بْنُ هَانِئٍ الْخَوْلاَنِيُّ عَنْ أَبِي عَلِيٍّ الْجَنْبِيِّ، عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْخَوْلاَنِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي عَلِيٍّ الْجَنْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ فَضَالَةَ بْنِ عُبَيْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2706": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2706\nIn-book reference  : Book 42, Hadith 19\nEnglish translation  : Vol. 5, Book 40, Hadith 2706",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدٍ الْمَقْبُرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2707": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2707\nIn-book reference  : Book 42, Hadith 20\nEnglish translation  : Vol. 5, Book 40, Hadith 2707",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْحُبُلِيِّ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ لَهِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْحُبُلِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2709": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2709\nIn-book reference  : Book 42, Hadith 22\nEnglish translation  : Vol. 5, Book 40, Hadith 2709",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، أَنَّ رَجُلاً، اطَّلَعَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ جُحْرٍ فِي حُجْرَةِ النَّبِيِّ صلى الله عليه وسلم وَمَعَ النَّبِيِّ صلى الله عليه وسلم مِدْرَاةٌ يَحُكُّ بِهَا رَأْسَهُ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، أَنَّ رَجُلاً، اطَّلَعَ عَلَى رَسُولِ اللَّهِ صلى الله عليه و",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2710": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2710\nIn-book reference  : Book 42, Hadith 23\nEnglish translation  : Vol. 5, Book 40, Hadith 2710",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي عَمْرُو بْنُ أَبِي سُفْيَانَ، أَنَّ عَمْرَو بْنَ عَبْدِ اللَّهِ بْنِ صَفْوَانَ، أَخْبَرَهُ أَنَّ كَلَدَةَ بْنَ حَنْبَلٍ أَخْبَرَهُ أَنَّ صَفْوَانَ بْنَ أُمَيَّةَ بَعَثَهُ بِلَبَنٍ وَلِبَإٍ وَضَغَابِيسَ إِلَى النَّبِيِّ صلى الله عليه وسلم وَالنَّبِيُّ صلى الله عليه وسلم بِأَعْلَى الْوَادِي قَالَ فَدَخَلْتُ عَلَيْهِ وَلَمْ أُسَلِّمْ وَلَمْ أَسْتَأْذِنْ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "الْوَادِي",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ فَدَخَلْتُ عَلَيْهِ وَلَمْ أُسَلِّمْ وَلَمْ أَسْتَأْذِنْ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "2713": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2713\nIn-book reference  : Book 42, Hadith 26\nEnglish translation  : Vol. 5, Book 40, Hadith 2713",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا شَبَابَةُ، عَنْ حَمْزَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شَبَابَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَمْزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2714": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2714\nIn-book reference  : Book 42, Hadith 27\nEnglish translation  : Vol. 5, Book 40, Hadith 2714",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ الْحَارِثِ، عَنْ عَنْبَسَةَ، عَنْ مُحَمَّدِ بْنِ زَاذَانَ، عَنْ أُمِّ سَعْدٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، قَالَ دَخَلْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَبَيْنَ يَدَيْهِ كَاتِبٌ فَسَمِعْتُهُ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ الْحَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْبَسَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ زَاذَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أُمِّ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ زَيْدِ بْنِ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2715": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2715\nIn-book reference  : Book 42, Hadith 28\nEnglish translation  : Vol. 5, Book 40, Hadith 2715",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الزِّنَادِ، عَنْ أَبِيهِ، عَنْ خَارِجَةَ بْنِ زَيْدِ بْنِ ثَابِتٍ، عَنْ أَبِيهِ، زَيْدِ بْنِ ثَابِتٍ قَالَ أَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ أَتَعَلَّمَ لَهُ كَلِمَاتِ كِتَابِ يَهُودَ . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الزِّنَادِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ خَارِجَةَ بْنِ زَيْدِ بْنِ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ثَابِتٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ أَتَعَلَّمَ لَهُ كَلِمَاتِ كِتَابِ يَهُودَ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2719": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2719\nIn-book reference  : Book 42, Hadith 32\nEnglish translation  : Vol. 5, Book 40, Hadith 2719",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا سُوَيْدٌ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ، حَدَّثَنَا ابْنُ أَبِي لَيْلَى، عَنِ الْمِقْدَادِ بْنِ الأَسْوَدِ، قَالَ أَقْبَلْتُ أَنَا وَصَاحِبَانِ، لِي قَدْ ذَهَبَتْ أَسْمَاعُنَا وَأَبْصَارُنَا مِنَ الْجَهْدِ فَجَعَلْنَا نَعْرِضُ أَنْفُسَنَا عَلَى أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم فَلَيْسَ أَحَدٌ يَقْبَلُنَا فَأَتَيْنَا النَّبِيَّ صلى الله عليه وسلم فَأَتَى بِنَا أَهْلَهُ فَإِذَا ثَلاَثَةُ أَعْنُزٍ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُوَيْدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي لَيْلَى، عَنِ الْمِقْدَادِ بْنِ الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَقْبَلْتُ أَنَا وَصَاحِبَانِ، لِي قَدْ ذَهَبَتْ أَسْمَاعُنَا وَأَبْصَارُنَا مِنَ الْجَهْدِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "2722": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2722\nIn-book reference  : Book 42, Hadith 35\nEnglish translation  : Vol. 5, Book 40, Hadith 2722",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا بِذَلِكَ الْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ حَدَّثَنَا أَبُو أُسَامَةَ عَنْ أَبِي غِفَارٍ الْمُثَنَّى بْنِ سَعِيدٍ الطَّائِيِّ عَنْ أَبِي تَمِيمَةَ الْهُجَيْمِيِّ عَنْ جَابِرِ بْنِ سُلَيْمٍ قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَقُلْتُ عَلَيْكَ السَّلاَمُ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أُسَامَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "الطَّائِيِّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "الْهُجَيْمِيِّ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سُلَيْمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَقُلْتُ عَلَيْكَ السَّلاَمُ . فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2724": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2724\nIn-book reference  : Book 42, Hadith 37\nEnglish translation  : Vol. 5, Book 40, Hadith 2724",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا الأَنْصَارِيُّ، حَدَّثَنَا مَعْنٌ، حَدَّثَنَا مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَبِي مُرَّةَ، مَوْلَى عَقِيلِ بْنِ أَبِي طَالِبٍ عَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَيْنَمَا هُوَ جَالِسٌ فِي الْمَسْجِدِ وَالنَّاسُ مَعَهُ إِذْ أَقْبَلَ ثَلاَثَةُ نَفَرٍ فَأَقْبَلَ اثْنَانِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَذَهَبَ وَاحِدٌ فَلَمَّا وَقَفَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم سَلَّمَا فَأَمَّا أَحَدُهُمَا فَرَأَى فُرْجَةً فِي الْحَلْقَةِ فَجَلَسَ فِيهَا وَأَمَّا الآخَرُ فَجَلَسَ خَلْفَهُمْ وَأَمَّا الآخَرُ فَأَدْبَرَ ذَاهِبًا فَلَمَّا فَرَغَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الأَنْصَارِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَعْنٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "طَالِبٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَيْنَمَا هُوَ جَالِسٌ فِي",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2726": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2726\nIn-book reference  : Book 42, Hadith 39\nEnglish translation  : Vol. 5, Book 40, Hadith 2726",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، وَلَمْ يَسْمَعْهُ مِنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مَرَّ بِنَاسٍ مِنَ الأَنْصَارِ وَهُمْ جُلُوسٌ فِي الطَّرِيقِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو دَاوُدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، وَلَمْ يَسْمَعْهُ مِنْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2727": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2727\nIn-book reference  : Book 42, Hadith 40\nEnglish translation  : Vol. 5, Book 40, Hadith 2727",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنِ الأَجْلَحِ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنِ الأَجْلَحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2731": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2731\nIn-book reference  : Book 42, Hadith 44\nEnglish translation  : Vol. 5, Book 40, Hadith 2731",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا يَحْيَى بْنُ أَيُّوبَ، عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ، عَنْ عَلِيِّ بْنِ يَزِيدَ، عَنِ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ أَبِي أُمَامَةَ، رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُوَيْدُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا يَحْيَى بْنُ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ يَزِيدَ، عَنِ الْقَاسِمِ أَبِي عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ، رضى الله عنه أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2735": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "Chapters on Seeking Permission",
+    "book_num": "42",
+    "reference": "Reference  : Jami` at-Tirmidhi 2735\nIn-book reference  : Book 42, Hadith 48\nEnglish translation  : Vol. 5, Book 40, Hadith 2735",
+    "url": "https://sunnah.com/tirmidhi/42",
+    "sanad_full": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، وَغَيْرُ، وَاحِدٍ، قَالُوا حَدَّثَنَا مُوسَى بْنُ مَسْعُودٍ أَبُو حُذَيْفَةَ، عَنْ سُفْيَانَ، عَنْ أَبِي إِسْحَاقَ، عَنْ مُصْعَبِ بْنِ سَعْدٍ، عَنْ عِكْرِمَةَ بْنِ أَبِي جَهْلٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ جِئْتُهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ مَسْعُودٍ أَبُو حُذَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُصْعَبِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِكْرِمَةَ بْنِ أَبِي جَهْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "جِئْتُهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

@@ -1,0 +1,856 @@
+{
+  "2276": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2276\nIn-book reference  : Book 43, Hadith 1\nUSC-MSA web (English) reference  : Book 30, Hadith 5653\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ الرَّازِيُّ، وَمُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ سَهْمٍ، جَمِيعًا عَنِ الْوَلِيدِ، - قَالَ ابْنُ مِهْرَانَ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، - حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ أَبِي عَمَّارٍ، شَدَّادٍ أَنَّهُ سَمِعَ وَاثِلَةَ بْنَ الأَسْقَعِ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 11,
+        "arabic_name": "أَبِي عَمَّارٍ، شَدَّادٍ أَنَّهُ سَمِعَ وَاثِلَةَ بْنَ الأَسْقَعِ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2277": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2277\nIn-book reference  : Book 43, Hadith 2\nUSC-MSA web (English) reference  : Book 30, Hadith 5654\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ، عَنْ إِبْرَاهِيمَ بْنِ طَهْمَانَ، حَدَّثَنِي سِمَاكُ بْنُ حَرْبٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2278": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2278\nIn-book reference  : Book 43, Hadith 3\nUSC-MSA web (English) reference  : Book 30, Hadith 5655\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي الْحَكَمُ بْنُ مُوسَى أَبُو صَالِحٍ، حَدَّثَنَا هِقْلٌ، - يَعْنِي ابْنَ زِيَادٍ - عَنِ الأَوْزَاعِيِّ، حَدَّثَنِي أَبُو عَمَّارٍ، حَدَّثَنِي عَبْدُ اللَّهِ بْنُ فَرُّوخَ، حَدَّثَنِي أَبُو هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 3,
+        "arabic_name": "هِقْلٌ، - يَعْنِي ابْنَ زِيَادٍ - عَنِ الأَوْزَاعِيِّ، حَدَّثَنِي أَبُو عَمَّارٍ، حَدَّثَنِي عَبْدُ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "2281": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2281\nIn-book reference  : Book 43, Hadith 9\nUSC-MSA web (English) reference  : Book 30, Hadith 5661\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنِي سَلَمَةُ بْنُ شَبِيبٍ، حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، حَدَّثَنَا مَعْقِلٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ رَجُلاً، أَتَى النَّبِيَّ صلى الله عليه وسلم يَسْتَطْعِمُهُ فَأَطْعَمَهُ شَطْرَ وَسْقِ شَعِيرٍ فَمَا زَالَ الرَّجُلُ يَأْكُلُ مِنْهُ وَامْرَأَتُهُ وَضَيْفُهُمَا حَتَّى كَالَهُ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "1392": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 1392c\nIn-book reference  : Book 43, Hadith 12\nUSC-MSA web (English) reference  : Book 30, Hadith 5664\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا الْمُغِيرَةُ بْنُ سَلَمَةَ الْمَخْزُومِيُّ، قَالاَ حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا عَمْرُو بْنُ يَحْيَى، بِهَذَا الإِسْنَادِ إِلَى قَوْلِهِ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "843": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 843c\nIn-book reference  : Book 43, Hadith 13\nUSC-MSA web (English) reference  : Book 30, Hadith 5665\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي، سَلَمَةَ عَنْ جَابِرٍ، ح\nوَحَدَّثَنِي أَبُو عِمْرَانَ، مُحَمَّدُ بْنُ جَعْفَرِ بْنِ زِيَادٍ - وَاللَّفْظُ لَهُ - أَخْبَرَنَا إِبْرَاهِيمُ، - يَعْنِي ابْنَ سَعْدٍ - عَنِ الزُّهْرِيِّ، عَنْ سِنَانِ بْنِ أَبِي سِنَانٍ الدُّؤَلِيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ غَزَوْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم غَزْوَةً قِبَلَ نَجْدٍ فَأَدْرَكَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي وَادٍ كَثِيرِ الْعِضَاهِ فَنَزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم تَحْتَ شَجَرَةٍ فَعَلَّقَ سَيْفَهُ بِغُصْنٍ مِنْ أَغْصَانِهَا - قَالَ - وَتَفَرَّقَ النَّاسُ فِي الْوَادِي يَسْتَظِلُّونَ بِالشَّجَرِ - قَالَ - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" إِنَّ رَجُلاً أَتَانِي وَأَنَا نَائِمٌ فَأَخَذَ السَّيْفَ فَاسْتَيْقَظْتُ وَهُوَ قَائِمٌ عَلَى رَأْسِي فَلَمْ أَشْعُرْ إِلاَّ وَالسَّيْفُ صَلْتًا فِي يَدِهِ فَقَالَ لِي مَنْ يَمْنَعُكَ مِنِّي قَالَ قُلْتُ اللَّهُ . ثُمَّ قَالَ فِي الثَّانِيَةِ مَنْ يَمْنَعُكَ مِنِّي قَالَ قُلْتُ اللَّهُ . قَالَ فَشَامَ السَّيْفَ فَهَا هُوَ ذَا جَالِسٌ \" . ثُمَّ لَمْ يَعْرِضْ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم .",
+    "narrators": [
+      {
+        "position": 7,
+        "arabic_name": "جَابِرٍ، ح\nوَحَدَّثَنِي أَبُو عِمْرَانَ، مُحَمَّدُ بْنُ جَعْفَرِ بْنِ زِيَادٍ - وَاللَّفْظُ لَهُ - أ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2282": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2282\nIn-book reference  : Book 43, Hadith 16\nUSC-MSA web (English) reference  : Book 30, Hadith 5668\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو عَامِرٍ الأَشْعَرِيُّ وَمُحَمَّدُ بْنُ الْعَلاَءِ - وَاللَّفْظُ لأَبِي عَامِرٍ - قَالُوا حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2283": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2283\nIn-book reference  : Book 43, Hadith 17\nUSC-MSA web (English) reference  : Book 30, Hadith 5669\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ بَرَّادٍ الأَشْعَرِيُّ، وَأَبُو كُرَيْبٍ - وَاللَّفْظُ لأَبِي كُرَيْبٍ - قَالاَ حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ بُرَيْدٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2284": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2284c\nIn-book reference  : Book 43, Hadith 20\nUSC-MSA web (English) reference  : Book 30, Hadith 5671\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم . فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2285": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2285\nIn-book reference  : Book 43, Hadith 21\nUSC-MSA web (English) reference  : Book 30, Hadith 5672\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، حَدَّثَنَا سَلِيمٌ، عَنْ سَعِيدِ بْنِ مِينَاءَ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2286": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2286d\nIn-book reference  : Book 43, Hadith 25\nUSC-MSA web (English) reference  : Book 30, Hadith 5676\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2288": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2288\nIn-book reference  : Book 43, Hadith 28\nUSC-MSA web (English) reference  : Book 30, Hadith 5679\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "قَالَ مُسْلِمٌ وَحُدِّثْتُ عَنْ أَبِي أُسَامَةَ، وَمِمَّنْ، رَوَى ذَلِكَ، عَنْهُ إِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنِي بُرَيْدُ بْنُ عَبْدِ اللَّهِ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2289": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2289a\nIn-book reference  : Book 43, Hadith 29\nUSC-MSA web (English) reference  : Book 30, Hadith 5680\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُونُسَ، حَدَّثَنَا زَائِدَةُ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عُمَيْرٍ، قَالَ سَمِعْتُ جُنْدَبًا، يَقُولُ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "2294": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2294\nIn-book reference  : Book 43, Hadith 34\nUSC-MSA web (English) reference  : Book 30, Hadith 5685\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا يَحْيَى بْنُ سُلَيْمٍ، عَنِ ابْنِ خُثَيْمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُبَيْدِ، اللَّهِ بْنِ أَبِي مُلَيْكَةَ أَنَّهُ سَمِعَ عَائِشَةَ، تَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ وَهُوَ بَيْنَ ظَهْرَانَىْ أَصْحَابِهِ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2295": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2295b\nIn-book reference  : Book 43, Hadith 36\nUSC-MSA web (English) reference  : Book 30, Hadith 5687\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنِي أَبُو مَعْنٍ الرَّقَاشِيُّ، وَأَبُو بَكْرِ بْنُ نَافِعٍ وَعَبْدُ بْنُ حُمَيْدٍ قَالُوا حَدَّثَنَا أَبُو عَامِرٍ - وَهُوَ عَبْدُ الْمَلِكِ بْنُ عَمْرٍو - حَدَّثَنَا أَفْلَحُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَافِعٍ، قَالَ كَانَتْ أُمُّ سَلَمَةَ تُحَدِّثُ أَنَّهَا سَمِعَتِ النَّبِيَّ صلى الله عليه وسلم يَقُولُ عَلَى الْمِنْبَرِ وَهِيَ تَمْتَشِطُ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "2296": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2296b\nIn-book reference  : Book 43, Hadith 38\nUSC-MSA web (English) reference  : Book 30, Hadith 5689\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا وَهْبٌ، - يَعْنِي ابْنَ جَرِيرٍ - حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ يَحْيَى بْنَ أَيُّوبَ، يُحَدِّثُ عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ مَرْثَدٍ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى قَتْلَى أُحُدٍ ثُمَّ صَعِدَ الْمِنْبَرَ كَالْمُوَدِّعِ لِلأَحْيَاءِ وَالأَمْوَاتِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 5,
+        "arabic_name": "وَهْبٌ، - يَعْنِي ابْنَ جَرِيرٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "، سَمِعْتُ يَحْيَى بْنَ أَيُّوبَ، يُحَدِّثُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2297": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2297b\nIn-book reference  : Book 43, Hadith 40\nUSC-MSA web (English) reference  : Book 30, Hadith 5691\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَاهُ عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، عَنْ جَرِيرٍ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ . وَلَمْ يَذْكُرْ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2299": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2299e\nIn-book reference  : Book 43, Hadith 49\nUSC-MSA web (English) reference  : Book 30, Hadith 5700\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنِي عُمَرُ بْنُ مُحَمَّدٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2300": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2300\nIn-book reference  : Book 43, Hadith 50\nUSC-MSA web (English) reference  : Book 30, Hadith 5701\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ الْمَكِّيُّ، - وَاللَّفْظُ لاِبْنِ أَبِي شَيْبَةَ - قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ عَبْدِ، الصَّمَدِ الْعَمِّيُّ عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ الصَّامِتِ، عَنْ أَبِي ذَرٍّ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ مَا آنِيَةُ الْحَوْضِ قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2302": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2302a\nIn-book reference  : Book 43, Hadith 53\nUSC-MSA web (English) reference  : Book 30, Hadith 5704\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَلاَّمٍ الْجُمَحِيُّ، حَدَّثَنَا الرَّبِيعُ، - يَعْنِي ابْنَ مُسْلِمٍ - عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 5,
+        "arabic_name": "الرَّبِيعُ، - يَعْنِي ابْنَ مُسْلِمٍ -",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2303": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2303c\nIn-book reference  : Book 43, Hadith 59\nUSC-MSA web (English) reference  : Book 30, Hadith 5709\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا هِشَامٌ، ح وَحَدَّثَنَا حَسَنُ، بْنُ عَلِيٍّ الْحُلْوَانِيُّ حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، كِلاَهُمَا عَنْ قَتَادَةَ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ غَيْرَ أَنَّهُمَا شَكَّا فَقَالاَ أَوْ مِثْلَ مَا بَيْنَ الْمَدِينَةِ وَعَمَّانَ . وَفِي حَدِيثِ أَبِي عَوَانَةَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2304": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2304b\nIn-book reference  : Book 43, Hadith 57\nUSC-MSA web (English) reference  : Book 30, Hadith 5707\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ حُجْرٍ، قَالاَ حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ فُضَيْلٍ، جَمِيعًا عَنِ الْمُخْتَارِ بْنِ فُلْفُلٍ، عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا الْمَعْنَى وَزَادَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2305": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2305b\nIn-book reference  : Book 43, Hadith 62\nUSC-MSA web (English) reference  : Book 30, Hadith 5712\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ قَالاَ حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنِ الْمُهَاجِرِ بْنِ مِسْمَارٍ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، قَالَ كَتَبْتُ إِلَى جَابِرِ بْنِ سَمُرَةَ مَعَ غُلاَمِي نَافِعٍ أَخْبِرْنِي بِشَىْءٍ، سَمِعْتَهُ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم - قَالَ - فَكَتَبَ إِلَىَّ إِنِّي سَمِعْتُهُ يَقُولُ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2307": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2307b\nIn-book reference  : Book 43, Hadith 66\nUSC-MSA web (English) reference  : Book 30, Hadith 5716\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ كَانَ بِالْمَدِينَةِ فَزَعٌ فَاسْتَعَارَ النَّبِيُّ صلى الله عليه وسلم فَرَسًا لأَبِي طَلْحَةَ يُقَالُ لَهُ مَنْدُوبٌ فَرَكِبَهُ فَقَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2310": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2310a, 2309e\nIn-book reference  : Book 43, Hadith 74\nUSC-MSA web (English) reference  : Book 30, Hadith 5724\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي أَبُو مَعْنٍ الرَّقَاشِيُّ، زَيْدُ بْنُ يَزِيدَ أَخْبَرَنَا عُمَرُ بْنُ يُونُسَ، حَدَّثَنَا عِكْرِمَةُ، - وَهُوَ ابْنُ عَمَّارٍ - قَالَ قَالَ إِسْحَاقُ قَالَ أَنَسٌ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ أَحْسَنِ النَّاسِ خُلُقًا فَأَرْسَلَنِي يَوْمًا لِحَاجَةٍ فَقُلْتُ وَاللَّهِ لاَ أَذْهَبُ . وَفِي نَفْسِي أَنْ أَذْهَبَ لِمَا أَمَرَنِي بِهِ نَبِيُّ اللَّهِ صلى الله عليه وسلم فَخَرَجْتُ حَتَّى أَمُرَّ عَلَى صِبْيَانٍ وَهُمْ يَلْعَبُونَ فِي السُّوقِ فَإِذَا رَسُولُ اللَّهِ صلى الله عليه وسلم قَدْ قَبَضَ بِقَفَاىَ مِنْ وَرَائِي - قَالَ - فَنَظَرْتُ إِلَيْهِ وَهُوَ يَضْحَكُ فَقَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "2316": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2316\nIn-book reference  : Book 43, Hadith 84\nUSC-MSA web (English) reference  : Book 30, Hadith 5734\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، - وَاللَّفْظُ لِزُهَيْرٍ - قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، - وَهُوَ ابْنُ عُلَيَّةَ - عَنْ أَيُّوبَ، عَنْ عَمْرِو بْنِ سَعِيدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ مَا رَأَيْتُ أَحَدًا كَانَ أَرْحَمَ بِالْعِيَالِ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم - قَالَ - كَانَ إِبْرَاهِيمُ مُسْتَرْضِعًا لَهُ فِي عَوَالِي الْمَدِينَةِ فَكَانَ يَنْطَلِقُ وَنَحْنُ مَعَهُ فَيَدْخُلُ الْبَيْتَ وَإِنَّهُ لَيُدَّخَنُ وَكَانَ ظِئْرُهُ قَيْنًا فَيَأْخُذُهُ فَيُقَبِّلُهُ ثُمَّ يَرْجِعُ . قَالَ عَمْرٌو فَلَمَّا تُوُفِّيَ إِبْرَاهِيمُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2318": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2318a\nIn-book reference  : Book 43, Hadith 86\nUSC-MSA web (English) reference  : Book 30, Hadith 5736\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا عَنْ سُفْيَانَ، قَالَ عَمْرٌو حَدَّثَنَا سُفْيَانُ، بْنُ عُيَيْنَةَ عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ الأَقْرَعَ بْنَ حَابِسٍ، أَبْصَرَ النَّبِيَّ صلى الله عليه وسلم يُقَبِّلُ الْحَسَنَ فَقَالَ إِنَّ لِي عَشَرَةً مِنَ الْوَلَدِ مَا قَبَّلْتُ وَاحِدًا مِنْهُمْ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 11,
+        "arabic_name": "أَبِي هُرَيْرَةَ، أَنَّ الأَقْرَعَ بْنَ حَابِسٍ، أَبْصَرَ النَّبِيَّ صلى الله عليه وسلم يُقَبِّلُ ال",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2319": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2319a\nIn-book reference  : Book 43, Hadith 88\nUSC-MSA web (English) reference  : Book 30, Hadith 5737\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، كِلاَهُمَا عَنْ جَرِيرٍ، ح وَحَدَّثَنَا إِسْحَاقُ، بْنُ إِبْرَاهِيمَ وَعَلِيُّ بْنُ خَشْرَمٍ قَالاَ أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا أَبُو مُعَاوِيَةَ، ح وَحَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، حَدَّثَنَا حَفْصٌ، - يَعْنِي ابْنَ غِيَاثٍ - كُلُّهُمْ عَنِ الأَعْمَشِ، عَنْ زَيْدِ بْنِ وَهْبٍ، وَأَبِي، ظِبْيَانَ عَنْ جَرِيرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 15,
+        "arabic_name": "حَفْصٌ، - يَعْنِي ابْنَ غِيَاثٍ - كُلُّهُمْ عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2321": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2321a\nIn-book reference  : Book 43, Hadith 91\nUSC-MSA web (English) reference  : Book 30, Hadith 5740\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، قَالاَ حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ مَسْرُوقٍ، قَالَ دَخَلْنَا عَلَى عَبْدِ اللَّهِ بْنِ عَمْرٍو حِينَ قَدِمَ مُعَاوِيَةُ إِلَى الْكُوفَةِ فَذَكَرَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ لَمْ يَكُنْ فَاحِشًا وَلاَ مُتَفَحِّشًا . وَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2323": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2323e\nIn-book reference  : Book 43, Hadith 98\nUSC-MSA web (English) reference  : Book 30, Hadith 5747\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنِي هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، قَالَ كَانَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم حَادٍ حَسَنُ الصَّوْتِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2326": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2326\nIn-book reference  : Book 43, Hadith 102\nUSC-MSA web (English) reference  : Book 30, Hadith 5751\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ امْرَأَةً، كَانَ فِي عَقْلِهَا شَىْءٌ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ لِي إِلَيْكَ حَاجَةً فَقَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2331": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2331a\nIn-book reference  : Book 43, Hadith 113\nUSC-MSA web (English) reference  : Book 30, Hadith 5761\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا هَاشِمٌ، - يَعْنِي ابْنَ الْقَاسِمِ - عَنْ سُلَيْمَانَ، عَنْ ثَابِتٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ دَخَلَ عَلَيْنَا النَّبِيُّ صلى الله عليه وسلم فَقَالَ عِنْدَنَا فَعَرِقَ وَجَاءَتْ أُمِّي بِقَارُورَةٍ فَجَعَلَتْ تَسْلُتُ الْعَرَقَ فِيهَا فَاسْتَيْقَظَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 3,
+        "arabic_name": "هَاشِمٌ، - يَعْنِي ابْنَ الْقَاسِمِ -",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2332": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2332\nIn-book reference  : Book 43, Hadith 115\nUSC-MSA web (English) reference  : Book 30, Hadith 5763\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَفَّانُ بْنُ مُسْلِمٍ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا أَيُّوبُ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، عَنْ أُمِّ سُلَيْمٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَأْتِيهَا فَيَقِيلُ عِنْدَهَا فَتَبْسُطُ لَهُ نَطْعًا فَيَقِيلُ عَلَيْهِ وَكَانَ كَثِيرَ الْعَرَقِ فَكَانَتْ تَجْمَعُ عَرَقَهُ فَتَجْعَلُهُ فِي الطِّيبِ وَالْقَوَارِيرِ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2333": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2333b\nIn-book reference  : Book 43, Hadith 117\nUSC-MSA web (English) reference  : Book 30, Hadith 5765\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو أُسَامَةَ، وَابْنُ، بِشْرٍ جَمِيعًا عَنْ هِشَامٍ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ الْحَارِثَ بْنَ هِشَامٍ، سَأَلَ النَّبِيَّ صلى الله عليه وسلم كَيْفَ يَأْتِيكَ الْوَحْىُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 21,
+        "arabic_name": "عَائِشَةَ، أَنَّ الْحَارِثَ بْنَ هِشَامٍ، سَأَلَ النَّبِيَّ صلى الله عليه وسلم كَيْفَ يَأْتِيكَ الْو",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2354": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2354b\nIn-book reference  : Book 43, Hadith 164\nUSC-MSA web (English) reference  : Book 30, Hadith 5811\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ مُحَمَّدِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "أَخْبَرَنِي",
+      "عَنْ"
+    ]
+  },
+  "2355": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2355\nIn-book reference  : Book 43, Hadith 166\nUSC-MSA web (English) reference  : Book 30, Hadith 5813\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، أَخْبَرَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ عَمْرِو، بْنِ مُرَّةَ عَنْ أَبِي عُبَيْدَةَ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُسَمِّي لَنَا نَفْسَهُ أَسْمَاءً فَقَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2356": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2356c\nIn-book reference  : Book 43, Hadith 169\nUSC-MSA web (English) reference  : Book 30, Hadith 5816\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ رَخَّصَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي أَمْرٍ فَتَنَزَّهَ عَنْهُ نَاسٌ مِنَ النَّاسِ فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَغَضِبَ حَتَّى بَانَ الْغَضَبُ فِي وَجْهِهِ ثُمَّ قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "1337": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 1337b\nIn-book reference  : Book 43, Hadith 171\nUSC-MSA web (English) reference  : Book 30, Hadith 5818\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى التُّجِيبِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، وَسَعِيدُ بْنُ الْمُسَيَّبِ، قَالاَ كَانَ أَبُو هُرَيْرَةَ يُحَدِّثُ أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "أَخْبَرَنِي"
+    ]
+  },
+  "2358": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2358c\nIn-book reference  : Book 43, Hadith 176\nUSC-MSA web (English) reference  : Book 30, Hadith 5822\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنِيهِ حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، ح وَحَدَّثَنَا عَبْدُ بْنُ، حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، كِلاَهُمَا عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ . وَزَادَ فِي حَدِيثِ مَعْمَرٍ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنِي"
+    ]
+  },
+  "2364": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2364\nIn-book reference  : Book 43, Hadith 187\nUSC-MSA web (English) reference  : Book 30, Hadith 5833\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم . فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2365": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2365b\nIn-book reference  : Book 43, Hadith 189\nUSC-MSA web (English) reference  : Book 30, Hadith 5835\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو دَاوُدَ، عُمَرُ بْنُ سَعْدٍ عَنْ سُفْيَانَ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2366": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2366c\nIn-book reference  : Book 43, Hadith 193\nUSC-MSA web (English) reference  : Book 30, Hadith 5838\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي عَمْرُو بْنُ الْحَارِثِ، أَنَّ أَبَا يُونُسَ، سُلَيْمًا مَوْلَى أَبِي هُرَيْرَةَ حَدَّثَهُ عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "عَنْ"
+    ]
+  },
+  "2367": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2367\nIn-book reference  : Book 43, Hadith 194\nUSC-MSA web (English) reference  : Book 30, Hadith 5839\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، أَخْبَرَنَا أَبُو عَوَانَةَ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2368": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2368\nIn-book reference  : Book 43, Hadith 195\nUSC-MSA web (English) reference  : Book 30, Hadith 5840\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم . فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2369": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2369a\nIn-book reference  : Book 43, Hadith 196\nUSC-MSA web (English) reference  : Book 30, Hadith 5841\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَابْنُ، فُضَيْلٍ عَنِ الْمُخْتَارِ، ح وَحَدَّثَنِي عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، أَخْبَرَنَا الْمُخْتَارُ، بْنُ فُلْفُلٍ عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا خَيْرَ الْبَرِيَّةِ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2370": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2370\nIn-book reference  : Book 43, Hadith 199\nUSC-MSA web (English) reference  : Book 30, Hadith 5844\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْمُغِيرَةُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْحِزَامِيَّ - عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 5,
+        "arabic_name": "الْمُغِيرَةُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْحِزَامِيَّ -",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "151": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 151e\nIn-book reference  : Book 43, Hadith 202\nUSC-MSA web (English) reference  : Book 30, Hadith 5847\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا وَرْقَاءُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "339": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 339b\nIn-book reference  : Book 43, Hadith 204\nUSC-MSA web (English) reference  : Book 30, Hadith 5849\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2372": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2372a\nIn-book reference  : Book 43, Hadith 206\nUSC-MSA web (English) reference  : Book 30, Hadith 5851\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالَ عَبْدٌ أَخْبَرَنَا وَقَالَ ابْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ ابْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أُرْسِلَ مَلَكُ الْمَوْتِ إِلَى مُوسَى عَلَيْهِ السَّلاَمُ فَلَمَّا جَاءَهُ صَكَّهُ فَفَقَأَ عَيْنَهُ فَرَجَعَ إِلَى رَبِّهِ فَقَالَ أَرْسَلْتَنِي إِلَى عَبْدٍ لاَ يُرِيدُ الْمَوْتَ - قَالَ - فَرَدَّ اللَّهُ إِلَيْهِ عَيْنَهُ وَقَالَ ارْجِعْ إِلَيْهِ فَقُلْ لَهُ يَضَعُ يَدَهُ عَلَى مَتْنِ ثَوْرٍ فَلَهُ بِمَا غَطَّتْ يَدُهُ بِكُلِّ شَعْرَةٍ سَنَةٌ قَالَ أَىْ رَبِّ ثُمَّ مَهْ قَالَ ثُمَّ الْمَوْتُ . قَالَ فَالآنَ فَسَأَلَ اللَّهَ أَنْ يُدْنِيَهُ مِنَ الأَرْضِ الْمُقَدَّسَةِ رَمْيَةً بِحَجَرٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2373": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2373c\nIn-book reference  : Book 43, Hadith 211\nUSC-MSA web (English) reference  : Book 30, Hadith 5854\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، وَأَبُو بَكْرِ بْنُ النَّضْرِ قَالاَ حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبِي، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، وَعَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ اسْتَبَّ رَجُلاَنِ رَجُلٌ مِنَ الْيَهُودِ وَرَجُلٌ مِنَ الْمُسْلِمِينَ فَقَالَ الْمُسْلِمُ وَالَّذِي اصْطَفَى مُحَمَّدًا صلى الله عليه وسلم عَلَى الْعَالَمِينَ . وَقَالَ الْيَهُودِيُّ وَالَّذِي اصْطَفَى مُوسَى عَلَيْهِ السَّلاَمُ عَلَى الْعَالَمِينَ . قَالَ فَرَفَعَ الْمُسْلِمُ يَدَهُ عِنْدَ ذَلِكَ فَلَطَمَ وَجْهَ الْيَهُودِيِّ فَذَهَبَ الْيَهُودِيُّ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَخْبَرَهُ بِمَا كَانَ مِنْ أَمْرِهِ وَأَمْرِ الْمُسْلِمِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2374": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2374b\nIn-book reference  : Book 43, Hadith 214\nUSC-MSA web (English) reference  : Book 30, Hadith 5857\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ يَحْيَى، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2375": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2375a\nIn-book reference  : Book 43, Hadith 215\nUSC-MSA web (English) reference  : Book 30, Hadith 5858\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ، وَشَيْبَانُ بْنُ فَرُّوخَ، قَالاَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، الْبُنَانِيِّ وَسُلَيْمَانَ التَّيْمِيِّ عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2376": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2376\nIn-book reference  : Book 43, Hadith 217\nUSC-MSA web (English) reference  : Book 30, Hadith 5860\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، قَالُوا حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، - حَدَّثَنَا شُعْبَةُ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ، قَالَ سَمِعْتُ حُمَيْدَ بْنَ عَبْدِ الرَّحْمَنِ، يُحَدِّثُ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ",
+    "narrators": [
+      {
+        "position": 11,
+        "arabic_name": "سَمِعْتُ حُمَيْدَ بْنَ عَبْدِ الرَّحْمَنِ، يُحَدِّثُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2377": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2377\nIn-book reference  : Book 43, Hadith 218\nUSC-MSA web (English) reference  : Book 30, Hadith 5861\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ، بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ سَمِعْتُ أَبَا الْعَالِيَةِ، يَقُولُ حَدَّثَنِي ابْنُ عَمِّ، نَبِيِّكُمْ صلى الله عليه وسلم - يَعْنِي ابْنَ عَبَّاسٍ - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 11,
+        "arabic_name": "سَمِعْتُ أَبَا الْعَالِيَةِ، يَقُولُ حَدَّثَنِي ابْنُ عَمِّ، نَبِيِّكُمْ صلى الله عليه وسلم - يَعْنِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2379": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2379\nIn-book reference  : Book 43, Hadith 220\nUSC-MSA web (English) reference  : Book 30, Hadith 5863\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَبِي رَافِعٍ، عَنْ أَبِي، هُرَيْرَةَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "2380": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Virtues",
+    "book_num": "43",
+    "reference": "Reference  : Sahih Muslim 2380f\nIn-book reference  : Book 43, Hadith 226\nUSC-MSA web (English) reference  : Book 30, Hadith 5867\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/43",
+    "sanad_full": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّهُ تَمَارَى هُوَ وَالْحُرُّ بْنُ قَيْسِ بْنِ حِصْنٍ الْفَزَارِيُّ فِي صَاحِبِ مُوسَى عَلَيْهِ السَّلاَمُ فَقَالَ ابْنُ عَبَّاسٍ هُوَ الْخَضِرُ . فَمَرَّ بِهِمَا أُبَىُّ بْنُ كَعْبٍ الأَنْصَارِيُّ فَدَعَاهُ ابْنُ عَبَّاسٍ فَقَالَ يَا أَبَا الطُّفَيْلِ هَلُمَّ إِلَيْنَا فَإِنِّي قَدْ تَمَارَيْتُ أَنَا وَصَاحِبِي هَذَا فِي صَاحِبِ مُوسَى الَّذِي سَأَلَ السَّبِيلَ إِلَى لُقِيِّهِ فَهَلْ سَمِعْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَذْكُرُ شَأْنَهُ فَقَالَ أُبَىٌّ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [],
+    "chain_length": 0,
+    "chain_markers": [
+      "أَخْبَرَنِي",
+      "عَنْ"
+    ]
+  }
+}

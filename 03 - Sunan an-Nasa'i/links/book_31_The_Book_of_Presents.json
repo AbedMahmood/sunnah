@@ -1,0 +1,137 @@
+{
+  "3679": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Presents",
+    "book_num": "31",
+    "reference": "Reference  : Sunan an-Nasa'i 3679\nIn-book reference  : Book 31, Hadith 8\nEnglish translation  : Vol. 4, Book 31, Hadith 3709",
+    "url": "https://sunnah.com/nasai/31",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ - قَالَ حَدَّثَنَا دَاوُدُ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ، قَالَ انْطَلَقَ بِهِ أَبُوهُ يَحْمِلُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم قَالَ اشْهَدْ أَنِّي قَدْ نَحَلْتُ النُّعْمَانَ مِنْ مَالِي كَذَا وَكَذَا . قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ زُرَيْعٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ انْطَلَقَ بِهِ أَبُوهُ يَحْمِلُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ اشْهَدْ أَنِّي قَدْ نَحَلْتُ النُّعْمَانَ مِنْ مَالِي كَذَا وَكَذَا .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "3685": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Presents",
+    "book_num": "31",
+    "reference": "Reference  : Sunan an-Nasa'i 3685\nIn-book reference  : Book 31, Hadith 14\nEnglish translation  : Vol. 4, Book 31, Hadith 3715",
+    "url": "https://sunnah.com/nasai/31",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، عَنْ يَحْيَى، عَنْ فِطْرٍ، قَالَ حَدَّثَنِي مُسْلِمُ بْنُ صُبَيْحٍ، قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، يَقُولُ ذَهَبَ بِي أَبِي إِلَى النَّبِيِّ صلى الله عليه وسلم يُشْهِدُهُ عَلَى شَىْءٍ أَعْطَانِيهِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ فِطْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي مُسْلِمُ بْنُ صُبَيْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، يَقُولُ ذَهَبَ بِي أَبِي إِلَى النَّبِيِّ صلى الله عليه وس",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "3687": {
+    "collection": "Sunan an-Nasa'i",
+    "book": "The Book of Presents",
+    "book_num": "31",
+    "reference": "Reference  : Sunan an-Nasa'i 3687\nIn-book reference  : Book 31, Hadith 16\nEnglish translation  : Vol. 4, Book 31, Hadith 3717",
+    "url": "https://sunnah.com/nasai/31",
+    "sanad_full": "أَخْبَرَنَا يَعْقُوبُ بْنُ سُفْيَانَ، قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ حَاجِبِ بْنِ الْمُفَضَّلِ بْنِ الْمُهَلَّبِ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، يَخْطُبُ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "أَخْبَرَنَا يَعْقُوبُ بْنُ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ حَاجِبِ بْنِ الْمُفَضَّلِ بْنِ الْمُهَلَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَخْطُبُ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

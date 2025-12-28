@@ -1,0 +1,1815 @@
+{
+  "2017": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2017\nIn-book reference  : Book 10, Hadith 2\nEnglish translation  : Vol. 3, Book 10, Hadith 2017",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُؤَمَّلٌ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُؤَمَّلٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2018": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2018\nIn-book reference  : Book 10, Hadith 3\nEnglish translation  : Vol. 3, Book 10, Hadith 2018",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا كَثِيرُ بْنُ عُبَيْدٍ الْحِمْصِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ الْوَلِيدِ الْوَصَّافِيِّ، عَنْ مُحَارِبِ بْنِ دِثَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا كَثِيرُ بْنُ عُبَيْدٍ الْحِمْصِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ بْنِ الْوَلِيدِ الْوَصَّافِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَارِبِ بْنِ دِثَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2019": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2019\nIn-book reference  : Book 10, Hadith 4\nEnglish translation  : Vol. 3, Book 10, Hadith 2019",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ طَلَّقْتُ امْرَأَتِي وَهِيَ حَائِضٌ فَذَكَرَ ذَلِكَ عُمَرُ لِرَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ طَلَّقْتُ امْرَأَتِي وَهِيَ حَائِضٌ فَذَكَرَ ذَلِكَ عُمَرُ لِرَسُولِ اللَّهِ ـ صلى الله عليه و",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2023": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2023\nIn-book reference  : Book 10, Hadith 8\nEnglish translation  : Vol. 3, Book 10, Hadith 2023",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَلِيُّ بْنُ مُحَمَّدٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ، مَوْلَى آلِ طَلْحَةَ عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ فَذَكَرَ ذَلِكَ عُمَرُ لِلنَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "طَلْحَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ فَذَكَرَ ذَلِكَ عُمَرُ ل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2026": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2026\nIn-book reference  : Book 10, Hadith 11\nEnglish translation  : Vol. 3, Book 10, Hadith 2026",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عُمَرَ بْنِ هَيَّاجٍ، حَدَّثَنَا قَبِيصَةُ بْنُ عُقْبَةَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، عَنْ أَبِيهِ، عَنِ الزُّبَيْرِ بْنِ الْعَوَّامِ، أَنَّهُ كَانَتْ عِنْدَهُ أُمُّ كُلْثُومٍ بِنْتُ عُقْبَةَ فَقَالَتْ لَهُ وَهِيَ حَامِلٌ طَيِّبْ نَفْسِي بِتَطْلِيقَةٍ . فَطَلَّقَهَا تَطْلِيقَةً ثُمَّ خَرَجَ إِلَى الصَّلاَةِ فَرَجَعَ وَقَدْ وَضَعَتْ . فَقَالَ مَالَهَا خَدَعَتْنِي خَدَعَهَا اللَّهُ ثُمَّ أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُمَرَ بْنِ هَيَّاجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا قَبِيصَةُ بْنُ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ مَيْمُونٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ الزُّبَيْرِ بْنِ الْعَوَّامِ، أَنَّهُ كَانَتْ عِنْدَهُ أُمُّ كُلْثُومٍ بِنْتُ عُق",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ لَهُ وَهِيَ حَامِلٌ طَيِّبْ نَفْسِي بِتَطْلِيقَةٍ . فَطَلَّقَهَا تَطْلِيقَةً ثُمَّ خَرَجَ إِ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ مَالَهَا خَدَعَتْنِي خَدَعَهَا اللَّهُ ثُمَّ أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2027": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2027\nIn-book reference  : Book 10, Hadith 12\nEnglish translation  : Vol. 3, Book 10, Hadith 2027",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ أَبِي السَّنَابِلِ، قَالَ وَضَعَتْ سُبَيْعَةُ الأَسْلَمِيَّةُ بِنْتُ الْحَارِثِ حَمْلَهَا بَعْدَ وَفَاةِ زَوْجِهَا بِبِضْعٍ وَعِشْرِينَ لَيْلَةً فَلَمَّا تَعَلَّتْ مِنْ نِفَاسِهَا تَشَوَّفَتْ فَعِيبَ ذَلِكَ عَلَيْهَا وَذُكِرَ أَمْرُهَا لِلنَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي السَّنَابِلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ وَضَعَتْ سُبَيْعَةُ الأَسْلَمِيَّةُ بِنْتُ الْحَارِثِ حَمْلَهَا بَعْدَ وَفَاةِ زَوْجِهَا بِبِض",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2034": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2034\nIn-book reference  : Book 10, Hadith 19\nEnglish translation  : Vol. 3, Book 10, Hadith 2034",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ، حَدَّثَنَا رَوْحٌ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ مَنْصُورٍ، حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، جَمِيعًا عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ طُلِّقَتْ خَالَتِي فَأَرَادَتْ أَنْ تَجُدَّ نَخْلَهَا فَزَجَرَهَا رَجُلٌ أَنْ تَخْرُجَ إِلَيْهِ فَأَتَتِ النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ وَكِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا رَوْحٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، جَمِيعًا عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ طُلِّقَتْ خَالَتِي فَأَرَادَتْ أَنْ تَجُدَّ نَخْلَهَا فَزَجَرَهَا رَجُلٌ أَنْ تَخْرُجَ إِلَيْه",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2036": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2036\nIn-book reference  : Book 10, Hadith 21\nEnglish translation  : Vol. 3, Book 10, Hadith 2036",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ مُغِيرَةَ، عَنِ الشَّعْبِيِّ، قَالَ قَالَتْ فَاطِمَةُ بِنْتُ قَيْسٍ طَلَّقَنِي زَوْجِي عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ثَلاَثًا فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُغِيرَةَ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ فَاطِمَةُ بِنْتُ قَيْسٍ طَلَّقَنِي زَوْجِي عَلَى عَهْدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2037": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2037\nIn-book reference  : Book 10, Hadith 22\nEnglish translation  : Vol. 3, Book 10, Hadith 2037",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ الْمِقْدَامِ أَبُو الأَشْعَثِ الْعِجْلِيُّ، حَدَّثَنَا عُبَيْدُ بْنُ الْقَاسِمِ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ عَمْرَةَ بِنْتَ الْجَوْنِ، تَعَوَّذَتْ مِنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ حِينَ أُدْخِلَتْ عَلَيْهِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ الْمِقْدَامِ أَبُو الأَشْعَثِ الْعِجْلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ بْنُ الْقَاسِمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ عَمْرَةَ بِنْتَ الْجَوْنِ، تَعَوَّذَتْ مِنْ رَسُولِ اللَّهِ ـ صلى الله عليه وس",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2038": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2038\nIn-book reference  : Book 10, Hadith 23\nEnglish translation  : Vol. 3, Book 10, Hadith 2038",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَمْرُو بْنُ أَبِي سَلَمَةَ أَبُو حَفْصٍ التَّنِّيسِيُّ، عَنْ زُهَيْرٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ أَبِي سَلَمَةَ أَبُو حَفْصٍ التَّنِّيسِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زُهَيْرٍ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2039": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2039\nIn-book reference  : Book 10, Hadith 24\nEnglish translation  : Vol. 3, Book 10, Hadith 2039",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ حَبِيبِ بْنِ أَرْدَكَ، حَدَّثَنَا عَطَاءُ بْنُ أَبِي رَبَاحٍ، عَنْ يُوسُفَ بْنِ مَاهَكَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ حَبِيبِ بْنِ أَرْدَكَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَطَاءُ بْنُ أَبِي رَبَاحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يُوسُفَ بْنِ مَاهَكَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2040": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2040\nIn-book reference  : Book 10, Hadith 25\nEnglish translation  : Vol. 3, Book 10, Hadith 2040",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَعَبْدَةُ بْنُ سُلَيْمَانَ، ح وَحَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، جَمِيعًا عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ بْنِ أَوْفَى، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَعَبْدَةُ بْنُ سُلَيْمَانَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "جَمِيعًا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ زُرَارَةَ بْنِ أَوْفَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2042": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2042\nIn-book reference  : Book 10, Hadith 27\nEnglish translation  : Vol. 3, Book 10, Hadith 2042",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَنْبَأَنَا الْقَاسِمُ بْنُ يَزِيدَ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا رَوْحُ بْنُ عُبَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ جُرَيْجٍ، أَنْبَأَنَا الْقَاسِمُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2043": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2043\nIn-book reference  : Book 10, Hadith 28\nEnglish translation  : Vol. 3, Book 10, Hadith 2043",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُحَمَّدِ بْنِ يُوسُفَ الْفِرْيَابِيُّ، حَدَّثَنَا أَيُّوبُ بْنُ سُوَيْدٍ، حَدَّثَنَا أَبُو بَكْرٍ الْهُذَلِيُّ، عَنْ شَهْرِ بْنِ حَوْشَبٍ، عَنْ أَبِي ذَرٍّ الْغِفَارِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُحَمَّدِ بْنِ يُوسُفَ الْفِرْيَابِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَيُّوبُ بْنُ سُوَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرٍ الْهُذَلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شَهْرِ بْنِ حَوْشَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي ذَرٍّ الْغِفَارِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2044": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2044\nIn-book reference  : Book 10, Hadith 29\nEnglish translation  : Vol. 3, Book 10, Hadith 2044",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ مِسْعَرٍ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ بْنِ أَوْفَى، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مِسْعَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زُرَارَةَ بْنِ أَوْفَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2045": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2045\nIn-book reference  : Book 10, Hadith 30\nEnglish translation  : Vol. 3, Book 10, Hadith 2045",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2046": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2046\nIn-book reference  : Book 10, Hadith 31\nEnglish translation  : Vol. 3, Book 10, Hadith 2046",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ ثَوْرٍ، عَنْ عُبَيْدِ بْنِ أَبِي صَالِحٍ، عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ، قَالَتْ حَدَّثَتْنِي عَائِشَةُ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ ثَوْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُبَيْدِ بْنِ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ حَدَّثَتْنِي عَائِشَةُ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2047": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2047\nIn-book reference  : Book 10, Hadith 32\nEnglish translation  : Vol. 3, Book 10, Hadith 2047",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا هُشَيْمٌ، أَنْبَأَنَا عَامِرٌ الأَحْوَلُ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ، جَمِيعًا عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، . أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ، أَنْبَأَنَا عَامِرٌ الأَحْوَلُ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "جَمِيعًا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ جَدِّهِ، . أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2048": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2048\nIn-book reference  : Book 10, Hadith 33\nEnglish translation  : Vol. 3, Book 10, Hadith 2048",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ، حَدَّثَنَا عَلِيُّ بْنُ الْحُسَيْنِ بْنِ وَاقِدٍ، حَدَّثَنَا هِشَامُ بْنُ سَعْدٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْحُسَيْنِ بْنِ وَاقِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ سَعْدٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2049": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2049\nIn-book reference  : Book 10, Hadith 34\nEnglish translation  : Vol. 3, Book 10, Hadith 2049",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا مَعْمَرٌ، عَنْ جُوَيْبِرٍ، عَنِ الضَّحَّاكِ، عَنِ النَّزَّالِ بْنِ سَبْرَةَ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَنْبَأَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جُوَيْبِرٍ، عَنِ الضَّحَّاكِ، عَنِ النَّزَّالِ بْنِ سَبْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2050": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2050\nIn-book reference  : Book 10, Hadith 35\nEnglish translation  : Vol. 3, Book 10, Hadith 2050",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ سَأَلْتُ الزُّهْرِيَّ أَىُّ أَزْوَاجِ النَّبِيِّ ـ صلى الله عليه وسلم ـ اسْتَعَاذَتْ مِنْهُ فَقَالَ أَخْبَرَنِي عُرْوَةُ عَنْ عَائِشَةَ أَنَّ ابْنَةَ الْجَوْنِ لَمَّا دَخَلَتْ عَلَى رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَدَنَا مِنْهَا قَالَتْ أَعُوذُ بِاللَّهِ مِنْكَ . فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَأَلْتُ الزُّهْرِيَّ أَىُّ أَزْوَاجِ النَّبِيِّ ـ صلى الله عليه وسلم ـ اسْتَعَاذَتْ مِنْهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عُرْوَةُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "مِنْهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ أَعُوذُ بِاللَّهِ مِنْكَ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2054": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2054\nIn-book reference  : Book 10, Hadith 39\nEnglish translation  : Vol. 3, Book 10, Hadith 2054",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا بَكْرُ بْنُ خَلَفٍ أَبُو بِشْرٍ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ جَعْفَرِ بْنِ يَحْيَى بْنِ ثَوْبَانَ، عَنْ عَمِّهِ، عُمَارَةَ بْنِ ثَوْبَانَ عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا بَكْرُ بْنُ خَلَفٍ أَبُو بِشْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ جَعْفَرِ بْنِ يَحْيَى بْنِ ثَوْبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ثَوْبَانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2055": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2055\nIn-book reference  : Book 10, Hadith 40\nEnglish translation  : Vol. 3, Book 10, Hadith 2055",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ الأَزْهَرِ، حَدَّثَنَا مُحَمَّدُ بْنُ الْفَضْلِ، عَنْ حَمَّادِ بْنِ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي أَسْمَاءَ، عَنْ ثَوْبَانَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ الأَزْهَرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْفَضْلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَمَّادِ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي أَسْمَاءَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ ثَوْبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2056": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2056\nIn-book reference  : Book 10, Hadith 41\nEnglish translation  : Vol. 3, Book 10, Hadith 2056",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَزْهَرُ بْنُ مَرْوَانَ، حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ جَمِيلَةَ بِنْتَ سَلُولَ، أَتَتِ النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقَالَتْ وَاللَّهِ مَا أَعْتِبُ عَلَى ثَابِتٍ فِي دِينٍ وَلاَ خُلُقٍ . وَلَكِنِّي أَكْرَهُ الْكُفْرَ فِي الإِسْلاَمِ لاَ أُطِيقُهُ بُغْضًا . فَقَالَ لَهَا النَّبِيُّ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَزْهَرُ بْنُ مَرْوَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ جَمِيلَةَ بِنْتَ سَلُولَ، أَتَتِ النَّبِيَّ ـ صلى الله ع",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ وَاللَّهِ مَا أَعْتِبُ عَلَى ثَابِتٍ فِي دِينٍ وَلاَ خُلُقٍ . وَلَكِنِّي أَكْرَهُ الْكُفْرَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَهَا النَّبِيُّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2057": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2057\nIn-book reference  : Book 10, Hadith 42\nEnglish translation  : Vol. 3, Book 10, Hadith 2057",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنْ حَجَّاجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ كَانَتْ حَبِيبَةُ بِنْتُ سَهْلٍ تَحْتَ ثَابِتِ بْنِ قَيْسِ بْنِ شَمَّاسٍ وَكَانَ رَجُلاً دَمِيمًا . فَقَالَتْ يَا رَسُولَ اللَّهِ وَاللَّهِ لَوْلاَ مَخَافَةُ اللَّهِ إِذَا دَخَلَ عَلَىَّ لَبَصَقْتُ فِي وَجْهِهِ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَجَّاجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كَانَتْ حَبِيبَةُ بِنْتُ سَهْلٍ تَحْتَ ثَابِتِ بْنِ قَيْسِ بْنِ شَمَّاسٍ وَكَانَ رَجُلاً دَمِي",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ يَا رَسُولَ اللَّهِ وَاللَّهِ لَوْلاَ مَخَافَةُ اللَّهِ إِذَا دَخَلَ عَلَىَّ لَبَصَقْتُ فِي ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2061": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2061\nIn-book reference  : Book 10, Hadith 46\nEnglish translation  : Vol. 3, Book 10, Hadith 2061",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ يُوسُفَ السُّلَمِيُّ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ يَحْيَى بْنِ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ صَيْفِيٍّ، عَنْ عِكْرِمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أُمِّ سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ آلَى مِنْ بَعْضِ نِسَائِهِ شَهْرًا فَلَمَّا كَانَ تِسْعَةً وَعِشْرِينَ رَاحَ أَوْ غَدَا . فَقِيلَ يَا رَسُولَ اللَّهِ إِنَّمَا مَضَى تِسْعٌ وَعِشْرُونَ . فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ يُوسُفَ السُّلَمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ صَيْفِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ بْنِ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ آلَى مِنْ بَعْضِ نِسَائِهِ شَهْرًا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2464": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2464\nIn-book reference  : Book 10, Hadith 49\nEnglish translation  : Vol. 3, Book 10, Hadith 2464",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَطَاءٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ سَلَمَةَ بْنِ صَخْرٍ الْبَيَاضِيِّ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ فِي الْمُظَاهِرِ يُوَاقِعُ قَبْلَ أَنْ يُكَفِّرَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يُكَفِّرَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2065": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2065\nIn-book reference  : Book 10, Hadith 50\nEnglish translation  : Vol. 3, Book 10, Hadith 2065",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا الْعَبَّاسُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا مَعْمَرٌ، عَنِ الْحَكَمِ بْنِ أَبَانَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، ظَاهَرَ مِنِ امْرَأَتِهِ فَغَشِيَهَا قَبْلَ أَنْ يُكَفِّرَ فَأَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ فَذَكَرَ ذَلِكَ لَهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْعَبَّاسُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا غُنْدَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ، عَنِ الْحَكَمِ بْنِ أَبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، ظَاهَرَ مِنِ امْرَأَتِهِ فَغَشِيَهَا قَبْلَ أَن",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2066": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2066\nIn-book reference  : Book 10, Hadith 51\nEnglish translation  : Vol. 3, Book 10, Hadith 2066",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو مَرْوَانَ، مُحَمَّدُ بْنُ عُثْمَانَ الْعُثْمَانِيُّ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، قَالَ جَاءَ عُوَيْمِرٌ إِلَى عَاصِمِ بْنِ عَدِيٍّ فَقَالَ سَلْ لِي رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَرَأَيْتَ رَجُلاً وَجَدَ مَعَ امْرَأَتِهِ رَجُلاً فَقَتَلَهُ أَيُقْتَلُ بِهِ أَمْ كَيْفَ يَصْنَعُ فَسَأَلَ عَاصِمٌ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ عَنْ ذَلِكَ فَعَابَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ الْمَسَائِلَ . ثُمَّ لَقِيَهُ عُوَيْمِرٌ فَسَأَلَهُ فَقَالَ مَا صَنَعْتَ فَقَالَ صَنَعْتُ أَنَّكَ لَمْ تَأْتِنِي بِخَيْرٍ سَأَلْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ فَعَابَ الْمَسَائِلَ فَقَالَ عُوَيْمِرٌ وَاللَّهِ لآتِيَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ وَلأَسْأَلَنَّهُ . فَأَتَى رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ فَوَجَدَهُ قَدْ أُنْزِلَ عَلَيْهِ فِيهِمَا فَلاَعَنَ بَيْنَهُمَا فَقَالَ عُوَيْمِرٌ وَاللَّهِ لَئِنِ انْطَلَقْتُ بِهَا يَا رَسُولَ اللَّهِ لَقَدْ كَذَبْتُ عَلَيْهَا . قَالَ فَفَارَقَهَا قَبْلَ أَنْ يَأْمُرَهُ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ فَصَارَتْ سُنَّةً فِي الْمُتَلاَعِنَيْنِ ثُمَّ قَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْعُثْمَانِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ جَاءَ عُوَيْمِرٌ إِلَى عَاصِمِ بْنِ عَدِيٍّ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَلْ لِي رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَرَأَيْتَ رَجُلاً وَجَدَ مَعَ امْرَأَتِهِ رَج",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ ذَلِكَ فَعَابَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ الْمَسَائِلَ . ثُمَّ لَقِيَهُ عُوَيْمِرٌ ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ مَا صَنَعْتَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ صَنَعْتُ أَنَّكَ لَمْ تَأْتِنِي بِخَيْرٍ سَأَلْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ فَعَا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ عُوَيْمِرٌ وَاللَّهِ لآتِيَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ وَلأَسْأَلَنَّهُ . فَأَت",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ عُوَيْمِرٌ وَاللَّهِ لَئِنِ انْطَلَقْتُ بِهَا يَا رَسُولَ اللَّهِ لَقَدْ كَذَبْتُ عَلَيْهَا .",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ النَّبِيُّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 12,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2068": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2068\nIn-book reference  : Book 10, Hadith 53\nEnglish translation  : Vol. 3, Book 10, Hadith 2068",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ بْنِ حَبِيبٍ، قَالاَ حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ كُنَّا فِي الْمَسْجِدِ لَيْلَةَ الْجُمُعَةِ . فَقَالَ رَجُلٌ لَوْ أَنَّ رَجُلاً وَجَدَ مَعَ امْرَأَتِهِ رَجُلاً فَقَتَلَهُ قَتَلْتُمُوهُ وَإِنْ تَكَلَّمَ جَلَدْتُمُوهُ وَاللَّهِ لأَذْكُرَنَّ ذَلِكَ لِلنَّبِيِّ ـ صلى الله عليه وسلم ـ . فَذَكَرَهُ لِلنَّبِيِّ ـ صلى الله عليه وسلم ـ فَأَنْزَلَ اللَّهُ آيَاتِ اللِّعَانِ . ثُمَّ جَاءَ الرَّجُلُ بَعْدَ ذَلِكَ يَقْذِفُ امْرَأَتَهُ فَلاَعَنَ النَّبِيُّ ـ صلى الله عليه وسلم ـ بَيْنَهُمَا وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدَةُ بْنُ سُلَيْمَانَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلْقَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كُنَّا فِي الْمَسْجِدِ لَيْلَةَ الْجُمُعَةِ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَجُلٌ لَوْ أَنَّ رَجُلاً وَجَدَ مَعَ امْرَأَتِهِ رَجُلاً فَقَتَلَهُ قَتَلْتُمُوهُ وَإِنْ تَكَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2071": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2071\nIn-book reference  : Book 10, Hadith 56\nEnglish translation  : Vol. 3, Book 10, Hadith 2071",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ الْحَضْرَمِيُّ، عَنْ ضَمْرَةَ بْنِ رَبِيعَةَ، عَنِ ابْنِ عَطَاءٍ، عَنْ أَبِيهِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ الْحَضْرَمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ ضَمْرَةَ بْنِ رَبِيعَةَ، عَنِ ابْنِ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2079": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2079\nIn-book reference  : Book 10, Hadith 64\nEnglish translation  : Vol. 3, Book 10, Hadith 2079",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ طَرِيفٍ، وَإِبْرَاهِيمُ بْنُ سَعِيدٍ الْجَوْهَرِيُّ، قَالاَ حَدَّثَنَا عُمَرُ بْنُ شَبِيبٍ الْمُسْلِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ عِيسَى، عَنْ عَطِيَّةَ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُمَرُ بْنُ شَبِيبٍ الْمُسْلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطِيَّةَ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2081": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2081\nIn-book reference  : Book 10, Hadith 66\nEnglish translation  : Vol. 3, Book 10, Hadith 2081",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا يَحْيَى بْنُ عَبْدِ اللَّهِ بْنِ بُكَيْرٍ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ مُوسَى بْنِ أَيُّوبَ الْغَافِقِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ سَيِّدِي زَوَّجَنِي أَمَتَهُ وَهُوَ يُرِيدُ أَنْ يُفَرِّقَ بَيْنِي وَبَيْنَهَا . قَالَ فَصَعِدَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ الْمِنْبَرَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ عَبْدِ اللَّهِ بْنِ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ لَهِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُوسَى بْنِ أَيُّوبَ الْغَافِقِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ رَجُلٌ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ إِنَّ سَيِّدِي زَوَّجَنِي أَمَتَهُ وَهُوَ يُرِيدُ أَنْ يُفَرِّقَ بَيْنِي و",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ فَصَعِدَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ الْمِنْبَرَ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2084": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2084\nIn-book reference  : Book 10, Hadith 69\nEnglish translation  : Vol. 3, Book 10, Hadith 2084",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ حُمَيْدِ بْنِ نَافِعٍ، . أَنَّهُ سَمِعَ زَيْنَبَ ابْنَةَ أُمِّ سَلَمَةَ، تُحَدِّثُ أَنَّهَا سَمِعَتْ أُمَّ سَلَمَةَ، وَأُمَّ حَبِيبَةَ تَذْكُرَانِ أَنَّ امْرَأَةً أَتَتِ النَّبِيَّ ـ صلى الله عليه وسلم ـ فَقَالَتْ إِنَّ ابْنَةً لَهَا تُوُفِّيَ عَنْهَا زَوْجُهَا فَاشْتَكَتْ عَيْنُهَا فَهِيَ تُرِيدُ أَنْ تَكْحَلَهَا . فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَنْبَأَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ نَافِعٍ، . أَنَّهُ سَمِعَ زَيْنَبَ ابْنَةَ أُمِّ سَلَمَةَ، تُحَدِّثُ أَنَّهَا سَم",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "تُوُفِّيَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْهَا زَوْجُهَا فَاشْتَكَتْ عَيْنُهَا فَهِيَ تُرِيدُ أَنْ تَكْحَلَهَا . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2085": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2085\nIn-book reference  : Book 10, Hadith 70\nEnglish translation  : Vol. 3, Book 10, Hadith 2085",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَائِشَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2086": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2086\nIn-book reference  : Book 10, Hadith 71\nEnglish translation  : Vol. 3, Book 10, Hadith 2086",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ نَافِعٍ، عَنْ صَفِيَّةَ بِنْتِ أَبِي عُبَيْدٍ، عَنْ حَفْصَةَ، زَوْجِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو الأَحْوَصِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ صَفِيَّةَ بِنْتِ أَبِي عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ حَفْصَةَ، زَوْجِ النَّبِيِّ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2087": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2087\nIn-book reference  : Book 10, Hadith 72\nEnglish translation  : Vol. 3, Book 10, Hadith 2087",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ هِشَامِ بْنِ حَسَّانَ، عَنْ حَفْصَةَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامِ بْنِ حَسَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَفْصَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُمِّ عَطِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2089": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Chapters on Divorce",
+    "book_num": "10",
+    "reference": "Reference  : Sunan Ibn Majah 2089\nIn-book reference  : Book 10, Hadith 74\nEnglish translation  : Vol. 3, Book 10, Hadith 2089",
+    "url": "https://sunnah.com/ibnmajah/10",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، أَنَّ رَجُلاً، أَمَرَهُ أَبُوهُ أَوْ أُمُّهُ - شَكَّ شُعْبَةُ - أَنْ يُطَلِّقَ، امْرَأَتَهُ فَجَعَلَ عَلَيْهِ مِائَةَ مُحَرَّرٍ . فَأَتَى أَبَا الدَّرْدَاءِ فَإِذَا هُوَ يُصَلِّي الضُّحَى وَيُطِيلُهَا وَصَلَّى مَا بَيْنَ الظُّهْرِ وَالْعَصْرِ فَسَأَلَهُ فَقَالَ أَبُو الدَّرْدَاءِ أَوْفِ بِنَذْرِكَ وَبَرَّ وَالِدَيْكَ . وَقَالَ أَبُو الدَّرْدَاءِ سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ السَّائِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي عَبْدِ الرَّحْمَنِ، أَنَّ رَجُلاً، أَمَرَهُ أَبُوهُ أَوْ أُمُّهُ - شَكَّ شُعْبَةُ - أَنْ ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَبُو الدَّرْدَاءِ أَوْفِ بِنَذْرِكَ وَبَرَّ وَالِدَيْكَ . وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "1901350": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "Rasoolullah Leaning On Something Other Than a Pillow",
+    "book_num": "22",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901350\nIn-book reference  : Book 22, Hadith 001\nEnglish translation  : Vol. 1, Book 22, Hadith 001",
+    "url": "https://sunnah.com/shamail/22",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "1901360": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "Rasoolullah Leaning On Something Other Than a Pillow",
+    "book_num": "22",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901360\nIn-book reference  : Book 22, Hadith 002\nEnglish translation  : Vol. 1, Book 22, Hadith 002",
+    "url": "https://sunnah.com/shamail/22",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللهِ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  }
+}

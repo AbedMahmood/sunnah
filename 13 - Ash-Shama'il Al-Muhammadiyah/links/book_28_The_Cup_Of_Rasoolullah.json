@@ -1,0 +1,40 @@
+{
+  "1901950": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Cup Of Rasoolullah",
+    "book_num": "28",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901950\nIn-book reference  : Book 28, Hadith 001\nEnglish translation  : Vol. 1, Book 28, Hadith 001",
+    "url": "https://sunnah.com/shamail/28",
+    "sanad_full": "حَدَّثَنَا الْحُسَيْنُ بْنُ الأَسْوَدِ الْبَغْدَادِيُّ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحُسَيْنُ بْنُ الأَسْوَدِ الْبَغْدَادِيُّ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  },
+  "1901960": {
+    "collection": "Shama'il Muhammadiyah",
+    "book": "The Cup Of Rasoolullah",
+    "book_num": "28",
+    "reference": "Reference  : Shama'il Muhammadiyah 1901960\nIn-book reference  : Book 28, Hadith 002\nEnglish translation  : Vol. 1, Book 28, Hadith 002",
+    "url": "https://sunnah.com/shamail/28",
+    "sanad_full": "حَدَّثَنَا الْحُسَيْنُ بْنُ الأَسْوَدِ الْبَغْدَادِيُّ،",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحُسَيْنُ بْنُ الأَسْوَدِ الْبَغْدَادِيُّ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 1,
+    "chain_markers": [
+      "حَدَّثَنَا"
+    ]
+  }
+}

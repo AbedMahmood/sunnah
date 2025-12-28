@@ -1,0 +1,2377 @@
+{
+  "350": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 350\nIn-book reference  : Book 8, Hadith 2\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 346\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ، قَالَتْ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ صَالِحِ بْنِ كَيْسَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "351": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 351\nIn-book reference  : Book 8, Hadith 3\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 347\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ إِبْرَاهِيمَ، عَنْ مُحَمَّدٍ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ أُمِرْنَا أَنْ نُخْرِجَ، الْحُيَّضَ يَوْمَ الْعِيدَيْنِ وَذَوَاتِ الْخُدُورِ، فَيَشْهَدْنَ جَمَاعَةَ الْمُسْلِمِينَ وَدَعْوَتَهُمْ، وَيَعْتَزِلُ الْحُيَّضُ عَنْ مُصَلاَّهُنَّ. قَالَتِ امْرَأَةٌ يَا رَسُولَ اللَّهِ، إِحْدَانَا لَيْسَ لَهَا جِلْبَابٌ. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُمِّ عَطِيَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الْحُيَّضُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مُصَلاَّهُنَّ.",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتِ امْرَأَةٌ يَا رَسُولَ اللَّهِ، إِحْدَانَا لَيْسَ لَهَا جِلْبَابٌ.",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "358": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 358\nIn-book reference  : Book 8, Hadith 10\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 354\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ سَائِلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّلاَةِ فِي ثَوْبٍ وَاحِدٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ سَائِلاً، سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنِ الصَّلاَةِ فِي",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "359": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 359\nIn-book reference  : Book 8, Hadith 11\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 355\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ مَالِكٍ، عَنْ أَبِي الزِّنَادِ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "360": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 360\nIn-book reference  : Book 8, Hadith 12\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 356\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا شَيْبَانُ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عِكْرِمَةَ، قَالَ سَمِعْتُهُ ـ أَوْ، كُنْتُ سَأَلْتُهُ ـ قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ أَشْهَدُ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شَيْبَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُهُ ـ أَوْ، كُنْتُ سَأَلْتُهُ ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "363": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 363\nIn-book reference  : Book 8, Hadith 15\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 359\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، عَنْ مُغِيرَةَ بْنِ شُعْبَةَ، قَالَ كُنْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مُغِيرَةَ بْنِ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كُنْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي سَفَرٍ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "365": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 365\nIn-book reference  : Book 8, Hadith 17\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 361\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَامَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَسَأَلَهُ عَنِ الصَّلاَةِ فِي الثَّوْبِ الْوَاحِدِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ قَامَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَسَأَلَهُ عَنِ الصَّلاَةِ فِي الثَّوْبِ الْو",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "366": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 366\nIn-book reference  : Book 8, Hadith 18\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 362\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، قَالَ سَأَلَ رَجُلٌ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ مَا يَلْبَسُ الْمُحْرِمُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَاصِمُ بْنُ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَأَلَ رَجُلٌ رَسُولَ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ مَا يَلْبَسُ الْمُحْرِمُ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "374": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 374\nIn-book reference  : Book 8, Hadith 26\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 371\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا أَبُو مَعْمَرٍ عَبْدُ اللَّهِ بْنُ عَمْرٍو، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ، عَنْ أَنَسٍ، كَانَ قِرَامٌ لِعَائِشَةَ سَتَرَتْ بِهِ جَانِبَ بَيْتِهَا فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مَعْمَرٍ عَبْدُ اللَّهِ بْنُ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسٍ، كَانَ قِرَامٌ لِعَائِشَةَ سَتَرَتْ بِهِ جَانِبَ بَيْتِهَا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "375": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 375\nIn-book reference  : Book 8, Hadith 27\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 372\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ، عَنْ أَبِي الْخَيْرِ، عَنْ عُقْبَةَ بْنِ عَامِرٍ، قَالَ أُهْدِيَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَرُّوجُ حَرِيرٍ، فَلَبِسَهُ فَصَلَّى فِيهِ، ثُمَّ انْصَرَفَ فَنَزَعَهُ نَزْعًا شَدِيدًا كَالْكَارِهِ لَهُ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الْخَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُقْبَةَ بْنِ عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أُهْدِيَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَرُّوجُ حَرِيرٍ، فَلَبِسَهُ فَصَلَّى فِيهِ، ثُمّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "380": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 380\nIn-book reference  : Book 8, Hadith 32\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 377\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ جَدَّتَهُ، مُلَيْكَةَ دَعَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم لِطَعَامٍ صَنَعَتْهُ لَهُ، فَأَكَلَ مِنْهُ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "391": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 391\nIn-book reference  : Book 8, Hadith 43\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 386\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَمْرُو بْنُ عَبَّاسٍ، قَالَ حَدَّثَنَا ابْنُ الْمَهْدِيِّ، قَالَ حَدَّثَنَا مَنْصُورُ بْنُ سَعْدٍ، عَنْ مَيْمُونِ بْنِ سِيَاهٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ الْمَهْدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مَنْصُورُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَيْمُونِ بْنِ سِيَاهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "392": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 392\nIn-book reference  : Book 8, Hadith 44\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 387\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا نُعَيْمٌ، قَالَ حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ حُمَيْدٍ الطَّوِيلِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا نُعَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حُمَيْدٍ الطَّوِيلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "394": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 394\nIn-book reference  : Book 8, Hadith 46\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 388\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا الزُّهْرِيُّ، عَنْ عَطَاءِ بْنِ يَزِيدَ، عَنْ أَبِي أَيُّوبَ الأَنْصَارِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا الزُّهْرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي أَيُّوبَ الأَنْصَارِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "398": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 398\nIn-book reference  : Book 8, Hadith 49\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 391\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، قَالَ لَمَّا دَخَلَ النَّبِيُّ صلى الله عليه وسلم الْبَيْتَ دَعَا فِي نَوَاحِيهِ كُلِّهَا، وَلَمْ يُصَلِّ حَتَّى خَرَجَ مِنْهُ، فَلَمَّا خَرَجَ رَكَعَ رَكْعَتَيْنِ فِي قُبُلِ الْكَعْبَةِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لَمَّا دَخَلَ النَّبِيُّ صلى الله عليه وسلم الْبَيْتَ دَعَا فِي نَوَاحِيهِ كُلِّهَا، وَلَمْ يُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "404": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 404\nIn-book reference  : Book 8, Hadith 56\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 398\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنِ الْحَكَمِ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ صَلَّى النَّبِيُّ صلى الله عليه وسلم الظُّهْرَ خَمْسًا فَقَالُوا أَزِيدَ فِي الصَّلاَةِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ، عَنِ الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَلْقَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الصَّلاَةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "406": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 406\nIn-book reference  : Book 8, Hadith 58\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 400\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،. أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى بُصَاقًا فِي جِدَارِ الْقِبْلَةِ فَحَكَّهُ، ثُمَّ أَقْبَلَ عَلَى النَّاسِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،. أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى بُصَاقًا فِي جِدَار",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "408": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 408, 409\nIn-book reference  : Book 8, Hadith 60\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 402\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ أَخْبَرَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، أَخْبَرَنَا ابْنُ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا هُرَيْرَةَ، وَأَبَا، سَعِيدٍ حَدَّثَاهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى نُخَامَةً فِي جِدَارِ الْمَسْجِدِ، فَتَنَاوَلَ حَصَاةً فَحَكَّهَا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا ابْنُ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا هُرَيْرَةَ، وَأَبَا، سَعِيدٍ حَدَّثَاهُ أَنَّ رَس",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "410": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 410, 411\nIn-book reference  : Book 8, Hadith 61\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 403\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّ أَبَا هُرَيْرَةَ، وَأَبَا، سَعِيدٍ أَخْبَرَاهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى نُخَامَةً فِي حَائِطِ الْمَسْجِدِ، فَتَنَاوَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم حَصَاةً فَحَتَّهَا ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "412": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 412\nIn-book reference  : Book 8, Hadith 62\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 404\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي قَتَادَةُ، قَالَ سَمِعْتُ أَنَسًا، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ أَنَسًا،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "413": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 413\nIn-book reference  : Book 8, Hadith 63\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 405\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا قَتَادَةُ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا آدَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "415": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 415\nIn-book reference  : Book 8, Hadith 65\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 407\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا قَتَادَةُ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا آدَمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "416": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 416\nIn-book reference  : Book 8, Hadith 66\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 408\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ هَمَّامٍ، سَمِعَ أَبَا هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ هَمَّامٍ، سَمِعَ أَبَا هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "418": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 418\nIn-book reference  : Book 8, Hadith 68\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 410\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "419": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 419\nIn-book reference  : Book 8, Hadith 69\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 411\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ صَالِحٍ، قَالَ حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ، عَنْ هِلاَلِ بْنِ عَلِيٍّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ صَلَّى بِنَا النَّبِيُّ صلى الله عليه وسلم صَلاَةً ثُمَّ رَقِيَ الْمِنْبَرَ، فَقَالَ فِي الصَّلاَةِ وَفِي الرُّكُوعِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا فُلَيْحُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِلاَلِ بْنِ عَلِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ صَلَّى بِنَا النَّبِيُّ صلى الله عليه وسلم صَلاَةً ثُمَّ رَقِيَ الْمِنْبَرَ، فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الرُّكُوعِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "424": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 424\nIn-book reference  : Book 8, Hadith 74\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 416\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، عَنْ مَحْمُودِ بْنِ الرَّبِيعِ، عَنْ عِتْبَانَ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَتَاهُ فِي مَنْزِلِهِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَحْمُودِ بْنِ الرَّبِيعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِتْبَانَ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَتَاهُ فِي مَنْزِلِهِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "427": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 427\nIn-book reference  : Book 8, Hadith 77\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 419\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَحْيَى، عَنْ هِشَامٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ، وَأُمَّ سَلَمَةَ ذَكَرَتَا كَنِيسَةً رَأَيْنَهَا بِالْحَبَشَةِ فِيهَا تَصَاوِيرُ، فَذَكَرَتَا لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَخْبَرَنِي أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ، وَأُمَّ سَلَمَةَ ذَكَرَتَا كَنِيسَةً رَأَيْنَهَا بِالْحَبَشَة",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "431": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 431\nIn-book reference  : Book 8, Hadith 81\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 423\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، قَالَ انْخَسَفَتِ الشَّمْسُ، فَصَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زَيْدِ بْنِ أَسْلَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "432": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 432\nIn-book reference  : Book 8, Hadith 82\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 424\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "433": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 433\nIn-book reference  : Book 8, Hadith 83\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 425\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "434": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 434\nIn-book reference  : Book 8, Hadith 84\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 426\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدٌ، قَالَ أَخْبَرَنَا عَبْدَةُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ أُمَّ سَلَمَةَ، ذَكَرَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم كَنِيسَةً رَأَتْهَا بِأَرْضِ الْحَبَشَةِ يُقَالُ لَهَا مَارِيَةُ، فَذَكَرَتْ لَهُ مَا رَأَتْ فِيهَا مِنَ الصُّوَرِ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا عَبْدَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هِشَامِ بْنِ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَائِشَةَ، أَنَّ أُمَّ سَلَمَةَ، ذَكَرَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم كَنِيسَةً رَأَتْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "435": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 435, 436\nIn-book reference  : Book 8, Hadith 85\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 427\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، أَنَّ عَائِشَةَ، وَعَبْدَ اللَّهِ بْنَ عَبَّاسٍ، قَالاَ لَمَّا نَزَلَ بِرَسُولِ اللَّهِ صلى الله عليه وسلم طَفِقَ يَطْرَحُ خَمِيصَةً لَهُ عَلَى وَجْهِهِ، فَإِذَا اغْتَمَّ بِهَا كَشَفَهَا عَنْ وَجْهِهِ، فَقَالَ وَهْوَ كَذَلِكَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "كَشَفَهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ وَجْهِهِ، فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "كَذَلِكَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "437": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 437\nIn-book reference  : Book 8, Hadith 86\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 428\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "438": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 438\nIn-book reference  : Book 8, Hadith 87\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 429\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ سِنَانٍ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ حَدَّثَنَا سَيَّارٌ ـ هُوَ أَبُو الْحَكَمِ ـ قَالَ حَدَّثَنَا يَزِيدُ الْفَقِيرُ، قَالَ حَدَّثَنَا جَابِرُ بْنُ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سِنَانٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَيَّارٌ ـ هُوَ أَبُو الْحَكَمِ ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ الْفَقِيرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنَا جَابِرُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "443": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 443\nIn-book reference  : Book 8, Hadith 92\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 434\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا خَلاَّدُ بْنُ يَحْيَى، قَالَ حَدَّثَنَا مِسْعَرٌ، قَالَ حَدَّثَنَا مُحَارِبُ بْنُ دِثَارٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَهُوَ فِي الْمَسْجِدِ ـ قَالَ مِسْعَرٌ أُرَاهُ قَالَ ضُحًى ـ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا خَلاَّدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مِسْعَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا مُحَارِبُ بْنُ دِثَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم وَهُوَ فِي الْمَسْجِدِ ـ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "أُرَاهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ ضُحًى ـ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "444": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 444\nIn-book reference  : Book 8, Hadith 93\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 435\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ، عَنْ أَبِي قَتَادَةَ السَّلَمِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي قَتَادَةَ السَّلَمِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "445": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 445\nIn-book reference  : Book 8, Hadith 94\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 436\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "447": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 447\nIn-book reference  : Book 8, Hadith 96\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 438\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُخْتَارٍ، قَالَ حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنْ عِكْرِمَةَ، قَالَ لِي ابْنُ عَبَّاسٍ وَلاِبْنِهِ عَلِيٍّ انْطَلِقَا إِلَى أَبِي سَعِيدٍ فَاسْمَعَا مِنْ حَدِيثِهِ. فَانْطَلَقْنَا فَإِذَا هُوَ فِي حَائِطٍ يُصْلِحُهُ، فَأَخَذَ رِدَاءَهُ فَاحْتَبَى، ثُمَّ أَنْشَأَ يُحَدِّثُنَا حَتَّى أَتَى ذِكْرُ بِنَاءِ الْمَسْجِدِ فَقَالَ كُنَّا نَحْمِلُ لَبِنَةً لَبِنَةً، وَعَمَّارٌ لَبِنَتَيْنِ لَبِنَتَيْنِ، فَرَآهُ النَّبِيُّ صلى الله عليه وسلم فَيَنْفُضُ التُّرَابَ عَنْهُ وَيَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُخْتَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ الْحَذَّاءُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عِكْرِمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ لِي ابْنُ عَبَّاسٍ وَلاِبْنِهِ عَلِيٍّ انْطَلِقَا إِلَى أَبِي سَعِيدٍ فَاسْمَعَا مِنْ حَدِيثِه",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "التُّرَابَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "وَيَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "449": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 449\nIn-book reference  : Book 8, Hadith 98\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 440\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا خَلاَّدٌ، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ أَيْمَنَ، عَنْ أَبِيهِ، عَنْ جَابِرٍ، أَنَّ امْرَأَةً، قَالَتْ يَا رَسُولَ اللَّهِ، أَلاَ أَجْعَلُ لَكَ شَيْئًا تَقْعُدُ عَلَيْهِ، فَإِنَّ لِي غُلاَمًا نَجَّارًا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا خَلاَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ أَيْمَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرٍ، أَنَّ امْرَأَةً،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "نَجَّارًا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "450": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 450\nIn-book reference  : Book 8, Hadith 99\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 441\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ، حَدَّثَنِي ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، أَنَّ بُكَيْرًا، حَدَّثَهُ أَنَّ عَاصِمَ بْنَ عُمَرَ بْنِ قَتَادَةَ حَدَّثَهُ أَنَّهُ، سَمِعَ عُبَيْدَ اللَّهِ الْخَوْلاَنِيَّ، أَنَّهُ سَمِعَ عُثْمَانَ بْنَ عَفَّانَ، يَقُولُ عِنْدَ قَوْلِ النَّاسِ فِيهِ حِينَ بَنَى مَسْجِدَ الرَّسُولِ صلى الله عليه وسلم إِنَّكُمْ أَكْثَرْتُمْ، وَإِنِّي سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "حَدَّثَنِي"
+    ]
+  },
+  "451": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 451\nIn-book reference  : Book 8, Hadith 100\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 442\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ قُلْتُ لِعَمْرٍو أَسَمِعْتَ جَابِرَ بْنَ عَبْدِ اللَّهِ يَقُولُ مَرَّ رَجُلٌ فِي الْمَسْجِدِ وَمَعَهُ سِهَامٌ، فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ قُلْتُ لِعَمْرٍو أَسَمِعْتَ جَابِرَ بْنَ عَبْدِ اللَّهِ يَقُولُ مَرَّ رَجُلٌ فِي الْمَسْجِدِ و",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "452": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 452\nIn-book reference  : Book 8, Hadith 101\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 443\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ، قَالَ حَدَّثَنَا أَبُو بُرْدَةَ بْنُ عَبْدِ اللَّهِ، قَالَ سَمِعْتُ أَبَا بُرْدَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَاحِدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبُو بُرْدَةَ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ أَبَا بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "453": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 453\nIn-book reference  : Book 8, Hadith 102\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 444\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا أَبُو الْيَمَانِ الْحَكَمُ بْنُ نَافِعٍ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّهُ سَمِعَ حَسَّانَ بْنَ ثَابِتٍ الأَنْصَارِيَّ، يَسْتَشْهِدُ أَبَا هُرَيْرَةَ أَنْشُدُكَ اللَّهَ هَلْ سَمِعْتَ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو الْيَمَانِ الْحَكَمُ بْنُ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "458": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 458\nIn-book reference  : Book 8, Hadith 106\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 448\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ ثَابِتٍ، عَنْ أَبِي رَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً، أَسْوَدَ ـ أَوِ امْرَأَةً سَوْدَاءَ ـ كَانَ يَقُمُّ الْمَسْجِدَ، فَمَاتَ، فَسَأَلَ النَّبِيُّ صلى الله عليه وسلم عَنْهُ فَقَالُوا مَاتَ. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَجُلاً، أَسْوَدَ ـ أَوِ امْرَأَةً سَوْدَاءَ ـ كَانَ يَقُمُّ الْمَسْجِد",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْهُ فَقَالُوا مَاتَ.",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "461": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 461\nIn-book reference  : Book 8, Hadith 109\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 450\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَخْبَرَنَا رَوْحٌ، وَمُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ شُعْبَةَ، عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا رَوْحٌ، وَمُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "462": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 462\nIn-book reference  : Book 8, Hadith 110\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 451\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا اللَّيْثُ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ أَبِي سَعِيدٍ، سَمِعَ أَبَا هُرَيْرَةَ، قَالَ بَعَثَ النَّبِيُّ صلى الله عليه وسلم خَيْلاً قِبَلَ نَجْدٍ، فَجَاءَتْ بِرَجُلٍ مِنْ بَنِي حَنِيفَةَ يُقَالُ لَهُ ثُمَامَةُ بْنُ أُثَالٍ، فَرَبَطُوهُ بِسَارِيَةٍ مِنْ سَوَارِي الْمَسْجِدِ، فَخَرَجَ إِلَيْهِ النَّبِيُّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ أَبِي سَعِيدٍ، سَمِعَ أَبَا هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ بَعَثَ النَّبِيُّ صلى الله عليه وسلم خَيْلاً قِبَلَ نَجْدٍ، فَجَاءَتْ بِرَجُلٍ مِنْ بَنِي حَنِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "464": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 464\nIn-book reference  : Book 8, Hadith 112\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 453\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ، عَنْ عُرْوَةَ، عَنْ زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ شَكَوْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَنِّي أَشْتَكِي. قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أُمِّ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَتْ شَكَوْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَنِّي أَشْتَكِي.",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "467": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 467\nIn-book reference  : Book 8, Hadith 115\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 456\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الْجُعْفِيُّ، قَالَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ يَعْلَى بْنَ حَكِيمٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي مَرَضِهِ الَّذِي مَاتَ فِيهِ عَاصِبٌ رَأْسَهُ بِخِرْقَةٍ، فَقَعَدَ عَلَى الْمِنْبَرِ، فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الْجُعْفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ، سَمِعْتُ يَعْلَى بْنَ حَكِيمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "472": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 472\nIn-book reference  : Book 8, Hadith 120\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 461\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ سَأَلَ رَجُلٌ النَّبِيَّ صلى الله عليه وسلم وَهْوَ عَلَى الْمِنْبَرِ مَا تَرَى فِي صَلاَةِ اللَّيْلِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "اللَّيْلِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "473": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 473\nIn-book reference  : Book 8, Hadith 121\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 462\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا أَبُو النُّعْمَانِ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، جَاءَ إِلَى النَّبِيِّ صلى الله عليه وسلم وَهْوَ يَخْطُبُ فَقَالَ كَيْفَ صَلاَةُ اللَّيْلِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو النُّعْمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، جَاءَ إِلَى النَّبِيِّ صلى الله عليه وسلم وَهْوَ يَخ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كَيْفَ صَلاَةُ اللَّيْلِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "474": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 474\nIn-book reference  : Book 8, Hadith 122\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 463\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، أَنَّ أَبَا مُرَّةَ، مَوْلَى عَقِيلِ بْنِ أَبِي طَالِبٍ أَخْبَرَهُ عَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ، قَالَ بَيْنَمَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الْمَسْجِدِ فَأَقْبَلَ ثَلاَثَةُ نَفَرٍ، فَأَقْبَلَ اثْنَانِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَذَهَبَ وَاحِدٌ، فَأَمَّا أَحَدُهُمَا فَرَأَى فُرْجَةً فَجَلَسَ، وَأَمَّا الآخَرُ فَجَلَسَ خَلْفَهُمْ، فَلَمَّا فَرَغَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي وَاقِدٍ اللَّيْثِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ بَيْنَمَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الْمَسْجِدِ فَأَقْبَلَ ثَلاَثَةُ نَفَرٍ، فَأَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "477": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 477\nIn-book reference  : Book 8, Hadith 125\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 466\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُسَدَّدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "480": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 480\nIn-book reference  : Book 8, Hadith 127\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 467\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "وَقَالَ عَاصِمُ بْنُ عَلِيٍّ حَدَّثَنَا عَاصِمُ بْنُ مُحَمَّدٍ، سَمِعْتُ هَذَا الْحَدِيثَ، مِنْ أَبِي فَلَمْ أَحْفَظْهُ، فَقَوَّمَهُ لِي وَاقِدٌ عَنْ أَبِيهِ، قَالَ سَمِعْتُ أَبِي وَهُوَ، يَقُولُ قَالَ عَبْدُ اللَّهِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَلِيٍّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "وَاقِدٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "481": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 481\nIn-book reference  : Book 8, Hadith 128\nUSC-MSA web (English) reference  : Vol. 1, Book 8, Hadith 468\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا خَلاَّدُ بْنُ يَحْيَى، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي بُرْدَةَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي بُرْدَةَ، عَنْ جَدِّهِ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا خَلاَّدُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "509": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 509\nIn-book reference  : Book 8, Hadith 156\nUSC-MSA web (English) reference  : Vol. 1, Book 9, Hadith 487\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا أَبُو مَعْمَرٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا يُونُسُ، عَنْ حُمَيْدِ بْنِ هِلاَلٍ، عَنْ أَبِي صَالِحٍ، أَنَّ أَبَا سَعِيدٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم وَحَدَّثَنَا آدَمُ بْنُ أَبِي إِيَاسٍ قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ الْمُغِيرَةِ قَالَ حَدَّثَنَا حُمَيْدُ بْنُ هِلاَلٍ الْعَدَوِيُّ قَالَ حَدَّثَنَا أَبُو صَالِحٍ السَّمَّانُ قَالَ رَأَيْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ فِي يَوْمِ جُمُعَةٍ يُصَلِّي إِلَى شَىْءٍ يَسْتُرُهُ مِنَ النَّاسِ، فَأَرَادَ شَابٌّ مِنْ بَنِي أَبِي مُعَيْطٍ أَنْ يَجْتَازَ بَيْنَ يَدَيْهِ فَدَفَعَ أَبُو سَعِيدٍ فِي صَدْرِهِ، فَنَظَرَ الشَّابُّ فَلَمْ يَجِدْ مَسَاغًا إِلاَّ بَيْنَ يَدَيْهِ، فَعَادَ لِيَجْتَازَ فَدَفَعَهُ أَبُو سَعِيدٍ أَشَدَّ مِنَ الأُولَى، فَنَالَ مِنْ أَبِي سَعِيدٍ، ثُمَّ دَخَلَ عَلَى مَرْوَانَ فَشَكَا إِلَيْهِ مَا لَقِيَ مِنْ أَبِي سَعِيدٍ، وَدَخَلَ أَبُو سَعِيدٍ خَلْفَهُ عَلَى مَرْوَانَ فَقَالَ مَا لَكَ وَلاِبْنِ أَخِيكَ يَا أَبَا سَعِيدٍ قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو مَعْمَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يُونُسُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ حُمَيْدِ بْنِ هِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ، أَنَّ أَبَا سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "إِيَاسٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "الْمُغِيرَةِ",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "الْعَدَوِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 17,
+        "arabic_name": "السَّمَّانُ",
+        "role": "narrator"
+      },
+      {
+        "position": 18,
+        "arabic_name": "قَالَ رَأَيْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ فِي يَوْمِ جُمُعَةٍ يُصَلِّي إِلَى شَىْءٍ يَسْتُرُهُ مِنَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 19,
+        "arabic_name": "سَعِيدٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 20,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 13,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "510": {
+    "collection": "Sahih Bukhari",
+    "book": "Prayers (Salat)",
+    "book_num": "8",
+    "reference": "Reference  : Sahih al-Bukhari 510\nIn-book reference  : Book 8, Hadith 157\nUSC-MSA web (English) reference  : Vol. 1, Book 9, Hadith 489\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/bukhari/8",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، قَالَ أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ عَنْ بُسْرِ بْنِ سَعِيدٍ، أَنَّ زَيْدَ بْنَ خَالِدٍ، أَرْسَلَهُ إِلَى أَبِي جُهَيْمٍ يَسْأَلُهُ مَاذَا سَمِعَ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْمَارِّ بَيْنَ يَدَىِ الْمُصَلِّي فَقَالَ أَبُو جُهَيْمٍ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ بُسْرِ بْنِ سَعِيدٍ، أَنَّ زَيْدَ بْنَ خَالِدٍ، أَرْسَلَهُ إِلَى أَبِي جُهَيْمٍ يَسْأَلُهُ مَاذ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "جُهَيْمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

@@ -1,0 +1,1070 @@
+{
+  "1387": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1387\nIn-book reference  : Book 16, Hadith 2\nEnglish translation  : Vol. 3, Book 14, Hadith 1387",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ، أَخْبَرَنَا حَبَّانُ، وَهُوَ ابْنُ هِلاَلٍ حَدَّثَنَا مُحَمَّدُ بْنُ رَاشِدٍ، أَخْبَرَنَا سُلَيْمَانُ بْنُ مُوسَى، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الدَّارِمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "هِلاَلٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رَاشِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا سُلَيْمَانُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1390": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1390\nIn-book reference  : Book 16, Hadith 5\nEnglish translation  : Vol. 3, Book 14, Hadith 1390",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، أَخْبَرَنَا حُسَيْنٌ الْمُعَلِّمُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا حُسَيْنٌ الْمُعَلِّمُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَدِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1391": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1391\nIn-book reference  : Book 16, Hadith 6\nEnglish translation  : Vol. 3, Book 14, Hadith 1391",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا أَبُو عَمَّارٍ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنِ الْحُسَيْنِ بْنِ وَاقِدٍ، عَنْ يَزِيدَ بْنِ عَمْرٍو النَّحْوِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنِ الْحُسَيْنِ بْنِ وَاقِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ عَمْرٍو النَّحْوِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1392": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1392\nIn-book reference  : Book 16, Hadith 7\nEnglish translation  : Vol. 3, Book 14, Hadith 1392",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ جَعْفَرٍ، قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1393": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1393\nIn-book reference  : Book 16, Hadith 8\nEnglish translation  : Vol. 3, Book 14, Hadith 1393",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، حَدَّثَنَا يُونُسُ بْنُ أَبِي إِسْحَاقَ، حَدَّثَنَا أَبُو السَّفَرِ، قَالَ دَقَّ رَجُلٌ مِنْ قُرَيْشٍ سِنَّ رَجُلٍ مِنَ الأَنْصَارِ فَاسْتَعْدَى عَلَيْهِ مُعَاوِيَةَ فَقَالَ لِمُعَاوِيَةَ يَا أَمِيرَ الْمُؤْمِنِينَ إِنَّ هَذَا دَقَّ سِنِّي . قَالَ مُعَاوِيَةُ إِنَّا سَنُرْضِيكَ وَأَلَحَّ الآخَرُ عَلَى مُعَاوِيَةَ فَأَبْرَمَهُ فَلَمْ يُرْضِهِ فَقَالَ لَهُ مُعَاوِيَةُ شَأْنَكَ بِصَاحِبِكَ . وَأَبُو الدَّرْدَاءِ جَالِسٌ عِنْدَهُ قَالَ أَبُو الدَّرْدَاءِ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يُونُسُ بْنُ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو السَّفَرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ دَقَّ رَجُلٌ مِنْ قُرَيْشٍ سِنَّ رَجُلٍ مِنَ الأَنْصَارِ فَاسْتَعْدَى عَلَيْهِ مُعَاوِيَةَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لِمُعَاوِيَةَ يَا أَمِيرَ الْمُؤْمِنِينَ إِنَّ هَذَا دَقَّ سِنِّي .",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ مُعَاوِيَةُ إِنَّا سَنُرْضِيكَ وَأَلَحَّ الآخَرُ عَلَى مُعَاوِيَةَ فَأَبْرَمَهُ فَلَمْ يُرْضِه",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عِنْدَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "1395": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1395\nIn-book reference  : Book 16, Hadith 10\nEnglish translation  : Vol. 3, Book 14, Hadith 1395",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا أَبُو سَلَمَةَ، يَحْيَى بْنُ خَلَفٍ وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ يَعْلَى بْنِ عَطَاءٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "بَزِيعٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَعْلَى بْنِ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1396": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1396\nIn-book reference  : Book 16, Hadith 12\nEnglish translation  : Vol. 3, Book 14, Hadith 1396",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا شُعْبَةُ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1397": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1397\nIn-book reference  : Book 16, Hadith 13\nEnglish translation  : Vol. 3, Book 14, Hadith 1397",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1398": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1398\nIn-book reference  : Book 16, Hadith 14\nEnglish translation  : Vol. 3, Book 14, Hadith 1398",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنِ الْحُسَيْنِ بْنِ وَاقِدٍ، عَنْ يَزِيدَ الرَّقَاشِيِّ، حَدَّثَنَا أَبُو الْحَكَمِ الْبَجَلِيُّ، قَالَ سَمِعْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ، وَأَبَا، هُرَيْرَةَ يَذْكُرَانِ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا الْحُسَيْنُ بْنُ حُرَيْثٍ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنِ الْحُسَيْنِ بْنِ وَاقِد",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ يَزِيدَ الرَّقَاشِيِّ، حَدَّثَنَا أَبُو الْحَكَمِ الْبَجَلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يَذْكُرَانِ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1400": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1400\nIn-book reference  : Book 16, Hadith 16\nEnglish translation  : Vol. 3, Book 14, Hadith 1400",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، حَدَّثَنَا الأَحْمَرُ، عَنِ الْحَجَّاجِ بْنِ أَرْطَاةَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الأَحْمَرُ، عَنِ الْحَجَّاجِ بْنِ أَرْطَاةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ شُعَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَدِّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عُمَرَ بْنِ الْخَطَّابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1401": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1401\nIn-book reference  : Book 16, Hadith 17\nEnglish translation  : Vol. 3, Book 14, Hadith 1401",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ إِسْمَاعِيلَ بْنِ مُسْلِمٍ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ إِسْمَاعِيلَ بْنِ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1402": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1402\nIn-book reference  : Book 16, Hadith 18\nEnglish translation  : Vol. 3, Book 14, Hadith 1402",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَنَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مَسْرُوقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1403": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1403\nIn-book reference  : Book 16, Hadith 19\nEnglish translation  : Vol. 3, Book 14, Hadith 1403",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مَعْدِيُّ بْنُ سُلَيْمَانَ، هُوَ الْبَصْرِيُّ عَنِ ابْنِ عَجْلاَنَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَعْدِيُّ بْنُ سُلَيْمَانَ، هُوَ الْبَصْرِيُّ عَنِ ابْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1405": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1405\nIn-book reference  : Book 16, Hadith 21\nEnglish translation  : Vol. 3, Book 14, Hadith 1405",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا مَحْمُودُ بْنُ غَيْلاَنَ، وَيَحْيَى بْنُ مُوسَى، قَالاَ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، حَدَّثَنِي أَبُو سَلَمَةَ، حَدَّثَنِي أَبُو هُرَيْرَةَ، قَالَ لَمَّا فَتَحَ اللَّهُ عَلَى رَسُولِهِ مَكَّةَ قَامَ فِي النَّاسِ فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَوْزَاعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1407": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1407\nIn-book reference  : Book 16, Hadith 23\nEnglish translation  : Vol. 3, Book 14, Hadith 1407",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قُتِلَ رَجُلٌ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَدُفِعَ الْقَاتِلُ إِلَى وَلِيِّهِ فَقَالَ الْقَاتِلُ يَا رَسُولَ اللَّهِ وَاللَّهِ مَا أَرَدْتُ قَتْلَهُ . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ قُتِلَ رَجُلٌ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَدُفِعَ الْقَاتِلُ إِلَى وَلِيّ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ الْقَاتِلُ يَا رَسُولَ اللَّهِ وَاللَّهِ مَا أَرَدْتُ قَتْلَهُ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1408": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1408\nIn-book reference  : Book 16, Hadith 24\nEnglish translation  : Vol. 3, Book 14, Hadith 1408",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا سُفْيَانُ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا بَعَثَ أَمِيرًا عَلَى جَيْشٍ أَوْصَاهُ فِي خَاصَّةِ نَفْسِهِ بِتَقْوَى اللَّهِ وَمَنْ مَعَهُ مِنَ الْمُسْلِمِينَ خَيْرًا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا بَعَثَ أَمِيرًا عَلَى جَيْشٍ أَوْصَاهُ فِي خَاص",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1409": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1409\nIn-book reference  : Book 16, Hadith 25\nEnglish translation  : Vol. 3, Book 14, Hadith 1409",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ، حَدَّثَنَا هُشَيْمٌ، حَدَّثَنَا خَالِدٌ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ، عَنْ شَدَّادِ بْنِ أَوْسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ مَنِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الأَشْعَثِ الصَّنْعَانِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ شَدَّادِ بْنِ أَوْسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1410": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1410\nIn-book reference  : Book 16, Hadith 26\nEnglish translation  : Vol. 3, Book 14, Hadith 1410",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا عَلِيُّ بْنُ سَعِيدٍ الْكِنْدِيُّ الْكُوفِيُّ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الْجَنِينِ بِغُرَّةٍ عَبْدٍ أَوْ أَمَةٍ . فَقَالَ الَّذِي قُضِيَ عَلَيْهِ أَنُعْطِي مَنْ لاَ شَرِبَ وَلاَ أَكَلَ وَلاَ صَاحَ فَاسْتَهَلَّ فَمِثْلُ ذَلِكَ يُطَلُّ . فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ سَعِيدٍ الْكِنْدِيُّ الْكُوفِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الْجَنِينِ بِغُرَّةٍ عَبْدٍ أَوْ أَمَةٍ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ الَّذِي قُضِيَ عَلَيْهِ أَنُعْطِي مَنْ لاَ شَرِبَ وَلاَ أَكَلَ وَلاَ صَاحَ فَاسْتَهَلَّ فَمِثْ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1414": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1414\nIn-book reference  : Book 16, Hadith 30\nEnglish translation  : Vol. 3, Book 14, Hadith 1414",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَمُرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1415": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1415\nIn-book reference  : Book 16, Hadith 31\nEnglish translation  : Vol. 3, Book 14, Hadith 1415",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ، وَأَحْمَدُ بْنُ مَنِيعٍ، وَأَبُو عَمَّارٍ وَغَيْرُ وَاحِدٍ قَالُوا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّ عُمَرَ، كَانَ يَقُولُ الدِّيَةُ عَلَى الْعَاقِلَةِ وَلاَ تَرِثُ الْمَرْأَةُ مِنْ دِيَةِ زَوْجِهَا شَيْئًا . حَتَّى أَخْبَرَهُ الضَّحَّاكُ بْنُ سُفْيَانَ الْكِلاَبِيُّ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَتَبَ إِلَيْهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "إِلَيْهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "1419": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1419\nIn-book reference  : Book 16, Hadith 35\nEnglish translation  : Vol. 3, Book 14, Hadith 1419",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُطَّلِبِ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَسَنِ، عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ طَلْحَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُطَّلِبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ بْنِ مُحَمَّدِ بْنِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1420": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1420\nIn-book reference  : Book 16, Hadith 36\nEnglish translation  : Vol. 3, Book 14, Hadith 1420",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْوَهَّابِ الْكُوفِيُّ، شَيْخٌ ثِقَةٌ عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَسَنِ بْنِ الْحَسَنِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ، حَدَّثَنِي إِبْرَاهِيمُ بْنُ مُحَمَّدِ بْنِ طَلْحَةَ، قَالَ سُفْيَانُ وَأَثْنَى عَلَيْهِ خَيْرًا قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عَمْرٍو يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ إِسْحَاقَ الْهَمْدَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "ثِقَةٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُفْيَانَ الثَّوْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ الْحَسَنِ بْنِ الْحَسَنِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ مُحَمَّدِ بْنِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "خَيْرًا",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1421": {
+    "collection": "Jami at-Tirmidhi",
+    "book": "The Book on Blood Money",
+    "book_num": "16",
+    "reference": "Reference  : Jami` at-Tirmidhi 1421\nIn-book reference  : Book 16, Hadith 38\nEnglish translation  : Vol. 3, Book 14, Hadith 1421",
+    "url": "https://sunnah.com/tirmidhi/16",
+    "sanad_full": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، قَالَ أَخْبَرَنِي يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ أَبِيهِ، عَنْ أَبِي عُبَيْدَةَ بْنِ مُحَمَّدِ بْنِ عَمَّارِ بْنِ يَاسِرٍ، عَنْ طَلْحَةَ بْنِ عَبْدِ اللَّهِ بْنِ عَوْفٍ، عَنْ سَعِيدِ بْنِ زَيْدٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ أَخْبَرَنِي يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي عُبَيْدَةَ بْنِ مُحَمَّدِ بْنِ عَمَّارِ بْنِ يَاسِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ طَلْحَةَ بْنِ عَبْدِ اللَّهِ بْنِ عَوْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

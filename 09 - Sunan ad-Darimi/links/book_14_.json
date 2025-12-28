@@ -1,0 +1,894 @@
+{
+  "d1401": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d1401\nIn-book reference  : Book 14, Hadith 1",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا سَهْلُ بْنُ حَمَّادٍ ، حَدَّثَنَا شُعْبَةُ ، عَنْ أَبِي بِشْرٍ ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ ، عَنِ ابْنِ عَبَّاسٍ : أَنَّ امْرَأَةً نَذَرَتْ أَنْ تَحُجَّ فَمَاتَتْ، فَجَاءَ أَخُوهَا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَسَأَلَهُ عَنْ ذَلِكَ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَوْ كَانَ عَلَيْهَا دَيْنٌ أَكُنْتَ قَاضِيَهُ؟ \". قَالَ : نَعَمْ. قَالَ :",
+    "matn": "\" فَاقْضُوا اللَّهَ، فَاللَّهُ أَحَقُّ بِالْوَفَاءِ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "سَهْلُ بْنُ حَمَّادٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/3670"
+      },
+      {
+        "position": 2,
+        "arabic_name": "شُعْبَةُ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/3795"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَبِي بِشْرٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2138"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سَعِيدِ بْنِ جُبَيْرٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/3307"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ابْنِ عَبَّاسٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4883"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d1402": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d1402\nIn-book reference  : Book 14, Hadith 2",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ ، حَدَّثَنَا حَفْصٌ ، حَدَّثَنَا عُبَيْدُ اللَّهِ ، عَنْ نَافِعٍ ، عَنْ ابْنِ عُمَرَ ، عَنْ عُمَرَ ، قَالَ : قُلْتُ : يَا رَسُولَ اللَّهِ، إِنِّي نَذَرْتُ نَذْرًا فِي الْجَاهِلِيَّةِ، ثُمَّ جَاءَ الْإِسْلَامُ؟ قَالَ :",
+    "matn": "\" فِ بِنَذْرِكَ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "عَبْدُ اللَّهِ بْنُ سَعِيدٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4836"
+      },
+      {
+        "position": 2,
+        "arabic_name": "حَفْصٌ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2448"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عُبَيْدُ اللَّهِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5421"
+      },
+      {
+        "position": 4,
+        "arabic_name": "نَافِعٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/7863"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ابْنِ عُمَرَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4967"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عُمَرَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5913"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d1403": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d1403\nIn-book reference  : Book 14, Hadith 3",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا جَعْفَرُ بْنُ عَوْنٍ ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ ، عَنْ عُبَيْدِ اللَّهِ بْنِ زَحْرٍ ، عَنْ أَبِي سَعِيدٍ الرُّعَيْنِيّ ، عَنْ عَبْدِ اللَّهِ بْنِ مَالِكٍ ، عَنْ عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ ، قالَ : نَذَرَتْ أُخْتِي أَنْ تَحُجَّ لِلَّهِ مَاشِيَةً غَيْرَ مُخْتَمِرَةٍ، فَذَكَرْتُ ذَلِكَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَقَالَ :",
+    "matn": "\" مُرْ أُخْتَكَ فَلْتَخْتَمِرْ، وَلْتَرْكَبْ، وَلْتَصُمْ ثَلَاثَةَ أَيَّامٍ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "جَعْفَرُ بْنُ عَوْنٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2158"
+      },
+      {
+        "position": 2,
+        "arabic_name": "يَحْيَى بْنُ سَعِيدٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/8272"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عُبَيْدِ اللَّهِ بْنِ زَحْرٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5385"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي سَعِيدٍ الرُّعَيْنِيّ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2128"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَبْدِ اللَّهِ بْنِ مَالِكٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5036"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عُقْبَةَ بْنِ عَامِرٍ الْجُهَنِيِّ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5672"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d1404": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d1404\nIn-book reference  : Book 14, Hadith 4",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ ، حَدَّثَنَا هَمَّامٌ ، أَخْبَرَنِي قَتَادَةُ ، عَنْ عِكْرِمَةَ ، عَنِ ابْنِ عَبَّاسٍ : أَنَّ أُخْتَ عُقْبَةَ نَذَرَتْ أَنْ تَمْشِيَ إِلَى الْبَيْتِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :",
+    "matn": "\" إِنَّ اللَّهَ لَغَنِيٌّ عَنْ نَذْرِ أُخْتِكَ، لِتَرْكَبْ وَلْتُهْدِ هَدْيًا \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَبُو الْوَلِيدِ الطَّيَالِسِيُّ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/8053"
+      },
+      {
+        "position": 2,
+        "arabic_name": "هَمَّامٌ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/8097"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَتَادَةُ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/6458"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عِكْرِمَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5703"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ابْنِ عَبَّاسٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4883"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d1405": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d1405\nIn-book reference  : Book 14, Hadith 5",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ ، عَنْ عَمْرِو بْنِ أَبِي عَمْرٍو، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ : أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَدْرَكَ شَيْخًا يَمْشِي بَيْنَ ابْنَيْهِ، فَقَالَ : \" مَا شَأْنُ هَذَا الشَّيْخِ؟ \"، فَقَالَ ابْنَاهُ : نَذَرَ أَنْ يَمْشِيَ، فَقَالَ :",
+    "matn": "\" ارْكَبْ، فَإِنَّ اللَّهَ غَنِيٌّ عَنْكَ وَعَنْ نَذْرِكَ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "سَعِيدُ بْنُ مَنْصُورٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/3401"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4591"
+      },
+      {
+        "position": 3,
+        "arabic_name": "الْأَعْرَجِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4506"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي هُرَيْرَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4396"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d1406": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d1406\nIn-book reference  : Book 14, Hadith 6",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا أَبُو نُعَيْمٍ ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ ، عَنْ أَيُّوبَ ، عَنْ أَبِي قِلَابَةَ ، عَنْ أَبِي الْمُهَلَّبِ ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :",
+    "matn": "\" لَا وَفَاءَ لِنَذْرٍ فِي مَعْصِيَةِ اللَّهِ، وَلَا فِيمَا لَا يَمْلِكُ ابْنُ آدَمَ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَبُو نُعَيْمٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/1548"
+      },
+      {
+        "position": 2,
+        "arabic_name": "حَمَّادُ بْنُ زَيْدٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2491"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَيُّوبَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/746"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي قِلَابَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4820"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَبِي الْمُهَلَّبِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/6204"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عِمْرَانَ بْنِ حُصَيْنٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/6036"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d1407": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d1407\nIn-book reference  : Book 14, Hadith 7",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ ، حَدَّثَنَا مَالِكٌ ، عَنْ طَلْحَةَ بْنِ عَبْدِ الْمَلِكِ الْأَيْلِيِّ ، عَنْ الْقَاسِمِ بْنِ مُحَمَّدٍ ، عَنْ عَائِشَةَ ، قَالَتْ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :",
+    "matn": "\" مَنْ نَذَرَ أَنْ يَطِيعَ اللَّهَ، فَلْيُطِعْهُ، وَمَنْ نَذَرَ أَنْ يَعْصِيَ اللَّهَ، فَلَا يَعْصِهِ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "خَالِدُ بْنُ مَخْلَدٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2680"
+      },
+      {
+        "position": 2,
+        "arabic_name": "مَالِكٌ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/6659"
+      },
+      {
+        "position": 3,
+        "arabic_name": "طَلْحَةَ بْنِ عَبْدِ الْمَلِكِ الْأَيْلِيِّ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4017"
+      },
+      {
+        "position": 4,
+        "arabic_name": "الْقَاسِمِ بْنِ مُحَمَّدٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/1598"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَائِشَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4049"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d1408": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d1408\nIn-book reference  : Book 14, Hadith 8",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "حَدَّثَنَا حَجَّاجُ بْنُ مِنْهَالٍ ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ ، عَنْ حَبِيبِ بْنِ أَبِي بَقِيَّةَ الْمُعَلِّمِ ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ : أَنَّ رَجُلًا قَالَ : يَا رَسُولَ اللَّهِ إِنِّي نَذَرْتُ إِنْ فَتَحَ اللَّهُ عَلَيْكَ أَنْ أُصَلِّيَ فِي بَيْتِ الْمَقْدِسِ؟ فَقَالَ :",
+    "matn": "\" صَلِّ هَاهُنَا \". فَأَعَادَ عَلَيْهِ ثَلَاثَ مَرَّاتٍ، فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" شَأْنُكَ إِذَنْ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَجَّاجُ بْنُ مِنْهَالٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2291"
+      },
+      {
+        "position": 2,
+        "arabic_name": "حَمَّادُ بْنُ سَلَمَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2492"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَبِيبِ بْنِ أَبِي بَقِيَّةَ الْمُعَلِّمِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2251"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَطَاءِ بْنِ أَبِي رَبَاحٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5625"
+      },
+      {
+        "position": 5,
+        "arabic_name": "جَابِرِ بْنِ عَبْدِ اللَّهِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2069"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d1409": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d1409\nIn-book reference  : Book 14, Hadith 9",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا عَمْرُو بْنُ عَوْنٍ ، أَخْبَرَنَا أَبُو عَوَانَةَ ، عَنْ مَنْصُورٍ ، عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ ، عَنِ ابْنِ عُمَرَ ، قَالَ : قَالَ رَسُولُ اللَّهِ :",
+    "matn": "\" إِنَّ النَّذْرَ لَا يَرُدُّ شَيْئًا، وَإِنَّمَا يُسْتَخْرَجُ بِهِ مِنَ الشَّحِيحِ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "عَمْرُو بْنُ عَوْنٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/6177"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أَبُو عَوَانَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/8153"
+      },
+      {
+        "position": 3,
+        "arabic_name": "مَنْصُورٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/7673"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَبْدِ اللَّهِ بْنِ مُرَّةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5073"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ابْنِ عُمَرَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4967"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d14010": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d14010\nIn-book reference  : Book 14, Hadith 10",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا الْحَكَمُ بْنُ الْمُبَارَكِ ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ ، عَنْ نَافِعٍ ، عَنِ ابْنِ عُمَرَ : أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَدْرَكَ عُمَرَ بْنَ الْخَطَّابِ وَهُوَ يَسِيرُ فِي رَكْبٍ، وَهُوَ يَحْلِفُ بِأَبِيه، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :",
+    "matn": "\" إِنَّ اللَّهَ يَنْهَاكُمْ أَنْ تَحْلِفُوا بِآبَائِكُمْ، فَمَنْ كَانَ حَالِفًا، فَلْيَحْلِفْ بِاللَّهِ، أَوْ لِيَصْمُتْ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "الْحَكَمُ بْنُ الْمُبَارَكِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/1359"
+      },
+      {
+        "position": 2,
+        "arabic_name": "مَالِكُ بْنُ أَنَسٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/6659"
+      },
+      {
+        "position": 3,
+        "arabic_name": "نَافِعٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/7863"
+      },
+      {
+        "position": 4,
+        "arabic_name": "ابْنِ عُمَرَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4967"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d14011": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d14011\nIn-book reference  : Book 14, Hadith 11",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ ، عَنْ أَيُّوبَ ، عَنِ نَافِعٍ ، عَنِ ابْنِ عُمَرَ ، عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، قَالَ :",
+    "matn": "\" مَنْ حَلَفَ عَلَى يَمِينٍ، ثُمَّ قَالَ : إِنْ شَاءَ اللَّهُ، فَقَدِ اسْتَثْنَى \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَبُو الْوَلِيدِ الطَّيَالِسِيُّ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/8053"
+      },
+      {
+        "position": 2,
+        "arabic_name": "حَمَّادُ بْنُ سَلَمَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2492"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَيُّوبَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/746"
+      },
+      {
+        "position": 4,
+        "arabic_name": "نَافِعٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/7863"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ابْنِ عُمَرَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4967"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d14012": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d14012\nIn-book reference  : Book 14, Hadith 12",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا حَجَّاجٌ ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ ، حَدَّثَنَا أَيُّوبُ ، عَنْ نَافِعٍ ، عَنِ ابْنِ عُمَرَ : أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، قَالَ :",
+    "matn": "\" مَنْ حَلَفَ عَلَى يَمِينٍ، ثُمَّ قَالَ : إِنْ شَاءَ اللَّهُ، فَهُوَ بِالْخِيَارِ : إِنْ شَاءَ فَعَلَ، وَإِنْ شَاءَ لَمْ يَفْعَلْ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَجَّاجٌ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2291"
+      },
+      {
+        "position": 2,
+        "arabic_name": "حَمَّادُ بْنُ سَلَمَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2492"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَيُّوبُ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/746"
+      },
+      {
+        "position": 4,
+        "arabic_name": "نَافِعٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/7863"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ابْنِ عُمَرَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4967"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d14013": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d14013\nIn-book reference  : Book 14, Hadith 13",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ ، حَدَّثَنِي اللَّيْثُ ، حَدَّثَنِي يُونُسُ ، عَنْ ابْنِ شِهَابٍ ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ ، عَنِ ابْنِ عَبَّاسٍ : أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، قَالَ لِأَبِي بَكْرٍ : \"",
+    "matn": "لَا تُقْسِمْ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "عَبْدُ اللَّهِ بْنُ صَالِحٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4864"
+      },
+      {
+        "position": 2,
+        "arabic_name": "اللَّيْثُ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/6641"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يُونُسُ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/8621"
+      },
+      {
+        "position": 4,
+        "arabic_name": "ابْنِ شِهَابٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/7272"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5409"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ابْنِ عَبَّاسٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4883"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d14014": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d14014\nIn-book reference  : Book 14, Hadith 14",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ ، حَدَّثَنَا شُعْبَةُ ، عَنْ عَمْرٍو هُوَ : ابْنُ مُرَّةَ ، قَالَ : سَمِعْتُ رَجُلًا يُقَالُ لَهُ : عَبْدُ اللَّهِ بْنُ عَمْرٍو زَمَنَ الْجَمَاجِمِ يُحَدِّثُ، قَالَ : سَأَلَ رَجُلٌ عَدِيَّ بْنَ حَاتِمٍ ، فَحَلَفَ أَنْ لَا يُعْطِيَهُ شَيْئًا، ثُمَّ قَالَ : لَوْلَا أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ :",
+    "matn": "\" مَنْ حَلَفَ عَلَى يَمِينٍ، فَرَأَى غَيْرَهَا خَيْرًا مِنْهَا، فَلْيَأْتِ الَّذِي هُوَ خَيْرٌ، وَلْيُكَفِّرْ عَنْ يَمِينِهِ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَبُو الْوَلِيدِ الطَّيَالِسِيُّ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/8053"
+      },
+      {
+        "position": 2,
+        "arabic_name": "شُعْبَةُ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/3795"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَمْرٍو هُوَ : ابْنُ مُرَّةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/6197"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَبْدُ اللَّهِ بْنُ عَمْرٍو",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4976"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَدِيَّ بْنَ حَاتِمٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5575"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d14015": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d14015\nIn-book reference  : Book 14, Hadith 15",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا مُحَمَّدُ بْنُ الْفَضْلِ ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ ، حَدَّثَنَا الْحَسَنُ ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَمُرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" يَا عَبْدَ الرَّحْمَنِ بْنَ سَمُرَةَ،",
+    "matn": "لَا تَسْأَلِ الْإِمَارَةَ فَإِنَّكَ إِنْ أُعْطِيتَهَا عَنْ مَسْأَلَةٍ، وُكِلْتَ إِلَيْهَا، وَإِنْ أُعْطِيتَهَا عِنْ غَيْرِ مَسْأَلَةٍ، أُعِنْتَ عَلَيْهَا. فَإِذَا حَلَفْتَ عَلَى يَمِينٍ فَرَأَيْتَ غَيْرَهَا خَيْرًا مِنْهَا، فَكَفِّرْ عَنْ يَمِينِكَ وَأْتِ الَّذِي هُوَ خَيْرٌ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "مُحَمَّدُ بْنُ الْفَضْلِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/6855"
+      },
+      {
+        "position": 2,
+        "arabic_name": "جَرِيرُ بْنُ حَازِمٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2119"
+      },
+      {
+        "position": 3,
+        "arabic_name": "الْحَسَنُ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/1239"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَبْدُ الرَّحْمَنِ بْنُ سَمُرَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4387"
+      },
+      {
+        "position": 5,
+        "arabic_name": "مُحَمَّدُ بْنُ يُوسُفَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/7345"
+      },
+      {
+        "position": 6,
+        "arabic_name": "سُفْيَانُ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/3436"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يُونُسَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/8616"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْحَسَنِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/1239"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَبْدِ الرَّحْمَنِ بْنِ سَمُرَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4387"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "d14016": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d14016\nIn-book reference  : Book 14, Hadith 16",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو ، عَنْ أَبِي سَلَمَةَ ، عَنِ الشَّرِيدِ ، قَالَ : أَتَيْتُ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، فَقُلْتُ : إِنَّ عَلَى أُمِّي رَقَبَةً، وَإِنَّ عِنْدِي جَارِيَةً سَوْدَاءَ نُوبِيَّةً، أَفَتُجْزِئُ عَنْهَا؟. قَالَ : \" ادْعُ بِهَا \"، فَقَالَ :",
+    "matn": "\" أَتَشْهَدِينَ أَنْ لَا إِلَهَ إِلَّا اللَّهُ؟ \"، قَالَتْ : نَعَمْ. قَالَ : \" أَعْتِقْهَا، فَإِنَّهَا مُؤْمِنَةٌ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "أَبُو الْوَلِيدِ الطَّيَالِسِيُّ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/8053"
+      },
+      {
+        "position": 2,
+        "arabic_name": "حَمَّادُ بْنُ سَلَمَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2492"
+      },
+      {
+        "position": 3,
+        "arabic_name": "مُحَمَّدِ بْنِ عَمْرٍو",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/7225"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي سَلَمَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4903"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الشَّرِيدِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/1463"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d14017": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d14017\nIn-book reference  : Book 14, Hadith 17",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا عُثْمَانُ بْنُ مُحَمَّدٍ ، حَدَّثَنَا هُشَيْمٌ ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ أَبِي صَالِحٍ ، عَنْ أَبِيهِ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :",
+    "matn": "\" يَمِينُكَ عَلَى مَا يُصَدَّ قُكَ بِهِ صَاحِبُكَ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "عُثْمَانُ بْنُ مُحَمَّدٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5551"
+      },
+      {
+        "position": 2,
+        "arabic_name": "هُشَيْمٌ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/8062"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَبْدُ اللَّهِ بْنُ أَبِي صَالِحٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4644"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِيهِ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/2840"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَبِي هُرَيْرَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4396"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "حَدَّثَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  },
+  "d14018": {
+    "collection": "Sunan ad-Darimi",
+    "book": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+    "book_num": "14",
+    "reference": "Reference  : Sunan ad-Darimi d14018\nIn-book reference  : Book 14, Hadith 18",
+    "url": "https://sunnah.com/darimi/14",
+    "sanad_full": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى ، عَنْ سُفْيَانَ ، عَنْ مُوسَى بْنِ عُقْبَةَ ، عَنْ سَالِمٍ ، عَنِ ابْنِ عُمَرَ ، قَالَ : كَانَتْ يَمِينُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الَّتِي يَحْلِفُ بِهَا",
+    "matn": "\" لَا وَمُقَلِّبِ الْقُلُوبِ \"",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "عُبَيْدُ اللَّهِ بْنُ مُوسَى",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/5437"
+      },
+      {
+        "position": 2,
+        "arabic_name": "سُفْيَانَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/3436"
+      },
+      {
+        "position": 3,
+        "arabic_name": "مُوسَى بْنِ عُقْبَةَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/7756"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سَالِمٍ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/3194"
+      },
+      {
+        "position": 5,
+        "arabic_name": "ابْنِ عُمَرَ",
+        "role": "narrator",
+        "url": "https://sunnah.com/narrator/4967"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "عَنْ",
+      "قَالَ"
+    ]
+  }
+}

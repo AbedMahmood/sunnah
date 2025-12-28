@@ -1,0 +1,733 @@
+{
+  "706": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 706\nIn-book reference  : Book 3, Hadith 1\nEnglish translation  : Vol. 1, Book 3, Hadith 706",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا أَبُو عُبَيْدٍ، مُحَمَّدُ بْنُ عُبَيْدِ بْنِ مَيْمُونٍ الْمَدَنِيُّ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ الْحَرَّانِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، حَدَّثَنَا مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ، عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ زَيْدٍ، عَنْ أَبِيهِ، قَالَ كَانَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ قَدْ هَمَّ بِالْبُوقِ وَأَمَرَ بِالنَّاقُوسِ فَنُحِتَ فَأُرِيَ عَبْدُ اللَّهِ بْنُ زَيْدٍ فِي الْمَنَامِ قَالَ رَأَيْتُ رَجُلاً عَلَيْهِ ثَوْبَانِ أَخْضَرَانِ يَحْمِلُ نَاقُوسًا فَقُلْتُ لَهُ يَا عَبْدَ اللَّهِ تَبِيعُ النَّاقُوسَ قَالَ وَمَا تَصْنَعُ بِهِ قُلْتُ أُنَادِي بِهِ إِلَى الصَّلاَةِ . قَالَ أَفَلاَ أَدُلُّكَ عَلَى خَيْرٍ مِنْ ذَلِكَ قُلْتُ وَمَا هُوَ قَالَ تَقُولُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ حَىَّ عَلَى الصَّلاَةِ حَىَّ عَلَى الصَّلاَةِ حَىَّ عَلَى الْفَلاَحِ حَىَّ عَلَى الْفَلاَحِ . اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ لاَ إِلَهَ إِلاَّ اللَّهُ . قَالَ فَخَرَجَ عَبْدُ اللَّهِ بْنُ زَيْدٍ حَتَّى أَتَى رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ فَأَخْبَرَهُ بِمَا رَأَى . قَالَ يَا رَسُولَ اللَّهِ رَأَيْتُ رَجُلاً عَلَيْهِ ثَوْبَانِ أَخْضَرَانِ يَحْمِلُ نَاقُوسًا . فَقَصَّ عَلَيْهِ الْخَبَرَ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْمَدَنِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ الْحَرَّانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْمَنَامِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "النَّاقُوسَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ وَمَا تَصْنَعُ بِهِ قُلْتُ أُنَادِي بِهِ إِلَى الصَّلاَةِ .",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ أَفَلاَ أَدُلُّكَ عَلَى خَيْرٍ مِنْ ذَلِكَ قُلْتُ وَمَا هُوَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ تَقُولُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ أَشْهَدُ أَنْ لاَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ فَخَرَجَ عَبْدُ اللَّهِ بْنُ زَيْدٍ حَتَّى أَتَى رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ فَأَخْ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ رَأَيْتُ رَجُلاً عَلَيْهِ ثَوْبَانِ أَخْضَرَانِ يَحْمِلُ نَاقُوسًا . فَقَص",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 14,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "710": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 710\nIn-book reference  : Book 3, Hadith 5\nEnglish translation  : Vol. 1, Book 3, Hadith 710",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَعْدِ بْنِ عَمَّارِ بْنِ سَعْدٍ، مُؤَذِّنِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ حَدَّثَنِي أَبِي عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَمَرَ بِلاَلاً أَنْ يَجْعَلَ إِصْبَعَيْهِ فِي أُذُنَيْهِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَعْدِ بْنِ عَمَّارِ بْنِ سَعْدٍ، مُؤَذِّنِ رَسُولِ اللَّهِ ـ صلى",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَبِيهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَدِّهِ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَمَرَ بِلاَلاً أَنْ يَجْعَلَ إِصْبَعَيْهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "712": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 712\nIn-book reference  : Book 3, Hadith 7\nEnglish translation  : Vol. 1, Book 3, Hadith 712",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ، حَدَّثَنَا بَقِيَّةُ، عَنْ مَرْوَانَ بْنِ سَالِمٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ أَبِي رَوَّادٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُصَفَّى الْحِمْصِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بَقِيَّةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَرْوَانَ بْنِ سَالِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ بْنِ أَبِي رَوَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "717": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 717\nIn-book reference  : Book 3, Hadith 12\nEnglish translation  : Vol. 1, Book 3, Hadith 717",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَعْلَى بْنُ عُبَيْدٍ، حَدَّثَنَا الإِفْرِيقِيُّ، عَنْ زِيَادِ بْنِ نُعَيْمٍ، عَنْ زِيَادِ بْنِ الْحَارِثِ الصُّدَائِيِّ، قَالَ كُنْتُ مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فِي سَفَرٍ فَأَمَرَنِي فَأَذَّنْتُ فَأَرَادَ بِلاَلٌ أَنْ يُقِيمَ فَقَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَعْلَى بْنُ عُبَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الإِفْرِيقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زِيَادِ بْنِ نُعَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زِيَادِ بْنِ الْحَارِثِ الصُّدَائِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ كُنْتُ مَعَ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فِي سَفَرٍ فَأَمَرَنِي فَأَذَّنْتُ فَأَرَاد",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "718": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 718\nIn-book reference  : Book 3, Hadith 13\nEnglish translation  : Vol. 1, Book 3, Hadith 718",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا أَبُو إِسْحَاقَ الشَّافِعِيُّ، إِبْرَاهِيمُ بْنُ مُحَمَّدِ بْنِ الْعَبَّاسِ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَجَاءٍ الْمَكِّيُّ، عَنْ عَبَّادِ بْنِ إِسْحَاقَ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْعَبَّاسِ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ رَجَاءٍ الْمَكِّيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبَّادِ بْنِ إِسْحَاقَ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "720": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 720\nIn-book reference  : Book 3, Hadith 15\nEnglish translation  : Vol. 1, Book 3, Hadith 720",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ قَالاَ حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، عَنْ مَالِكِ بْنِ أَنَسٍ، عَنِ الزُّهْرِيِّ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَالِكِ بْنِ أَنَسٍ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "721": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 721\nIn-book reference  : Book 3, Hadith 16\nEnglish translation  : Vol. 1, Book 3, Hadith 721",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ الْمِصْرِيُّ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ الْحُكَيْمِ بْنِ عَبْدِ اللَّهِ بْنِ قَيْسٍ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ الْمِصْرِيُّ، أَنْبَأَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنِ الْحُكَيْمِ ب",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "722": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 722\nIn-book reference  : Book 3, Hadith 17\nEnglish translation  : Vol. 1, Book 3, Hadith 722",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، وَالْعَبَّاسُ بْنُ الْوَلِيدِ الدِّمَشْقِيُّ، وَمُحَمَّدُ بْنُ أَبِي الْحُسَيْنِ، قَالُوا حَدَّثَنَا عَلِيُّ بْنُ عَيَّاشٍ الأَلْهَانِيُّ، حَدَّثَنَا شُعَيْبُ بْنُ أَبِي حَمْزَةَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ عَيَّاشٍ الأَلْهَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعَيْبُ بْنُ أَبِي حَمْزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "723": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 723\nIn-book reference  : Book 3, Hadith 18\nEnglish translation  : Vol. 1, Book 3, Hadith 723",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ، عَنْ أَبِيهِ، - وَكَانَ أَبُوهُ فِي حِجْرِ أَبِي سَعِيدٍ - قَالَ قَالَ لِي أَبُو سَعِيدٍ إِذَا كُنْتَ فِي الْبَوَادِي فَارْفَعْ صَوْتَكَ بِالأَذَانِ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي صَعْصَعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، - وَكَانَ أَبُوهُ فِي حِجْرِ أَبِي سَعِيدٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "724": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 724\nIn-book reference  : Book 3, Hadith 19\nEnglish translation  : Vol. 1, Book 3, Hadith 724",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَبَابَةُ، حَدَّثَنَا شُعْبَةُ، عَنْ مُوسَى بْنِ أَبِي عُثْمَانَ، عَنْ أَبِي يَحْيَى، عَنْ أَبِي هُرَيْرَةَ، قَالَ سَمِعْتُ مِنْ، فِي رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا شَبَابَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُوسَى بْنِ أَبِي عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "725": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 725\nIn-book reference  : Book 3, Hadith 20\nEnglish translation  : Vol. 1, Book 3, Hadith 725",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، قَالاَ حَدَّثَنَا أَبُو عَامِرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ طَلْحَةَ بْنِ يَحْيَى، عَنْ عِيسَى بْنِ طَلْحَةَ، قَالَ سَمِعْتُ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَامِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ طَلْحَةَ بْنِ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِيسَى بْنِ طَلْحَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "726": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 726\nIn-book reference  : Book 3, Hadith 21\nEnglish translation  : Vol. 1, Book 3, Hadith 726",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حُسَيْنُ بْنُ عِيسَى، أَخُو سُلَيْمٍ الْقَارِي عَنِ الْحَكَمِ بْنِ أَبَانَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حُسَيْنُ بْنُ عِيسَى، أَخُو سُلَيْمٍ الْقَارِي عَنِ الْحَكَمِ بْنِ أَبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "727": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 727\nIn-book reference  : Book 3, Hadith 22\nEnglish translation  : Vol. 1, Book 3, Hadith 727",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا مُخْتَارُ بْنُ غَسَّانَ، حَدَّثَنَا حَفْصُ بْنُ عُمَرَ الأَزْرَقُ الْبُرْجُمِيُّ، عَنْ جَابِرٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، ح وَحَدَّثَنَا رَوْحُ بْنُ الْفَرَجِ، حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ بْنِ شَقِيقٍ، حَدَّثَنَا أَبُو حَمْزَةَ، عَنْ جَابِرٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُخْتَارُ بْنُ غَسَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ عُمَرَ الأَزْرَقُ الْبُرْجُمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا رَوْحُ بْنُ الْفَرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ بْنِ شَقِيقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا أَبُو حَمْزَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "728": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 728\nIn-book reference  : Book 3, Hadith 23\nEnglish translation  : Vol. 1, Book 3, Hadith 728",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، وَالْحَسَنُ بْنُ عَلِيٍّ الْخَلاَّلُ، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ، حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "734": {
+    "collection": "Sunan Ibn Majah",
+    "book": "The Book of the Adhan and the Sunnah Regarding It",
+    "book_num": "3",
+    "reference": "Reference  : Sunan Ibn Majah 734\nIn-book reference  : Book 3, Hadith 29\nEnglish translation  : Vol. 1, Book 3, Hadith 734",
+    "url": "https://sunnah.com/ibnmajah/3",
+    "sanad_full": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَنْبَأَنَا عَبْدُ الْجَبَّارِ بْنُ عُمَرَ، عَنِ ابْنِ أَبِي فَرْوَةَ، عَنْ مُحَمَّدِ بْنِ يُوسُفَ، مَوْلَى عُثْمَانَ بْنِ عَفَّانَ عَنْ أَبِيهِ، عَنْ عُثْمَانَ، قَالَ قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَنْبَأَنَا عَبْدُ الْجَبَّارِ بْنُ عُمَرَ، عَنِ ابْنِ أَبِي ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَفَّانَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}
