@@ -9,12 +9,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708080": {
     "collection": "Riyad as-Salihin",
@@ -26,12 +35,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708090": {
     "collection": "Riyad as-Salihin",
@@ -43,12 +61,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708100": {
     "collection": "Riyad as-Salihin",
@@ -60,12 +87,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708110": {
     "collection": "Riyad as-Salihin",
@@ -77,12 +113,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708120": {
     "collection": "Riyad as-Salihin",
@@ -94,12 +139,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708130": {
     "collection": "Riyad as-Salihin",
@@ -111,12 +165,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708140": {
     "collection": "Riyad as-Salihin",
@@ -128,12 +191,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708150": {
     "collection": "Riyad as-Salihin",
@@ -145,12 +217,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708160": {
     "collection": "Riyad as-Salihin",
@@ -162,12 +243,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708170": {
     "collection": "Riyad as-Salihin",
@@ -179,12 +269,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708180": {
     "collection": "Riyad as-Salihin",
@@ -196,12 +295,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708190": {
     "collection": "Riyad as-Salihin",
@@ -213,12 +321,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708200": {
     "collection": "Riyad as-Salihin",
@@ -230,12 +347,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708210": {
     "collection": "Riyad as-Salihin",
@@ -247,12 +373,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708220": {
     "collection": "Riyad as-Salihin",
@@ -264,12 +399,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708230": {
     "collection": "Riyad as-Salihin",
@@ -281,12 +425,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708240": {
     "collection": "Riyad as-Salihin",
@@ -298,12 +451,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708250": {
     "collection": "Riyad as-Salihin",
@@ -315,12 +477,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708260": {
     "collection": "Riyad as-Salihin",
@@ -332,12 +503,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708270": {
     "collection": "Riyad as-Salihin",
@@ -349,12 +529,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708280": {
     "collection": "Riyad as-Salihin",
@@ -366,12 +555,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708290": {
     "collection": "Riyad as-Salihin",
@@ -383,12 +581,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708300": {
     "collection": "Riyad as-Salihin",
@@ -400,12 +607,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708310": {
     "collection": "Riyad as-Salihin",
@@ -417,12 +633,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708320": {
     "collection": "Riyad as-Salihin",
@@ -434,12 +659,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708330": {
     "collection": "Riyad as-Salihin",
@@ -451,12 +685,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708340": {
     "collection": "Riyad as-Salihin",
@@ -468,12 +711,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708350": {
     "collection": "Riyad as-Salihin",
@@ -485,12 +737,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708360": {
     "collection": "Riyad as-Salihin",
@@ -502,12 +763,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708370": {
     "collection": "Riyad as-Salihin",
@@ -519,11 +789,20 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "عن البراء بن عازب رضى الله عنهما قال: كان رسول الله صلى الله عليه وسلم ِإذا أوى إلى فراشه نام على شق",
+        "arabic_name": "عن البراء بن عازب رضى الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "قال: كان رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   }
 }

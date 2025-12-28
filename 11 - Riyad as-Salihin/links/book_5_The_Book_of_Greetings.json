@@ -9,12 +9,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708390": {
     "collection": "Riyad as-Salihin",
@@ -26,12 +35,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708400": {
     "collection": "Riyad as-Salihin",
@@ -43,12 +61,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708410": {
     "collection": "Riyad as-Salihin",
@@ -60,12 +87,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708420": {
     "collection": "Riyad as-Salihin",
@@ -77,12 +113,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708430": {
     "collection": "Riyad as-Salihin",
@@ -94,12 +139,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708440": {
     "collection": "Riyad as-Salihin",
@@ -111,12 +165,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708450": {
     "collection": "Riyad as-Salihin",
@@ -128,12 +191,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708460": {
     "collection": "Riyad as-Salihin",
@@ -145,12 +217,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708470": {
     "collection": "Riyad as-Salihin",
@@ -162,12 +243,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708481": {
     "collection": "Riyad as-Salihin",
@@ -179,12 +269,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708482": {
     "collection": "Riyad as-Salihin",
@@ -196,12 +295,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708490": {
     "collection": "Riyad as-Salihin",
@@ -213,12 +321,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708500": {
     "collection": "Riyad as-Salihin",
@@ -230,12 +347,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708510": {
     "collection": "Riyad as-Salihin",
@@ -247,12 +373,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708520": {
     "collection": "Riyad as-Salihin",
@@ -264,12 +399,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708530": {
     "collection": "Riyad as-Salihin",
@@ -281,12 +425,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708540": {
     "collection": "Riyad as-Salihin",
@@ -298,12 +451,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708550": {
     "collection": "Riyad as-Salihin",
@@ -315,12 +477,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708560": {
     "collection": "Riyad as-Salihin",
@@ -332,12 +503,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708570": {
     "collection": "Riyad as-Salihin",
@@ -349,12 +529,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708580": {
     "collection": "Riyad as-Salihin",
@@ -366,12 +555,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708590": {
     "collection": "Riyad as-Salihin",
@@ -383,12 +581,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708600": {
     "collection": "Riyad as-Salihin",
@@ -400,12 +607,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708610": {
     "collection": "Riyad as-Salihin",
@@ -417,12 +633,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708620": {
     "collection": "Riyad as-Salihin",
@@ -434,12 +659,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708630": {
     "collection": "Riyad as-Salihin",
@@ -451,12 +685,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708640": {
     "collection": "Riyad as-Salihin",
@@ -468,12 +711,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708650": {
     "collection": "Riyad as-Salihin",
@@ -485,12 +737,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708660": {
     "collection": "Riyad as-Salihin",
@@ -502,12 +763,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708670": {
     "collection": "Riyad as-Salihin",
@@ -519,12 +789,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708680": {
     "collection": "Riyad as-Salihin",
@@ -536,12 +815,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708690": {
     "collection": "Riyad as-Salihin",
@@ -553,12 +841,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708700": {
     "collection": "Riyad as-Salihin",
@@ -570,12 +867,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708710": {
     "collection": "Riyad as-Salihin",
@@ -587,12 +893,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708720": {
     "collection": "Riyad as-Salihin",
@@ -604,12 +919,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708730": {
     "collection": "Riyad as-Salihin",
@@ -621,12 +945,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708740": {
     "collection": "Riyad as-Salihin",
@@ -638,12 +971,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708750": {
     "collection": "Riyad as-Salihin",
@@ -655,12 +997,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708760": {
     "collection": "Riyad as-Salihin",
@@ -672,12 +1023,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708770": {
     "collection": "Riyad as-Salihin",
@@ -689,12 +1049,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708780": {
     "collection": "Riyad as-Salihin",
@@ -706,12 +1075,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708790": {
     "collection": "Riyad as-Salihin",
@@ -723,12 +1101,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708800": {
     "collection": "Riyad as-Salihin",
@@ -740,12 +1127,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708810": {
     "collection": "Riyad as-Salihin",
@@ -757,12 +1153,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708820": {
     "collection": "Riyad as-Salihin",
@@ -774,12 +1179,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708830": {
     "collection": "Riyad as-Salihin",
@@ -791,12 +1205,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708840": {
     "collection": "Riyad as-Salihin",
@@ -808,12 +1231,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708850": {
     "collection": "Riyad as-Salihin",
@@ -825,12 +1257,21 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   },
   "1708860": {
     "collection": "Riyad as-Salihin",
@@ -842,11 +1283,20 @@
     "narrators": [
       {
         "position": 1,
-        "arabic_name": "وعن عبد الله بن عمرو بن العاص رضي الله عنهما أن رجلا سأل رسول الله صلى الله عليه وسلم: أي الإسلام خي",
+        "arabic_name": "وعن ابن عمر رضي الله عنهما،",
         "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "أن رسول الله صلى الله عليه وسلم،",
+        "role": "prophet"
       }
     ],
     "chain_length": 1,
-    "chain_markers": []
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
   }
 }
