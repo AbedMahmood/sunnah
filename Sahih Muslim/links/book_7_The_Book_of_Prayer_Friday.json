@@ -1,0 +1,883 @@
+{
+  "844": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 844b\nIn-book reference  : Book 7, Hadith 2\nUSC-MSA web (English) reference  : Book 4, Hadith 1833\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا ابْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنِ ابْنِ، شِهَابٍ عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ وَهُوَ قَائِمٌ عَلَى الْمِنْبَرِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا لَيْثٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ رُمْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "شِهَابٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "الْمِنْبَرِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "845": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 845b\nIn-book reference  : Book 7, Hadith 6\nUSC-MSA web (English) reference  : Book 4, Hadith 1837\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الأَوْزَاعِيِّ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، حَدَّثَنِي أَبُو هُرَيْرَةَ، قَالَ بَيْنَمَا عُمَرُ بْنُ الْخَطَّابِ يَخْطُبُ النَّاسَ يَوْمَ الْجُمُعَةِ إِذْ دَخَلَ عُثْمَانُ بْنُ عَفَّانَ فَعَرَّضَ بِهِ عُمَرُ فَقَالَ مَا بَالُ رِجَالٍ يَتَأَخَّرُونَ بَعْدَ النِّدَاءِ . فَقَالَ عُثْمَانُ يَا أَمِيرَ الْمُؤْمِنِينَ مَا زِدْتُ حِينَ سَمِعْتُ النِّدَاءَ أَنْ تَوَضَّأْتُ ثُمَّ أَقْبَلْتُ . فَقَالَ عُمَرُ وَالْوُضُوءَ أَيْضًا أَلَمْ تَسْمَعُوا رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ بَيْنَمَا عُمَرُ بْنُ الْخَطَّابِ يَخْطُبُ النَّاسَ يَوْمَ الْجُمُعَةِ إِذْ دَخَلَ عُثْمَانُ ب",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ مَا بَالُ رِجَالٍ يَتَأَخَّرُونَ بَعْدَ النِّدَاءِ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ عُثْمَانُ يَا أَمِيرَ الْمُؤْمِنِينَ مَا زِدْتُ حِينَ سَمِعْتُ النِّدَاءَ أَنْ تَوَضَّأْتُ ثُم",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "846": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 846b\nIn-book reference  : Book 7, Hadith 10\nUSC-MSA web (English) reference  : Book 4, Hadith 1841\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنَا عَمْرُو بْنُ سَوَّادٍ الْعَامِرِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنَا عَمْرُو بْنُ، الْحَارِثِ أَنَّ سَعِيدَ بْنَ أَبِي هِلاَلٍ، وَبُكَيْرَ بْنَ الأَشَجِّ، حَدَّثَاهُ عَنْ أَبِي بَكْرِ بْنِ الْمُنْكَدِرِ، عَنْ عَمْرِو، بْنِ سُلَيْمٍ عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَمْرُو بْنُ سَوَّادٍ الْعَامِرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَاهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بَكْرِ بْنِ الْمُنْكَدِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "سُلَيْمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "847": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 847a\nIn-book reference  : Book 7, Hadith 8\nUSC-MSA web (English) reference  : Book 4, Hadith 1839\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "حَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، وَأَحْمَدُ بْنُ عِيسَى، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، أَنَّ مُحَمَّدَ بْنَ جَعْفَرٍ، حَدَّثَهُ عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ كَانَ النَّاسُ يَنْتَابُونَ الْجُمُعَةَ مِنْ مَنَازِلِهِمْ مِنَ الْعَوَالِي فَيَأْتُونَ فِي الْعَبَاءِ وَيُصِيبُهُمُ الْغُبَارُ فَتَخْرُجُ مِنْهُمُ الرِّيحُ فَأَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم إِنْسَانٌ مِنْهُمْ وَهُوَ عِنْدِي فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ كَانَ النَّاسُ يَنْتَابُونَ الْجُمُعَةَ مِنْ مَنَازِلِهِمْ مِنَ الْعَوَالِي فَيَأْتُونَ فِي ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "849": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 849\nIn-book reference  : Book 7, Hadith 13\nUSC-MSA web (English) reference  : Book 4, Hadith 1844\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بَهْزٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وُهَيْبٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ طَاوُسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "850": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 850d\nIn-book reference  : Book 7, Hadith 36\nUSC-MSA web (English) reference  : Book 4, Hadith 1866\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ - عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُهَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "851": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 851d\nIn-book reference  : Book 7, Hadith 18\nUSC-MSA web (English) reference  : Book 4, Hadith 1848\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "852": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 852e\nIn-book reference  : Book 7, Hadith 23\nUSC-MSA web (English) reference  : Book 4, Hadith 1853\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَلاَّمٍ الْجُمَحِيُّ، حَدَّثَنَا الرَّبِيعُ، - يَعْنِي ابْنَ مُسْلِمٍ - عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَلاَّمٍ الْجُمَحِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الرَّبِيعُ، - يَعْنِي ابْنَ مُسْلِمٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ زِيَادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "854": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 854b\nIn-book reference  : Book 7, Hadith 27\nUSC-MSA web (English) reference  : Book 4, Hadith 1857\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْمُغِيرَةُ، - يَعْنِي الْحِزَامِيَّ - عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْمُغِيرَةُ، - يَعْنِي الْحِزَامِيَّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "855": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 855d\nIn-book reference  : Book 7, Hadith 31\nUSC-MSA web (English) reference  : Book 4, Hadith 1861\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، أَخِي وَهْبِ بْنِ مُنَبِّهٍ قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ مُحَمَّدٍ، رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "مُنَبِّهٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ هَذَا مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ مُحَمَّدٍ، رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "856": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 856b\nIn-book reference  : Book 7, Hadith 33\nUSC-MSA web (English) reference  : Book 4, Hadith 1863\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، أَخْبَرَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ سَعْدِ بْنِ طَارِقٍ، حَدَّثَنِي رِبْعِيُّ بْنُ، حِرَاشٍ عَنْ حُذَيْفَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ أَبِي زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعْدِ بْنِ طَارِقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حِرَاشٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حُذَيْفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "857": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 857b\nIn-book reference  : Book 7, Hadith 38\nUSC-MSA web (English) reference  : Book 4, Hadith 1868\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "كُرَيْبٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يَحْيَى",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ الآخَرَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "865": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 865\nIn-book reference  : Book 7, Hadith 52\nUSC-MSA web (English) reference  : Book 4, Hadith 1882\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنِي الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا أَبُو تَوْبَةَ، حَدَّثَنَا مُعَاوِيَةُ، - وَهُوَ ابْنُ سَلاَّمٍ - عَنْ زَيْدٍ، - يَعْنِي أَخَاهُ - أَنَّهُ سَمِعَ أَبَا سَلاَّمٍ، قَالَ حَدَّثَنِي الْحَكَمُ بْنُ مِينَاءَ، أَنَّحَدَّثَاهُ أَنَّهُمَا، سَمِعَا رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ عَلَى أَعْوَادِ مِنْبَرِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو تَوْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُعَاوِيَةُ، - وَهُوَ ابْنُ سَلاَّمٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ زَيْدٍ، - يَعْنِي أَخَاهُ - أَنَّهُ سَمِعَ أَبَا سَلاَّمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "مِنْبَرِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "867": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 867c\nIn-book reference  : Book 7, Hadith 57\nUSC-MSA web (English) reference  : Book 4, Hadith 1887\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ جَعْفَرٍ، عَنْ أَبِيهِ، عَنْ جَابِرٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ النَّاسَ يَحْمَدُ اللَّهَ وَيُثْنِي عَلَيْهِ بِمَا هُوَ أَهْلُهُ ثُمَّ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "869": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 869\nIn-book reference  : Book 7, Hadith 59\nUSC-MSA web (English) reference  : Book 4, Hadith 1889\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "حَدَّثَنِي سُرَيْجُ بْنُ يُونُسَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبْجَرَ، عَنْ أَبِيهِ، عَنْ وَاصِلِ بْنِ حَيَّانَ، قَالَ قَالَ أَبُو وَائِلٍ خَطَبَنَا عَمَّارٌ فَأَوْجَزَ وَأَبْلَغَ فَلَمَّا نَزَلَ قُلْنَا يَا أَبَا الْيَقْظَانِ لَقَدْ أَبْلَغْتَ وَأَوْجَزْتَ فَلَوْ كُنْتَ تَنَفَّسْتَ . فَقَالَ إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي سُرَيْجُ بْنُ يُونُسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبْجَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ وَاصِلِ بْنِ حَيَّانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَبُو وَائِلٍ خَطَبَنَا عَمَّارٌ فَأَوْجَزَ وَأَبْلَغَ فَلَمَّا نَزَلَ قُلْنَا يَا أَبَا الْيَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "870": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 870\nIn-book reference  : Book 7, Hadith 60\nUSC-MSA web (English) reference  : Book 4, Hadith 1890\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ، عَنْ تَمِيمِ بْنِ طَرَفَةَ، عَنْ عَدِيِّ بْنِ حَاتِمٍ، أَنَّ رَجُلاً، خَطَبَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَقَالَ مَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ رَشِدَ وَمَنْ يَعْصِهِمَا فَقَدْ غَوَى . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ تَمِيمِ بْنِ طَرَفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَدِيِّ بْنِ حَاتِمٍ، أَنَّ رَجُلاً، خَطَبَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ مَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ رَشِدَ وَمَنْ يَعْصِهِمَا فَقَدْ غَوَى . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "875": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 875g\nIn-book reference  : Book 7, Hadith 74\nUSC-MSA web (English) reference  : Book 4, Hadith 1903\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ خَشْرَمٍ، كِلاَهُمَا عَنْ عِيسَى بْنِ يُونُسَ، - قَالَ ابْنُ خَشْرَمٍ أَخْبَرَنَا عِيسَى، - عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ جَاءَ سُلَيْكٌ الْغَطَفَانِيُّ يَوْمَ الْجُمُعَةِ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ فَجَلَسَ فَقَالَ لَهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "كِلاَهُمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ عِيسَى بْنِ يُونُسَ، -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "خَشْرَمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا عِيسَى، - عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ جَاءَ سُلَيْكٌ الْغَطَفَانِيُّ يَوْمَ الْجُمُعَةِ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُب",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "881": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Prayer - Friday",
+    "book_num": "7",
+    "reference": "Reference  : Sahih Muslim 881a\nIn-book reference  : Book 7, Hadith 86\nUSC-MSA web (English) reference  : Book 4, Hadith 1915\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/7",
+    "sanad_full": "وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي، هُرَيْرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا خَالِدُ بْنُ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُهَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "هُرَيْرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

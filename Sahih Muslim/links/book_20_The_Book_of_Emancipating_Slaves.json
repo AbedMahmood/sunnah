@@ -1,0 +1,462 @@
+{
+  "1501": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Emancipating Slaves",
+    "book_num": "20",
+    "reference": "Reference  : Sahih Muslim 1501a\nIn-book reference  : Book 20, Hadith 1\nUSC-MSA web (English) reference  : Book 9, Hadith 3578\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/20",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قُلْتُ لِمَالِكٍ حَدَّثَكَ نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ قُلْتُ لِمَالِكٍ حَدَّثَكَ نَافِعٌ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "1502": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Emancipating Slaves",
+    "book_num": "20",
+    "reference": "Reference  : Sahih Muslim 1502\nIn-book reference  : Book 20, Hadith 3\nUSC-MSA web (English) reference  : Book 9, Hadith 3580\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/20",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ، بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ فِي الْمَمْلُوكِ بَيْنَ الرَّجُلَيْنِ فَيُعْتِقُ أَحَدُهُمَا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "جَعْفَرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ بَشِيرِ بْنِ نَهِيكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَحَدُهُمَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1503": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Emancipating Slaves",
+    "book_num": "20",
+    "reference": "Reference  : Sahih Muslim 1503b\nIn-book reference  : Book 20, Hadith 5\nUSC-MSA web (English) reference  : Book 9, Hadith 3582\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/20",
+    "sanad_full": "وَحَدَّثَنَاهُ عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى، - يَعْنِي ابْنَ يُونُسَ - عَنْ سَعِيدِ بْنِ، أَبِي عَرُوبَةَ بِهَذَا الإِسْنَادِ وَزَادَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَاهُ عَلِيُّ بْنُ خَشْرَمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عِيسَى، - يَعْنِي ابْنَ يُونُسَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "وَزَادَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ"
+    ]
+  },
+  "1504": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Emancipating Slaves",
+    "book_num": "20",
+    "reference": "Reference  : Sahih Muslim 1504e\nIn-book reference  : Book 20, Hadith 11\nUSC-MSA web (English) reference  : Book 9, Hadith 3588\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/20",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا ابْنُ نُمَيْرٍ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، جَمِيعًا عَنْ جَرِيرٍ، كُلُّهُمْ عَنْ هِشَامِ بْنِ عُرْوَةَ، بِهَذَا الإِسْنَادِ . نَحْوَ حَدِيثِ أَبِي أُسَامَةَ غَيْرَ أَنَّ فِي، حَدِيثِ جَرِيرٍ قَالَ وَكَانَ زَوْجُهَا عَبْدًا فَخَيَّرَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَاخْتَارَتْ نَفْسَهَا وَلَوْ كَانَ حُرًّا لَمْ يُخَيِّرْهَا . وَلَيْسَ فِي حَدِيثِهِمْ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ نُمَيْرٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "كُرَيْبٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "جَمِيعًا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "كُلُّهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "جَرِيرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدِيثِهِمْ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1505": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Emancipating Slaves",
+    "book_num": "20",
+    "reference": "Reference  : Sahih Muslim 1505\nIn-book reference  : Book 20, Hadith 18\nUSC-MSA web (English) reference  : Book 9, Hadith 3595\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/20",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ، حَدَّثَنِي سُهَيْلُ بْنُ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ أَرَادَتْ عَائِشَةُ أَنْ تَشْتَرِيَ، جَارِيَةً تُعْتِقُهَا فَأَبَى أَهْلُهَا إِلاَّ أَنْ يَكُونَ لَهُمُ الْوَلاَءُ فَذَكَرَتْ ذَلِكَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي سُهَيْلُ بْنُ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَرَادَتْ عَائِشَةُ أَنْ تَشْتَرِيَ، جَارِيَةً تُعْتِقُهَا فَأَبَى أَهْلُهَا إِلاَّ أَنْ يَكُو",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1507": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Emancipating Slaves",
+    "book_num": "20",
+    "reference": "Reference  : Sahih Muslim 1507\nIn-book reference  : Book 20, Hadith 21\nUSC-MSA web (English) reference  : Book 9, Hadith 3598\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/20",
+    "sanad_full": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ كَتَبَ النَّبِيُّ صلى الله عليه وسلم عَلَى كُلِّ بَطْنٍ عُقُولَهُ ثُمَّ كَتَبَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "كَتَبَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1508": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Emancipating Slaves",
+    "book_num": "20",
+    "reference": "Reference  : Sahih Muslim 1508a\nIn-book reference  : Book 20, Hadith 22\nUSC-MSA web (English) reference  : Book 9, Hadith 3599\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/20",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْقَارِيَّ - عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ الْقَارِيَّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُهَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1370": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Emancipating Slaves",
+    "book_num": "20",
+    "reference": "Reference  : Sahih Muslim 1370d\nIn-book reference  : Book 20, Hadith 24\nUSC-MSA web (English) reference  : Book 9, Hadith 3601\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/20",
+    "sanad_full": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الأَعْمَشُ، عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ أَبِيهِ، قَالَ خَطَبَنَا عَلِيُّ بْنُ أَبِي طَالِبٍ فَقَالَ مَنْ زَعَمَ أَنَّ عِنْدَنَا، شَيْئًا نَقْرَأُهُ إِلاَّ كِتَابَ اللَّهِ وَهَذِهِ الصَّحِيفَةَ - قَالَ وَصَحِيفَةٌ مُعَلَّقَةٌ فِي قِرَابِ سَيْفِهِ - فَقَدْ كَذَبَ . فِيهَا أَسْنَانُ الإِبِلِ وَأَشْيَاءُ مِنَ الْجِرَاحَاتِ وَفِيهَا قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ التَّيْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ خَطَبَنَا عَلِيُّ بْنُ أَبِي طَالِبٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ مَنْ زَعَمَ أَنَّ عِنْدَنَا، شَيْئًا نَقْرَأُهُ إِلاَّ كِتَابَ اللَّهِ وَهَذِهِ الصَّحِيفَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "وَفِيهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1509": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Emancipating Slaves",
+    "book_num": "20",
+    "reference": "Reference  : Sahih Muslim 1509d\nIn-book reference  : Book 20, Hadith 28\nUSC-MSA web (English) reference  : Book 9, Hadith 3605\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/20",
+    "sanad_full": "وَحَدَّثَنِي حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا عَاصِمٌ، - وَهُوَ ابْنُ مُحَمَّدٍ الْعُمَرِيُّ - حَدَّثَنَا وَاقِدٌ، - يَعْنِي أَخَاهُ - حَدَّثَنِي سَعِيدُ ابْنُ مَرْجَانَةَ، - صَاحِبُ عَلِيِّ بْنِ حُسَيْنٍ - قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي حُمَيْدُ بْنُ مَسْعَدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا عَاصِمٌ، - وَهُوَ ابْنُ مُحَمَّدٍ الْعُمَرِيُّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا وَاقِدٌ، - يَعْنِي أَخَاهُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي سَعِيدُ ابْنُ مَرْجَانَةَ، - صَاحِبُ عَلِيِّ بْنِ حُسَيْنٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1510": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Emancipating Slaves",
+    "book_num": "20",
+    "reference": "Reference  : Sahih Muslim 1510b\nIn-book reference  : Book 20, Hadith 30\nUSC-MSA web (English) reference  : Book 9, Hadith 3607\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/20",
+    "sanad_full": "وَحَدَّثَنَاهُ أَبُو كُرَيْبٍ، حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، كُلُّهُمْ عَنْ سُفْيَانَ، عَنْ سُهَيْلٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ وَقَالُوا",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَاهُ أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا ابْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبِي ح، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي عَمْرٌو النَّاقِدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "كُلُّهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "وَقَالُوا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

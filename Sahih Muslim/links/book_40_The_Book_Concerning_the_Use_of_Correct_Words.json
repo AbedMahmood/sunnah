@@ -1,0 +1,341 @@
+{
+  "2246": {
+    "collection": "Sahih Muslim",
+    "book": "The Book Concerning the Use of Correct Words",
+    "book_num": "40",
+    "reference": "Reference  : Sahih Muslim 2246e\nIn-book reference  : Book 40, Hadith 5\nUSC-MSA web (English) reference  : Book 27, Hadith 5584\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/40",
+    "sanad_full": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ هِشَامٍ، عَنِ ابْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ، عَنِ ابْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2247": {
+    "collection": "Sahih Muslim",
+    "book": "The Book Concerning the Use of Correct Words",
+    "book_num": "40",
+    "reference": "Reference  : Sahih Muslim 2247e\nIn-book reference  : Book 40, Hadith 10\nUSC-MSA web (English) reference  : Book 27, Hadith 5589\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/40",
+    "sanad_full": "وَحَدَّثَنَا ابْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم . فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ هَذَا مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم . فَذَكَرَ أَحَادِيثَ مِنْهَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2248": {
+    "collection": "Sahih Muslim",
+    "book": "The Book Concerning the Use of Correct Words",
+    "book_num": "40",
+    "reference": "Reference  : Sahih Muslim 2248b\nIn-book reference  : Book 40, Hadith 12\nUSC-MSA web (English) reference  : Book 27, Hadith 5590\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/40",
+    "sanad_full": "وَحَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكٍ، قَالَ سَمِعْتُ عَلْقَمَةَ بْنَ وَائِلٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِيهِ زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سِمَاكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَمِعْتُ عَلْقَمَةَ بْنَ وَائِلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2249": {
+    "collection": "Sahih Muslim",
+    "book": "The Book Concerning the Use of Correct Words",
+    "book_num": "40",
+    "reference": "Reference  : Sahih Muslim 2249d\nIn-book reference  : Book 40, Hadith 16\nUSC-MSA web (English) reference  : Book 27, Hadith 5594\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/40",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم . فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ هَذَا مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم . فَذَكَرَ أَحَادِيثَ مِنْهَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2251": {
+    "collection": "Sahih Muslim",
+    "book": "The Book Concerning the Use of Correct Words",
+    "book_num": "40",
+    "reference": "Reference  : Sahih Muslim 2251\nIn-book reference  : Book 40, Hadith 19\nUSC-MSA web (English) reference  : Book 27, Hadith 5597\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/40",
+    "sanad_full": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ، شِهَابٍ عَنْ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ، عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "شِهَابٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2252": {
+    "collection": "Sahih Muslim",
+    "book": "The Book Concerning the Use of Correct Words",
+    "book_num": "40",
+    "reference": "Reference  : Sahih Muslim 2252a\nIn-book reference  : Book 40, Hadith 20\nUSC-MSA web (English) reference  : Book 27, Hadith 5598\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/40",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ شُعْبَةَ، حَدَّثَنِي خُلَيْدُ بْنُ جَعْفَرٍ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي خُلَيْدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي نَضْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2253": {
+    "collection": "Sahih Muslim",
+    "book": "The Book Concerning the Use of Correct Words",
+    "book_num": "40",
+    "reference": "Reference  : Sahih Muslim 2253\nIn-book reference  : Book 40, Hadith 22\nUSC-MSA web (English) reference  : Book 27, Hadith 5600\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/40",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، كِلاَهُمَا عَنِ الْمُقْرِئِ، قَالَ أَبُو بَكْرٍ حَدَّثَنَا أَبُو عَبْدِ الرَّحْمَنِ الْمُقْرِئُ، عَنْ سَعِيدِ بْنِ أَبِي أَيُّوبَ، حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ أَبِي جَعْفَرٍ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، كِلاَهُمَا عَنِ الْمُقْرِئِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "بَكْرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو عَبْدِ الرَّحْمَنِ الْمُقْرِئُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ أَبِي جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

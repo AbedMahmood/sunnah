@@ -1,0 +1,356 @@
+{
+  "2736": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Heart-Melting Traditions",
+    "book_num": "49",
+    "reference": "Reference  : Sahih Muslim 2736\nIn-book reference  : Book 49, Hadith 1\nUSC-MSA web (English) reference  : Book 36, Hadith 6596\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/49",
+    "sanad_full": "حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، ح وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا مُعَاذُ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا الْمُعْتَمِرُ، ح وَحَدَّثَنَا إِسْحَاقُ، بْنُ إِبْرَاهِيمَ أَخْبَرَنَا جَرِيرٌ، كُلُّهُمْ عَنْ سُلَيْمَانَ التَّيْمِيِّ، ح وَحَدَّثَنَا أَبُو كَامِلٍ، فُضَيْلُ بْنُ حُسَيْنٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا التَّيْمِيُّ، عَنْ أَبِي عُثْمَانَ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُعَاذُ بْنُ مُعَاذٍ الْ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْبَرِيُّ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا الْمُعْتَمِرُ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "إِبْرَاهِيمَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "كُلُّهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ سُلَيْمَانَ التَّيْمِيِّ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "حَدَّثَنَا أَبُو كَامِلٍ، فُضَيْلُ بْنُ حُسَيْنٍ - وَاللَّفْظُ لَهُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "حَدَّثَنَا التَّيْمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "عَنْ أَبِي عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 16,
+        "arabic_name": "عَنْ أُسَامَةَ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 18,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 16,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2737": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Heart-Melting Traditions",
+    "book_num": "49",
+    "reference": "Reference  : Sahih Muslim 2737a\nIn-book reference  : Book 49, Hadith 2\nUSC-MSA web (English) reference  : Book 36, Hadith 6597\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/49",
+    "sanad_full": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، عَنْ أَيُّوبَ، عَنْ أَبِي رَجَاءٍ، الْعُطَارِدِيِّ قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ قَالَ مُحَمَّدٌ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الْعُطَارِدِيِّ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ مُحَمَّدٌ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2738": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Heart-Melting Traditions",
+    "book_num": "49",
+    "reference": "Reference  : Sahih Muslim 2738a\nIn-book reference  : Book 49, Hadith 6\nUSC-MSA web (English) reference  : Book 36, Hadith 6600\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/49",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، قَالَ كَانَ لِمُطَرِّفِ بْنِ عَبْدِ اللَّهِ امْرَأَتَانِ فَجَاءَ مِنْ عِنْدِ إِحْدَاهُمَا فَقَالَتِ الأُخْرَى جِئْتَ مِنْ عِنْدِ فُلاَنَةَ فَقَالَ جِئْتُ مِنْ عِنْدِ عِمْرَانَ بْنِ حُصَيْنٍ فَحَدَّثَنَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كَانَ لِمُطَرِّفِ بْنِ عَبْدِ اللَّهِ امْرَأَتَانِ فَجَاءَ مِنْ عِنْدِ إِحْدَاهُمَا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتِ الأُخْرَى جِئْتَ مِنْ عِنْدِ فُلاَنَةَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ جِئْتُ مِنْ عِنْدِ عِمْرَانَ بْنِ حُصَيْنٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2739": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Heart-Melting Traditions",
+    "book_num": "49",
+    "reference": "Reference  : Sahih Muslim 2739\nIn-book reference  : Book 49, Hadith 8\nUSC-MSA web (English) reference  : Book 36, Hadith 6602\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/49",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْكَرِيمِ أَبُو زُرْعَةَ، حَدَّثَنَا ابْنُ بُكَيْرٍ، حَدَّثَنِي يَعْقُوبُ بْنُ، عَبْدِ الرَّحْمَنِ عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ كَانَ مِنْ دُعَاءِ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْكَرِيمِ أَبُو زُرْعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ بُكَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "الرَّحْمَنِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُوسَى بْنِ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كَانَ مِنْ دُعَاءِ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2740": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Heart-Melting Traditions",
+    "book_num": "49",
+    "reference": "Reference  : Sahih Muslim 2740\nIn-book reference  : Book 49, Hadith 9\nUSC-MSA web (English) reference  : Book 36, Hadith 6603\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/49",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا سُفْيَانُ، وَمُعْتَمِرُ بْنُ سُلَيْمَانَ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، عَنْ أُسَامَةَ بْنِ زَيْدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ، وَمُعْتَمِرُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُلَيْمَانَ التَّيْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أُسَامَةَ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2741": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Heart-Melting Traditions",
+    "book_num": "49",
+    "reference": "Reference  : Sahih Muslim 2741a\nIn-book reference  : Book 49, Hadith 10\nUSC-MSA web (English) reference  : Book 36, Hadith 6604\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/49",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، وَسُوَيْدُ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، جَمِيعًا عَنِ الْمُعْتَمِرِ، قَالَ ابْنُ مُعَاذٍ حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ، قَالَ قَالَ أَبِي حَدَّثَنَا أَبُو عُثْمَانَ، عَنْ أُسَامَةَ بْنِ زَيْدِ بْنِ حَارِثَةَ، وَسَعِيدِ بْنِ زَيْدِ بْنِ عَمْرِو بْنِ نُفَيْلٍ، أَنَّهُمَا حَدَّثَا عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْبَرِيُّ، وَسُوَيْدُ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، جَمِيعًا عَنِ الْمُعْتَمِرِ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "مُعَاذٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا الْمُعْتَمِرُ بْنُ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَبِي",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا أَبُو عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

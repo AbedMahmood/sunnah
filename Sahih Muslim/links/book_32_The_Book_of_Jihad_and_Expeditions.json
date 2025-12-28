@@ -1,0 +1,1862 @@
+{
+  "1731": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1731a, b\nIn-book reference  : Book 32, Hadith 3\nUSC-MSA web (English) reference  : Book 19, Hadith 4294\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، عَنْ سُفْيَانَ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا سُفْيَانُ، قَالَ أَمْلاَهُ عَلَيْنَا إِمْلاَءً ح. وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ هَاشِمٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنِي عَبْدُ الرَّحْمَنِ، - يَعْنِي ابْنَ مَهْدِيٍّ - حَدَّثَنَا سُفْيَانُ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَمَّرَ أَمِيرًا عَلَى جَيْشٍ أَوْ سَرِيَّةٍ أَوْصَاهُ فِي خَاصَّتِهِ بِتَقْوَى اللَّهِ وَمَنْ مَعَهُ مِنَ الْمُسْلِمِينَ خَيْرًا ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُفْيَانَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَنَا يَحْيَى بْنُ آدَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ أَمْلاَهُ عَلَيْنَا إِمْلاَءً ح. وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ هَاشِمٍ، - وَاللَّفْظُ لَهُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنِي عَبْدُ الرَّحْمَنِ، - يَعْنِي ابْنَ مَهْدِيٍّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 14,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1732": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1732\nIn-book reference  : Book 32, Hadith 6\nUSC-MSA web (English) reference  : Book 19, Hadith 4297\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ - وَاللَّفْظُ لأَبِي بَكْرٍ - قَالاَ حَدَّثَنَا أَبُو أُسَامَةَ عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا بَعَثَ أَحَدًا مِنْ أَصْحَابِهِ فِي بَعْضِ أَمْرِهِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أُسَامَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ بُرَيْدِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَمْرِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1733": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1733b\nIn-book reference  : Book 32, Hadith 8\nUSC-MSA web (English) reference  : Book 19, Hadith 4299\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي خَلَفٍ عَنْ زَكَرِيَّاءَ بْنِ عَدِيٍّ، أَخْبَرَنَا عُبَيْدُ اللَّهِ، عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ، كِلاَهُمَا عَنْ سَعِيدِ بْنِ أَبِي بُرْدَةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم . نَحْوَ حَدِيثِ شُعْبَةَ وَلَيْسَ فِي حَدِيثِ زَيْدِ بْنِ أَبِي أُنَيْسَةَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرٍو، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "خَلَفٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ زَكَرِيَّاءَ بْنِ عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَخْبَرَنَا عُبَيْدُ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "كِلاَهُمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "أُنَيْسَةَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ"
+    ]
+  },
+  "1734": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1734\nIn-book reference  : Book 32, Hadith 9\nUSC-MSA web (English) reference  : Book 19, Hadith 4300\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسٍ، ح. وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ، الْوَلِيدِ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، كِلاَهُمَا عَنْ شُعْبَةَ، عَنْ أَبِي التَّيَّاحِ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْبَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَنَسٍ، ح. وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "الْوَلِيدِ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "كِلاَهُمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 14,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1735": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1735d\nIn-book reference  : Book 32, Hadith 13\nUSC-MSA web (English) reference  : Book 19, Hadith 4304\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ حَمْزَةَ، وَسَالِمٍ، ابْنَىْ عَبْدِ اللَّهِ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حَمْزَةَ، وَسَالِمٍ، ابْنَىْ عَبْدِ اللَّهِ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1736": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1736c\nIn-book reference  : Book 32, Hadith 16\nUSC-MSA web (English) reference  : Book 19, Hadith 4307\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، عَنْ يَزِيدَ بْنِ عَبْدِ الْعَزِيزِ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ آدَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ عَبْدِ الْعَزِيزِ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شَقِيقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1737": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1737\nIn-book reference  : Book 32, Hadith 17\nUSC-MSA web (English) reference  : Book 19, Hadith 4308\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ شُعْبَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1738": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1738b\nIn-book reference  : Book 32, Hadith 19\nUSC-MSA web (English) reference  : Book 19, Hadith 4310\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا الْمُسْتَمِرُّ بْنُ الرَّيَّانِ، حَدَّثَنَا أَبُو نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْمُسْتَمِرُّ بْنُ الرَّيَّانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو نَضْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1739": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1739\nIn-book reference  : Book 32, Hadith 20\nUSC-MSA web (English) reference  : Book 19, Hadith 4311\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، - وَاللَّفْظُ لِعَلِيٍّ وَزُهَيْرٍ - قَالَ عَلِيٌّ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا سُفْيَانُ، قَالَ سَمِعَ عَمْرٌو، جَابِرًا يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ السَّعْدِيُّ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، - وَاللَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَلِيٌّ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ الآخَرَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ"
+    ]
+  },
+  "1740": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1740\nIn-book reference  : Book 32, Hadith 21\nUSC-MSA web (English) reference  : Book 19, Hadith 4312\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ سَهْمٍ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ سَهْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1741": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1741\nIn-book reference  : Book 32, Hadith 22\nUSC-MSA web (English) reference  : Book 19, Hadith 4313\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، وَعَبْدُ بْنُ حُمَيْدٍ، قَالاَ حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ، عَنِ الْمُغِيرَةِ، - وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ الْحِزَامِيُّ - عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي، هُرَيْرَةَ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَامِرٍ الْعَقَدِيُّ، عَنِ الْمُغِيرَةِ، - وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ الْحِزَا",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي، هُرَيْرَةَ أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1742": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1742d\nIn-book reference  : Book 32, Hadith 26\nUSC-MSA web (English) reference  : Book 19, Hadith 4317\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، عَنْ إِسْمَاعِيلَ، بِهَذَا الإِسْنَادِ وَزَادَ ابْنُ أَبِي عُمَرَ فِي رِوَايَتِهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ أَبِي عُمَرَ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رِوَايَتِهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 2,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "1743": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1743\nIn-book reference  : Book 32, Hadith 27\nUSC-MSA web (English) reference  : Book 19, Hadith 4318\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ يَوْمَ أُحُدٍ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الصَّمَدِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ ثَابِتٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أُحُدٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1745": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1745c\nIn-book reference  : Book 32, Hadith 32\nUSC-MSA web (English) reference  : Book 19, Hadith 4323\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي عَمْرُو، بْنُ دِينَارٍ أَنَّ ابْنَ شِهَابٍ، أَخْبَرَهُ عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، عَنِ الصَّعْبِ بْنِ جَثَّامَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قِيلَ لَهُ لَوْ أَنَّ خَيْلاً أَغَارَتْ مِنَ اللَّيْلِ فَأَصَابَتْ مِنْ أَبْنَاءِ الْمُشْرِكِينَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الْمُشْرِكِينَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1747": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1747\nIn-book reference  : Book 32, Hadith 36\nUSC-MSA web (English) reference  : Book 19, Hadith 4327\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ مَعْمَرٍ، ح وَحَدَّثَنَا مُحَمَّدُ، بْنُ رَافِعٍ - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْعَلاَءِ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مَعْمَرٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ، بْنُ رَافِعٍ - وَاللَّفْظُ لَهُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ هَذَا مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "حَدَّثَنَا أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1756": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1756\nIn-book reference  : Book 32, Hadith 55\nUSC-MSA web (English) reference  : Book 19, Hadith 4346\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَمُحَمَّدُ بْنُ رَافِعٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ هَذَا مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1758": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1758\nIn-book reference  : Book 32, Hadith 60\nUSC-MSA web (English) reference  : Book 19, Hadith 4351\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ إِنَّ أَزْوَاجَ النَّبِيِّ صلى الله عليه وسلم حِينَ تُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَرَدْنَ أَنْ يَبْعَثْنَ عُثْمَانَ بْنَ عَفَّانَ إِلَى أَبِي بَكْرٍ فَيَسْأَلْنَهُ مِيرَاثَهُنَّ مِنَ النَّبِيِّ صلى الله عليه وسلم قَالَتْ عَائِشَةُ لَهُنَّ أَلَيْسَ قَدْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُرْوَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَتْ إِنَّ أَزْوَاجَ النَّبِيِّ صلى الله عليه وسلم حِينَ تُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ عَائِشَةُ لَهُنَّ أَلَيْسَ قَدْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1759": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1759c\nIn-book reference  : Book 32, Hadith 63\nUSC-MSA web (English) reference  : Book 19, Hadith 4354\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَالْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ قَالاَ حَدَّثَنَا يَعْقُوبُ، - وَهُوَ ابْنُ إِبْرَاهِيمَ - حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَخْبَرَتْهُ أَنَّ فَاطِمَةَ بِنْتَ رَسُولِ اللَّهِ صلى الله عليه وسلم سَأَلَتْ أَبَا بَكْرٍ بَعْدَ وَفَاةِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنْ يَقْسِمَ لَهَا مِيرَاثَهَا مِمَّا تَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِمَّا أَفَاءَ اللَّهُ عَلَيْهِ . فَقَالَ لَهَا أَبُو بَكْرٍ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبِي ح، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا يَعْقُوبُ، - وَهُوَ ابْنُ إِبْرَاهِيمَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، أَنَّ عَائِشَةَ، زَوْجَ الن",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لَهَا أَبُو بَكْرٍ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1760": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1760a\nIn-book reference  : Book 32, Hadith 64\nUSC-MSA web (English) reference  : Book 19, Hadith 4355\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "مَالِكٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1761": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1761\nIn-book reference  : Book 32, Hadith 66\nUSC-MSA web (English) reference  : Book 19, Hadith 4357\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنِي ابْنُ أَبِي خَلَفٍ، حَدَّثَنَا زَكَرِيَّاءُ بْنُ عَدِيٍّ، أَخْبَرَنَا ابْنُ الْمُبَارَكِ، عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي ابْنُ أَبِي خَلَفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا زَكَرِيَّاءُ بْنُ عَدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا ابْنُ الْمُبَارَكِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1767": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1767a\nIn-book reference  : Book 32, Hadith 75\nUSC-MSA web (English) reference  : Book 19, Hadith 4366\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، عَنِ ابْنِ جُرَيْجٍ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ أَخْبَرَنِي عُمَرُ بْنُ الْخَطَّابِ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، عَنِ ابْنِ جُرَيْجٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، - وَاللَّفْظُ لَهُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1769": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1769b\nIn-book reference  : Book 32, Hadith 80\nUSC-MSA web (English) reference  : Book 19, Hadith 4371\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا هِشَامٌ، قَالَ قَالَ أَبِي فَأُخْبِرْتُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ أَبِي فَأُخْبِرْتُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "1770": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1770\nIn-book reference  : Book 32, Hadith 83\nUSC-MSA web (English) reference  : Book 19, Hadith 4374\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ الضُّبَعِيُّ، حَدَّثَنَا جُوَيْرِيَةُ بْنُ أَسْمَاءَ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، قَالَ نَادَى فِينَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمَ انْصَرَفَ عَنِ الأَحْزَابِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ أَسْمَاءَ الضُّبَعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جُوَيْرِيَةُ بْنُ أَسْمَاءَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "الأَحْزَابِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1771": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1771b\nIn-book reference  : Book 32, Hadith 85\nUSC-MSA web (English) reference  : Book 19, Hadith 4376\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَحَامِدُ بْنُ عُمَرَ الْبَكْرَاوِيُّ، وَمُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، الْقَيْسِيُّ كُلُّهُمْ عَنِ الْمُعْتَمِرِ، - وَاللَّفْظُ لاِبْنِ أَبِي شَيْبَةَ - حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ التَّيْمِيُّ، عَنْ أَبِيهِ، عَنْ أَنَسٍ، أَنَّ رَجُلاً، - وَقَالَ حَامِدٌ وَابْنُ عَبْدِ الأَعْلَى أَنَّ الرَّجُلَ، - كَانَ يَجْعَلُ لِلنَّبِيِّ صلى الله عليه وسلم النَّخَلاَتِ مِنْ أَرْضِهِ . حَتَّى فُتِحَتْ عَلَيْهِ قُرَيْظَةُ وَالنَّضِيرُ فَجَعَلَ بَعْدَ ذَلِكَ يَرُدُّ عَلَيْهِ مَا كَانَ أَعْطَاهُ . قَالَ أَنَسٌ وَإِنَّ أَهْلِي أَمَرُونِي أَنْ آتِيَ النَّبِيَّ صلى الله عليه وسلم فَأَسْأَلَهُ مَا كَانَ أَهْلُهُ أَعْطَوْهُ أَوْ بَعْضَهُ وَكَانَ نَبِيُّ اللَّهِ صلى الله عليه وسلم قَدْ أَعْطَاهُ أُمَّ أَيْمَنَ فَأَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَأَعْطَانِيهِنَّ فَجَاءَتْ أُمُّ أَيْمَنَ فَجَعَلَتِ الثَّوْبَ فِي عُنُقِي وَقَالَتْ وَاللَّهِ لاَ نُعْطِيكَاهُنَّ وَقَدْ أَعْطَانِيهِنَّ . فَقَالَ نَبِيُّ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَحَامِدُ بْنُ عُمَرَ الْبَكْرَاوِيُّ، وَمُحَمَّدُ بْنُ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ التَّيْمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ رَجُلاً، - وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ حَامِدٌ وَابْنُ عَبْدِ الأَعْلَى أَنَّ الرَّجُلَ، - كَانَ يَجْعَلُ لِلنَّبِيِّ صلى الله عليه و",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَنَسٌ وَإِنَّ أَهْلِي أَمَرُونِي أَنْ آتِيَ النَّبِيَّ صلى الله عليه وسلم فَأَسْأَلَهُ مَا كَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ وَاللَّهِ لاَ نُعْطِيكَاهُنَّ وَقَدْ أَعْطَانِيهِنَّ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ نَبِيُّ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1775": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1775b\nIn-book reference  : Book 32, Hadith 95\nUSC-MSA web (English) reference  : Book 19, Hadith 4386\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَمُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، جَمِيعًا عَنْ عَبْدِ، الرَّزَّاقِ أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ . نَحْوَهُ غَيْرَ أَنَّهُ قَالَ فَرْوَةُ بْنُ نُعَامَةَ الْجُذَامِيُّ . وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "جَمِيعًا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "الرَّزَّاقِ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ فَرْوَةُ بْنُ نُعَامَةَ الْجُذَامِيُّ . وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1776": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1776c\nIn-book reference  : Book 32, Hadith 99\nUSC-MSA web (English) reference  : Book 19, Hadith 4390\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ، بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ الْبَرَاءَ، وَسَأَلَهُ، رَجُلٌ مِنْ قَيْسٍ أَفَرَرْتُمْ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمَ حُنَيْنٍ فَقَالَ الْبَرَاءُ وَلَكِنْ رَسُولُ اللَّهِ صلى الله عليه وسلم لَمْ يَفِرَّ وَكَانَتْ هَوَازِنُ يَوْمَئِذٍ رُمَاةً وَإِنَّا لَمَّا حَمَلْنَا عَلَيْهِمُ انْكَشَفُوا فَأَكْبَبْنَا عَلَى الْغَنَائِمِ فَاسْتَقْبَلُونَا بِالسِّهَامِ وَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى بَغْلَتِهِ الْبَيْضَاءِ وَإِنَّ أَبَا سُفْيَانَ بْنَ الْحَارِثِ آخِذٌ بِلِجَامِهَا وَهُوَ يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "جَعْفَرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَفَرَرْتُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم يَوْمَ حُنَيْنٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1782": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1782a\nIn-book reference  : Book 32, Hadith 109\nUSC-MSA web (English) reference  : Book 19, Hadith 4399\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَوَكِيعٌ، عَنْ زَكَرِيَّاءَ، عَنِ الشَّعْبِيِّ، قَالَ أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ مُطِيعٍ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ يَوْمَ فَتْحِ مَكَّةَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَوَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ زَكَرِيَّاءَ، عَنِ الشَّعْبِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ مُطِيعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "مَكَّةَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1787": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1787\nIn-book reference  : Book 32, Hadith 121\nUSC-MSA web (English) reference  : Book 19, Hadith 4411\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ بْنِ جُمَيْعٍ، حَدَّثَنَا أَبُو الطُّفَيْلِ حَدَّثَنَا حُذَيْفَةُ بْنُ الْيَمَانِ، قَالَ مَا مَنَعَنِي أَنْ أَشْهَدَ، بَدْرًا إِلاَّ أَنِّي خَرَجْتُ أَنَا وَأَبِي - حُسَيْلٌ - قَالَ فَأَخَذَنَا كُفَّارُ قُرَيْشٍ قَالُوا إِنَّكُمْ تُرِيدُونَ مُحَمَّدًا فَقُلْنَا مَا نُرِيدُهُ مَا نُرِيدُ إِلاَّ الْمَدِينَةَ . فَأَخَذُوا مِنَّا عَهْدَ اللَّهِ وَمِيثَاقَهُ لَنَنْصَرِفَنَّ إِلَى الْمَدِينَةِ وَلاَ نُقَاتِلُ مَعَهُ فَأَتَيْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَخْبَرْنَاهُ الْخَبَرَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ بْنِ جُمَيْعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "الطُّفَيْلِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا حُذَيْفَةُ بْنُ الْيَمَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ مَا مَنَعَنِي أَنْ أَشْهَدَ، بَدْرًا إِلاَّ أَنِّي خَرَجْتُ أَنَا وَأَبِي - حُسَيْلٌ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ فَأَخَذَنَا كُفَّارُ قُرَيْشٍ قَالُوا إِنَّكُمْ تُرِيدُونَ مُحَمَّدًا فَقُلْنَا مَا نُرِيدُهُ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "1792": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1792a\nIn-book reference  : Book 32, Hadith 128\nUSC-MSA web (English) reference  : Book 19, Hadith 4418\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ كَأَنِّي أَنْظُرُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم يَحْكِي نَبِيًّا مِنَ الأَنْبِيَاءِ ضَرَبَهُ قَوْمُهُ وَهُوَ يَمْسَحُ الدَّمَ عَنْ وَجْهِهِ وَيَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الأَعْمَشُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ شَقِيقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الدَّمَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "وَيَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1794": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1794c\nIn-book reference  : Book 32, Hadith 133\nUSC-MSA web (English) reference  : Book 19, Hadith 4423\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي، إِسْحَاقَ بِهَذَا الإِسْنَادِ نَحْوَهُ وَزَادَ وَكَانَ يَسْتَحِبُّ ثَلاَثًا يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَعْفَرُ بْنُ عَوْنٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ"
+    ]
+  },
+  "1796": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1796a\nIn-book reference  : Book 32, Hadith 136\nUSC-MSA web (English) reference  : Book 19, Hadith 4426\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَقُتَيْبَةُ بْنُ سَعِيدٍ، كِلاَهُمَا عَنْ أَبِي عَوَانَةَ، قَالَ يَحْيَى أَخْبَرَنَا أَبُو عَوَانَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ جُنْدُبِ بْنِ سُفْيَانَ، قَالَ دَمِيَتْ إِصْبَعُ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي بَعْضِ تِلْكَ الْمَشَاهِدِ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "كِلاَهُمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ أَبِي عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَحْيَى",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا أَبُو عَوَانَةَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ جُنْدُبِ بْنِ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ دَمِيَتْ إِصْبَعُ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي بَعْضِ تِلْكَ الْمَشَاهِدِ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1798": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1798a\nIn-book reference  : Book 32, Hadith 141\nUSC-MSA web (English) reference  : Book 19, Hadith 4431\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، وَمُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، - وَاللَّفْظُ لاِبْنِ رَافِعٍ - قَالَ ابْنُ رَافِعٍ حَدَّثَنَا وَقَالَ الآخَرَانِ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، أَنَّ أُسَامَةَ بْنَ زَيْدٍ، أَخْبَرَهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم رَكِبَ حِمَارًا عَلَيْهِ إِكَافٌ تَحْتَهُ قَطِيفَةٌ فَدَكِيَّةٌ وَأَرْدَفَ وَرَاءَهُ أُسَامَةَ وَهُوَ يَعُودُ سَعْدَ بْنَ عُبَادَةَ فِي بَنِي الْحَارِثِ بْنِ الْخَزْرَجِ وَذَاكَ قَبْلَ وَقْعَةِ بَدْرٍ حَتَّى مَرَّ بِمَجْلِسٍ فِيهِ أَخْلاَطٌ مِنَ الْمُسْلِمِينَ وَالْمُشْرِكِينَ عَبَدَةِ الأَوْثَانِ وَالْيَهُودِ فِيهِمْ عَبْدُ اللَّهِ بْنُ أُبَىٍّ وَفِي الْمَجْلِسِ عَبْدُ اللَّهِ بْنُ رَوَاحَةَ فَلَمَّا غَشِيَتِ الْمَجْلِسَ عَجَاجَةُ الدَّابَّةِ خَمَّرَ عَبْدُ اللَّهِ بْنُ أُبَىٍّ أَنْفَهُ بِرِدَائِهِ ثُمَّ قَالَ لاَ تُغَبِّرُوا عَلَيْنَا . فَسَلَّمَ عَلَيْهِمُ النَّبِيُّ صلى الله عليه وسلم ثُمَّ وَقَفَ فَنَزَلَ فَدَعَاهُمْ إِلَى اللَّهِ وَقَرَأَ عَلَيْهِمُ الْقُرْآنَ فَقَالَ عَبْدُ اللَّهِ بْنُ أُبَىٍّ أَيُّهَا الْمَرْءُ لاَ أَحْسَنَ مِنْ هَذَا إِنْ كَانَ مَا تَقُولُ حَقًّا فَلاَ تُؤْذِنَا فِي مَجَالِسِنَا وَارْجِعْ إِلَى رَحْلِكَ فَمَنْ جَاءَكَ مِنَّا فَاقْصُصْ عَلَيْهِ . فَقَالَ عَبْدُ اللَّهِ بْنُ رَوَاحَةَ اغْشَنَا فِي مَجَالِسِنَا فَإِنَّا نُحِبُّ ذَلِكَ . قَالَ فَاسْتَبَّ الْمُسْلِمُونَ وَالْمُشْرِكُونَ وَالْيَهُودُ حَتَّى هَمُّوا أَنْ يَتَوَاثَبُوا فَلَمْ يَزَلِ النَّبِيُّ صلى الله عليه وسلم يُخَفِّضُهُمْ ثُمَّ رَكِبَ دَابَّتَهُ حَتَّى دَخَلَ عَلَى سَعْدِ بْنِ عُبَادَةَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، وَمُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَي",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "رَافِعٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ الآخَرَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لاَ تُغَبِّرُوا عَلَيْنَا . فَسَلَّمَ عَلَيْهِمُ النَّبِيُّ صلى الله عليه وسلم ثُمَّ وَقَفَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ عَبْدُ اللَّهِ بْنُ أُبَىٍّ أَيُّهَا الْمَرْءُ لاَ أَحْسَنَ مِنْ هَذَا إِنْ كَانَ مَا تَقُولُ ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ عَبْدُ اللَّهِ بْنُ رَوَاحَةَ اغْشَنَا فِي مَجَالِسِنَا فَإِنَّا نُحِبُّ ذَلِكَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ فَاسْتَبَّ الْمُسْلِمُونَ وَالْمُشْرِكُونَ وَالْيَهُودُ حَتَّى هَمُّوا أَنْ يَتَوَاثَبُوا فَلَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1800": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1800b\nIn-book reference  : Book 32, Hadith 145\nUSC-MSA web (English) reference  : Book 19, Hadith 4435\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا حَامِدُ بْنُ عُمَرَ الْبَكْرَاوِيُّ، حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ أَبِي يَقُولُ، حَدَّثَنَا أَنَسٌ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حَامِدُ بْنُ عُمَرَ الْبَكْرَاوِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُعْتَمِرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ سَمِعْتُ أَبِي يَقُولُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَنَسٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "1365": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1365i\nIn-book reference  : Book 32, Hadith 149\nUSC-MSA web (English) reference  : Book 19, Hadith 4439\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، قَالاَ أَخْبَرَنَا النَّضْرُ بْنُ شُمَيْلٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ لَمَّا أَتَى رَسُولُ اللَّهِ صلى الله عليه وسلم خَيْبَرَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا النَّضْرُ بْنُ شُمَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "خَيْبَرَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1803": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1803b\nIn-book reference  : Book 32, Hadith 153\nUSC-MSA web (English) reference  : Book 19, Hadith 4443\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، قَالَ سَمِعْتُ الْبَرَاءَ، . فَذَكَرَ مِثْلَهُ إِلاَّ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي إِسْحَاقَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1804": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1804\nIn-book reference  : Book 32, Hadith 154\nUSC-MSA web (English) reference  : Book 19, Hadith 4444\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ جَاءَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَنَحْنُ نَحْفِرُ الْخَنْدَقَ وَنَنْقُلُ التُّرَابَ عَلَى أَكْتَافِنَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَهْلِ بْنِ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ جَاءَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَنَحْنُ نَحْفِرُ الْخَنْدَقَ وَنَنْقُلُ التُّرَاب",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1805": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1805d\nIn-book reference  : Book 32, Hadith 158\nUSC-MSA web (English) reference  : Book 19, Hadith 4448\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا بَهْزٌ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسٍ، أَنَّ أَصْحَابَ، مُحَمَّدٍ صلى الله عليه وسلم كَانُوا يَقُولُونَ يَوْمَ الْخَنْدَقِ نَحْنُ الَّذِينَ بَايَعُوا مُحَمَّدًا عَلَى الإِسْلاَمِ مَا بَقِينَا أَبَدًا أَوْ قَالَ عَلَى الْجِهَادِ . شَكَّ حَمَّادٌ وَالنَّبِيُّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بَهْزٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا ثَابِتٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ أَصْحَابَ، مُحَمَّدٍ صلى الله عليه وسلم كَانُوا يَقُولُونَ يَوْمَ الْخَنْدَقِ نَح",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1806": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Jihad and Expeditions",
+    "book_num": "32",
+    "reference": "Reference  : Sahih Muslim 1806\nIn-book reference  : Book 32, Hadith 159\nUSC-MSA web (English) reference  : Book 19, Hadith 4449\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/32",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حَاتِمٌ، - يَعْنِي ابْنَ إِسْمَاعِيلَ - عَنْ يَزِيدَ بْنِ أَبِي، عُبَيْدٍ قَالَ سَمِعْتُ سَلَمَةَ بْنَ الأَكْوَعِ، يَقُولُ خَرَجْتُ قَبْلَ أَنْ يُؤَذَّنَ، بِالأُولَى وَكَانَتْ لِقَاحُ رَسُولِ اللَّهِ صلى الله عليه وسلم تَرْعَى بِذِي قَرَدٍ - قَالَ - فَلَقِيَنِي غُلاَمٌ لِعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ فَقَالَ أُخِذَتْ لِقَاحُ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقُلْتُ مَنْ أَخَذَهَا قَالَ غَطَفَانُ قَالَ فَصَرَخْتُ ثَلاَثَ صَرَخَاتٍ يَا صَبَاحَاهْ . قَالَ فَأَسْمَعْتُ مَا بَيْنَ لاَبَتَىِ الْمَدِينَةِ ثُمَّ انْدَفَعْتُ عَلَى وَجْهِي حَتَّى أَدْرَكْتُهُمْ بِذِي قَرَدٍ وَقَدْ أَخَذُوا يَسْقُونَ مِنَ الْمَاءِ فَجَعَلْتُ أَرْمِيهِمْ بِنَبْلِي وَكُنْتُ رَامِيًا وَأَقُولُ أَنَا ابْنُ الأَكْوَعِ وَالْيَوْمَ يَوْمُ الرُّضَّعِ فَأَرْتَجِزُ حَتَّى اسْتَنْقَذْتُ اللِّقَاحَ مِنْهُمْ وَاسْتَلَبْتُ مِنْهُمْ ثَلاَثِينَ بُرْدَةً - قَالَ - وَجَاءَ النَّبِيُّ صلى الله عليه وسلم وَالنَّاسُ فَقُلْتُ يَا نَبِيَّ اللَّهِ إِنِّي قَدْ حَمَيْتُ الْقَوْمَ الْمَاءَ وَهُمْ عِطَاشٌ فَابْعَثْ إِلَيْهِمُ السَّاعَةَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَاتِمٌ، - يَعْنِي ابْنَ إِسْمَاعِيلَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عُبَيْدٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ سَمِعْتُ سَلَمَةَ بْنَ الأَكْوَعِ، يَقُولُ خَرَجْتُ قَبْلَ أَنْ يُؤَذَّنَ، بِالأُولَى وَكَانَت",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ - فَلَقِيَنِي غُلاَمٌ لِعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَخَذَهَا",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "غَطَفَانُ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ فَصَرَخْتُ ثَلاَثَ صَرَخَاتٍ يَا صَبَاحَاهْ .",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ فَأَسْمَعْتُ مَا بَيْنَ لاَبَتَىِ الْمَدِينَةِ ثُمَّ انْدَفَعْتُ عَلَى وَجْهِي حَتَّى أَدْرَكْ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ - وَجَاءَ النَّبِيُّ صلى الله عليه وسلم وَالنَّاسُ فَقُلْتُ يَا نَبِيَّ اللَّهِ إِنِّي قَدْ حَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

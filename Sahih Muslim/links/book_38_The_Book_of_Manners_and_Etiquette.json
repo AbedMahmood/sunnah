@@ -1,0 +1,818 @@
+{
+  "2131": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2131\nIn-book reference  : Book 38, Hadith 1\nUSC-MSA web (English) reference  : Book 25, Hadith 5314\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنِي أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ وَابْنُ أَبِي عُمَرَ - قَالَ أَبُو كُرَيْبٍ أَخْبَرَنَا وَقَالَ، ابْنُ أَبِي عُمَرَ حَدَّثَنَا وَاللَّفْظُ، لَهُ - قَالاَ حَدَّثَنَا مَرْوَانُ، - يَعْنِيَانِ الْفَزَارِيَّ - عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ نَادَى رَجُلٌ رَجُلاً بِالْبَقِيعِ يَا أَبَا الْقَاسِمِ . فَالْتَفَتَ إِلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم . فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي لَمْ أَعْنِكَ إِنَّمَا دَعَوْتُ فُلاَنًا . فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ وَابْنُ أَبِي عُمَرَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "كُرَيْبٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عُمَرَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا مَرْوَانُ، - يَعْنِيَانِ الْفَزَارِيَّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ نَادَى رَجُلٌ رَجُلاً بِالْبَقِيعِ يَا أَبَا الْقَاسِمِ . فَالْتَفَتَ إِلَيْهِ رَسُولُ اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ إِنِّي لَمْ أَعْنِكَ إِنَّمَا دَعَوْتُ فُلاَنًا . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2132": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2132\nIn-book reference  : Book 38, Hadith 2\nUSC-MSA web (English) reference  : Book 25, Hadith 5315\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ زِيَادٍ، - وَهُوَ الْمُلَقَّبُ بِسَبَلاَنَ - أَخْبَرَنَا عَبَّادُ بْنُ عَبَّادٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، وَأَخِيهِ عَبْدِ اللَّهِ، سَمِعَهُ مِنْهُمَا، سَنَةَ أَرْبَعٍ وَأَرْبَعِينَ وَمِائَةٍ يُحَدِّثَانِ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ زِيَادٍ، - وَهُوَ الْمُلَقَّبُ بِسَبَلاَنَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبَّادُ بْنُ عَبَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يُحَدِّثَانِ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2133": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2133h\nIn-book reference  : Book 38, Hadith 10\nUSC-MSA web (English) reference  : Book 25, Hadith 5323\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، جَمِيعًا عَنْ سُفْيَانَ، قَالَ عَمْرٌو حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، حَدَّثَنَا ابْنُ الْمُنْكَدِرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ وُلِدَ لِرَجُلٍ مِنَّا غُلاَمٌ فَسَمَّاهُ الْقَاسِمَ فَقُلْنَا لاَ نَكْنِيكَ أَبَا الْقَاسِمِ وَلاَ نُنْعِمُكَ عَيْنًا . فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ ذَلِكَ لَهُ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "جَمِيعًا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سُفْيَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَمْرٌو",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ الْمُنْكَدِرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ وُلِدَ لِرَجُلٍ ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2134": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2134\nIn-book reference  : Book 38, Hadith 12\nUSC-MSA web (English) reference  : Book 25, Hadith 5325\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، وَابْنُ، نُمَيْرٍ قَالُوا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ أَبُو الْقَاسِمِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ سِيرِينَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَبُو الْقَاسِمِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2135": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2135\nIn-book reference  : Book 38, Hadith 13\nUSC-MSA web (English) reference  : Book 25, Hadith 5326\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، وَأَبُو سَعِيدٍ الأَشَجُّ وَمُحَمَّدُ بْنُ الْمُثَنَّى الْعَنَزِيُّ - وَاللَّفْظُ لاِبْنِ نُمَيْرٍ - قَالُوا حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ أَبِيهِ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ عَلْقَمَةَ بْنِ وَائِلٍ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ لَمَّا قَدِمْتُ نَجْرَانَ سَأَلُونِي فَقَالُوا إِنَّكُمْ تَقْرَءُونَ يَا أُخْتَ هَارُونَ وَمُوسَى قَبْلَ عِيسَى بِكَذَا وَكَذَا . فَلَمَّا قَدِمْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم سَأَلْتُهُ عَنْ ذَلِكَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ إِدْرِيسَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سِمَاكِ بْنِ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عَلْقَمَةَ بْنِ وَائِلٍ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "سَأَلْتُهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ ذَلِكَ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2136": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2136b\nIn-book reference  : Book 38, Hadith 15\nUSC-MSA web (English) reference  : Book 25, Hadith 5328\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا جَرِيرٌ، عَنِ الرُّكَيْنِ بْنِ الرَّبِيعِ، عَنْ أَبِيهِ، عَنْ سَمُرَةَ، بْنِ جُنْدَبٍ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ، عَنِ الرُّكَيْنِ بْنِ الرَّبِيعِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "جُنْدَبٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2137": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2137a\nIn-book reference  : Book 38, Hadith 16\nUSC-MSA web (English) reference  : Book 25, Hadith 5329\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا مَنْصُورٌ، عَنِ هِلاَلِ بْنِ يَسَافٍ، عَنْ رَبِيعِ بْنِ عُمَيْلَةَ، عَنْ سَمُرَةَ بْنِ جُنْدَبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 1,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا مَنْصُورٌ، عَن",
+        "role": "narrator"
+      },
+      {
+        "position": 2,
+        "arabic_name": "عَنْ رَبِيعِ بْنِ عُمَيْلَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَنْ سَمُرَةَ بْنِ جُنْدَبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2139": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2139a\nIn-book reference  : Book 38, Hadith 19\nUSC-MSA web (English) reference  : Book 25, Hadith 5332\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَزُهَيْرُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، وَمُحَمَّدُ بْنُ بَشَّارٍ قَالُوا حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم غَيَّرَ اسْمَ عَاصِيَةَ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه و",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2143": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2143b\nIn-book reference  : Book 38, Hadith 26\nUSC-MSA web (English) reference  : Book 25, Hadith 5339\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ هَذَا مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2150": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2150\nIn-book reference  : Book 38, Hadith 37\nUSC-MSA web (English) reference  : Book 25, Hadith 5350\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا أَبُو الرَّبِيعِ، سُلَيْمَانُ بْنُ دَاوُدَ الْعَتَكِيُّ حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَبُو التَّيَّاحِ، حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، ح\nوَحَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَحْسَنَ النَّاسِ خُلُقًا وَكَانَ لِي أَخٌ يُقَالُ لَهُ أَبُو عُمَيْرٍ - قَالَ أَحْسِبُهُ قَالَ - كَانَ فَطِيمًا - قَالَ - فَكَانَ إِذَا جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَرَآهُ قَالَ \" أَبَا عُمَيْرٍ مَا فَعَلَ النُّغَيْرُ \" . قَالَ فَكَانَ يَلْعَبُ بِهِ .",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْعَتَكِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبُو التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، ح\nوَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، - وَاللَّفْظُ لَهُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَارِثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَنَسِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَحْسَنَ النَّاسِ خُلُقًا وَكَانَ لِي أَخٌ يُقَالُ لَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "أَحْسِبُهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ - كَانَ فَطِيمًا -",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "فَرَآهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 14,
+        "arabic_name": "قَالَ \" أَبَا عُمَيْرٍ مَا فَعَلَ النُّغَيْرُ \" .",
+        "role": "narrator"
+      },
+      {
+        "position": 15,
+        "arabic_name": "قَالَ فَكَانَ يَلْعَبُ بِهِ .",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 14,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2151": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2151\nIn-book reference  : Book 38, Hadith 38\nUSC-MSA web (English) reference  : Book 25, Hadith 5351\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي عُثْمَانَ، عَنْ أَنَسِ بْنِ، مَالِكٍ قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ الْغُبَرِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي عُثْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "مَالِكٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2152": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2152b\nIn-book reference  : Book 38, Hadith 40\nUSC-MSA web (English) reference  : Book 25, Hadith 5353\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَابْنُ، نُمَيْرٍ قَالاَ حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا سُرَيْجُ بْنُ، يُونُسَ حَدَّثَنَا هُشَيْمٌ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا جَرِيرٌ، ح وَحَدَّثَنِي مُحَمَّدُ بْنُ، رَافِعٍ حَدَّثَنَا أَبُو أُسَامَةَ، كُلُّهُمْ عَنْ إِسْمَاعِيلَ، بِهَذَا الإِسْنَادِ . وَلَيْسَ فِي حَدِيثِ أَحَدٍ مِنْهُمْ قَوْلُ النَّبِيِّ صلى الله عليه وسلم لِلْمُغِيرَةِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يُونُسَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا هُشَيْمٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَخْبَرَنَا جَرِيرٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "رَافِعٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "كُلُّهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "لِلْمُغِيرَةِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2153": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2153d\nIn-book reference  : Book 38, Hadith 44\nUSC-MSA web (English) reference  : Book 25, Hadith 5357\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ، حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ مُفَضَّلٍ - حَدَّثَنَا سَعِيدُ، بْنُ يَزِيدَ عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، أَنَّ أَبَا مُوسَى، أَتَى بَابَ عُمَرَ فَاسْتَأْذَنَ فَقَالَ عُمَرُ وَاحِدَةٌ . ثُمَّ اسْتَأْذَنَ الثَّانِيَةَ فَقَالَ عُمَرُ ثِنْتَانِ . ثُمَّ اسْتَأْذَنَ الثَّالِثَةَ فَقَالَ عُمَرُ ثَلاَثٌ . ثُمَّ انْصَرَفَ فَأَتْبَعَهُ فَرَدَّهُ فَقَالَ إِنْ كَانَ هَذَا شَيْئًا حَفِظْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَهَا وَإِلاَّ فَلأَجْعَلَنَّكَ عِظَةً . قَالَ أَبُو سَعِيدٍ فَأَتَانَا فَقَالَ أَلَمْ تَعْلَمُوا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ الْجَهْضَمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا بِشْرٌ، - يَعْنِي ابْنَ مُفَضَّلٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَزِيدَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي نَضْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ، أَنَّ أَبَا مُوسَى، أَتَى بَابَ عُمَرَ فَاسْتَأْذَنَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ عُمَرُ وَاحِدَةٌ . ثُمَّ اسْتَأْذَنَ الثَّانِيَةَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ عُمَرُ ثِنْتَانِ . ثُمَّ اسْتَأْذَنَ الثَّالِثَةَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ عُمَرُ ثَلاَثٌ . ثُمَّ انْصَرَفَ فَأَتْبَعَهُ فَرَدَّهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ إِنْ كَانَ هَذَا شَيْئًا حَفِظْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَهَا وَإِلاَّ فَل",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ أَبُو سَعِيدٍ فَأَتَانَا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "قَالَ أَلَمْ تَعْلَمُوا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2154": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2154a\nIn-book reference  : Book 38, Hadith 48\nUSC-MSA web (English) reference  : Book 25, Hadith 5361\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا حُسَيْنُ بْنُ حُرَيْثٍ أَبُو عَمَّارٍ، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، أَخْبَرَنَا طَلْحَةُ بْنُ، يَحْيَى عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ جَاءَ أَبُو مُوسَى إِلَى عُمَرَ بْنِ الْخَطَّابِ فَقَالَ السَّلاَمُ عَلَيْكُمْ هَذَا عَبْدُ اللَّهِ بْنُ قَيْسٍ . فَلَمْ يَأْذَنْ لَهُ فَقَالَ السَّلاَمُ عَلَيْكُمْ هَذَا أَبُو مُوسَى السَّلاَمُ عَلَيْكُمْ هَذَا الأَشْعَرِيُّ . ثُمَّ انْصَرَفَ فَقَالَ رُدُّوا عَلَىَّ رُدُّوا عَلَىَّ . فَجَاءَ فَقَالَ يَا أَبَا مُوسَى مَا رَدَّكَ كُنَّا فِي شُغْلٍ . قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا حُسَيْنُ بْنُ حُرَيْثٍ أَبُو عَمَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَحْيَى",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي بُرْدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي مُوسَى الأَشْعَرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ جَاءَ أَبُو مُوسَى إِلَى عُمَرَ بْنِ الْخَطَّابِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ السَّلاَمُ عَلَيْكُمْ هَذَا عَبْدُ اللَّهِ بْنُ قَيْسٍ . فَلَمْ يَأْذَنْ لَهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ السَّلاَمُ عَلَيْكُمْ هَذَا أَبُو مُوسَى السَّلاَمُ عَلَيْكُمْ هَذَا الأَشْعَرِيُّ . ثُمَّ انْ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رُدُّوا عَلَىَّ رُدُّوا عَلَىَّ . فَجَاءَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ يَا أَبَا مُوسَى مَا رَدَّكَ كُنَّا فِي شُغْلٍ .",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "2156": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2156b\nIn-book reference  : Book 38, Hadith 54\nUSC-MSA web (English) reference  : Book 25, Hadith 5367\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَنَّأَخْبَرَهُ أَنَّ رَجُلاً اطَّلَعَ مِنْ جُحْرٍ فِي بَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَمَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مِدْرًى يُرَجِّلُ بِهِ رَأْسَهُ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَنَّأَخْبَرَهُ أَنَّ رَجُلاً اطّ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "2158": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Manners and Etiquette",
+    "book_num": "38",
+    "reference": "Reference  : Sahih Muslim 2158b\nIn-book reference  : Book 38, Hadith 58\nUSC-MSA web (English) reference  : Book 25, Hadith 5371\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/38",
+    "sanad_full": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

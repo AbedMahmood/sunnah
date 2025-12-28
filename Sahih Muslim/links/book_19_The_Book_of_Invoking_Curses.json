@@ -1,0 +1,297 @@
+{
+  "1492": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Invoking Curses",
+    "book_num": "19",
+    "reference": "Reference  : Sahih Muslim 1492c\nIn-book reference  : Book 19, Hadith 3\nUSC-MSA web (English) reference  : Book 9, Hadith 3555\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/19",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي ابْنُ شِهَابٍ، عَنِ الْمُتَلاَعِنَيْنِ، وَعَنِ السُّنَّةِ، فِيهِمَا عَنْ حَدِيثِ، سَهْلِ بْنِ سَعْدٍ أَخِي بَنِي سَاعِدَةَ أَنَّ رَجُلاً، مِنَ الأَنْصَارِ جَاءَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ أَرَأَيْتَ رَجُلاً وَجَدَ مَعَ امْرَأَتِهِ رَجُلاً وَذَكَرَ الْحَدِيثَ بِقِصَّتِهِ . وَزَادَ فِيهِ فَتَلاَعَنَا فِي الْمَسْجِدِ وَأَنَا شَاهِدٌ . وَقَالَ فِي الْحَدِيثِ فَطَلَّقَهَا ثَلاَثًا قَبْلَ أَنْ يَأْمُرَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم . فَفَارَقَهَا عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "فِيهِمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ حَدِيثِ، سَهْلِ بْنِ سَعْدٍ أَخِي بَنِي سَاعِدَةَ أَنَّ رَجُلاً، مِنَ الأَنْصَارِ جَاءَ إِلَى ا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ يَا رَسُولَ اللَّهِ أَرَأَيْتَ رَجُلاً وَجَدَ مَعَ امْرَأَتِهِ رَجُلاً وَذَكَرَ الْحَدِيثَ بِق",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ فِي الْحَدِيثِ فَطَلَّقَهَا ثَلاَثًا قَبْلَ أَنْ يَأْمُرَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1493": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Invoking Curses",
+    "book_num": "19",
+    "reference": "Reference  : Sahih Muslim 1493d\nIn-book reference  : Book 19, Hadith 7\nUSC-MSA web (English) reference  : Book 9, Hadith 3558\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/19",
+    "sanad_full": "وَحَدَّثَنِي أَبُو الرَّبِيعِ الزَّهْرَانِيُّ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ، قَالَ فَرَّقَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ أَخَوَىْ بَنِي الْعَجْلاَنِ وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي أَبُو الرَّبِيعِ الزَّهْرَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ فَرَّقَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ أَخَوَىْ بَنِي الْعَجْلاَنِ وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1496": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Invoking Curses",
+    "book_num": "19",
+    "reference": "Reference  : Sahih Muslim 1496\nIn-book reference  : Book 19, Hadith 15\nUSC-MSA web (English) reference  : Book 9, Hadith 3566\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/19",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا هِشَامٌ، عَنْ مُحَمَّدٍ، قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ وَأَنَا أُرَى، أَنَّ عِنْدَهُ، مِنْهُ عِلْمًا . فَقَالَ إِنَّ هِلاَلَ بْنَ أُمَيَّةَ قَذَفَ امْرَأَتَهُ بِشَرِيكِ ابْنِ سَحْمَاءَ وَكَانَ أَخَا الْبَرَاءِ بْنِ مَالِكٍ لأُمِّهِ وَكَانَ أَوَّلَ رَجُلٍ لاَعَنَ فِي الإِسْلاَمِ - قَالَ - فَلاَعَنَهَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا هِشَامٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ وَأَنَا أُرَى، أَنَّ عِنْدَهُ، مِنْهُ عِلْمًا . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ إِنَّ هِلاَلَ بْنَ أُمَيَّةَ قَذَفَ امْرَأَتَهُ بِشَرِيكِ ابْنِ سَحْمَاءَ وَكَانَ أَخَا الْبَر",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ - فَلاَعَنَهَا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1497": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Invoking Curses",
+    "book_num": "19",
+    "reference": "Reference  : Sahih Muslim 1497c\nIn-book reference  : Book 19, Hadith 18\nUSC-MSA web (English) reference  : Book 9, Hadith 3568\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/19",
+    "sanad_full": "وَحَدَّثَنَا عَمْرٌو النَّاقِدُ، وَابْنُ أَبِي عُمَرَ، - وَاللَّفْظُ لِعَمْرٍو - قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ، عُيَيْنَةَ عَنْ أَبِي الزِّنَادِ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، قَالَ قَالَ عَبْدُ اللَّهِ بْنُ شَدَّادٍ وَذُكِرَ الْمُتَلاَعِنَانِ عِنْدَ ابْنِ عَبَّاسٍ فَقَالَ ابْنُ شَدَّادٍ أَهُمَا اللَّذَانِ قَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عُيَيْنَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ عَبْدُ اللَّهِ بْنُ شَدَّادٍ وَذُكِرَ الْمُتَلاَعِنَانِ عِنْدَ ابْنِ عَبَّاسٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "اللَّذَانِ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1498": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Invoking Curses",
+    "book_num": "19",
+    "reference": "Reference  : Sahih Muslim 1498b\nIn-book reference  : Book 19, Hadith 20\nUSC-MSA web (English) reference  : Book 9, Hadith 3570\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/19",
+    "sanad_full": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنِي إِسْحَاقُ بْنُ عِيسَى، حَدَّثَنَا مَالِكٌ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ سَعْدَ بْنَ عُبَادَةَ، قَالَ يَا رَسُولَ اللَّهِ إِنْ وَجَدْتُ مَعَ امْرَأَتِي رَجُلاً أَأُمْهِلُهُ حَتَّى آتِيَ بِأَرْبَعَةِ شُهَدَاءَ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي إِسْحَاقُ بْنُ عِيسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَالِكٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُهَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ سَعْدَ بْنَ عُبَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "شُهَدَاءَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1499": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Invoking Curses",
+    "book_num": "19",
+    "reference": "Reference  : Sahih Muslim 1499a\nIn-book reference  : Book 19, Hadith 22\nUSC-MSA web (English) reference  : Book 9, Hadith 3572\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/19",
+    "sanad_full": "حَدَّثَنِي عُبَيْدُ اللَّهِ بْنُ عُمَرَ الْقَوَارِيرِيُّ، وَأَبُو كَامِلٍ فُضَيْلُ بْنُ حُسَيْنٍ الْجَحْدَرِيُّ - وَاللَّفْظُ لأَبِي كَامِلٍ - قَالاَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ وَرَّادٍ، - كَاتِبِ الْمُغِيرَةِ - عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ قَالَ سَعْدُ بْنُ عُبَادَةَ لَوْ رَأَيْتُ رَجُلاً مَعَ امْرَأَتِي لَضَرَبْتُهُ بِالسَّيْفِ غَيْرَ مُصْفِحٍ عَنْهُ . فَبَلَغَ ذَلِكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَوَانَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ وَرَّادٍ، - كَاتِبِ الْمُغِيرَةِ - عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "مُصْفِحٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْهُ . فَبَلَغَ ذَلِكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}

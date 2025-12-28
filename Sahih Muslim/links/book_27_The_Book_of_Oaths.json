@@ -1,0 +1,1123 @@
+{
+  "1646": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1646d\nIn-book reference  : Book 27, Hadith 4\nUSC-MSA web (English) reference  : Book 15, Hadith 4038\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، - وَاللَّفْظُ لَهُ - أَخْبَرَنَا اللَّيْثُ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ أَدْرَكَ عُمَرَ بْنَ الْخَطَّابِ فِي رَكْبٍ وَعُمَرُ يَحْلِفُ بِأَبِيهِ فَنَادَاهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا لَيْثٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، - وَاللَّفْظُ لَهُ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا اللَّيْثُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ أَدْرَكَ عُمَرَ بْنَ الْخَطَّابِ فِي رَكْبٍ وَعُمَرُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ"
+    ]
+  },
+  "1647": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1647a\nIn-book reference  : Book 27, Hadith 7\nUSC-MSA web (English) reference  : Book 15, Hadith 4041\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "حَدَّثَنِي أَبُو الطَّاهِرِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، ح وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي أَبُو الطَّاهِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يُونُسَ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي حُمَيْدُ بْنُ عَبْدِ ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1648": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1648\nIn-book reference  : Book 27, Hadith 9\nUSC-MSA web (English) reference  : Book 15, Hadith 4043\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ هِشَامٍ، عَنِ الْحَسَنِ، عَنْ عَبْدِ، الرَّحْمَنِ بْنِ سَمُرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الأَعْلَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ، عَنِ الْحَسَنِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "سَمُرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1649": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1649f\nIn-book reference  : Book 27, Hadith 15\nUSC-MSA web (English) reference  : Book 15, Hadith 4049\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا الصَّعْقُ، - يَعْنِي ابْنَ حَزْنٍ - حَدَّثَنَا مَطَرٌ الْوَرَّاقُ، حَدَّثَنَا زَهْدَمٌ الْجَرْمِيُّ، قَالَ دَخَلْتُ عَلَى أَبِي مُوسَى وَهُوَ يَأْكُلُ لَحْمَ دَجَاجٍ وَسَاقَ الْحَدِيثَ بِنَحْوِ حَدِيثِهِمْ وَزَادَ فِيهِ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا الصَّعْقُ، - يَعْنِي ابْنَ حَزْنٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَطَرٌ الْوَرَّاقُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا زَهْدَمٌ الْجَرْمِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "1650": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1650d\nIn-book reference  : Book 27, Hadith 21\nUSC-MSA web (English) reference  : Book 15, Hadith 4055\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنِي الْقَاسِمُ بْنُ زَكَرِيَّاءَ، حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، حَدَّثَنِي سُلَيْمَانُ، - يَعْنِي ابْنَ بِلاَلٍ - حَدَّثَنِي سُهَيْلٌ، فِي هَذَا الإِسْنَادِ بِمَعْنَى حَدِيثِ مَالِكٍ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي الْقَاسِمُ بْنُ زَكَرِيَّاءَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي سُلَيْمَانُ، - يَعْنِي ابْنَ بِلاَلٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "مَالِكٍ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1651": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1651e\nIn-book reference  : Book 27, Hadith 26\nUSC-MSA web (English) reference  : Book 15, Hadith 4060\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، عَنْ تَمِيمِ بْنِ طَرَفَةَ، قَالَ سَمِعْتُ عَدِيَّ بْنَ حَاتِمٍ، وَأَتَاهُ، رَجُلٌ يَسْأَلُهُ مِائَةَ دِرْهَمٍ . فَقَالَ تَسْأَلُنِي مِائَةَ دِرْهَمٍ وَأَنَا ابْنُ حَاتِمٍ وَاللَّهِ لاَ أُعْطِيكَ . ثُمَّ قَالَ لَوْلاَ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سِمَاكِ بْنِ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ تَمِيمِ بْنِ طَرَفَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ عَدِيَّ بْنَ حَاتِمٍ، وَأَتَاهُ، رَجُلٌ يَسْأَلُهُ مِائَةَ دِرْهَمٍ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1652": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1652a\nIn-book reference  : Book 27, Hadith 28\nUSC-MSA web (English) reference  : Book 15, Hadith 4062\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، حَدَّثَنَا الْحَسَنُ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، بْنُ سَمُرَةَ قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا الْحَسَنُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "سَمُرَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "1653": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1653b\nIn-book reference  : Book 27, Hadith 31\nUSC-MSA web (English) reference  : Book 15, Hadith 4065\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنْ هُشَيْمٍ، عَنْ عَبَّادِ بْنِ، أَبِي صَالِحٍ عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هُشَيْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "صَالِحٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1654": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1654f\nIn-book reference  : Book 27, Hadith 37\nUSC-MSA web (English) reference  : Book 15, Hadith 4070\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنِيهِ سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا حَفْصُ بْنُ مَيْسَرَةَ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ أَبِي، الزِّنَادِ بِهَذَا الإِسْنَادِ مِثْلَهُ . غَيْرَ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِيهِ سُوَيْدُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَفْصُ بْنُ مَيْسَرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُوسَى بْنِ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1655": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1655\nIn-book reference  : Book 27, Hadith 38\nUSC-MSA web (English) reference  : Book 15, Hadith 4071\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ هَذَا مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1656": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1656c\nIn-book reference  : Book 27, Hadith 41\nUSC-MSA web (English) reference  : Book 15, Hadith 4074\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، أَنَّ أَيُّوبَ، حَدَّثَهُ أَنَّ نَافِعًا حَدَّثَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ حَدَّثَهُ أَنَّ عُمَرَ بْنَ الْخَطَّابِ سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم وَهُوَ بِالْجِعْرَانَةِ بَعْدَ أَنْ رَجَعَ مِنَ الطَّائِفِ فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي نَذَرْتُ فِي الْجَاهِلِيَّةِ أَنْ أَعْتَكِفَ يَوْمًا فِي الْمَسْجِدِ الْحَرَامِ فَكَيْفَ تَرَى قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي أَبُو الطَّاهِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، أَنَّ أَيُّوبَ، حَدَّثَهُ أَنَّ نَافِعًا حَدَّثَهُ أَنَّ عَبْدَ الل",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "تَرَى",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1657": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1657b\nIn-book reference  : Book 27, Hadith 46\nUSC-MSA web (English) reference  : Book 15, Hadith 4079\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ، بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ، عَنْ فِرَاسٍ، قَالَ سَمِعْتُ ذَكْوَانَ، يُحَدِّثُ عَنْ زَاذَانَ، أَنَّ ابْنَ عُمَرَ، دَعَا بِغُلاَمٍ لَهُ فَرَأَى بِظَهْرِهِ أَثَرًا فَقَالَ لَهُ أَوْجَعْتُكَ قَالَ لاَ . قَالَ فَأَنْتَ عَتِيقٌ . قَالَ ثُمَّ أَخَذَ شَيْئًا مِنَ الأَرْضِ فَقَالَ مَا لِي فِيهِ مِنَ الأَجْرِ مَا يَزِنُ هَذَا إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "جَعْفَرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ فِرَاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ زَاذَانَ، أَنَّ ابْنَ عُمَرَ، دَعَا بِغُلاَمٍ لَهُ فَرَأَى بِظَهْرِهِ أَثَرًا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَوْجَعْتُكَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ لاَ .",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ فَأَنْتَ عَتِيقٌ .",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ ثُمَّ أَخَذَ شَيْئًا مِنَ الأَرْضِ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 12,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1659": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1659d\nIn-book reference  : Book 27, Hadith 56\nUSC-MSA web (English) reference  : Book 15, Hadith 4089\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا ابْنُ، أَبِي عَدِيٍّ عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، عَنْ إِبْرَاهِيمَ التَّيْمِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي مَسْعُودٍ، أَنَّهُ كَانَ يَضْرِبُ غُلاَمَهُ فَجَعَلَ يَقُولُ أَعُوذُ بِاللَّهِ - قَالَ - فَجَعَلَ يَضْرِبُهُ فَقَالَ أَعُوذُ بِرَسُولِ اللَّهِ . فَتَرَكَهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "عَدِيٍّ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شُعْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ إِبْرَاهِيمَ التَّيْمِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي مَسْعُودٍ، أَنَّهُ كَانَ يَضْرِبُ غُلاَمَهُ فَجَعَلَ يَقُولُ أَعُوذُ بِاللَّهِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ - فَجَعَلَ يَضْرِبُهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ أَعُوذُ بِرَسُولِ اللَّهِ . فَتَرَكَهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1660": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1660a\nIn-book reference  : Book 27, Hadith 58\nUSC-MSA web (English) reference  : Book 15, Hadith 4090\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ نُمَيْرٍ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ، نُمَيْرٍ حَدَّثَنَا أَبِي، حَدَّثَنَا فُضَيْلُ بْنُ غَزْوَانَ، قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ أَبِي نُعْمٍ، حَدَّثَنِي أَبُو هُرَيْرَةَ، قَالَ قَالَ أَبُو الْقَاسِمِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ نُمَيْرٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "نُمَيْرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا فُضَيْلُ بْنُ غَزْوَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ أَبِي نُعْمٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ أَبُو الْقَاسِمِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1661": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1661c\nIn-book reference  : Book 27, Hadith 62\nUSC-MSA web (English) reference  : Book 15, Hadith 4094\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ، بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ، عَنْ وَاصِلٍ الأَحْدَبِ، عَنِ الْمَعْرُورِ بْنِ سُوَيْدٍ، قَالَ رَأَيْتُ أَبَا ذَرٍّ وَعَلَيْهِ حُلَّةٌ وَعَلَى غُلاَمِهِ مِثْلُهَا فَسَأَلْتُهُ عَنْ ذَلِكَ قَالَ فَذَكَرَ أَنَّهُ سَابَّ رَجُلاً عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَعَيَّرَهُ بِأُمِّهِ - قَالَ - فَأَتَى الرَّجُلُ النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ ذَلِكَ لَهُ فَقَالَ النَّبِيُّ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "جَعْفَرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ وَاصِلٍ الأَحْدَبِ، عَنِ الْمَعْرُورِ بْنِ سُوَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فَسَأَلْتُهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "ذَلِكَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ فَذَكَرَ أَنَّهُ سَابَّ رَجُلاً عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَعَيَّرَهُ بِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ - فَأَتَى الرَّجُلُ النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ ذَلِكَ لَهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ النَّبِيُّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 9,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1662": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1662\nIn-book reference  : Book 27, Hadith 63\nUSC-MSA web (English) reference  : Book 15, Hadith 4095\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَحْمَدُ بْنُ عَمْرِو بْنِ سَرْحٍ أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنَا عَمْرُو، بْنُ الْحَارِثِ أَنَّ بُكَيْرَ بْنَ الأَشَجِّ، حَدَّثَهُ عَنِ الْعَجْلاَنِ، مَوْلَى فَاطِمَةَ عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "سَرْحٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "فَاطِمَةَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1663": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1663\nIn-book reference  : Book 27, Hadith 64\nUSC-MSA web (English) reference  : Book 15, Hadith 4096\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا الْقَعْنَبِيُّ، حَدَّثَنَا دَاوُدُ بْنُ قَيْسٍ، عَنْ مُوسَى بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا دَاوُدُ بْنُ قَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُوسَى بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1664": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1664a\nIn-book reference  : Book 27, Hadith 65\nUSC-MSA web (English) reference  : Book 15, Hadith 4097\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "مَالِكٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1666": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1666a\nIn-book reference  : Book 27, Hadith 69\nUSC-MSA web (English) reference  : Book 15, Hadith 4100\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي صَالِحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1667": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1667\nIn-book reference  : Book 27, Hadith 71\nUSC-MSA web (English) reference  : Book 15, Hadith 4101\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، قَالَ هَذَا مَا حَدَّثَنَا أَبُو هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَقَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مَعْمَرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ هَمَّامِ بْنِ مُنَبِّهٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ هَذَا مَا",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا أَبُو هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ أَحَادِيثَ مِنْهَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1501": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1501h\nIn-book reference  : Book 27, Hadith 77\nUSC-MSA web (English) reference  : Book 15, Hadith 4107\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1502": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1502b\nIn-book reference  : Book 27, Hadith 78\nUSC-MSA web (English) reference  : Book 15, Hadith 4108\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي، هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ فِي الْمَمْلُوكِ بَيْنَ الرَّجُلَيْنِ فَيُعْتِقُ أَحَدُهُمَا قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ بَشِيرِ بْنِ نَهِيكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي، هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "أَحَدُهُمَا",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1503": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 1503f\nIn-book reference  : Book 27, Hadith 81\nUSC-MSA web (English) reference  : Book 15, Hadith 4111\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَمُحَمَّدُ بْنُ بِشْرٍ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَلِيُّ بْنُ خَشْرَمٍ، قَالاَ أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، جَمِيعًا عَنِ ابْنِ أَبِي، عَرُوبَةَ بِهَذَا الإِسْنَادِ . وَفِي حَدِيثِ عِيسَى",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، وَمُحَمَّدُ بْنُ بِشْرٍ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عِيسَى",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا"
+    ]
+  },
+  "997": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Oaths",
+    "book_num": "27",
+    "reference": "Reference  : Sahih Muslim 997c\nIn-book reference  : Book 27, Hadith 85\nUSC-MSA web (English) reference  : Book 15, Hadith 4115\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/27",
+    "sanad_full": "حَدَّثَنَا أَبُو الرَّبِيعِ، سُلَيْمَانُ بْنُ دَاوُدَ الْعَتَكِيُّ حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ زَيْدٍ - عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَجُلاً، مِنَ الأَنْصَارِ أَعْتَقَ غُلاَمًا لَهُ عَنْ دُبُرٍ لَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُ فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْعَتَكِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ زَيْدٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرِو بْنِ دِينَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَجُلاً، مِنَ الأَنْصَارِ أَعْتَقَ غُلاَمًا لَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ دُبُرٍ لَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُ فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  }
+}

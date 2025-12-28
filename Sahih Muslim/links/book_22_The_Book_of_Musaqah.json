@@ -1,0 +1,2103 @@
+{
+  "1551": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1551f\nIn-book reference  : Book 22, Hadith 6\nUSC-MSA web (English) reference  : Book 10, Hadith 3763\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، وَإِسْحَاقُ بْنُ مَنْصُورٍ، - وَاللَّفْظُ لاِبْنِ رَافِعٍ - قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، حَدَّثَنِي مُوسَى بْنُ عُقْبَةَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، بْنَ الْخَطَّابِ أَجْلَى الْيَهُودَ وَالنَّصَارَى مِنْ أَرْضِ الْحِجَازِ وَأَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمَّا ظَهَرَ عَلَى خَيْبَرَ أَرَادَ إِخْرَاجَ الْيَهُودِ مِنْهَا وَكَانَتِ الأَرْضُ حِينَ ظُهِرَ عَلَيْهَا لِلَّهِ وَلِرَسُولِهِ وَلِلْمُسْلِمِينَ فَأَرَادَ إِخْرَاجَ الْيَهُودِ مِنْهَا فَسَأَلَتِ الْيَهُودُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَنْ يُقِرَّهُمْ بِهَا عَلَى أَنْ يَكْفُوا عَمَلَهَا وَلَهُمْ نِصْفُ الثَّمَرِ فَقَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الرَّزَّاقِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا ابْنُ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي مُوسَى بْنُ عُقْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ عُمَرَ، بْنَ الْخَطَّابِ أَجْلَى الْيَهُودَ وَالنَّصَارَى مِن",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1552": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1552c\nIn-book reference  : Book 22, Hadith 9\nUSC-MSA web (English) reference  : Book 10, Hadith 3766\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "وَحَدَّثَنِي مُحَمَّدُ بْنُ حَاتِمٍ، وَابْنُ أَبِي خَلَفٍ، قَالاَ حَدَّثَنَا رَوْحٌ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا رَوْحٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1553": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1553b\nIn-book reference  : Book 22, Hadith 13\nUSC-MSA web (English) reference  : Book 10, Hadith 3770\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبَانُ بْنُ يَزِيدَ، حَدَّثَنَا قَتَادَةُ، حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم دَخَلَ نَخْلاً لأُمِّ مُبَشِّرٍ - امْرَأَةٍ مِنَ الأَنْصَارِ - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا أَبَانُ بْنُ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا قَتَادَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَنَسُ بْنُ مَالِكٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم دَخَلَ نَخْلاً لأُمِّ مُبَش",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "1555": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1555c\nIn-book reference  : Book 22, Hadith 18\nUSC-MSA web (English) reference  : Book 10, Hadith 3775\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبَّادٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي مُحَمَّدُ بْنُ عَبَّادٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1557": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1557\nIn-book reference  : Book 22, Hadith 22\nUSC-MSA web (English) reference  : Book 10, Hadith 3779\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "وَحَدَّثَنِي غَيْرُ، وَاحِدٍ، مِنْ أَصْحَابِنَا قَالُوا حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ، حَدَّثَنِي أَخِي، عَنْ سُلَيْمَانَ، - وَهُوَ ابْنُ بِلاَلٍ - عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَبِي الرِّجَالِ، مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ أَنَّ أُمَّهُ، عَمْرَةَ بِنْتَ عَبْدِ الرَّحْمَنِ قَالَتْ سَمِعْتُ عَائِشَةَ، تَقُولُ سَمِعَ رَسُولُ اللَّهِ صلى الله عليه وسلم صَوْتَ خُصُومٍ بِالْبَابِ عَالِيَةً أَصْوَاتُهُمَا وَإِذَا أَحَدُهُمَا يَسْتَوْضِعُ الآخَرَ وَيَسْتَرْفِقُهُ فِي شَىْءٍ وَهُوَ يَقُولُ وَاللَّهِ لاَ أَفْعَلُ . فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَيْهِمَا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا إِسْمَاعِيلُ بْنُ أَبِي أُوَيْسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي أَخِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سُلَيْمَانَ، - وَهُوَ ابْنُ بِلاَلٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ يَحْيَى بْنِ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "الرَّحْمَنِ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَتْ سَمِعْتُ عَائِشَةَ، تَقُولُ سَمِعَ رَسُولُ اللَّهِ صلى الله عليه وسلم صَوْتَ خُصُومٍ بِالْبَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1558": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1558c\nIn-book reference  : Book 22, Hadith 25\nUSC-MSA web (English) reference  : Book 10, Hadith 3781\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "قَالَ مُسْلِمٌ وَرَوَى اللَّيْثُ بْنُ سَعْدٍ، حَدَّثَنِي جَعْفَرُ بْنُ رَبِيعَةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ، هُرْمُزَ عَنْ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ، عَنْ كَعْبِ بْنِ مَالِكٍ، أَنَّهُ كَانَ لَهُ مَالٌ عَلَى عَبْدِ اللَّهِ بْنِ أَبِي حَدْرَدٍ الأَسْلَمِيِّ فَلَقِيَهُ فَلَزِمَهُ فَتَكَلَّمَا حَتَّى ارْتَفَعَتْ أَصْوَاتُهُمَا فَمَرَّ بِهِمَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالَ مُسْلِمٌ وَرَوَى اللَّيْثُ بْنُ سَعْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنِي جَعْفَرُ بْنُ رَبِيعَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "هُرْمُزَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ كَعْبِ بْنِ مَالِكٍ، أَنَّهُ كَانَ لَهُ مَالٌ عَلَى عَبْدِ اللَّهِ بْنِ أَبِي حَدْرَدٍ الأَسْلَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1559": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1559f\nIn-book reference  : Book 22, Hadith 31\nUSC-MSA web (English) reference  : Book 10, Hadith 3787\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "وَحَدَّثَنِي مُحَمَّدُ بْنُ أَحْمَدَ بْنِ أَبِي خَلَفٍ، وَحَجَّاجُ بْنُ الشَّاعِرِ، قَالاَ حَدَّثَنَا أَبُو سَلَمَةَ، الْخُزَاعِيُّ - قَالَ حَجَّاجٌ مَنْصُورُ بْنُ سَلَمَةَ - أَخْبَرَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، عَنْ خُثَيْمِ بْنِ عِرَاكٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو سَلَمَةَ، الْخُزَاعِيُّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ حَجَّاجٌ مَنْصُورُ بْنُ سَلَمَةَ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا سُلَيْمَانُ بْنُ بِلاَلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ خُثَيْمِ بْنِ عِرَاكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1560": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1560d\nIn-book reference  : Book 22, Hadith 35\nUSC-MSA web (English) reference  : Book 10, Hadith 3791\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ، حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ، عَنْ سَعْدِ بْنِ طَارِقٍ، عَنْ رِبْعِيِّ، بْنِ حِرَاشٍ عَنْ حُذَيْفَةَ، قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو سَعِيدٍ الأَشَجُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو خَالِدٍ الأَحْمَرُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعْدِ بْنِ طَارِقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حِرَاشٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ حُذَيْفَةَ،",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1561": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1561\nIn-book reference  : Book 22, Hadith 36\nUSC-MSA web (English) reference  : Book 10, Hadith 3792\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ - وَاللَّفْظُ لِيَحْيَى - قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ أَبِي مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ وَأَبُو كُرَيْبٍ وَإِسْحَاقُ بْن",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يَحْيَى",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ الآخَرُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ شَقِيقٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ أَبِي مَسْعُودٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1562": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1562a\nIn-book reference  : Book 22, Hadith 37\nUSC-MSA web (English) reference  : Book 10, Hadith 3793\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا مَنْصُورُ بْنُ أَبِي مُزَاحِمٍ، وَمُحَمَّدُ بْنُ جَعْفَرِ بْنِ زِيَادٍ، - قَالَ مَنْصُورٌ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ الزُّهْرِيِّ، وَقَالَ ابْنُ جَعْفَرٍ، أَخْبَرَنَا إِبْرَاهِيمُ، وَهُوَ ابْنُ سَعْدٍ عَنِ ابْنِ، شِهَابٍ عَنِ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مَنْصُورُ بْنُ أَبِي مُزَاحِمٍ، وَمُحَمَّدُ بْنُ جَعْفَرِ بْنِ زِيَادٍ، -",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "مَنْصُورٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ الزُّهْرِيِّ، وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ ابْنُ جَعْفَرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَخْبَرَنَا إِبْرَاهِيمُ، وَهُوَ ابْنُ سَعْدٍ عَنِ ابْنِ، شِهَابٍ عَنِ عُبَيْدِ اللَّهِ بْنِ عَبْدِ ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1563": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1563a\nIn-book reference  : Book 22, Hadith 39\nUSC-MSA web (English) reference  : Book 10, Hadith 3795\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَبُو الْهَيْثَمِ، خَالِدُ بْنُ خِدَاشِ بْنِ عَجْلاَنَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي قَتَادَةَ، أَنَّ أَبَا قَتَادَةَ، طَلَبَ غَرِيمًا لَهُ فَتَوَارَى عَنْهُ ثُمَّ وَجَدَهُ فَقَالَ إِنِّي مُعْسِرٌ . فَقَالَ آللَّهِ قَالَ آللَّهِ . قَالَ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "عَجْلاَنَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَيُّوبَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فَتَوَارَى",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْهُ ثُمَّ وَجَدَهُ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ إِنِّي مُعْسِرٌ . فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "آللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "قَالَ آللَّهِ .",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 10,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1564": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1564a\nIn-book reference  : Book 22, Hadith 41\nUSC-MSA web (English) reference  : Book 10, Hadith 3796\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، . أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "مَالِكٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، . أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1566": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1566c\nIn-book reference  : Book 22, Hadith 47\nUSC-MSA web (English) reference  : Book 10, Hadith 3802\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "وَحَدَّثَنَا أَحْمَدُ بْنُ عُثْمَانَ النَّوْفَلِيُّ، حَدَّثَنَا أَبُو عَاصِمٍ الضَّحَّاكُ بْنُ مَخْلَدٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي زِيَادُ بْنُ سَعْدٍ، أَنَّ هِلاَلَ بْنَ أُسَامَةَ، أَخْبَرَهُ أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ أَخْبَرَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ عُثْمَانَ النَّوْفَلِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو عَاصِمٍ الضَّحَّاكُ بْنُ مَخْلَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "1568": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1568b\nIn-book reference  : Book 22, Hadith 51\nUSC-MSA web (English) reference  : Book 10, Hadith 3806\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الأَوْزَاعِيِّ، عَنْ يَحْيَى، بْنِ أَبِي كَثِيرٍ حَدَّثَنِي إِبْرَاهِيمُ بْنُ قَارِظٍ، عَنِ السَّائِبِ بْنِ يَزِيدَ، حَدَّثَنِي رَافِعُ بْنُ خَدِيجٍ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "كَثِيرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي إِبْرَاهِيمُ بْنُ قَارِظٍ، عَنِ السَّائِبِ بْنِ يَزِيدَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنِي رَافِعُ بْنُ خَدِيجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1572": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1572\nIn-book reference  : Book 22, Hadith 59\nUSC-MSA web (English) reference  : Book 10, Hadith 3813\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ أَحْمَدَ بْنِ أَبِي خَلَفٍ، حَدَّثَنَا رَوْحٌ، ح وَحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ أَمَرَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم بِقَتْلِ الْكِلاَبِ حَتَّى إِنَّ الْمَرْأَةَ تَقْدَمُ مِنَ الْبَادِيَةِ بِكَلْبِهَا فَنَقْتُلُهُ ثُمَّ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنْ قَتْلِهَا وَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ أَحْمَدَ بْنِ أَبِي خَلَفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا رَوْحٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ قَتْلِهَا وَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1573": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1573a\nIn-book reference  : Book 22, Hadith 60\nUSC-MSA web (English) reference  : Book 10, Hadith 3814\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، سَمِعَ مُطَرِّفَ، بْنَ عَبْدِ اللَّهِ عَنِ ابْنِ الْمُغَفَّلِ، قَالَ أَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِقَتْلِ الْكِلاَبِ ثُمَّ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي التَّيَّاحِ، سَمِعَ مُطَرِّفَ، بْنَ عَبْدِ اللَّهِ عَنِ ابْنِ الْمُغَفَّلِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "ثُمَّ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1574": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1574g\nIn-book reference  : Book 22, Hadith 68\nUSC-MSA web (English) reference  : Book 10, Hadith 3821\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ، بْنُ جَعْفَرٍ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَبِي الْحَكَمِ، قَالَ سَمِعْتُ ابْنَ عُمَرَ، يُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "جَعْفَرٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا شُعْبَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ قَتَادَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي الْحَكَمِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ سَمِعْتُ ابْنَ عُمَرَ، يُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1575": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1575f\nIn-book reference  : Book 22, Hadith 74\nUSC-MSA web (English) reference  : Book 10, Hadith 3827\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، - يَعْنِي ابْنَ زِيَادٍ - عَنْ إِسْمَاعِيلَ، بْنِ سُمَيْعٍ حَدَّثَنَا أَبُو رَزِينٍ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْوَاحِدِ، - يَعْنِي ابْنَ زِيَادٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "سُمَيْعٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا أَبُو رَزِينٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1576": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1576a\nIn-book reference  : Book 22, Hadith 75\nUSC-MSA web (English) reference  : Book 10, Hadith 3828\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ يَزِيدَ بْنِ خُصَيْفَةَ، أَنَّ السَّائِبَ، بْنَ يَزِيدَ أَخْبَرَهُ أَنَّهُ، سَمِعَ سُفْيَانَ بْنَ أَبِي زُهَيْرٍ، - وَهُوَ رَجُلٌ مِنْ شَنُوءَةَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم - قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "مَالِكٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ يَزِيدَ بْنِ خُصَيْفَةَ، أَنَّ السَّائِبَ، بْنَ يَزِيدَ أَخْبَرَهُ أَنَّهُ، سَمِعَ سُفْيَانَ بْ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1577": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1577b\nIn-book reference  : Book 22, Hadith 78\nUSC-MSA web (English) reference  : Book 10, Hadith 3831\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا مَرْوَانُ، - يَعْنِي الْفَزَارِيَّ - عَنْ حُمَيْدٍ، قَالَ سُئِلَ أَنَسٌ عَنْ كَسْبِ الْحَجَّامِ، فَذَكَرَ بِمِثْلِهِ غَيْرَ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي عُمَرَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا مَرْوَانُ، - يَعْنِي الْفَزَارِيَّ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ حُمَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَسٌ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1582": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1582a\nIn-book reference  : Book 22, Hadith 89\nUSC-MSA web (English) reference  : Book 10, Hadith 3842\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، - وَاللَّفْظُ لأَبِي بَكْرٍ - قَالُوا حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ بَلَغَ عُمَرَ أَنَّ سَمُرَةَ، بَاعَ خَمْرًا فَقَالَ قَاتَلَ اللَّهُ سَمُرَةَ أَلَمْ يَعْلَمْ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ بَلَغَ عُمَرَ أَنَّ سَمُرَةَ، بَاعَ خَمْرًا فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قَاتَلَ اللَّهُ سَمُرَةَ أَلَمْ يَعْلَمْ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1583": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1583b\nIn-book reference  : Book 22, Hadith 92\nUSC-MSA web (English) reference  : Book 10, Hadith 3844\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1584": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1584f\nIn-book reference  : Book 22, Hadith 104\nUSC-MSA web (English) reference  : Book 10, Hadith 3855\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا سُلَيْمَانُ الرَّبَعِيُّ، حَدَّثَنَا أَبُو الْمُتَوَكِّلِ النَّاجِيُّ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَمْرٌو النَّاقِدُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا سُلَيْمَانُ الرَّبَعِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "النَّاجِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1585": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1585\nIn-book reference  : Book 22, Hadith 97\nUSC-MSA web (English) reference  : Book 10, Hadith 3849\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَبُو الطَّاهِرِ، وَهَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، وَأَحْمَدُ بْنُ عِيسَى، قَالُوا حَدَّثَنَا ابْنُ، وَهْبٍ أَخْبَرَنِي مَخْرَمَةُ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ سُلَيْمَانَ بْنَ يَسَارٍ، يَقُولُ إِنَّهُ سَمِعَ مَالِكَ بْنَ، أَبِي عَامِرٍ يُحَدِّثُ عَنْ عُثْمَانَ بْنِ عَفَّانَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالُوا",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ، وَهْبٍ أَخْبَرَنِي مَخْرَمَةُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "يُحَدِّثُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ عُثْمَانَ بْنِ عَفَّانَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1586": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1586a\nIn-book reference  : Book 22, Hadith 98\nUSC-MSA web (English) reference  : Book 10, Hadith 3850\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ، أَخْبَرَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ مَالِكِ بْنِ أَوْسِ بْنِ الْحَدَثَانِ، أَنَّهُ قَالَ أَقْبَلْتُ أَقُولُ مَنْ يَصْطَرِفُ الدَّرَاهِمَ فَقَالَ طَلْحَةُ بْنُ عُبَيْدِ اللَّهِ وَهُوَ عِنْدَ عُمَرَ بْنِ الْخَطَّابِ أَرِنَا ذَهَبَكَ ثُمَّ ائْتِنَا إِذَا جَاءَ خَادِمُنَا نُعْطِكَ وَرِقَكَ . فَقَالَ عُمَرُ بْنُ الْخَطَّابِ كَلاَّ وَاللَّهِ لَتُعْطِيَنَّهُ وَرِقَهُ أَوْ لَتَرُدَّنَّ إِلَيْهِ ذَهَبَهُ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا لَيْثٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ رُمْحٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ أَقْبَلْتُ أَقُولُ مَنْ يَصْطَرِفُ الدَّرَاهِمَ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ طَلْحَةُ بْنُ عُبَيْدِ اللَّهِ وَهُوَ عِنْدَ عُمَرَ بْنِ الْخَطَّابِ أَرِنَا ذَهَبَكَ ثُمَّ ائ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "قَالَ عُمَرُ بْنُ الْخَطَّابِ كَلاَّ وَاللَّهِ لَتُعْطِيَنَّهُ وَرِقَهُ أَوْ لَتَرُدَّنَّ إِلَيْهِ ذ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1587": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1587c\nIn-book reference  : Book 22, Hadith 102\nUSC-MSA web (English) reference  : Book 10, Hadith 3853\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، - وَاللَّفْظُ لاِبْنِ أَبِي شَيْبَةَ - قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا سُفْيَانُ، عَنْ خَالِدٍ، الْحَذَّاءِ عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الأَشْعَثِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، - ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "إِسْحَاقُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ الآخَرَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "الْحَذَّاءِ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "عَنْ أَبِي قِلاَبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 10,
+        "arabic_name": "عَنْ أَبِي الأَشْعَثِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 11,
+        "arabic_name": "عَنْ عُبَادَةَ بْنِ الصَّامِتِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 13,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 11,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1588": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1588d\nIn-book reference  : Book 22, Hadith 108\nUSC-MSA web (English) reference  : Book 10, Hadith 3858\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، حَدَّثَنَا سُلَيْمَانُ، - يَعْنِي ابْنَ بِلاَلٍ - عَنْ مُوسَى، بْنِ أَبِي تَمِيمٍ عَنْ سَعِيدِ بْنِ يَسَارٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُلَيْمَانُ، - يَعْنِي ابْنَ بِلاَلٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "تَمِيمٍ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1589": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1589a\nIn-book reference  : Book 22, Hadith 110\nUSC-MSA web (English) reference  : Book 10, Hadith 3859\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ مَيْمُونٍ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، عَنْ أَبِي، الْمِنْهَالِ قَالَ بَاعَ شَرِيكٌ لِي وَرِقًا بِنَسِيئَةٍ إِلَى الْمَوْسِمِ أَوْ إِلَى الْحَجِّ فَجَاءَ إِلَىَّ فَأَخْبَرَنِي فَقُلْتُ هَذَا أَمْرٌ لاَ يَصْلُحُ . قَالَ قَدْ بِعْتُهُ فِي السُّوقِ فَلَمْ يُنْكِرْ ذَلِكَ عَلَىَّ أَحَدٌ . فَأَتَيْتُ الْبَرَاءَ بْنَ عَازِبٍ فَسَأَلْتُهُ فَقَالَ قَدِمَ النَّبِيُّ صلى الله عليه وسلم الْمَدِينَةَ وَنَحْنُ نَبِيعُ هَذَا الْبَيْعَ فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ مَيْمُونٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَمْرٍو،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "الْمِنْهَالِ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ بَاعَ شَرِيكٌ لِي وَرِقًا بِنَسِيئَةٍ إِلَى الْمَوْسِمِ أَوْ إِلَى الْحَجِّ فَجَاءَ إِلَىَّ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَ قَدْ بِعْتُهُ فِي السُّوقِ فَلَمْ يُنْكِرْ ذَلِكَ عَلَىَّ أَحَدٌ . فَأَتَيْتُ الْبَرَاءَ بْنَ ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ قَدِمَ النَّبِيُّ صلى الله عليه وسلم الْمَدِينَةَ وَنَحْنُ نَبِيعُ هَذَا الْبَيْعَ فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1591": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1591e\nIn-book reference  : Book 22, Hadith 118\nUSC-MSA web (English) reference  : Book 10, Hadith 3867\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ قُرَّةَ بْنِ عَبْدِ الرَّحْمَنِ الْمَعَافِرِيِّ، وَعَمْرِو، بْنِ الْحَارِثِ وَغَيْرِهِمَا أَنَّ عَامِرَ بْنَ يَحْيَى الْمَعَافِرِيَّ، أَخْبَرَهُمْ عَنْ حَنَشٍ، أَنَّهُ قَالَ كُنَّا مَعَ فَضَالَةَ بْنِ عُبَيْدٍ فِي غَزْوَةٍ فَطَارَتْ لِي وَلأَصْحَابِي قِلاَدَةٌ فِيهَا ذَهَبٌ وَوَرِقٌ وَجَوْهَرٌ فَأَرَدْتُ أَنْ أَشْتَرِيَهَا فَسَأَلْتُ فَضَالَةَ بْنَ عُبَيْدٍ فَقَالَ انْزِعْ ذَهَبَهَا فَاجْعَلْهُ فِي كِفَّةٍ وَاجْعَلْ ذَهَبَكَ فِي كِفَّةٍ ثُمَّ لاَ تَأْخُذَنَّ إِلاَّ مِثْلاً بِمِثْلٍ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي أَبُو الطَّاهِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "أَخْبَرَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَهُمْ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ كُنَّا مَعَ فَضَالَةَ بْنِ عُبَيْدٍ فِي غَزْوَةٍ فَطَارَتْ لِي وَلأَصْحَابِي قِلاَدَةٌ فِيهَا ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1592": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1592\nIn-book reference  : Book 22, Hadith 119\nUSC-MSA web (English) reference  : Book 10, Hadith 3868\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، ح وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، أَنَّ أَبَا النَّضْرِ، حَدَّثَهُ أَنَّ بُسْرَ بْنَ سَعِيدٍ حَدَّثَهُ عَنْ مَعْمَرِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ أَرْسَلَ غُلاَمَهُ بِصَاعِ قَمْحٍ فَقَالَ بِعْهُ ثُمَّ اشْتَرِ بِهِ شَعِيرًا . فَذَهَبَ الْغُلاَمُ فَأَخَذَ صَاعًا وَزِيَادَةَ بَعْضِ صَاعٍ فَلَمَّا جَاءَ مَعْمَرًا أَخْبَرَهُ بِذَلِكَ فَقَالَ لَهُ مَعْمَرٌ لِمَ فَعَلْتَ ذَلِكَ انْطَلِقْ فَرُدَّهُ وَلاَ تَأْخُذَنَّ إِلاَّ مِثْلاً بِمِثْلٍ فَإِنِّي كُنْتُ أَسْمَعُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا هَارُونُ بْنُ مَعْرُوفٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنِي أَبُو الطَّاهِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا ابْنُ وَهْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَهُ",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَعْمَرِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ أَرْسَلَ غُلاَمَهُ بِصَاعِ قَمْحٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ بِعْهُ ثُمَّ اشْتَرِ بِهِ شَعِيرًا . فَذَهَبَ الْغُلاَمُ فَأَخَذَ صَاعًا وَزِيَادَةَ بَعْضِ صَ",
+        "role": "narrator"
+      },
+      {
+        "position": 9,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 8,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1595": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1595\nIn-book reference  : Book 22, Hadith 124\nUSC-MSA web (English) reference  : Book 10, Hadith 3873\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ شَيْبَانَ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي سَعِيدٍ، قَالَ كُنَّا نُرْزَقُ تَمْرَ الْجَمْعِ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ الْخِلْطُ مِنَ التَّمْرِ فَكُنَّا نَبِيعُ صَاعَيْنِ بِصَاعٍ فَبَلَغَ ذَلِكَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ شَيْبَانَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي سَعِيدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ كُنَّا نُرْزَقُ تَمْرَ الْجَمْعِ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ الْخِل",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1596": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1596d\nIn-book reference  : Book 22, Hadith 130\nUSC-MSA web (English) reference  : Book 10, Hadith 3879\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا الْحَكَمُ بْنُ مُوسَى، حَدَّثَنَا هِقْلٌ، عَنِ الأَوْزَاعِيِّ، قَالَ حَدَّثَنِي عَطَاءُ بْنُ أَبِي، رَبَاحٍ أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ، لَقِيَ ابْنَ عَبَّاسٍ فَقَالَ لَهُ أَرَأَيْتَ قَوْلَكَ فِي الصَّرْفِ أَشَيْئًا سَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَمْ شَيْئًا وَجَدْتَهُ فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ فَقَالَ ابْنُ عَبَّاسٍ كَلاَّ لاَ أَقُولُ أَمَّا رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَنْتُمْ أَعْلَمُ بِهِ وَأَمَّا كِتَابُ اللَّهِ فَلاَ أَعْلَمُهُ وَلَكِنْ حَدَّثَنِي أُسَامَةُ بْنُ زَيْدٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا الْحَكَمُ بْنُ مُوسَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا هِقْلٌ، عَنِ الأَوْزَاعِيِّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنِي عَطَاءُ بْنُ أَبِي، رَبَاحٍ أَنَّ أَبَا سَعِيدٍ الْخُدْرِيَّ، لَقِيَ ابْنَ عَبَّاسٍ فَ",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ لَهُ أَرَأَيْتَ قَوْلَكَ فِي الصَّرْفِ أَشَيْئًا سَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صلى الله عليه",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "وَلَكِنْ",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "حَدَّثَنِي أُسَامَةُ بْنُ زَيْدٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1599": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1599a\nIn-book reference  : Book 22, Hadith 133\nUSC-MSA web (English) reference  : Book 10, Hadith 3882\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ الْهَمْدَانِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا زَكَرِيَّاءُ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ سَمِعْتُهُ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ وَأَهْوَى النُّعْمَانُ بِإِصْبَعَيْهِ إِلَى أُذُنَيْهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ الْهَمْدَانِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا زَكَرِيَّاءُ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أُذُنَيْهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 4,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ"
+    ]
+  },
+  "715": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 715v\nIn-book reference  : Book 22, Hadith 146\nUSC-MSA web (English) reference  : Book 10, Hadith 3895\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لَهُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، عَنِ ابْنِ جُرَيْجٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "قَالَ لَهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1600": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1600b\nIn-book reference  : Book 22, Hadith 148\nUSC-MSA web (English) reference  : Book 10, Hadith 3897\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ، سَمِعْتُ زَيْدَ بْنَ أَسْلَمَ، أَخْبَرَنَا عَطَاءُ بْنُ يَسَارٍ، عَنْ أَبِي رَافِعٍ، مَوْلَى رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ اسْتَسْلَفَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَكْرًا . بِمِثْلِهِ غَيْرَ أَنَّهُ قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو كُرَيْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ، سَمِعْتُ زَيْدَ بْنَ أَسْلَمَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "أَخْبَرَنَا عَطَاءُ بْنُ يَسَارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي رَافِعٍ، مَوْلَى رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "أَنَّهُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1601": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1601c\nIn-book reference  : Book 22, Hadith 151\nUSC-MSA web (English) reference  : Book 10, Hadith 3900\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سُفْيَانُ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ جَاءَ رَجُلٌ يَتَقَاضَى رَسُولَ اللَّهِ صلى الله عليه وسلم بَعِيرًا فَقَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبِي،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا سُفْيَانُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ سَلَمَةَ بْنِ كُهَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي سَلَمَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ جَاءَ رَجُلٌ يَتَقَاضَى رَسُولَ اللَّهِ صلى الله عليه وسلم بَعِيرًا فَ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1604": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1604d\nIn-book reference  : Book 22, Hadith 160\nUSC-MSA web (English) reference  : Book 10, Hadith 3909\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَبُو كُرَيْبٍ، وَابْنُ أَبِي عُمَرَ، قَالاَ حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، كِلاَهُمَا عَنْ سُفْيَانَ، عَنِ ابْنِ أَبِي نَجِيحٍ، بِإِسْنَادِهِمْ مِثْلَ حَدِيثِ ابْنِ عُيَيْنَةَ يَذْكُرُ فِيهِ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا وَكِيعٌ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "كِلاَهُمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "فِيهِ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "عَنْ"
+    ]
+  },
+  "1605": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1605b\nIn-book reference  : Book 22, Hadith 162\nUSC-MSA web (English) reference  : Book 10, Hadith 3911\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا سَعِيدُ بْنُ عَمْرٍو الأَشْعَثِيُّ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَطَاءٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ مَعْمَرِ بْنِ عَبْدِ اللَّهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا سَعِيدُ بْنُ عَمْرٍو الأَشْعَثِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَطَاءٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَعْمَرِ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1606": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1606\nIn-book reference  : Book 22, Hadith 164\nUSC-MSA web (English) reference  : Book 10, Hadith 3913\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا أَبُو صَفْوَانَ الأُمَوِيُّ، ح وَحَدَّثَنِي أَبُو الطَّاهِرِ، وَحَرْمَلَةُ، بْنُ يَحْيَى قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، كِلاَهُمَا عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، عَنِ ابْنِ الْمُسَيَّبِ، أَنَّسَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا أَبُو صَفْوَانَ الأُمَوِيُّ، ح وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالاَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "كِلاَهُمَا",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 5,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1607": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1607\nIn-book reference  : Book 22, Hadith 165\nUSC-MSA web (English) reference  : Book 10, Hadith 3914\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ - وَاللَّفْظُ لاِبْنِ أَبِي شَيْبَةَ - قَالَ إِسْحَاقُ أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ بْنِ كَثِيرٍ، عَنْ مَعْبَدِ بْنِ كَعْبِ بْنِ مَالِكٍ، عَنْ أَبِي قَتَادَةَ الأَنْصَارِيِّ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ - وَاللّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "إِسْحَاقُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "أَخْبَرَنَا وَ",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "قَالَ الآخَرَانِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "حَدَّثَنَا أَبُو أُسَامَةَ، عَنِ الْوَلِيدِ بْنِ كَثِيرٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ مَعْبَدِ بْنِ كَعْبِ بْنِ مَالِكٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 7,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1608": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1608c\nIn-book reference  : Book 22, Hadith 168\nUSC-MSA web (English) reference  : Book 10, Hadith 3917\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنِ ابْنِ جُرَيْجٍ، أَنَّ أَبَا الزُّبَيْرِ، أَخْبَرَهُ أَنَّهُ، سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي أَبُو الطَّاهِرِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "أَخْبَرَنَا",
+      "قَالَ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1609": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1609a\nIn-book reference  : Book 22, Hadith 169\nUSC-MSA web (English) reference  : Book 10, Hadith 3918\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ يَحْيَى،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنِ الأَعْرَجِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 3,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1610": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1610d\nIn-book reference  : Book 22, Hadith 174\nUSC-MSA web (English) reference  : Book 10, Hadith 3923\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّاءَ بْنِ أَبِي زَائِدَةَ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ سَعِيدِ بْنِ زَيْدٍ، قَالَ سَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا يَحْيَى بْنُ زَكَرِيَّاءَ بْنِ أَبِي زَائِدَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ هِشَامٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ سَعِيدِ بْنِ زَيْدٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "يَقُولُ",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1611": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1611\nIn-book reference  : Book 22, Hadith 175\nUSC-MSA web (English) reference  : Book 10, Hadith 3924\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا جَرِيرٌ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "عَنْ سُهَيْلٍ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ،",
+        "role": "narrator"
+      },
+      {
+        "position": 8,
+        "arabic_name": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  },
+  "1612": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1612a\nIn-book reference  : Book 22, Hadith 176\nUSC-MSA web (English) reference  : Book 10, Hadith 3925\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ، حَدَّثَنَا عَبْدُ الصَّمَدِ، - يَعْنِي ابْنَ عَبْدِ الْوَارِثِ - حَدَّثَنَا حَرْبٌ، - وَهُوَ ابْنُ شَدَّادٍ - حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ أَبِي كَثِيرٍ - عَنْ مُحَمَّدِ بْنِ، إِبْرَاهِيمَ أَنَّ أَبَا سَلَمَةَ، حَدَّثَهُ وَكَانَ، بَيْنَهُ وَبَيْنَ قَوْمِهِ خُصُومَةٌ فِي أَرْضٍ وَأَنَّهُ دَخَلَ عَلَى عَائِشَةَ فَذَكَرَ ذَلِكَ لَهَا فَقَالَتْ يَا أَبَا سَلَمَةَ اجْتَنِبِ الأَرْضَ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "حَدَّثَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ الدَّوْرَقِيُّ،",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الصَّمَدِ، - يَعْنِي ابْنَ عَبْدِ الْوَارِثِ -",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا حَرْبٌ، - وَهُوَ ابْنُ شَدَّادٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "حَدَّثَنَا يَحْيَى، - وَهُوَ ابْنُ أَبِي كَثِيرٍ -",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ مُحَمَّدِ بْنِ، إِبْرَاهِيمَ أَنَّ أَبَا سَلَمَةَ، حَدَّثَهُ وَكَانَ، بَيْنَهُ وَبَيْنَ قَوْمِه",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "قَالَتْ يَا أَبَا سَلَمَةَ اجْتَنِبِ الأَرْضَ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ"
+    ]
+  },
+  "1613": {
+    "collection": "Sahih Muslim",
+    "book": "The Book of Musaqah",
+    "book_num": "22",
+    "reference": "Reference  : Sahih Muslim 1613\nIn-book reference  : Book 22, Hadith 178\nUSC-MSA web (English) reference  : Book 10, Hadith 3927\n  (deprecated numbering scheme)",
+    "url": "https://sunnah.com/muslim/22",
+    "sanad_full": "حَدَّثَنِي أَبُو كَامِلٍ، فُضَيْلُ بْنُ حُسَيْنٍ الْجَحْدَرِيُّ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ، حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنْ يُوسُفَ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ",
+    "narrators": [
+      {
+        "position": 2,
+        "arabic_name": "الْجَحْدَرِيُّ",
+        "role": "narrator"
+      },
+      {
+        "position": 3,
+        "arabic_name": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 4,
+        "arabic_name": "حَدَّثَنَا خَالِدٌ الْحَذَّاءُ،",
+        "role": "narrator"
+      },
+      {
+        "position": 5,
+        "arabic_name": "عَنْ يُوسُفَ بْنِ عَبْدِ اللَّهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 6,
+        "arabic_name": "عَنْ أَبِيهِ،",
+        "role": "narrator"
+      },
+      {
+        "position": 7,
+        "arabic_name": "عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم",
+        "role": "narrator"
+      }
+    ],
+    "chain_length": 6,
+    "chain_markers": [
+      "حَدَّثَنَا",
+      "قَالَ",
+      "عَنْ",
+      "حَدَّثَنِي"
+    ]
+  }
+}
